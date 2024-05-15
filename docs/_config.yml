@@ -7,13 +7,11 @@ github:
   another_url: https://github.com/Toseic/LLM-inference-arxiv-daily
 
 ## add remote theme
-remote_theme: jekyll/minima@v2.5.1
+remote_theme: sighingnow/jekyll-gitbook
 
-# minima:
 skin: dark
 social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+  github: Toseic
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
