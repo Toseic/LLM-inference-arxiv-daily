@@ -365,8 +365,8 @@ def json_to_md(
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(" ", "-")
-                f.write(f"<li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                kw = keyword.replace(" ", "-").lower()
+                f.write(f"* [{kw}]({kw})\n")
             # f.write("  </ol>\n")
             # f.write("</details>\n\n")
 
