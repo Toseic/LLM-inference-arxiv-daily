@@ -5,7 +5,7 @@
 
 ## Updated on 2024.05.15
 * [inference](#inference)
-* [moe](#moe)
+* [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
