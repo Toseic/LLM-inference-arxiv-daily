@@ -8,8 +8,8 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.05.15
-<li><a href=#inference>inference</a></li>
-<li><a href=#moe>MoE</a></li>
+* [inference](inference)
+* [moe](moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
