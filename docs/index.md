@@ -40,12 +40,12 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Toseic/LLM-inference-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Toseic/LLM-inference-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Toseic/LLM-inference-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Toseic/LLM-inference-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Toseic/LLM-inference-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Toseic/LLM-inference-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Toseic/LLM-inference-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Toseic/LLM-inference-arxiv-daily/issues
 
