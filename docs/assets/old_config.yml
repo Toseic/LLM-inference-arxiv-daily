@@ -1,0 +1,45 @@
+title: LLM inference Arxiv Daily
+description: Automatically Update inference Papers Daily using Github Actions (Update Every 8th hours)
+show_downloads: true
+
+gitbook_version:  3.2.3
+
+
+github:
+  zip_url: https://github.com/Toseic/LLM-inference-arxiv-daily
+  another_url: https://github.com/Toseic/LLM-inference-arxiv-daily
+
+url:              'https://toseic.github.io'
+baseurl:          '/LLM-inference-arxiv-daily'
+
+
+## add remote theme
+remote_theme: sighingnow/jekyll-gitbook
+
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+
+social_links:
+  github: Toseic
+
+plugins:
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+ - jekyll-seo-tag
