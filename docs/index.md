@@ -31,6 +31,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Many Hands Make Light Work: Task-Oriented Dialogue System with Module-Based Mixture-of-Experts**|Ruolin Su et.al.|[2405.09744](http://arxiv.org/abs/2405.09744)|null|
 |**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|null|
 |**2024-05-13**|**Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition**|Zhiyong Yang et.al.|[2405.07780](http://arxiv.org/abs/2405.07780)|null|
 |**2024-05-07**|**SUTRA: Scalable Multilingual Language Model Architecture**|Abhijit Bendale et.al.|[2405.06694](http://arxiv.org/abs/2405.06694)|null|
@@ -38,7 +39,7 @@ layout: default
 |**2024-05-09**|**A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds**|Christopher Z. Cui et.al.|[2405.06059](http://arxiv.org/abs/2405.06059)|null|
 |**2024-05-09**|**EWMoE: An effective model for global weather forecasting with mixture-of-experts**|Lihao Gan et.al.|[2405.06004](http://arxiv.org/abs/2405.06004)|**[link](https://github.com/tomoyi/ewmoe)**|
 |**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
-|**2024-05-08**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-16**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
 |**2024-05-07**|**Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts**|Changyuan Zhao et.al.|[2405.04198](http://arxiv.org/abs/2405.04198)|null|
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
