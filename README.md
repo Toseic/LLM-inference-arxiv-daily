@@ -28,7 +28,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-16**|**Many Hands Make Light Work: Task-Oriented Dialogue System with Module-Based Mixture-of-Experts**|Ruolin Su et.al.|[2405.09744](http://arxiv.org/abs/2405.09744)|null|
-|**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|null|
+|**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|**[link](https://github.com/jefferyjiang-yf/m4oe)**|
 |**2024-05-13**|**Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition**|Zhiyong Yang et.al.|[2405.07780](http://arxiv.org/abs/2405.07780)|null|
 |**2024-05-07**|**SUTRA: Scalable Multilingual Language Model Architecture**|Abhijit Bendale et.al.|[2405.06694](http://arxiv.org/abs/2405.06694)|null|
 |**2024-05-09**|**A Mixture of Experts Approach to 3D Human Motion Prediction**|Edmund Shieh et.al.|[2405.06088](http://arxiv.org/abs/2405.06088)|**[link](https://github.com/edshieh/motionprediction)**|
