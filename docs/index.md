@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**|Dongjie Yang et.al.|[2405.12532](http://arxiv.org/abs/2405.12532)|null|
 |**2024-05-12**|**Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization**|Xinyuan Zhang et.al.|[2405.07140](http://arxiv.org/abs/2405.07140)|null|
 |**2024-05-11**|**Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving**|Chengyi Nie et.al.|[2405.06856](http://arxiv.org/abs/2405.06856)|null|
 |**2024-05-21**|**Vidur: A Large-Scale Simulation Framework For LLM Inference**|Amey Agrawal et.al.|[2405.05465](http://arxiv.org/abs/2405.05465)|**[link](https://github.com/microsoft/vidur)**|
@@ -31,6 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts**|Ruichen Zhang et.al.|[2405.12472](http://arxiv.org/abs/2405.12472)|null|
 |**2024-05-21**|**Ensemble and Mixture-of-Experts DeepONets For Operator Learning**|Ramansh Sharma et.al.|[2405.11907](http://arxiv.org/abs/2405.11907)|null|
 |**2024-05-19**|**Learning More Generalized Experts by Merging Experts in Mixture-of-Experts**|Sejik Park et.al.|[2405.11530](http://arxiv.org/abs/2405.11530)|null|
 |**2024-05-18**|**Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**|Yunxin Li et.al.|[2405.11273](http://arxiv.org/abs/2405.11273)|**[link](https://github.com/hitsz-tmg/umoe-scaling-unified-multimodal-llms)**|
