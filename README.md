@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**EdgeShard: Efficient LLM Inference via Collaborative Edge Computing**|Mingjin Zhang et.al.|[2405.14371](http://arxiv.org/abs/2405.14371)|null|
+|**2024-05-23**|**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**|Akide Liu et.al.|[2405.14366](http://arxiv.org/abs/2405.14366)|null|
 |**2024-05-21**|**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**|Dongjie Yang et.al.|[2405.12532](http://arxiv.org/abs/2405.12532)|null|
 |**2024-05-12**|**Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization**|Xinyuan Zhang et.al.|[2405.07140](http://arxiv.org/abs/2405.07140)|null|
 |**2024-05-11**|**Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving**|Chengyi Nie et.al.|[2405.06856](http://arxiv.org/abs/2405.06856)|null|
@@ -28,6 +30,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**|Chufan Shi et.al.|[2405.14507](http://arxiv.org/abs/2405.14507)|null|
+|**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297](http://arxiv.org/abs/2405.14297)|null|
+|**2024-05-23**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260](http://arxiv.org/abs/2405.14260)|null|
+|**2024-05-23**|**Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts**|Huy Nguyen et.al.|[2405.14131](http://arxiv.org/abs/2405.14131)|null|
+|**2024-05-23**|**Mixture of Experts Meets Prompt-Based Continual Learning**|Minh Le et.al.|[2405.14124](http://arxiv.org/abs/2405.14124)|null|
+|**2024-05-22**|**Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts**|Huy Nguyen et.al.|[2405.13997](http://arxiv.org/abs/2405.13997)|null|
+|**2024-05-22**|**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token**|Xin Cheng et.al.|[2405.13792](http://arxiv.org/abs/2405.13792)|null|
+|**2024-05-19**|**MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models**|Jingwei Xu et.al.|[2405.13053](http://arxiv.org/abs/2405.13053)|null|
 |**2024-05-21**|**Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts**|Ruichen Zhang et.al.|[2405.12472](http://arxiv.org/abs/2405.12472)|null|
 |**2024-05-21**|**Ensemble and Mixture-of-Experts DeepONets For Operator Learning**|Ramansh Sharma et.al.|[2405.11907](http://arxiv.org/abs/2405.11907)|null|
 |**2024-05-19**|**Learning More Generalized Experts by Merging Experts in Mixture-of-Experts**|Sejik Park et.al.|[2405.11530](http://arxiv.org/abs/2405.11530)|null|
