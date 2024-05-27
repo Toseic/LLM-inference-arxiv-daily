@@ -34,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
 |**2024-05-23**|**Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**|Chufan Shi et.al.|[2405.14507](http://arxiv.org/abs/2405.14507)|null|
 |**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297](http://arxiv.org/abs/2405.14297)|null|
 |**2024-05-23**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260](http://arxiv.org/abs/2405.14260)|null|
