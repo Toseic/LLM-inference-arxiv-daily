@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|null|
 |**2024-05-23**|**EdgeShard: Efficient LLM Inference via Collaborative Edge Computing**|Mingjin Zhang et.al.|[2405.14371](http://arxiv.org/abs/2405.14371)|null|
 |**2024-05-23**|**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**|Akide Liu et.al.|[2405.14366](http://arxiv.org/abs/2405.14366)|null|
 |**2024-05-21**|**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**|Dongjie Yang et.al.|[2405.12532](http://arxiv.org/abs/2405.12532)|null|
@@ -34,6 +35,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
+|**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
+|**2024-05-26**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
+|**2024-05-26**|**Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**|Rongyu Zhang et.al.|[2405.16486](http://arxiv.org/abs/2405.16486)|**[link](https://github.com/royzry98/moase-pytorch)**|
+|**2024-05-25**|**MoEUT: Mixture-of-Experts Universal Transformers**|Róbert Csordás et.al.|[2405.16039](http://arxiv.org/abs/2405.16039)|null|
 |**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
 |**2024-05-23**|**Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**|Chufan Shi et.al.|[2405.14507](http://arxiv.org/abs/2405.14507)|null|
 |**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297](http://arxiv.org/abs/2405.14297)|null|
