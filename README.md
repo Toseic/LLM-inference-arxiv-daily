@@ -31,6 +31,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Yuan 2.0-M32: Mixture of Experts with Attention Router**|Shaohua Wu et.al.|[2405.17976](http://arxiv.org/abs/2405.17976)|**[link](https://github.com/ieit-yuan/yuan2.0-m32)**|
+|**2024-05-28**|**LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design**|Rui Kong et.al.|[2405.17741](http://arxiv.org/abs/2405.17741)|null|
 |**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
 |**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
 |**2024-05-28**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
