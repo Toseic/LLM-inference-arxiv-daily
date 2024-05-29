@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -29,7 +29,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240528>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240529>(back to top)</a></p>
 
 ## MoE
 
@@ -37,7 +37,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
 |**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
-|**2024-05-26**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
+|**2024-05-28**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
 |**2024-05-26**|**Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**|Rongyu Zhang et.al.|[2405.16486](http://arxiv.org/abs/2405.16486)|**[link](https://github.com/royzry98/moase-pytorch)**|
 |**2024-05-25**|**MoEUT: Mixture-of-Experts Universal Transformers**|Róbert Csordás et.al.|[2405.16039](http://arxiv.org/abs/2405.16039)|null|
 |**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
@@ -66,7 +66,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240528>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240529>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
