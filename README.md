@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models**|Taehyun Kim et.al.|[2405.18832](http://arxiv.org/abs/2405.18832)|null|
+|**2024-05-29**|**PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN**|Fei Zheng et.al.|[2405.18744](http://arxiv.org/abs/2405.18744)|null|
+|**2024-05-28**|**Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference**|Hao et.al.|[2405.18628](http://arxiv.org/abs/2405.18628)|**[link](https://github.com/hmarkc/parallel-prompt-decoding)**|
 |**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|null|
 |**2024-05-23**|**EdgeShard: Efficient LLM Inference via Collaborative Edge Computing**|Mingjin Zhang et.al.|[2405.14371](http://arxiv.org/abs/2405.14371)|null|
 |**2024-05-23**|**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**|Akide Liu et.al.|[2405.14366](http://arxiv.org/abs/2405.14366)|null|
@@ -31,6 +34,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**|Renzhi Wang et.al.|[2405.19086](http://arxiv.org/abs/2405.19086)|null|
+|**2024-05-29**|**Learning Mixture-of-Experts for General-Purpose Black-Box Discrete Optimization**|Shengcai Liu et.al.|[2405.18884](http://arxiv.org/abs/2405.18884)|null|
+|**2024-05-29**|**MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models**|Taehyun Kim et.al.|[2405.18832](http://arxiv.org/abs/2405.18832)|null|
 |**2024-05-29**|**Yuan 2.0-M32: Mixture of Experts with Attention Router**|Shaohua Wu et.al.|[2405.17976](http://arxiv.org/abs/2405.17976)|**[link](https://github.com/ieit-yuan/yuan2.0-m32)**|
 |**2024-05-28**|**LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design**|Rui Kong et.al.|[2405.17741](http://arxiv.org/abs/2405.17741)|null|
 |**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
