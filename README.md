@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314](http://arxiv.org/abs/2405.20314)|null|
+|**2024-05-30**|**Deciphering Human Mobility: Inferring Semantics of Trajectories with Large Language Models**|Yuxiao Luo et.al.|[2405.19850](http://arxiv.org/abs/2405.19850)|null|
 |**2024-05-29**|**MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models**|Taehyun Kim et.al.|[2405.18832](http://arxiv.org/abs/2405.18832)|null|
 |**2024-05-29**|**PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN**|Fei Zheng et.al.|[2405.18744](http://arxiv.org/abs/2405.18744)|null|
 |**2024-05-28**|**Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference**|Hao et.al.|[2405.18628](http://arxiv.org/abs/2405.18628)|**[link](https://github.com/hmarkc/parallel-prompt-decoding)**|
@@ -34,6 +36,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach**|Reza Arabpour et.al.|[2405.20094](http://arxiv.org/abs/2405.20094)|null|
 |**2024-05-29**|**MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**|Renzhi Wang et.al.|[2405.19086](http://arxiv.org/abs/2405.19086)|null|
 |**2024-05-29**|**Learning Mixture-of-Experts for General-Purpose Black-Box Discrete Optimization**|Shengcai Liu et.al.|[2405.18884](http://arxiv.org/abs/2405.18884)|null|
 |**2024-05-29**|**MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models**|Taehyun Kim et.al.|[2405.18832](http://arxiv.org/abs/2405.18832)|null|
@@ -41,7 +44,7 @@
 |**2024-05-28**|**LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design**|Rui Kong et.al.|[2405.17741](http://arxiv.org/abs/2405.17741)|null|
 |**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
 |**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
-|**2024-05-28**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
+|**2024-05-30**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
 |**2024-05-26**|**Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**|Rongyu Zhang et.al.|[2405.16486](http://arxiv.org/abs/2405.16486)|**[link](https://github.com/royzry98/moase-pytorch)**|
 |**2024-05-25**|**MoEUT: Mixture-of-Experts Universal Transformers**|Róbert Csordás et.al.|[2405.16039](http://arxiv.org/abs/2405.16039)|null|
 |**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
