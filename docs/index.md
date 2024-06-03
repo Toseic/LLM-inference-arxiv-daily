@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -34,7 +34,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240602>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240603>(back to top)</a></p>
 
 ## MoE
 
@@ -46,7 +46,7 @@ layout: default
 |**2024-05-29**|**MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models**|Taehyun Kim et.al.|[2405.18832](http://arxiv.org/abs/2405.18832)|null|
 |**2024-05-29**|**Yuan 2.0-M32: Mixture of Experts with Attention Router**|Shaohua Wu et.al.|[2405.17976](http://arxiv.org/abs/2405.17976)|**[link](https://github.com/ieit-yuan/yuan2.0-m32)**|
 |**2024-05-28**|**LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design**|Rui Kong et.al.|[2405.17741](http://arxiv.org/abs/2405.17741)|null|
-|**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|null|
+|**2024-05-27**|**Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node**|Andreas Charalampopoulos et.al.|[2405.16836](http://arxiv.org/abs/2405.16836)|**[link](https://github.com/andreascharalamp/fastfeedforward-experiments)**|
 |**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
 |**2024-05-30**|**A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2405.16646](http://arxiv.org/abs/2405.16646)|null|
 |**2024-05-26**|**Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation**|Rongyu Zhang et.al.|[2405.16486](http://arxiv.org/abs/2405.16486)|**[link](https://github.com/royzry98/moase-pytorch)**|
@@ -77,7 +77,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240602>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240603>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
