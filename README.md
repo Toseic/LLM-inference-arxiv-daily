@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
+|**2024-06-03**|**Demystifying Platform Requirements for Diverse LLM Inference Use Cases**|Abhimanyu Bambhaniya et.al.|[2406.01698](http://arxiv.org/abs/2406.01698)|**[link](https://github.com/abhibambhaniya/genz-llm-analyzer)**|
+|**2024-06-03**|**PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration**|Ziqian Zeng et.al.|[2406.01394](http://arxiv.org/abs/2406.01394)|null|
+|**2024-06-01**|**A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation**|Dugang Liu et.al.|[2406.00333](http://arxiv.org/abs/2406.00333)|null|
 |**2024-05-31**|**No Free Lunch Theorem for Privacy-Preserving LLM Inference**|Xiaojin Zhang et.al.|[2405.20681](http://arxiv.org/abs/2405.20681)|null|
 |**2024-05-30**|**Decentralized AI: Permissionless LLM Inference on POKT Network**|Daniel Olshansky et.al.|[2405.20450](http://arxiv.org/abs/2405.20450)|null|
 |**2024-06-01**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314](http://arxiv.org/abs/2405.20314)|null|
@@ -38,6 +42,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
+|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|null|
+|**2024-06-02**|**Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model**|Clement Etienam et.al.|[2406.00889](http://arxiv.org/abs/2406.00889)|null|
+|**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570](http://arxiv.org/abs/2406.00570)|null|
+|**2024-06-01**|**Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks**|Jiacheng Wang et.al.|[2406.00408](http://arxiv.org/abs/2406.00408)|null|
 |**2024-05-30**|**Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach**|Reza Arabpour et.al.|[2405.20094](http://arxiv.org/abs/2405.20094)|null|
 |**2024-06-02**|**MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**|Renzhi Wang et.al.|[2405.19086](http://arxiv.org/abs/2405.19086)|null|
 |**2024-06-02**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo)**|
