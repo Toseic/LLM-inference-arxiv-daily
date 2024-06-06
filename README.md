@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Language Models can Infer Action Semantics for Classical Planners from Environment Feedback**|Wang Zhu et.al.|[2406.02791](http://arxiv.org/abs/2406.02791)|null|
+|**2024-06-03**|**Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach**|Yuxuan Chen et.al.|[2406.02616](http://arxiv.org/abs/2406.02616)|null|
 |**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
 |**2024-06-03**|**Demystifying Platform Requirements for Diverse LLM Inference Use Cases**|Abhimanyu Bambhaniya et.al.|[2406.01698](http://arxiv.org/abs/2406.01698)|**[link](https://github.com/abhibambhaniya/genz-llm-analyzer)**|
 |**2024-06-03**|**PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration**|Ziqian Zeng et.al.|[2406.01394](http://arxiv.org/abs/2406.01394)|null|
@@ -42,6 +44,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464](http://arxiv.org/abs/2406.03464)|null|
+|**2024-06-05**|**Continual Traffic Forecasting via Mixture of Experts**|Sanghyun Lee et.al.|[2406.03140](http://arxiv.org/abs/2406.03140)|null|
+|**2024-06-05**|**Filtered not Mixed: Stochastic Filtering-Based Online Gating for Mixture of Large Language Models**|Raeid Saqur et.al.|[2406.02969](http://arxiv.org/abs/2406.02969)|null|
 |**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
 |**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|null|
 |**2024-06-02**|**Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model**|Clement Etienam et.al.|[2406.00889](http://arxiv.org/abs/2406.00889)|null|
