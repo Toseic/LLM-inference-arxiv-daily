@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -36,7 +36,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240605>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240606>(back to top)</a></p>
 
 ## MoE
 
@@ -45,7 +45,7 @@
 |**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
 |**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|null|
 |**2024-06-02**|**Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model**|Clement Etienam et.al.|[2406.00889](http://arxiv.org/abs/2406.00889)|null|
-|**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570](http://arxiv.org/abs/2406.00570)|null|
+|**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570](http://arxiv.org/abs/2406.00570)|**[link](https://github.com/DanWaxman/Lintel)**|
 |**2024-06-01**|**Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks**|Jiacheng Wang et.al.|[2406.00408](http://arxiv.org/abs/2406.00408)|null|
 |**2024-05-30**|**Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach**|Reza Arabpour et.al.|[2405.20094](http://arxiv.org/abs/2405.20094)|null|
 |**2024-06-02**|**MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**|Renzhi Wang et.al.|[2405.19086](http://arxiv.org/abs/2405.19086)|null|
@@ -85,7 +85,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240605>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240606>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
