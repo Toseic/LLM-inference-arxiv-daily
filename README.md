@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**|Jiahao Liu et.al.|[2406.03853](http://arxiv.org/abs/2406.03853)|null|
 |**2024-06-04**|**Language Models can Infer Action Semantics for Classical Planners from Environment Feedback**|Wang Zhu et.al.|[2406.02791](http://arxiv.org/abs/2406.02791)|null|
 |**2024-06-06**|**Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach**|Yuxuan Chen et.al.|[2406.02616](http://arxiv.org/abs/2406.02616)|null|
 |**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
@@ -44,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637](http://arxiv.org/abs/2406.03637)|null|
 |**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464](http://arxiv.org/abs/2406.03464)|null|
 |**2024-06-05**|**Continual Traffic Forecasting via Mixture of Experts**|Sanghyun Lee et.al.|[2406.03140](http://arxiv.org/abs/2406.03140)|null|
 |**2024-06-05**|**Filtered not Mixed: Stochastic Filtering-Based Online Gating for Mixture of Large Language Models**|Raeid Saqur et.al.|[2406.02969](http://arxiv.org/abs/2406.02969)|null|
