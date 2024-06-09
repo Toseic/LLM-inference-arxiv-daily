@@ -17,7 +17,7 @@ layout: default
 |**2024-06-06**|**Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**|Jiahao Liu et.al.|[2406.03853](http://arxiv.org/abs/2406.03853)|null|
 |**2024-06-04**|**Language Models can Infer Action Semantics for Classical Planners from Environment Feedback**|Wang Zhu et.al.|[2406.02791](http://arxiv.org/abs/2406.02791)|null|
 |**2024-06-06**|**Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach**|Yuxuan Chen et.al.|[2406.02616](http://arxiv.org/abs/2406.02616)|null|
-|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
+|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|**[link](https://github.com/yandex-research/specexec)**|
 |**2024-06-03**|**Demystifying Platform Requirements for Diverse LLM Inference Use Cases**|Abhimanyu Bambhaniya et.al.|[2406.01698](http://arxiv.org/abs/2406.01698)|**[link](https://github.com/abhibambhaniya/genz-llm-analyzer)**|
 |**2024-06-03**|**PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration**|Ziqian Zeng et.al.|[2406.01394](http://arxiv.org/abs/2406.01394)|null|
 |**2024-06-01**|**A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation**|Dugang Liu et.al.|[2406.00333](http://arxiv.org/abs/2406.00333)|null|
