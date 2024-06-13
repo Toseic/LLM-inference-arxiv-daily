@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
 |**2024-06-12**|**PowerInfer-2: Fast Large Language Model Inference on a Smartphone**|Zhenliang Xue et.al.|[2406.06282](http://arxiv.org/abs/2406.06282)|null|
 |**2024-06-09**|**A Superalignment Framework in Autonomous Driving with Large Language Models**|Xiangrui Kong et.al.|[2406.05651](http://arxiv.org/abs/2406.05651)|null|
 |**2024-06-06**|**Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**|Jiahao Liu et.al.|[2406.03853](http://arxiv.org/abs/2406.03853)|null|
@@ -51,6 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155](http://arxiv.org/abs/2406.08155)|null|
 |**2024-06-11**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955](http://arxiv.org/abs/2406.05955)|null|
 |**2024-06-08**|**Flexible and Adaptable Summarization via Expertise Separation**|Xiuying Chen et.al.|[2406.05360](http://arxiv.org/abs/2406.05360)|**[link](https://github.com/iriscxy/moe_summ)**|
 |**2024-06-07**|**MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter**|Jitai Hao et.al.|[2406.04984](http://arxiv.org/abs/2406.04984)|**[link](https://github.com/currentf/meft)**|
