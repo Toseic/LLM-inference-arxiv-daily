@@ -10,6 +10,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674](http://arxiv.org/abs/2406.11674)|null|
+|**2024-06-17**|**QTIP: Quantization with Trellises and Incoherence Processing**|Albert Tseng et.al.|[2406.11235](http://arxiv.org/abs/2406.11235)|null|
+|**2024-06-16**|**New Solutions on LLM Acceleration, Optimization, and Application**|Yingbing Huang et.al.|[2406.10903](http://arxiv.org/abs/2406.10903)|null|
+|**2024-06-16**|**Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference**|Jiaming Tang et.al.|[2406.10774](http://arxiv.org/abs/2406.10774)|**[link](https://github.com/mit-han-lab/quest)**|
+|**2024-06-15**|**Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study**|Hao Hao et.al.|[2406.10675](http://arxiv.org/abs/2406.10675)|**[link](https://github.com/hhyqhh/laea)**|
+|**2024-06-08**|**QCQA: Quality and Capacity-aware grouped Query Attention**|Vinay Joshi et.al.|[2406.10247](http://arxiv.org/abs/2406.10247)|null|
 |**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
 |**2024-06-12**|**PowerInfer-2: Fast Large Language Model Inference on a Smartphone**|Zhenliang Xue et.al.|[2406.06282](http://arxiv.org/abs/2406.06282)|null|
 |**2024-06-09**|**A Superalignment Framework in Autonomous Driving with Large Language Models**|Xiangrui Kong et.al.|[2406.05651](http://arxiv.org/abs/2406.05651)|null|
@@ -48,6 +54,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|null|
+|**2024-06-17**|**Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts**|Tong Zhu et.al.|[2406.11256](http://arxiv.org/abs/2406.11256)|**[link](https://github.com/spico197/moe-sft)**|
 |**2024-06-14**|**Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion**|Anke Tang et.al.|[2406.09770](http://arxiv.org/abs/2406.09770)|**[link](https://github.com/tanganke/pareto_set_learning)**|
 |**2024-06-13**|**DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts**|Joel Ong et.al.|[2406.08742](http://arxiv.org/abs/2406.08742)|null|
 |**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155](http://arxiv.org/abs/2406.08155)|null|
