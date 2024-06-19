@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -11,7 +11,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674](http://arxiv.org/abs/2406.11674)|null|
-|**2024-06-17**|**QTIP: Quantization with Trellises and Incoherence Processing**|Albert Tseng et.al.|[2406.11235](http://arxiv.org/abs/2406.11235)|null|
+|**2024-06-17**|**QTIP: Quantization with Trellises and Incoherence Processing**|Albert Tseng et.al.|[2406.11235](http://arxiv.org/abs/2406.11235)|**[link](https://github.com/Cornell-RelaxML/qtip)**|
 |**2024-06-16**|**New Solutions on LLM Acceleration, Optimization, and Application**|Yingbing Huang et.al.|[2406.10903](http://arxiv.org/abs/2406.10903)|null|
 |**2024-06-16**|**Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference**|Jiaming Tang et.al.|[2406.10774](http://arxiv.org/abs/2406.10774)|**[link](https://github.com/mit-han-lab/quest)**|
 |**2024-06-15**|**Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study**|Hao Hao et.al.|[2406.10675](http://arxiv.org/abs/2406.10675)|**[link](https://github.com/hhyqhh/laea)**|
@@ -48,7 +48,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240618>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240619>(back to top)</a></p>
 
 ## MoE
 
@@ -110,7 +110,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240618>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240619>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
