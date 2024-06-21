@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|null|
+|**2024-06-20**|**LiveMind: Low-latency Large Language Models with Simultaneous Inference**|Chuangtao Chen et.al.|[2406.14319](http://arxiv.org/abs/2406.14319)|**[link](https://github.com/chuangtaochen-tum/livemind)**|
+|**2024-06-19**|**SDQ: Sparse Decomposed Quantization for LLM Inference**|Geonhwa Jeong et.al.|[2406.13868](http://arxiv.org/abs/2406.13868)|null|
+|**2024-06-19**|**Amphista: Accelerate LLM Inference with Bi-directional Multiple Drafting Heads in a Non-autoregressive Style**|Zeping Li et.al.|[2406.13170](http://arxiv.org/abs/2406.13170)|null|
+|**2024-06-16**|**Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization**|Jungi Lee et.al.|[2406.12930](http://arxiv.org/abs/2406.12930)|null|
 |**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494](http://arxiv.org/abs/2406.12494)|null|
 |**2024-06-18**|**LLMs Are Prone to Fallacies in Causal Inference**|Nitish Joshi et.al.|[2406.12158](http://arxiv.org/abs/2406.12158)|null|
 |**2024-06-14**|**Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning**|Hui Liu et.al.|[2406.11890](http://arxiv.org/abs/2406.11890)|null|
@@ -61,10 +66,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
+|**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-06-18**|**P-Tailor: Customizing Personality Traits for Language Models via Mixture of Specialized LoRA Experts**|Yuhao Dan et.al.|[2406.12548](http://arxiv.org/abs/2406.12548)|null|
 |**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538](http://arxiv.org/abs/2406.12538)|null|
-|**2024-06-18**|**GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory**|Haoze Wu et.al.|[2406.12375](http://arxiv.org/abs/2406.12375)|null|
+|**2024-06-18**|**GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory**|Haoze Wu et.al.|[2406.12375](http://arxiv.org/abs/2406.12375)|**[link](https://github.com/waithz/gw-moe)**|
 |**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|null|
 |**2024-06-17**|**DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**|DeepSeek-AI et.al.|[2406.11931](http://arxiv.org/abs/2406.11931)|**[link](https://github.com/deepseek-ai/deepseek-coder-v2)**|
 |**2024-06-17**|**Graph Knowledge Distillation to Mixture of Experts**|Pavel Rumiantsev et.al.|[2406.11919](http://arxiv.org/abs/2406.11919)|null|
