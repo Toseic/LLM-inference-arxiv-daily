@@ -74,7 +74,7 @@
 |**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|null|
 |**2024-06-17**|**Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts**|Tong Zhu et.al.|[2406.11256](http://arxiv.org/abs/2406.11256)|**[link](https://github.com/spico197/moe-sft)**|
 |**2024-06-14**|**Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion**|Anke Tang et.al.|[2406.09770](http://arxiv.org/abs/2406.09770)|**[link](https://github.com/tanganke/pareto_set_learning)**|
-|**2024-06-13**|**DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts**|Joel Ong et.al.|[2406.08742](http://arxiv.org/abs/2406.08742)|null|
+|**2024-06-13**|**DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts**|Joel Ong et.al.|[2406.08742](http://arxiv.org/abs/2406.08742)|**[link](https://github.com/joelowj/unified_mom_mmoe)**|
 |**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155](http://arxiv.org/abs/2406.08155)|null|
 |**2024-06-11**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955](http://arxiv.org/abs/2406.05955)|null|
 |**2024-06-08**|**Flexible and Adaptable Summarization via Expertise Separation**|Xiuying Chen et.al.|[2406.05360](http://arxiv.org/abs/2406.05360)|**[link](https://github.com/iriscxy/moe_summ)**|
@@ -109,7 +109,7 @@
 |**2024-05-23**|**Mixture of Experts Meets Prompt-Based Continual Learning**|Minh Le et.al.|[2405.14124](http://arxiv.org/abs/2405.14124)|null|
 |**2024-05-22**|**Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts**|Huy Nguyen et.al.|[2405.13997](http://arxiv.org/abs/2405.13997)|null|
 |**2024-05-22**|**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token**|Xin Cheng et.al.|[2405.13792](http://arxiv.org/abs/2405.13792)|**[link](https://github.com/Hannibal046/xRAG)**|
-|**2024-05-24**|**MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models**|Jingwei Xu et.al.|[2405.13053](http://arxiv.org/abs/2405.13053)|null|
+|**2024-05-24**|**MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models**|Jingwei Xu et.al.|[2405.13053](http://arxiv.org/abs/2405.13053)|**[link](https://github.com/paragonlight/meteor-of-lora)**|
 |**2024-05-21**|**Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts**|Ruichen Zhang et.al.|[2405.12472](http://arxiv.org/abs/2405.12472)|null|
 |**2024-05-21**|**Ensemble and Mixture-of-Experts DeepONets For Operator Learning**|Ramansh Sharma et.al.|[2405.11907](http://arxiv.org/abs/2405.11907)|null|
 |**2024-05-19**|**Learning More Generalized Experts by Merging Experts in Mixture-of-Experts**|Sejik Park et.al.|[2405.11530](http://arxiv.org/abs/2405.11530)|null|
