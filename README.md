@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models**|Qi Liu et.al.|[2406.14848](http://arxiv.org/abs/2406.14848)|**[link](https://github.com/liuqi6777/pe_rank)**|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
 |**2024-06-20**|**LiveMind: Low-latency Large Language Models with Simultaneous Inference**|Chuangtao Chen et.al.|[2406.14319](http://arxiv.org/abs/2406.14319)|null|
 |**2024-06-19**|**SDQ: Sparse Decomposed Quantization for LLM Inference**|Geonhwa Jeong et.al.|[2406.13868](http://arxiv.org/abs/2406.13868)|null|
@@ -62,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|null|
 |**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
 |**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
