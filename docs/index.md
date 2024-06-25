@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|null|
+|**2024-06-17**|**Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention**|Qianchao Zhu et.al.|[2406.15486](http://arxiv.org/abs/2406.15486)|null|
 |**2024-06-21**|**Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models**|Qi Liu et.al.|[2406.14848](http://arxiv.org/abs/2406.14848)|**[link](https://github.com/liuqi6777/pe_rank)**|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
 |**2024-06-20**|**LiveMind: Low-latency Large Language Models with Simultaneous Inference**|Chuangtao Chen et.al.|[2406.14319](http://arxiv.org/abs/2406.14319)|null|
@@ -67,6 +69,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554](http://arxiv.org/abs/2406.16554)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
+|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-24**|**Theory on Mixture-of-Experts in Continual Learning**|Hongbo Li et.al.|[2406.16437](http://arxiv.org/abs/2406.16437)|null|
+|**2024-06-22**|**SimSMoE: Solving Representational Collapse via Similarity Measure**|Giang Do et.al.|[2406.15883](http://arxiv.org/abs/2406.15883)|null|
 |**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|null|
 |**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
 |**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|null|
