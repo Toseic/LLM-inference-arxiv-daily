@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -63,14 +63,14 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240625>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240626>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554](http://arxiv.org/abs/2406.16554)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
-|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
 |**2024-06-24**|**Theory on Mixture-of-Experts in Continual Learning**|Hongbo Li et.al.|[2406.16437](http://arxiv.org/abs/2406.16437)|null|
 |**2024-06-22**|**SimSMoE: Solving Representational Collapse via Similarity Measure**|Giang Do et.al.|[2406.15883](http://arxiv.org/abs/2406.15883)|null|
 |**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|null|
@@ -139,7 +139,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240625>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240626>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
