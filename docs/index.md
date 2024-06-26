@@ -69,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Peirce in the Machine: How Mixture of Experts Models Perform Hypothesis Construction**|Bruce Rushing et.al.|[2406.17150](http://arxiv.org/abs/2406.17150)|null|
 |**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554](http://arxiv.org/abs/2406.16554)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
 |**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
 |**2024-06-24**|**Theory on Mixture-of-Experts in Continual Learning**|Hongbo Li et.al.|[2406.16437](http://arxiv.org/abs/2406.16437)|null|
