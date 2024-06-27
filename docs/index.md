@@ -69,6 +69,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
+|**2024-06-26**|**A Closer Look into Mixture-of-Experts in Large Language Models**|Ka Man Lo et.al.|[2406.18219](http://arxiv.org/abs/2406.18219)|**[link](https://github.com/kamanphoebe/look-into-moes)**|
+|**2024-06-26**|**SC-MoE: Switch Conformer Mixture of Experts for Unified Streaming and Non-streaming Code-Switching ASR**|Shuaishuai Ye et.al.|[2406.18021](http://arxiv.org/abs/2406.18021)|null|
 |**2024-06-24**|**Peirce in the Machine: How Mixture of Experts Models Perform Hypothesis Construction**|Bruce Rushing et.al.|[2406.17150](http://arxiv.org/abs/2406.17150)|null|
 |**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554](http://arxiv.org/abs/2406.16554)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
 |**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
