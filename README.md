@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -14,7 +14,7 @@
 |**2024-06-17**|**Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention**|Qianchao Zhu et.al.|[2406.15486](http://arxiv.org/abs/2406.15486)|null|
 |**2024-06-21**|**Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models**|Qi Liu et.al.|[2406.14848](http://arxiv.org/abs/2406.14848)|**[link](https://github.com/liuqi6777/pe_rank)**|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
-|**2024-06-20**|**LiveMind: Low-latency Large Language Models with Simultaneous Inference**|Chuangtao Chen et.al.|[2406.14319](http://arxiv.org/abs/2406.14319)|null|
+|**2024-06-20**|**LiveMind: Low-latency Large Language Models with Simultaneous Inference**|Chuangtao Chen et.al.|[2406.14319](http://arxiv.org/abs/2406.14319)|**[link](https://github.com/chuangtaochen-tum/livemind)**|
 |**2024-06-19**|**SDQ: Sparse Decomposed Quantization for LLM Inference**|Geonhwa Jeong et.al.|[2406.13868](http://arxiv.org/abs/2406.13868)|null|
 |**2024-06-19**|**Amphista: Accelerate LLM Inference with Bi-directional Multiple Drafting Heads in a Non-autoregressive Style**|Zeping Li et.al.|[2406.13170](http://arxiv.org/abs/2406.13170)|null|
 |**2024-06-16**|**Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization**|Jungi Lee et.al.|[2406.12930](http://arxiv.org/abs/2406.12930)|null|
@@ -59,7 +59,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240627>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240628>(back to top)</a></p>
 
 ## MoE
 
@@ -68,12 +68,12 @@
 |**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
 |**2024-06-26**|**A Closer Look into Mixture-of-Experts in Large Language Models**|Ka Man Lo et.al.|[2406.18219](http://arxiv.org/abs/2406.18219)|**[link](https://github.com/kamanphoebe/look-into-moes)**|
 |**2024-06-26**|**SC-MoE: Switch Conformer Mixture of Experts for Unified Streaming and Non-streaming Code-Switching ASR**|Shuaishuai Ye et.al.|[2406.18021](http://arxiv.org/abs/2406.18021)|null|
-|**2024-06-24**|**Peirce in the Machine: How Mixture of Experts Models Perform Hypothesis Construction**|Bruce Rushing et.al.|[2406.17150](http://arxiv.org/abs/2406.17150)|null|
+|**2024-06-24**|**Peirce in the Machine: How Mixture of Experts Models Perform Hypothesis Construction**|Bruce Rushing et.al.|[2406.17150](http://arxiv.org/abs/2406.17150)|**[link](https://github.com/brushing-git/peircemachine)**|
 |**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554](http://arxiv.org/abs/2406.16554)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
 |**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
 |**2024-06-24**|**Theory on Mixture-of-Experts in Continual Learning**|Hongbo Li et.al.|[2406.16437](http://arxiv.org/abs/2406.16437)|null|
 |**2024-06-22**|**SimSMoE: Solving Representational Collapse via Similarity Measure**|Giang Do et.al.|[2406.15883](http://arxiv.org/abs/2406.15883)|null|
-|**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|null|
+|**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|**[link](https://github.com/koudounasalkis/AI4Voice)**|
 |**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
 |**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
@@ -139,7 +139,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240627>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240628>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
