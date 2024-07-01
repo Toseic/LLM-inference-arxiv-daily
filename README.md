@@ -89,7 +89,7 @@
 |**2024-06-17**|**Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts**|Tong Zhu et.al.|[2406.11256](http://arxiv.org/abs/2406.11256)|**[link](https://github.com/spico197/moe-sft)**|
 |**2024-06-14**|**Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion**|Anke Tang et.al.|[2406.09770](http://arxiv.org/abs/2406.09770)|**[link](https://github.com/tanganke/pareto_set_learning)**|
 |**2024-06-13**|**DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts**|Joel Ong et.al.|[2406.08742](http://arxiv.org/abs/2406.08742)|**[link](https://github.com/joelowj/unified_mom_mmoe)**|
-|**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155](http://arxiv.org/abs/2406.08155)|null|
+|**2024-06-12**|**Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark**|Pingzhi Li et.al.|[2406.08155](http://arxiv.org/abs/2406.08155)|**[link](https://github.com/unites-lab/moe-quantization)**|
 |**2024-06-11**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955](http://arxiv.org/abs/2406.05955)|null|
 |**2024-06-08**|**Flexible and Adaptable Summarization via Expertise Separation**|Xiuying Chen et.al.|[2406.05360](http://arxiv.org/abs/2406.05360)|**[link](https://github.com/iriscxy/moe_summ)**|
 |**2024-06-07**|**MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter**|Jitai Hao et.al.|[2406.04984](http://arxiv.org/abs/2406.04984)|**[link](https://github.com/currentf/meft)**|
@@ -99,7 +99,7 @@
 |**2024-06-05**|**Continual Traffic Forecasting via Mixture of Experts**|Sanghyun Lee et.al.|[2406.03140](http://arxiv.org/abs/2406.03140)|null|
 |**2024-06-05**|**Filtered not Mixed: Stochastic Filtering-Based Online Gating for Mixture of Large Language Models**|Raeid Saqur et.al.|[2406.02969](http://arxiv.org/abs/2406.02969)|null|
 |**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
-|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|null|
+|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|**[link](https://github.com/daizedong/unified-moe-compression)**|
 |**2024-06-02**|**Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model**|Clement Etienam et.al.|[2406.00889](http://arxiv.org/abs/2406.00889)|**[link](https://github.com/nvidia/modulus-sym)**|
 |**2024-06-01**|**A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers**|Daniel Waxman et.al.|[2406.00570](http://arxiv.org/abs/2406.00570)|**[link](https://github.com/DanWaxman/Lintel)**|
 |**2024-06-01**|**Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks**|Jiacheng Wang et.al.|[2406.00408](http://arxiv.org/abs/2406.00408)|null|
