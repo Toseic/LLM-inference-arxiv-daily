@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707](http://arxiv.org/abs/2406.19707)|null|
 |**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|null|
 |**2024-06-28**|**SampleAttention: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention**|Qianchao Zhu et.al.|[2406.15486](http://arxiv.org/abs/2406.15486)|null|
 |**2024-06-21**|**Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models**|Qi Liu et.al.|[2406.14848](http://arxiv.org/abs/2406.14848)|**[link](https://github.com/liuqi6777/pe_rank)**|
@@ -65,6 +66,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
+|**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
+|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|null|
 |**2024-06-27**|**A Teacher Is Worth A Million Instructions**|Nikhil Kothari et.al.|[2406.19112](http://arxiv.org/abs/2406.19112)|null|
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
 |**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
