@@ -75,7 +75,7 @@
 |**2024-07-01**|**Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning**|Yixiao Wang et.al.|[2407.01531](http://arxiv.org/abs/2407.01531)|null|
 |**2024-07-01**|**Investigating the potential of Sparse Mixtures-of-Experts for multi-domain neural machine translation**|Nadezhda Chirkova et.al.|[2407.01126](http://arxiv.org/abs/2407.01126)|null|
 |**2024-07-01**|**Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs**|Enshu Liu et.al.|[2407.00945](http://arxiv.org/abs/2407.00945)|**[link](https://github.com/imagination-research/eep)**|
-|**2024-07-03**|**Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules**|Xinglin Pan et.al.|[2407.00599](http://arxiv.org/abs/2407.00599)|null|
+|**2024-07-03**|**Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules**|Xinglin Pan et.al.|[2407.00599](http://arxiv.org/abs/2407.00599)|**[link](https://github.com/Fragile-azalea/Parm)**|
 |**2024-06-28**|**One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**|Ruochen Wang et.al.|[2407.00256](http://arxiv.org/abs/2407.00256)|**[link](https://github.com/ruocwang/mixture-of-prompts)**|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
