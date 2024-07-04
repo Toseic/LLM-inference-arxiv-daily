@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -63,7 +63,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240703>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240704>(back to top)</a></p>
 
 ## MoE
 
@@ -75,7 +75,7 @@
 |**2024-07-01**|**Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning**|Yixiao Wang et.al.|[2407.01531](http://arxiv.org/abs/2407.01531)|null|
 |**2024-07-01**|**Investigating the potential of Sparse Mixtures-of-Experts for multi-domain neural machine translation**|Nadezhda Chirkova et.al.|[2407.01126](http://arxiv.org/abs/2407.01126)|null|
 |**2024-07-01**|**Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs**|Enshu Liu et.al.|[2407.00945](http://arxiv.org/abs/2407.00945)|**[link](https://github.com/imagination-research/eep)**|
-|**2024-06-30**|**Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules**|Xinglin Pan Wenxiang Lin et.al.|[2407.00599](http://arxiv.org/abs/2407.00599)|null|
+|**2024-07-03**|**Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules**|Xinglin Pan et.al.|[2407.00599](http://arxiv.org/abs/2407.00599)|null|
 |**2024-06-28**|**One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**|Ruochen Wang et.al.|[2407.00256](http://arxiv.org/abs/2407.00256)|**[link](https://github.com/ruocwang/mixture-of-prompts)**|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
@@ -156,7 +156,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240703>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240704>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
