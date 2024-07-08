@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|null|
+|**2024-07-04**|**Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems**|Grant Wilkins et.al.|[2407.04014](http://arxiv.org/abs/2407.04014)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326](http://arxiv.org/abs/2407.00326)|null|
 |**2024-06-25**|**T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge**|Jianyu Wei et.al.|[2407.00088](http://arxiv.org/abs/2407.00088)|null|
@@ -73,8 +75,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**MobileFlow: A Multimodal LLM For Mobile GUI Agent**|Songqin Nong et.al.|[2407.04346](http://arxiv.org/abs/2407.04346)|null|
+|**2024-07-04**|**Mixture of A Million Experts**|Xu Owen He et.al.|[2407.04153](http://arxiv.org/abs/2407.04153)|null|
 |**2024-07-02**|**Terminating Differentiable Tree Experts**|Jonathan Thomm et.al.|[2407.02060](http://arxiv.org/abs/2407.02060)|null|
-|**2024-07-02**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|**[link](https://github.com/deepseek-ai/esft)**|
+|**2024-07-05**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|**[link](https://github.com/deepseek-ai/esft)**|
 |**2024-07-01**|**Uncertainty Quantification in Table Structure Recognition**|Kehinde Ajayi et.al.|[2407.01731](http://arxiv.org/abs/2407.01731)|**[link](https://github.com/lamps-lab/uqtta)**|
 |**2024-07-01**|**Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning**|Yixiao Wang et.al.|[2407.01531](http://arxiv.org/abs/2407.01531)|null|
 |**2024-07-01**|**Investigating the potential of Sparse Mixtures-of-Experts for multi-domain neural machine translation**|Nadezhda Chirkova et.al.|[2407.01126](http://arxiv.org/abs/2407.01126)|null|
