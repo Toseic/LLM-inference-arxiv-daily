@@ -70,7 +70,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-02**|**Terminating Differentiable Tree Experts**|Jonathan Thomm et.al.|[2407.02060](http://arxiv.org/abs/2407.02060)|null|
-|**2024-07-02**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|null|
+|**2024-07-02**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|**[link](https://github.com/deepseek-ai/esft)**|
 |**2024-07-01**|**Uncertainty Quantification in Table Structure Recognition**|Kehinde Ajayi et.al.|[2407.01731](http://arxiv.org/abs/2407.01731)|**[link](https://github.com/lamps-lab/uqtta)**|
 |**2024-07-01**|**Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning**|Yixiao Wang et.al.|[2407.01531](http://arxiv.org/abs/2407.01531)|null|
 |**2024-07-01**|**Investigating the potential of Sparse Mixtures-of-Experts for multi-domain neural machine translation**|Nadezhda Chirkova et.al.|[2407.01126](http://arxiv.org/abs/2407.01126)|null|
@@ -100,7 +100,7 @@
 |**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
 |**2024-06-17**|**DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**|DeepSeek-AI et.al.|[2406.11931](http://arxiv.org/abs/2406.11931)|**[link](https://github.com/deepseek-ai/deepseek-coder-v2)**|
 |**2024-06-17**|**Graph Knowledge Distillation to Mixture of Experts**|Pavel Rumiantsev et.al.|[2406.11919](http://arxiv.org/abs/2406.11919)|null|
-|**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|null|
+|**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|**[link](https://github.com/unites-lab/moe-rbench)**|
 |**2024-06-17**|**Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts**|Tong Zhu et.al.|[2406.11256](http://arxiv.org/abs/2406.11256)|**[link](https://github.com/spico197/moe-sft)**|
 |**2024-06-14**|**Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion**|Anke Tang et.al.|[2406.09770](http://arxiv.org/abs/2406.09770)|**[link](https://github.com/tanganke/pareto_set_learning)**|
 |**2024-06-13**|**DeepUnifiedMom: Unified Time-series Momentum Portfolio Construction via Multi-Task Learning with Multi-Gate Mixture of Experts**|Joel Ong et.al.|[2406.08742](http://arxiv.org/abs/2406.08742)|**[link](https://github.com/joelowj/unified_mom_mmoe)**|
