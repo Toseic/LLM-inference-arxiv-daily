@@ -79,7 +79,7 @@
 |**2024-07-09**|**A Simple Architecture for Enterprise Large Language Model Applications based on Role based security and Clearance Levels using Retrieval-Augmented Generation or Mixture of Experts**|Atilla Özgür et.al.|[2407.06718](http://arxiv.org/abs/2407.06718)|null|
 |**2024-07-06**|**SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**|Guoan Wang et.al.|[2407.04938](http://arxiv.org/abs/2407.04938)|null|
 |**2024-07-06**|**Completed Feature Disentanglement Learning for Multimodal MRIs Analysis**|Tianling Liu et.al.|[2407.04916](http://arxiv.org/abs/2407.04916)|null|
-|**2024-07-05**|**YourMT3+: Multi-instrument Music Transcription with Enhanced Transformer Architectures and Cross-dataset Stem Augmentation**|Sungkyun Chang et.al.|[2407.04822](http://arxiv.org/abs/2407.04822)|null|
+|**2024-07-05**|**YourMT3+: Multi-instrument Music Transcription with Enhanced Transformer Architectures and Cross-dataset Stem Augmentation**|Sungkyun Chang et.al.|[2407.04822](http://arxiv.org/abs/2407.04822)|**[link](https://github.com/mimbres/yourmt3)**|
 |**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
 |**2024-07-05**|**MobileFlow: A Multimodal LLM For Mobile GUI Agent**|Songqin Nong et.al.|[2407.04346](http://arxiv.org/abs/2407.04346)|null|
 |**2024-07-04**|**Mixture of A Million Experts**|Xu Owen He et.al.|[2407.04153](http://arxiv.org/abs/2407.04153)|null|
