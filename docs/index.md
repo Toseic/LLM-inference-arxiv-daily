@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
 |**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
 |**2024-07-12**|**Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference**|Zongyue Qin et.al.|[2407.09722](http://arxiv.org/abs/2407.09722)|null|
 |**2024-07-09**|**Metron: Holistic Performance Evaluation Framework for LLM Inference Systems**|Amey Agrawal et.al.|[2407.07000](http://arxiv.org/abs/2407.07000)|**[link](https://github.com/project-metron/metron)**|
@@ -81,7 +82,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
-|**2024-07-15**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|null|
+|**2024-07-16**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|null|
 |**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389](http://arxiv.org/abs/2407.10389)|null|
 |**2024-07-13**|**Low-Rank Interconnected Adaptation Across Layers**|Yibo Zhong et.al.|[2407.09946](http://arxiv.org/abs/2407.09946)|**[link](https://github.com/blameitonme1/lily)**|
 |**2024-07-13**|**MaskMoE: Boosting Token-Level Learning via Routing Mask in Mixture-of-Experts**|Zhenpeng Su et.al.|[2407.09816](http://arxiv.org/abs/2407.09816)|null|
