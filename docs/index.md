@@ -84,6 +84,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Discussion: Effective and Interpretable Outcome Prediction by Training Sparse Mixtures of Linear Experts**|Francesco Folino et.al.|[2407.13526](http://arxiv.org/abs/2407.13526)|null|
+|**2024-07-18**|**Mixture of Experts based Multi-task Supervise Learning from Crowds**|Tao Han et.al.|[2407.13268](http://arxiv.org/abs/2407.13268)|null|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
 |**2024-07-18**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|**[link](https://github.com/qwenlm/qwen2)**|
 |**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389](http://arxiv.org/abs/2407.10389)|null|
