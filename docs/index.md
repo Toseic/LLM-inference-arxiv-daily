@@ -29,7 +29,7 @@ layout: default
 |**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326](http://arxiv.org/abs/2407.00326)|null|
 |**2024-06-25**|**T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge**|Jianyu Wei et.al.|[2407.00088](http://arxiv.org/abs/2407.00088)|**[link](https://github.com/microsoft/t-mac)**|
 |**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707](http://arxiv.org/abs/2406.19707)|null|
-|**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|null|
+|**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 |**2024-06-28**|**SampleAttention: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention**|Qianchao Zhu et.al.|[2406.15486](http://arxiv.org/abs/2406.15486)|null|
 |**2024-06-21**|**Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models**|Qi Liu et.al.|[2406.14848](http://arxiv.org/abs/2406.14848)|**[link](https://github.com/liuqi6777/pe_rank)**|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
