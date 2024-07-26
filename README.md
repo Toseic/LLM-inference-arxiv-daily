@@ -84,6 +84,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**How Lightweight Can A Vision Transformer Be**|Jen Hong Tan et.al.|[2407.17783](http://arxiv.org/abs/2407.17783)|null|
+|**2024-07-24**|**Exploring Domain Robust Lightweight Reward Models based on Router Mechanism**|Hyuk Namgoong et.al.|[2407.17546](http://arxiv.org/abs/2407.17546)|null|
 |**2024-07-24**|**M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis**|Junyu Li et.al.|[2407.17267](http://arxiv.org/abs/2407.17267)|**[link](https://github.com/bigyehahaha/m4)**|
 |**2024-07-25**|**Cheems: Wonderful Matrices More Efficient and More Effective Architecture**|Jingze Shi et.al.|[2407.16958](http://arxiv.org/abs/2407.16958)|null|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
