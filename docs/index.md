@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -82,19 +82,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20240725>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240726>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis**|Junyu Li et.al.|[2407.17267](http://arxiv.org/abs/2407.17267)|**[link](https://github.com/bigyehahaha/m4)**|
-|**2024-07-24**|**Cheems: Wonderful Matrices More Efficient and More Effective Architecture**|Jingze Shi et.al.|[2407.16958](http://arxiv.org/abs/2407.16958)|null|
+|**2024-07-25**|**Cheems: Wonderful Matrices More Efficient and More Effective Architecture**|Jingze Shi et.al.|[2407.16958](http://arxiv.org/abs/2407.16958)|null|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
 |**2024-07-22**|**Norface: Improving Facial Expression Analysis by Identity Normalization**|Hanwei Liu et.al.|[2407.15617](http://arxiv.org/abs/2407.15617)|null|
 |**2024-07-19**|**Mixture of Experts with Mixture of Precisions for Tuning Quality of Service**|HamidReza Imani et.al.|[2407.14417](http://arxiv.org/abs/2407.14417)|null|
 |**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177](http://arxiv.org/abs/2407.14177)|null|
-|**2024-07-19**|**Not All Attention is Needed: Parameter and Computation Efficient Tuning for Multi-modal Large Language Models via Effective Attention Skipping**|Qiong Wu et.al.|[2407.14093](http://arxiv.org/abs/2407.14093)|null|
+|**2024-07-19**|**Routing Experts: Learning to Route Dynamic Experts in Multi-modal Large Language Models**|Qiong Wu et.al.|[2407.14093](http://arxiv.org/abs/2407.14093)|null|
 |**2024-07-18**|**Discussion: Effective and Interpretable Outcome Prediction by Training Sparse Mixtures of Linear Experts**|Francesco Folino et.al.|[2407.13526](http://arxiv.org/abs/2407.13526)|null|
 |**2024-07-18**|**Mixture of Experts based Multi-task Supervise Learning from Crowds**|Tao Han et.al.|[2407.13268](http://arxiv.org/abs/2407.13268)|null|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
@@ -200,7 +200,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20240725>(back to top)</a></p>
+<p align=right><a href=#updated-on-20240726>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
