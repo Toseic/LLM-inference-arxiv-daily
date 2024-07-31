@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
 |**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
 |**2024-07-29**|**Teaching LLMs at Charles University: Assignments and Activities**|Jindřich Helcl et.al.|[2407.19798](http://arxiv.org/abs/2407.19798)|null|
 |**2024-07-22**|**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads**|Hanlin Tang et.al.|[2407.15891](http://arxiv.org/abs/2407.15891)|null|
@@ -90,8 +91,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Distribution Learning for Molecular Regression**|Nima Shoghi et.al.|[2407.20475](http://arxiv.org/abs/2407.20475)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
-|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
+|**2024-07-30**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
 |**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610](http://arxiv.org/abs/2407.19610)|**[link](https://github.com/padas-lab-de/multi-language-dataset-creator)**|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
 |**2024-07-26**|**MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition**|Chang Liu et.al.|[2407.18616](http://arxiv.org/abs/2407.18616)|**[link](https://github.com/lancercat/moose)**|
