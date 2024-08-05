@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines**|Matias Martinez et.al.|[2408.01050](http://arxiv.org/abs/2408.01050)|null|
 |**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741](http://arxiv.org/abs/2408.00741)|null|
 |**2024-08-01**|**Designing Efficient LLM Accelerators for Edge Devices**|Jude Haris et.al.|[2408.00462](http://arxiv.org/abs/2408.00462)|null|
 |**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
@@ -92,6 +93,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate Prediction**|Xingyu Lou et.al.|[2408.01332](http://arxiv.org/abs/2408.01332)|null|
 |**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365](http://arxiv.org/abs/2408.00365)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 |**2024-07-31**|**PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning**|Min Jae Jung et.al.|[2407.21571](http://arxiv.org/abs/2407.21571)|null|
