@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
 |**2024-08-02**|**The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines**|Matias Martinez et.al.|[2408.01050](http://arxiv.org/abs/2408.01050)|null|
 |**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741](http://arxiv.org/abs/2408.00741)|null|
 |**2024-08-01**|**Designing Efficient LLM Accelerators for Edge Devices**|Jude Haris et.al.|[2408.00462](http://arxiv.org/abs/2408.00462)|null|
@@ -93,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Mixture-of-Noises Enhanced Forgery-Aware Predictor for Multi-Face Manipulation Detection and Localization**|Changtao Miao et.al.|[2408.02306](http://arxiv.org/abs/2408.02306)|null|
 |**2024-08-02**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate Prediction**|Xingyu Lou et.al.|[2408.01332](http://arxiv.org/abs/2408.01332)|null|
 |**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365](http://arxiv.org/abs/2408.00365)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
