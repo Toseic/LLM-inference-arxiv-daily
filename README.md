@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Towards SLO-Optimized LLM Serving via Automatic Inference Engine Tuning**|Ke Cheng et.al.|[2408.04323](http://arxiv.org/abs/2408.04323)|null|
+|**2024-08-07**|**Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference**|Zeyu Zhang et.al.|[2408.04107](http://arxiv.org/abs/2408.04107)|null|
 |**2024-08-07**|**MPC-Minimized Secure LLM Inference**|Deevashwer Rathee et.al.|[2408.03561](http://arxiv.org/abs/2408.03561)|null|
 |**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
 |**2024-08-02**|**The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines**|Matias Martinez et.al.|[2408.01050](http://arxiv.org/abs/2408.01050)|null|
@@ -95,6 +97,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**|Weilin Cai et.al.|[2408.04307](http://arxiv.org/abs/2408.04307)|null|
+|**2024-08-08**|**LaDiMo: Layer-wise Distillation Inspired MoEfier**|Sungyoon Kim et.al.|[2408.04278](http://arxiv.org/abs/2408.04278)|null|
 |**2024-08-07**|**MoExtend: Tuning New Experts for Modality and Task Extension**|Shanshan Zhong et.al.|[2408.03511](http://arxiv.org/abs/2408.03511)|null|
 |**2024-08-05**|**Mixture-of-Noises Enhanced Forgery-Aware Predictor for Multi-Face Manipulation Detection and Localization**|Changtao Miao et.al.|[2408.02306](http://arxiv.org/abs/2408.02306)|null|
 |**2024-08-02**|**HMDN: Hierarchical Multi-Distribution Network for Click-Through Rate Prediction**|Xingyu Lou et.al.|[2408.01332](http://arxiv.org/abs/2408.01332)|null|
