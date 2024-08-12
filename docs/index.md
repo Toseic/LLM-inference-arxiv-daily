@@ -115,7 +115,7 @@ layout: default
 |**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610](http://arxiv.org/abs/2407.19610)|**[link](https://github.com/padas-lab-de/multi-language-dataset-creator)**|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
 |**2024-07-26**|**MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition**|Chang Liu et.al.|[2407.18616](http://arxiv.org/abs/2407.18616)|**[link](https://github.com/lancercat/moose)**|
-|**2024-07-26**|**Dynamic Language Group-Based MoE: Enhancing Efficiency and Flexibility for Code-Switching Speech Recognition**|Hukai Huang et.al.|[2407.18581](http://arxiv.org/abs/2407.18581)|null|
+|**2024-07-26**|**Dynamic Language Group-Based MoE: Enhancing Efficiency and Flexibility for Code-Switching Speech Recognition**|Hukai Huang et.al.|[2407.18581](http://arxiv.org/abs/2407.18581)|**[link](https://github.com/kaihuhuang/language-group)**|
 |**2024-07-25**|**How Lightweight Can A Vision Transformer Be**|Jen Hong Tan et.al.|[2407.17783](http://arxiv.org/abs/2407.17783)|null|
 |**2024-07-24**|**Exploring Domain Robust Lightweight Reward Models based on Router Mechanism**|Hyuk Namgoong et.al.|[2407.17546](http://arxiv.org/abs/2407.17546)|null|
 |**2024-07-24**|**M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis**|Junyu Li et.al.|[2407.17267](http://arxiv.org/abs/2407.17267)|**[link](https://github.com/bigyehahaha/m4)**|
@@ -131,7 +131,7 @@ layout: default
 |**2024-07-18**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|**[link](https://github.com/qwenlm/qwen2)**|
 |**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389](http://arxiv.org/abs/2407.10389)|null|
 |**2024-07-13**|**Low-Rank Interconnected Adaptation Across Layers**|Yibo Zhong et.al.|[2407.09946](http://arxiv.org/abs/2407.09946)|**[link](https://github.com/blameitonme1/lily)**|
-|**2024-07-13**|**MaskMoE: Boosting Token-Level Learning via Routing Mask in Mixture-of-Experts**|Zhenpeng Su et.al.|[2407.09816](http://arxiv.org/abs/2407.09816)|null|
+|**2024-07-13**|**MaskMoE: Boosting Token-Level Learning via Routing Mask in Mixture-of-Experts**|Zhenpeng Su et.al.|[2407.09816](http://arxiv.org/abs/2407.09816)|**[link](https://github.com/suu990901/MaskMoE)**|
 |**2024-07-12**|**Diversifying the Expert Knowledge for Task-Agnostic Pruning in Sparse Mixture-of-Experts**|Zeliang Zhang et.al.|[2407.09590](http://arxiv.org/abs/2407.09590)|null|
 |**2024-07-11**|**An Unsupervised Domain Adaptation Method for Locating Manipulated Region in partially fake Audio**|Siding Zeng et.al.|[2407.08239](http://arxiv.org/abs/2407.08239)|null|
 |**2024-07-10**|**MoVEInt: Mixture of Variational Experts for Learning Human-Robot Interactions from Demonstrations**|Vignesh Prasad et.al.|[2407.07636](http://arxiv.org/abs/2407.07636)|null|
