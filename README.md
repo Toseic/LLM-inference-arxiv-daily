@@ -97,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Understanding the Performance and Estimating the Cost of LLM Fine-Tuning**|Yuchen Xia et.al.|[2408.04693](http://arxiv.org/abs/2408.04693)|**[link](https://github.com/stsxxx/finetune)**|
 |**2024-08-08**|**Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**|Weilin Cai et.al.|[2408.04307](http://arxiv.org/abs/2408.04307)|null|
 |**2024-08-08**|**LaDiMo: Layer-wise Distillation Inspired MoEfier**|Sungyoon Kim et.al.|[2408.04278](http://arxiv.org/abs/2408.04278)|null|
 |**2024-08-07**|**MoExtend: Tuning New Experts for Modality and Task Extension**|Shanshan Zhong et.al.|[2408.03511](http://arxiv.org/abs/2408.03511)|null|
