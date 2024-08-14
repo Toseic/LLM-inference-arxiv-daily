@@ -104,6 +104,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057](http://arxiv.org/abs/2408.07057)|null|
+|**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
+|**2024-08-13**|**AquilaMoE: Efficient Training for MoE Models with Scale-Up and Scale-Out Strategies**|Bo-Wen Zhang et.al.|[2408.06567](http://arxiv.org/abs/2408.06567)|null|
 |**2024-08-10**|**HoME: Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou**|Xu Wang et.al.|[2408.05430](http://arxiv.org/abs/2408.05430)|null|
 |**2024-08-08**|**Understanding the Performance and Estimating the Cost of LLM Fine-Tuning**|Yuchen Xia et.al.|[2408.04693](http://arxiv.org/abs/2408.04693)|**[link](https://github.com/stsxxx/finetune)**|
 |**2024-08-08**|**Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**|Weilin Cai et.al.|[2408.04307](http://arxiv.org/abs/2408.04307)|null|
