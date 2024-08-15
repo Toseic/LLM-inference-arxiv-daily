@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|null|
 |**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
 |**2024-08-10**|**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**|Jaehong Cho et.al.|[2408.05499](http://arxiv.org/abs/2408.05499)|**[link](https://github.com/casys-kaist/llmservingsim)**|
 |**2024-08-05**|**SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving**|Andreas Kosmas Kakolyris et.al.|[2408.05235](http://arxiv.org/abs/2408.05235)|null|
@@ -104,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation**|CanYi Liu et.al.|[2408.07427](http://arxiv.org/abs/2408.07427)|null|
 |**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057](http://arxiv.org/abs/2408.07057)|null|
 |**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
 |**2024-08-13**|**AquilaMoE: Efficient Training for MoE Models with Scale-Up and Scale-Out Strategies**|Bo-Wen Zhang et.al.|[2408.06567](http://arxiv.org/abs/2408.06567)|null|
