@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models**|Artem Vazhentsev et.al.|[2408.10692](http://arxiv.org/abs/2408.10692)|null|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
 |**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|null|
@@ -107,6 +108,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822](http://arxiv.org/abs/2408.10822)|null|
+|**2024-08-20**|**AnyGraph: Graph Foundation Model in the Wild**|Lianghao Xia et.al.|[2408.10700](http://arxiv.org/abs/2408.10700)|**[link](https://github.com/hkuds/anygraph)**|
+|**2024-08-20**|**HMoE: Heterogeneous Mixture of Experts for Language Modeling**|An Wang et.al.|[2408.10681](http://arxiv.org/abs/2408.10681)|null|
+|**2024-08-19**|**AdapMoE: Adaptive Sensitivity-based Expert Gating and Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2408.10284](http://arxiv.org/abs/2408.10284)|null|
+|**2024-08-17**|**FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models**|Xiaochen Wang et.al.|[2408.10276](http://arxiv.org/abs/2408.10276)|null|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
 |**2024-08-19**|**A Unified Framework for Iris Anti-Spoofing: Introducing IrisGeneral Dataset and Masked-MoE Method**|Hang Zou et.al.|[2408.09752](http://arxiv.org/abs/2408.09752)|null|
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
