@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|null|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-20**|**Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models**|Artem Vazhentsev et.al.|[2408.10692](http://arxiv.org/abs/2408.10692)|null|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
@@ -109,11 +110,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|null|
 |**2024-08-21**|**MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing**|Hao Zhou et.al.|[2408.11396](http://arxiv.org/abs/2408.11396)|**[link](https://github.com/zjwang21/moe-lpr)**|
 |**2024-08-21**|**KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?**|Xiao Han et.al.|[2408.11306](http://arxiv.org/abs/2408.11306)|**[link](https://github.com/2448845600/kan4tsf)**|
 |**2024-08-21**|**FedMoE: Personalized Federated Learning via Heterogeneous Mixture of Experts**|Hanzi Mei et.al.|[2408.11304](http://arxiv.org/abs/2408.11304)|null|
 |**2024-08-20**|**Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data**|Atmika Gorti et.al.|[2408.11247](http://arxiv.org/abs/2408.11247)|null|
-|**2024-08-20**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822](http://arxiv.org/abs/2408.10822)|null|
+|**2024-08-20**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822](http://arxiv.org/abs/2408.10822)|**[link](https://github.com/jasonz5/STGormer)**|
 |**2024-08-20**|**AnyGraph: Graph Foundation Model in the Wild**|Lianghao Xia et.al.|[2408.10700](http://arxiv.org/abs/2408.10700)|**[link](https://github.com/hkuds/anygraph)**|
 |**2024-08-20**|**HMoE: Heterogeneous Mixture of Experts for Language Modeling**|An Wang et.al.|[2408.10681](http://arxiv.org/abs/2408.10681)|null|
 |**2024-08-19**|**AdapMoE: Adaptive Sensitivity-based Expert Gating and Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2408.10284](http://arxiv.org/abs/2408.10284)|null|
