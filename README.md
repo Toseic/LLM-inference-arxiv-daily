@@ -44,7 +44,7 @@
 |**2024-07-17**|**Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models**|Ayush Kaushal et.al.|[2407.12327](http://arxiv.org/abs/2407.12327)|**[link](https://github.com/nolanoorg/spectrasuite)**|
 |**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
 |**2024-07-21**|**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference**|Yuan Feng et.al.|[2407.11550](http://arxiv.org/abs/2407.11550)|**[link](https://github.com/ffy0/adakv)**|
-|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|**[link](https://github.com/hanguo97/flute)**|
 |**2024-07-12**|**Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference**|Zongyue Qin et.al.|[2407.09722](http://arxiv.org/abs/2407.09722)|null|
 |**2024-07-09**|**Metron: Holistic Performance Evaluation Framework for LLM Inference Systems**|Amey Agrawal et.al.|[2407.07000](http://arxiv.org/abs/2407.07000)|**[link](https://github.com/project-metron/metron)**|
 |**2024-07-08**|**Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU**|Daliang Xu et.al.|[2407.05858](http://arxiv.org/abs/2407.05858)|**[link](https://github.com/ubiquitouslearning/mllm)**|
