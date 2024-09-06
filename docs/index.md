@@ -23,7 +23,7 @@ layout: default
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
 |**2024-08-22**|**NanoFlow: Towards Optimal Large Language Model Serving Throughput**|Kan Zhu et.al.|[2408.12757](http://arxiv.org/abs/2408.12757)|**[link](https://github.com/efeslab/Nanoflow)**|
 |**2024-09-04**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|null|
-|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
+|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|**[link](https://github.com/ist-daslab/sparse-marlin)**|
 |**2024-08-20**|**Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models**|Artem Vazhentsev et.al.|[2408.10692](http://arxiv.org/abs/2408.10692)|null|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|**[link](https://github.com/bytedance/abq-llm)**|
@@ -118,6 +118,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions**|Zemian Ke et.al.|[2409.03282](http://arxiv.org/abs/2409.03282)|null|
+|**2024-09-05**|**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**|Zhengzhuo Xu et.al.|[2409.03277](http://arxiv.org/abs/2409.03277)|null|
+|**2024-09-05**|**xLAM: A Family of Large Action Models to Empower AI Agent Systems**|Jianguo Zhang et.al.|[2409.03215](http://arxiv.org/abs/2409.03215)|null|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
 |**2024-09-04**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
 |**2024-09-03**|**OLMoE: Open Mixture-of-Experts Language Models**|Niklas Muennighoff et.al.|[2409.02060](http://arxiv.org/abs/2409.02060)|null|
