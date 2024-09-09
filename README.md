@@ -18,7 +18,7 @@
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
 |**2024-08-22**|**NanoFlow: Towards Optimal Large Language Model Serving Throughput**|Kan Zhu et.al.|[2408.12757](http://arxiv.org/abs/2408.12757)|**[link](https://github.com/efeslab/Nanoflow)**|
-|**2024-09-04**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|null|
+|**2024-09-04**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|**[link](https://github.com/smart-lty/parallelspeculativedecoding)**|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|**[link](https://github.com/ist-daslab/sparse-marlin)**|
 |**2024-08-20**|**Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models**|Artem Vazhentsev et.al.|[2408.10692](http://arxiv.org/abs/2408.10692)|null|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
@@ -212,7 +212,7 @@
 |**2024-06-28**|**One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**|Ruochen Wang et.al.|[2407.00256](http://arxiv.org/abs/2407.00256)|**[link](https://github.com/ruocwang/mixture-of-prompts)**|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
-|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|null|
+|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|**[link](https://github.com/qmgzhao/SAML)**|
 |**2024-06-27**|**A Teacher Is Worth A Million Instructions**|Nikhil Kothari et.al.|[2406.19112](http://arxiv.org/abs/2406.19112)|null|
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
 |**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
