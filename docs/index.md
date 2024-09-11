@@ -124,6 +124,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
+|**2024-09-10**|**STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**|Jaeseong Lee et.al.|[2409.06211](http://arxiv.org/abs/2409.06211)|null|
+|**2024-09-10**|**VE: Modeling Multivariate Time Series Correlation with Variate Embedding**|Shangjiong Wang et.al.|[2409.06169](http://arxiv.org/abs/2409.06169)|null|
+|**2024-09-09**|**Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models**|Hongyang Lei et.al.|[2409.05929](http://arxiv.org/abs/2409.05929)|null|
 |**2024-09-09**|**Optical Spiking Neurons Enable High-Speed and Energy-Efficient Optical Neural Networks**|Bo Xu et.al.|[2409.05726](http://arxiv.org/abs/2409.05726)|null|
 |**2024-09-09**|**Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection**|Tianwu Lei et.al.|[2409.05611](http://arxiv.org/abs/2409.05611)|null|
 |**2024-09-05**|**Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions**|Zemian Ke et.al.|[2409.03282](http://arxiv.org/abs/2409.03282)|null|
