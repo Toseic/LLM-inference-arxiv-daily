@@ -132,14 +132,14 @@
 |**2024-09-05**|**xLAM: A Family of Large Action Models to Empower AI Agent Systems**|Jianguo Zhang et.al.|[2409.03215](http://arxiv.org/abs/2409.03215)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
 |**2024-09-04**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
-|**2024-09-03**|**OLMoE: Open Mixture-of-Experts Language Models**|Niklas Muennighoff et.al.|[2409.02060](http://arxiv.org/abs/2409.02060)|null|
+|**2024-09-03**|**OLMoE: Open Mixture-of-Experts Language Models**|Niklas Muennighoff et.al.|[2409.02060](http://arxiv.org/abs/2409.02060)|**[link](https://github.com/allenai/OLMoE)**|
 |**2024-09-05**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang et.al.|[2409.02050](http://arxiv.org/abs/2409.02050)|null|
 |**2024-09-02**|**Revisiting SMoE Language Models by Evaluating Inefficiencies with Task Specific Expert Pruning**|Soumajyoti Sarkar et.al.|[2409.01483](http://arxiv.org/abs/2409.01483)|null|
 |**2024-09-02**|**Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching**|Sungmin Yun et.al.|[2409.01141](http://arxiv.org/abs/2409.01141)|null|
 |**2024-09-04**|**Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack**|Guanzhong Chen et.al.|[2409.00960](http://arxiv.org/abs/2409.00960)|**[link](https://github.com/StupidTrees/SplitLLM)**|
 |**2024-09-02**|**Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts**|Youngseog Chung et.al.|[2409.00879](http://arxiv.org/abs/2409.00879)|null|
 |**2024-08-29**|**Gradient-free variational learning with conditional mixture networks**|Conor Heins et.al.|[2408.16429](http://arxiv.org/abs/2408.16429)|**[link](https://github.com/versestech/cavi-cmn)**|
-|**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
+|**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|**[link](https://github.com/yaphabates/rocket)**|
 |**2024-08-28**|**Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts**|Nikolas Gritsch et.al.|[2408.15901](http://arxiv.org/abs/2408.15901)|null|
 |**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|**[link](https://github.com/shufangxun/llava-mod)**|
 |**2024-08-28**|**Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**|Lean Wang et.al.|[2408.15664](http://arxiv.org/abs/2408.15664)|null|
