@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-08**|**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference**|Xiurui Pan et.al.|[2409.04992](http://arxiv.org/abs/2409.04992)|null|
 |**2024-09-07**|**Achieving Peak Performance for Large Language Models: A Systematic Review**|Zhyar Rzgar K Rostam et.al.|[2409.04833](http://arxiv.org/abs/2409.04833)|null|
 |**2024-09-06**|**A First Look At Efficient And Secure On-Device LLM Inference Against KV Leakage**|Huan Yang et.al.|[2409.04040](http://arxiv.org/abs/2409.04040)|null|
@@ -124,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
 |**2024-09-14**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
 |**2024-09-10**|**STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**|Jaeseong Lee et.al.|[2409.06211](http://arxiv.org/abs/2409.06211)|null|
