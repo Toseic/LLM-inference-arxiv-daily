@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**ISO: Overlap of Computation and Communication within Seqenence For LLM Inference**|Bin Xiao et.al.|[2409.11155](http://arxiv.org/abs/2409.11155)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-08**|**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference**|Xiurui Pan et.al.|[2409.04992](http://arxiv.org/abs/2409.04992)|null|
 |**2024-09-07**|**Achieving Peak Performance for Large Language Models: A Systematic Review**|Zhyar Rzgar K Rostam et.al.|[2409.04833](http://arxiv.org/abs/2409.04833)|null|
@@ -125,6 +126,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
+|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|null|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
 |**2024-09-14**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
