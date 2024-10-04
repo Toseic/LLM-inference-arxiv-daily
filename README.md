@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -132,7 +132,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20241003>(back to top)</a></p>
+<p align=right><a href=#updated-on-20241004>(back to top)</a></p>
 
 ## MoE
 
@@ -146,7 +146,7 @@
 |**2024-10-01**|**Robust Traffic Forecasting against Spatial Shift over Years**|Hongjun Wang et.al.|[2410.00373](http://arxiv.org/abs/2410.00373)|**[link](https://github.com/dreamzz5/st-expert)**|
 |**2024-09-29**|**IDEA: An Inverse Domain Expert Adaptation Based Active DNN IP Protection Method**|Chaohui Xu et.al.|[2410.00059](http://arxiv.org/abs/2410.00059)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
-|**2024-09-28**|**CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling**|Jihai Zhang et.al.|[2409.19291](http://arxiv.org/abs/2409.19291)|null|
+|**2024-10-02**|**CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling**|Jihai Zhang et.al.|[2409.19291](http://arxiv.org/abs/2409.19291)|null|
 |**2024-09-27**|**SciDFM: A Large Language Model with Mixture-of-Experts for Science**|Liangtai Sun et.al.|[2409.18412](http://arxiv.org/abs/2409.18412)|null|
 |**2024-09-26**|**Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE**|Xun Zhu et.al.|[2409.17508](http://arxiv.org/abs/2409.17508)|null|
 |**2024-09-26**|**A Time Series is Worth Five Experts: Heterogeneous Mixture of Experts for Traffic Flow Prediction**|Guangyu Wang et.al.|[2409.17440](http://arxiv.org/abs/2409.17440)|**[link](https://github.com/sqlcow/TITAN)**|
@@ -347,7 +347,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20241003>(back to top)</a></p>
+<p align=right><a href=#updated-on-20241004>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
