@@ -14,9 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**EXAQ: Exponent Aware Quantization For LLMs Acceleration**|Moran Shkolnik et.al.|[2410.03185](http://arxiv.org/abs/2410.03185)|**[link](https://github.com/anonymous1252022/exaq)**|
+|**2024-10-03**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**|Zhenxiao Fu et.al.|[2410.02950](http://arxiv.org/abs/2410.02950)|null|
 |**2024-10-03**|**Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration**|Yun Qu et.al.|[2410.02511](http://arxiv.org/abs/2410.02511)|**[link](https://github.com/hijkzzz/pymarl2)**|
 |**2024-10-03**|**LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services**|Małgorzata Łazuka et.al.|[2410.02425](http://arxiv.org/abs/2410.02425)|null|
-|**2024-10-03**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
+|**2024-10-04**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving**|Yifan Qiao et.al.|[2410.01228](http://arxiv.org/abs/2410.01228)|null|
 |**2024-10-01**|**TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices**|Zonghang Li et.al.|[2410.00531](http://arxiv.org/abs/2410.00531)|**[link](https://github.com/lizonghang/tpi-llm)**|
@@ -145,11 +147,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
+|**2024-10-04**|**Exploring the Benefit of Activation Sparsity in Pre-training**|Zhengyan Zhang et.al.|[2410.03440](http://arxiv.org/abs/2410.03440)|**[link](https://github.com/thunlp/moefication)**|
+|**2024-10-03**|**MLP-KAN: Unifying Deep Representation and Function Learning**|Yunhong He et.al.|[2410.03027](http://arxiv.org/abs/2410.03027)|null|
+|**2024-10-03**|**On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions**|Huy Nguyen et.al.|[2410.02935](http://arxiv.org/abs/2410.02935)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
 |**2024-10-03**|**Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping**|Ziye Huang et.al.|[2410.02475](http://arxiv.org/abs/2410.02475)|null|
 |**2024-10-03**|**MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction**|Zhaojian Yu et.al.|[2410.02241](http://arxiv.org/abs/2410.02241)|null|
 |**2024-10-03**|**Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts**|Minh Le et.al.|[2410.02200](http://arxiv.org/abs/2410.02200)|null|
-|**2024-10-03**|**Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices**|Andres Potapczynski et.al.|[2410.02117](http://arxiv.org/abs/2410.02117)|**[link](https://github.com/andpotap/einsum-search)**|
+|**2024-10-04**|**Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices**|Andres Potapczynski et.al.|[2410.02117](http://arxiv.org/abs/2410.02117)|**[link](https://github.com/andpotap/einsum-search)**|
 |**2024-10-02**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098](http://arxiv.org/abs/2410.02098)|null|
 |**2024-10-02**|**Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL**|Ghada Sokar et.al.|[2410.01930](http://arxiv.org/abs/2410.01930)|null|
 |**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782](http://arxiv.org/abs/2410.01782)|**[link](https://github.com/ShayekhBinIslam/openrag)**|
