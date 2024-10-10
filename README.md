@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**|Heming Xia et.al.|[2410.06916](http://arxiv.org/abs/2410.06916)|null|
+|**2024-10-08**|**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**|Zilin Xiao et.al.|[2410.05589](http://arxiv.org/abs/2410.05589)|null|
 |**2024-10-06**|**RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**|Yige Xu et.al.|[2410.04519](http://arxiv.org/abs/2410.04519)|null|
 |**2024-10-06**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
 |**2024-10-04**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|null|
@@ -146,9 +148,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders**|David Noever et.al.|[2410.06462](http://arxiv.org/abs/2410.06462)|null|
+|**2024-10-09**|**Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs**|Ruijia Niu et.al.|[2410.06431](http://arxiv.org/abs/2410.06431)|null|
+|**2024-10-08**|**Probing the Robustness of Theory of Mind in Large Language Models**|Christian Nickel et.al.|[2410.06271](http://arxiv.org/abs/2410.06271)|null|
+|**2024-10-08**|**MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More**|Wei Huang et.al.|[2410.06270](http://arxiv.org/abs/2410.06270)|null|
+|**2024-10-08**|**Aria: An Open Multimodal Native Mixture-of-Experts Model**|Dongxu Li et.al.|[2410.05993](http://arxiv.org/abs/2410.05993)|**[link](https://github.com/rhymes-ai/aria)**|
+|**2024-10-08**|**Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models**|Siqi Wang et.al.|[2410.05661](http://arxiv.org/abs/2410.05661)|null|
+|**2024-10-07**|**Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild**|Xinyu Zhao et.al.|[2410.05357](http://arxiv.org/abs/2410.05357)|**[link](https://github.com/model-glue/model-glue)**|
 |**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833](http://arxiv.org/abs/2410.04833)|**[link](https://github.com/lgordon99/fusion-strategies-eccv)**|
 |**2024-10-06**|**Realizing Video Summarization from the Path of Language-based Semantic Understanding**|Kuan-Chen Mu et.al.|[2410.04511](http://arxiv.org/abs/2410.04511)|null|
-|**2024-10-04**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
+|**2024-10-09**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
 |**2024-10-04**|**Exploring the Benefit of Activation Sparsity in Pre-training**|Zhengyan Zhang et.al.|[2410.03440](http://arxiv.org/abs/2410.03440)|**[link](https://github.com/thunlp/moefication)**|
 |**2024-10-03**|**MLP-KAN: Unifying Deep Representation and Function Learning**|Yunhong He et.al.|[2410.03027](http://arxiv.org/abs/2410.03027)|**[link](https://github.com/dlyuangod/mlp-kan)**|
 |**2024-10-03**|**On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions**|Huy Nguyen et.al.|[2410.02935](http://arxiv.org/abs/2410.02935)|null|
