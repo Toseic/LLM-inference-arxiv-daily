@@ -14,10 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819](http://arxiv.org/abs/2410.10819)|**[link](https://github.com/mit-han-lab/duo-attention)**|
+|**2024-10-14**|**SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**|Akrit Mudvari et.al.|[2410.10759](http://arxiv.org/abs/2410.10759)|null|
+|**2024-10-12**|**Power-Softmax: Towards Secure LLM Inference over Encrypted Data**|Itamar Zimerman et.al.|[2410.09457](http://arxiv.org/abs/2410.09457)|null|
 |**2024-10-09**|**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**|Heming Xia et.al.|[2410.06916](http://arxiv.org/abs/2410.06916)|**[link](https://github.com/hemingkx/SWIFT)**|
 |**2024-10-08**|**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**|Zilin Xiao et.al.|[2410.05589](http://arxiv.org/abs/2410.05589)|null|
 |**2024-10-06**|**RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**|Yige Xu et.al.|[2410.04519](http://arxiv.org/abs/2410.04519)|null|
-|**2024-10-06**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
+|**2024-10-14**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
 |**2024-10-04**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|null|
 |**2024-10-04**|**EXAQ: Exponent Aware Quantization For LLMs Acceleration**|Moran Shkolnik et.al.|[2410.03185](http://arxiv.org/abs/2410.03185)|**[link](https://github.com/anonymous1252022/exaq)**|
 |**2024-10-03**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**|Zhenxiao Fu et.al.|[2410.02950](http://arxiv.org/abs/2410.02950)|null|
@@ -152,6 +155,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-14**|**Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts**|Guorui Zheng et.al.|[2410.10626](http://arxiv.org/abs/2410.10626)|**[link](https://github.com/freedomintelligence/apollomoe)**|
+|**2024-10-14**|**Learning to Ground VLMs without Forgetting**|Aritra Bhowmik et.al.|[2410.10491](http://arxiv.org/abs/2410.10491)|null|
+|**2024-10-14**|**Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts**|Xu Liu et.al.|[2410.10469](http://arxiv.org/abs/2410.10469)|null|
+|**2024-10-14**|**Ada-K Routing: Boosting the Efficiency of MoE-based LLMs**|Tongtian Yue et.al.|[2410.10456](http://arxiv.org/abs/2410.10456)|null|
+|**2024-10-14**|**Tighter Risk Bounds for Mixtures of Experts**|Wissam Akretche et.al.|[2410.10397](http://arxiv.org/abs/2410.10397)|null|
+|**2024-10-14**|**Scalable Multi-Domain Adaptation of Language Models using Modular Experts**|Peter Schafhalter et.al.|[2410.10181](http://arxiv.org/abs/2410.10181)|null|
+|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-14**|**AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality**|Peijun Qing et.al.|[2410.10054](http://arxiv.org/abs/2410.10054)|**[link](https://github.com/morelife2017/alphalora)**|
+|**2024-10-13**|**ContextWIN: Whittle Index Based Mixture-of-Experts Neural Model For Restless Bandits Via Deep RL**|Zhanqiu Guo et.al.|[2410.09781](http://arxiv.org/abs/2410.09781)|null|
 |**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
 |**2024-10-11**|**Retraining-Free Merging of Sparse Mixture-of-Experts via Hierarchical Clustering**|I-Chun Chen et.al.|[2410.08589](http://arxiv.org/abs/2410.08589)|**[link](https://github.com/wazenmai/hc-smoe)**|
 |**2024-10-10**|**Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts**|Sukwon Yun et.al.|[2410.08245](http://arxiv.org/abs/2410.08245)|**[link](https://github.com/unites-lab/flex-moe)**|
