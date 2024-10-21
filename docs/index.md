@@ -63,7 +63,7 @@ layout: default
 |**2024-09-04**|**Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference**|Barys Liskavets et.al.|[2409.01227](http://arxiv.org/abs/2409.01227)|null|
 |**2024-09-01**|**Research on LLM Acceleration Using the High-Performance RISC-V Processor "Xiangshan" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)**|Xu-Hao Chen et.al.|[2409.00661](http://arxiv.org/abs/2409.00661)|null|
 |**2024-08-28**|**Decentralized LLM Inference over Edge Networks with Energy Harvesting**|Aria Khoshsirat et.al.|[2408.15907](http://arxiv.org/abs/2408.15907)|null|
-|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
+|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
 |**2024-08-22**|**NanoFlow: Towards Optimal Large Language Model Serving Throughput**|Kan Zhu et.al.|[2408.12757](http://arxiv.org/abs/2408.12757)|**[link](https://github.com/efeslab/Nanoflow)**|
 |**2024-09-04**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|**[link](https://github.com/smart-lty/parallelspeculativedecoding)**|
@@ -354,7 +354,7 @@ layout: default
 |**2024-06-22**|**SimSMoE: Solving Representational Collapse via Similarity Measure**|Giang Do et.al.|[2406.15883](http://arxiv.org/abs/2406.15883)|null|
 |**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693](http://arxiv.org/abs/2406.14693)|**[link](https://github.com/koudounasalkis/AI4Voice)**|
 |**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
-|**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|null|
+|**2024-06-19**|**AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models**|Zihao Zeng et.al.|[2406.13233](http://arxiv.org/abs/2406.13233)|**[link](https://github.com/cengzihao/adamoe)**|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-06-18**|**P-Tailor: Customizing Personality Traits for Language Models via Mixture of Specialized LoRA Experts**|Yuhao Dan et.al.|[2406.12548](http://arxiv.org/abs/2406.12548)|null|
 |**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538](http://arxiv.org/abs/2406.12538)|null|
