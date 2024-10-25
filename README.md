@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
+|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
+|**2024-10-24**|**BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching**|Peizhuang Cong et.al.|[2410.18701](http://arxiv.org/abs/2410.18701)|null|
+|**2024-10-23**|**Efficient Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|null|
 |**2024-10-23**|**POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference**|Aditya K Kamath et.al.|[2410.18038](http://arxiv.org/abs/2410.18038)|null|
 |**2024-10-22**|**FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs**|Haoran Lin et.al.|[2410.16663](http://arxiv.org/abs/2410.16663)|null|
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
@@ -167,13 +171,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases**|Zhisheng Lin et.al.|[2410.18406](http://arxiv.org/abs/2410.18406)|null|
+|**2024-10-23**|**Robust and Explainable Depression Identification from Speech Using Vowel-Based Ensemble Learning Approaches**|Kexin Feng et.al.|[2410.18298](http://arxiv.org/abs/2410.18298)|null|
 |**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
 |**2024-10-23**|**ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference**|Xin He et.al.|[2410.17954](http://arxiv.org/abs/2410.17954)|null|
 |**2024-10-23**|**Faster Language Models with Better Multi-Token Prediction Using Tensor Decomposition**|Artem Basharin et.al.|[2410.17765](http://arxiv.org/abs/2410.17765)|null|
 |**2024-10-22**|**Optimizing Mixture-of-Experts Inference Time Combining Model Deployment and Communication Scheduling**|Jialong Li et.al.|[2410.17043](http://arxiv.org/abs/2410.17043)|null|
 |**2024-10-21**|**LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset**|Ruikun Zhang et.al.|[2410.16095](http://arxiv.org/abs/2410.16095)|**[link](https://github.com/wangzrk/LMHaze)**|
 |**2024-10-22**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|null|
-|**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[2410.15774](http://arxiv.org/abs/2410.15774)|null|
+|**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[2410.15774](http://arxiv.org/abs/2410.15774)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2024-10-21**|**ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts**|Xumeng Han et.al.|[2410.15732](http://arxiv.org/abs/2410.15732)|null|
 |**2024-10-20**|**Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs**|Xin Zhou et.al.|[2410.15438](http://arxiv.org/abs/2410.15438)|null|
 |**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
