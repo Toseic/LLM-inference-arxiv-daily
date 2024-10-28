@@ -395,7 +395,7 @@
 |**2024-06-11**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955](http://arxiv.org/abs/2406.05955)|null|
 |**2024-06-08**|**Flexible and Adaptable Summarization via Expertise Separation**|Xiuying Chen et.al.|[2406.05360](http://arxiv.org/abs/2406.05360)|**[link](https://github.com/iriscxy/moe_summ)**|
 |**2024-06-07**|**MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter**|Jitai Hao et.al.|[2406.04984](http://arxiv.org/abs/2406.04984)|**[link](https://github.com/currentf/meft)**|
-|**2024-06-07**|**MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks**|Xingkui Zhu et.al.|[2406.04801](http://arxiv.org/abs/2406.04801)|null|
+|**2024-06-07**|**MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks**|Xingkui Zhu et.al.|[2406.04801](http://arxiv.org/abs/2406.04801)|**[link](https://github.com/adlith/moe-jetpack)**|
 |**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637](http://arxiv.org/abs/2406.03637)|null|
 |**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464](http://arxiv.org/abs/2406.03464)|null|
 |**2024-06-05**|**Continual Traffic Forecasting via Mixture of Experts**|Sanghyun Lee et.al.|[2406.03140](http://arxiv.org/abs/2406.03140)|null|
