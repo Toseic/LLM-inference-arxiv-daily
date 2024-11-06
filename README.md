@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
 |**2024-11-03**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
 |**2024-11-02**|**RA-WEBs: Remote Attestation for WEB services**|Kosei Akama et.al.|[2411.01340](http://arxiv.org/abs/2411.01340)|null|
@@ -188,7 +189,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-04**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/hunyuan-large)**|
+|**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025](http://arxiv.org/abs/2411.03025)|**[link](https://github.com/celin-yao/da-moe)**|
+|**2024-11-05**|**Advancing Robust Underwater Acoustic Target Recognition through Multi-task Learning and Multi-Gate Mixture-of-Experts**|Yuan Xie et.al.|[2411.02787](http://arxiv.org/abs/2411.02787)|null|
+|**2024-11-05**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
 |**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457](http://arxiv.org/abs/2411.01457)|null|
