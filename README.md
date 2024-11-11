@@ -42,7 +42,7 @@
 |**2024-10-18**|**A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**|You Wu et.al.|[2410.14442](http://arxiv.org/abs/2410.14442)|**[link](https://github.com/whyNLP/LCKV)**|
 |**2024-10-18**|**Revisiting SLO and Goodput Metrics in LLM Serving**|Zhibin Wang et.al.|[2410.14257](http://arxiv.org/abs/2410.14257)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
-|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|**[link](https://github.com/guotianyu2000/active-dormant-attention)**|
 |**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
 |**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/wagnew3/llmdatadefenses)**|
 |**2024-10-19**|**In-context KV-Cache Eviction for LLMs via Attention-Gate**|Zihao Zeng et.al.|[2410.12876](http://arxiv.org/abs/2410.12876)|null|
@@ -54,7 +54,7 @@
 |**2024-10-12**|**Power-Softmax: Towards Secure LLM Inference over Encrypted Data**|Itamar Zimerman et.al.|[2410.09457](http://arxiv.org/abs/2410.09457)|null|
 |**2024-10-09**|**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**|Heming Xia et.al.|[2410.06916](http://arxiv.org/abs/2410.06916)|**[link](https://github.com/hemingkx/SWIFT)**|
 |**2024-10-08**|**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**|Zilin Xiao et.al.|[2410.05589](http://arxiv.org/abs/2410.05589)|null|
-|**2024-10-06**|**RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**|Yige Xu et.al.|[2410.04519](http://arxiv.org/abs/2410.04519)|null|
+|**2024-10-06**|**RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**|Yige Xu et.al.|[2410.04519](http://arxiv.org/abs/2410.04519)|**[link](https://github.com/xuyige/RevMUX)**|
 |**2024-10-14**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
 |**2024-10-04**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|null|
 |**2024-10-04**|**EXAQ: Exponent Aware Quantization For LLMs Acceleration**|Moran Shkolnik et.al.|[2410.03185](http://arxiv.org/abs/2410.03185)|**[link](https://github.com/anonymous1252022/exaq)**|
@@ -213,7 +213,7 @@
 |**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[2410.21086](http://arxiv.org/abs/2410.21086)|null|
 |**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
 |**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
-|**2024-10-25**|**DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensionality Reduction**|Zelin Zang et.al.|[2410.19504](http://arxiv.org/abs/2410.19504)|null|
+|**2024-10-25**|**DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensionality Reduction**|Zelin Zang et.al.|[2410.19504](http://arxiv.org/abs/2410.19504)|**[link](https://github.com/zangzelin/code_dmthi)**|
 |**2024-10-25**|**Hierarchical Mixture of Experts: Generalizable Learning for High-Level Synthesis**|Weikai Li et.al.|[2410.19225](http://arxiv.org/abs/2410.19225)|null|
 |**2024-10-24**|**Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**|Ruisi Cai et.al.|[2410.19123](http://arxiv.org/abs/2410.19123)|null|
 |**2024-10-24**|**Mixture of Parrots: Experts improve memorization more than reasoning**|Samy Jelassi et.al.|[2410.19034](http://arxiv.org/abs/2410.19034)|null|
