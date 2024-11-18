@@ -34,7 +34,7 @@ layout: default
 |**2024-10-31**|**Interpretable Language Modeling via Induction-head Ngram Models**|Eunji Kim et.al.|[2411.00066](http://arxiv.org/abs/2411.00066)|**[link](https://github.com/ejkim47/induction-gram)**|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
-|**2024-10-29**|**Scaling LLM Inference with Optimized Sample Compute Allocation**|Kexun Zhang et.al.|[2410.22480](http://arxiv.org/abs/2410.22480)|null|
+|**2024-10-29**|**Scaling LLM Inference with Optimized Sample Compute Allocation**|Kexun Zhang et.al.|[2410.22480](http://arxiv.org/abs/2410.22480)|**[link](https://github.com/leililab/osca)**|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-28**|**ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference**|Hanshi Sun et.al.|[2410.21465](http://arxiv.org/abs/2410.21465)|**[link](https://github.com/bytedance/ShadowKV)**|
 |**2024-10-27**|**FIRP: Faster LLM inference via future intermediate representation prediction**|Pengfei Wu et.al.|[2410.20488](http://arxiv.org/abs/2410.20488)|null|
