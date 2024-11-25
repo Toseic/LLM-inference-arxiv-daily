@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
 |**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
 |**2024-11-20**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|null|
 |**2024-11-21**|**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**|Zhuohan Gu et.al.|[2411.13009](http://arxiv.org/abs/2411.13009)|null|
