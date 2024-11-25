@@ -37,7 +37,7 @@ layout: default
 |**2024-11-01**|**LLM-Based Misconfiguration Detection for AWS Serverless Computing**|Jinfeng Wen et.al.|[2411.00642](http://arxiv.org/abs/2411.00642)|null|
 |**2024-11-04**|**ReverseNER: A Self-Generated Example-Driven Framework for Zero-Shot Named Entity Recognition with Large Language Models**|Anbang Wang et.al.|[2411.00533](http://arxiv.org/abs/2411.00533)|null|
 |**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
-|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|null|
+|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|**[link](https://github.com/argonne-lcf/llm-inference-bench)**|
 |**2024-10-31**|**Interpretable Language Modeling via Induction-head Ngram Models**|Eunji Kim et.al.|[2411.00066](http://arxiv.org/abs/2411.00066)|**[link](https://github.com/ejkim47/induction-gram)**|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
@@ -467,7 +467,7 @@ layout: default
 |**2024-06-18**|**GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory**|Haoze Wu et.al.|[2406.12375](http://arxiv.org/abs/2406.12375)|**[link](https://github.com/waithz/gw-moe)**|
 |**2024-06-17**|**Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**|Ukyo Honda et.al.|[2406.12060](http://arxiv.org/abs/2406.12060)|**[link](https://github.com/CyberAgentAILab/posthoc-control-moe)**|
 |**2024-06-17**|**DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**|DeepSeek-AI et.al.|[2406.11931](http://arxiv.org/abs/2406.11931)|**[link](https://github.com/deepseek-ai/deepseek-coder-v2)**|
-|**2024-06-17**|**Graph Knowledge Distillation to Mixture of Experts**|Pavel Rumiantsev et.al.|[2406.11919](http://arxiv.org/abs/2406.11919)|null|
+|**2024-06-17**|**Graph Knowledge Distillation to Mixture of Experts**|Pavel Rumiantsev et.al.|[2406.11919](http://arxiv.org/abs/2406.11919)|**[link](https://github.com/rufaim/routing-by-memory)**|
 |**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|**[link](https://github.com/unites-lab/moe-rbench)**|
 |**2024-06-17**|**Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts**|Tong Zhu et.al.|[2406.11256](http://arxiv.org/abs/2406.11256)|**[link](https://github.com/spico197/moe-sft)**|
 |**2024-06-14**|**Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion**|Anke Tang et.al.|[2406.09770](http://arxiv.org/abs/2406.09770)|**[link](https://github.com/tanganke/pareto_set_learning)**|
@@ -503,7 +503,7 @@ layout: default
 |**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297](http://arxiv.org/abs/2405.14297)|**[link](https://github.com/lins-lab/dynmoe)**|
 |**2024-05-23**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260](http://arxiv.org/abs/2405.14260)|**[link](https://github.com/yanweiyue/mog)**|
 |**2024-05-23**|**Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts**|Huy Nguyen et.al.|[2405.14131](http://arxiv.org/abs/2405.14131)|null|
-|**2024-05-23**|**Mixture of Experts Meets Prompt-Based Continual Learning**|Minh Le et.al.|[2405.14124](http://arxiv.org/abs/2405.14124)|null|
+|**2024-05-23**|**Mixture of Experts Meets Prompt-Based Continual Learning**|Minh Le et.al.|[2405.14124](http://arxiv.org/abs/2405.14124)|**[link](https://github.com/minhchuyentoancbn/moe_promptcl)**|
 |**2024-05-22**|**Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts**|Huy Nguyen et.al.|[2405.13997](http://arxiv.org/abs/2405.13997)|null|
 |**2024-05-22**|**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token**|Xin Cheng et.al.|[2405.13792](http://arxiv.org/abs/2405.13792)|**[link](https://github.com/Hannibal046/xRAG)**|
 |**2024-05-24**|**MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models**|Jingwei Xu et.al.|[2405.13053](http://arxiv.org/abs/2405.13053)|**[link](https://github.com/paragonlight/meteor-of-lora)**|
