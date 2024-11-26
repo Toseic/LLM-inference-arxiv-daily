@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**MixPE: Quantization and Hardware Co-design for Efficient LLM Inference**|Yu Zhang et.al.|[2411.16158](http://arxiv.org/abs/2411.16158)|null|
+|**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003](http://arxiv.org/abs/2411.16003)|null|
+|**2024-11-24**|**Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format**|Chao Fang et.al.|[2411.15982](http://arxiv.org/abs/2411.15982)|null|
+|**2024-11-24**|**Task Scheduling for Efficient Inference of Large Language Models on Single Moderate GPU Systems**|Wenxiang Lin et.al.|[2411.15715](http://arxiv.org/abs/2411.15715)|null|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
 |**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
 |**2024-11-20**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|null|
@@ -209,8 +213,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**MH-MoE:Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
+|**2024-11-25**|**LDACP: Long-Delayed Ad Conversions Prediction Model for Bidding Strategy**|Peng Cui et.al.|[2411.16095](http://arxiv.org/abs/2411.16095)|null|
+|**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
+|**2024-11-24**|**LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**|Xiaoye Qu et.al.|[2411.15708](http://arxiv.org/abs/2411.15708)|null|
+|**2024-11-23**|**Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts**|Qizhou Chen et.al.|[2411.15432](http://arxiv.org/abs/2411.15432)|null|
+|**2024-11-23**|**Communication-Efficient Sparsely-Activated Model Training via Sequence Migration and Token Condensation**|Fahao Chen et.al.|[2411.15419](http://arxiv.org/abs/2411.15419)|null|
 |**2024-11-20**|**MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification**|Yuxuan Chen et.al.|[2411.13004](http://arxiv.org/abs/2411.13004)|null|
-|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950](http://arxiv.org/abs/2411.12950)|null|
+|**2024-11-23**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950](http://arxiv.org/abs/2411.12950)|null|
 |**2024-11-19**|**Ultra-Sparse Memory Network**|Zihao Huang et.al.|[2411.12364](http://arxiv.org/abs/2411.12364)|null|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
