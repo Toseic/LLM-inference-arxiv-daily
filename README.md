@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**|Cristobal Ortega et.al.|[2411.17309](http://arxiv.org/abs/2411.17309)|null|
+|**2024-11-26**|**Star Attention: Efficient LLM Inference over Long Sequences**|Shantanu Acharya et.al.|[2411.17116](http://arxiv.org/abs/2411.17116)|**[link](https://github.com/NVIDIA/Star-Attention)**|
+|**2024-11-26**|**Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation**|Chaoyi Jiang et.al.|[2411.17089](http://arxiv.org/abs/2411.17089)|null|
 |**2024-11-25**|**MixPE: Quantization and Hardware Co-design for Efficient LLM Inference**|Yu Zhang et.al.|[2411.16158](http://arxiv.org/abs/2411.16158)|null|
 |**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003](http://arxiv.org/abs/2411.16003)|null|
 |**2024-11-24**|**Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format**|Chao Fang et.al.|[2411.15982](http://arxiv.org/abs/2411.15982)|null|
@@ -209,10 +212,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-25**|**MH-MoE:Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
+|**2024-11-25**|**Staleness-Centric Optimizations for Efficient Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786](http://arxiv.org/abs/2411.16786)|null|
+|**2024-11-26**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
 |**2024-11-25**|**LDACP: Long-Delayed Ad Conversions Prediction Model for Bidding Strategy**|Peng Cui et.al.|[2411.16095](http://arxiv.org/abs/2411.16095)|null|
 |**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
-|**2024-11-24**|**LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**|Xiaoye Qu et.al.|[2411.15708](http://arxiv.org/abs/2411.15708)|null|
+|**2024-11-24**|**LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**|Xiaoye Qu et.al.|[2411.15708](http://arxiv.org/abs/2411.15708)|**[link](https://github.com/opensparsellms/llama-moe-v2)**|
 |**2024-11-23**|**Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts**|Qizhou Chen et.al.|[2411.15432](http://arxiv.org/abs/2411.15432)|null|
 |**2024-11-23**|**Communication-Efficient Sparsely-Activated Model Training via Sequence Migration and Token Condensation**|Fahao Chen et.al.|[2411.15419](http://arxiv.org/abs/2411.15419)|null|
 |**2024-11-20**|**MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification**|Yuxuan Chen et.al.|[2411.13004](http://arxiv.org/abs/2411.13004)|null|
