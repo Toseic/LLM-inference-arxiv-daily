@@ -10,8 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-27**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
-|**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
+|**2024-11-29**|**A dynamic parallel method for performance optimization on hybrid CPUs**|Luo Yu et.al.|[2411.19542](http://arxiv.org/abs/2411.19542)|null|
+|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
+|**2024-11-29**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
+|**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-24**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741](http://arxiv.org/abs/2411.17741)|null|
 |**2024-11-26**|**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**|Cristobal Ortega et.al.|[2411.17309](http://arxiv.org/abs/2411.17309)|null|
 |**2024-11-26**|**Star Attention: Efficient LLM Inference over Long Sequences**|Shantanu Acharya et.al.|[2411.17116](http://arxiv.org/abs/2411.17116)|**[link](https://github.com/NVIDIA/Star-Attention)**|
@@ -215,11 +217,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
+|**2024-11-28**|**On the effectiveness of discrete representations in sparse mixture of experts**|Giang Do et.al.|[2411.19402](http://arxiv.org/abs/2411.19402)|null|
+|**2024-11-28**|**Bayesian Cluster Weighted Gaussian Models**|Panagiotis Papastamoulis et.al.|[2411.18957](http://arxiv.org/abs/2411.18957)|null|
+|**2024-11-27**|**UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS**|Haomin Zhuang et.al.|[2411.18797](http://arxiv.org/abs/2411.18797)|null|
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466](http://arxiv.org/abs/2411.18466)|null|
 |**2024-11-27**|**Mixture of Experts in Image Classification: What's the Sweet Spot?**|Mathurin Videau et.al.|[2411.18322](http://arxiv.org/abs/2411.18322)|null|
 |**2024-11-26**|**$H^3$ Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs**|Selim Furkan Tekin et.al.|[2411.17792](http://arxiv.org/abs/2411.17792)|**[link](https://github.com/sftekin/h3fusion)**|
 |**2024-11-25**|**Staleness-Centric Optimizations for Efficient Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786](http://arxiv.org/abs/2411.16786)|null|
-|**2024-11-26**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
+|**2024-11-29**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
 |**2024-11-25**|**LDACP: Long-Delayed Ad Conversions Prediction Model for Bidding Strategy**|Peng Cui et.al.|[2411.16095](http://arxiv.org/abs/2411.16095)|null|
 |**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
 |**2024-11-24**|**LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**|Xiaoye Qu et.al.|[2411.15708](http://arxiv.org/abs/2411.15708)|**[link](https://github.com/opensparsellms/llama-moe-v2)**|
