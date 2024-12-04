@@ -10,8 +10,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
+|**2024-12-02**|**PLD+: Accelerating LLM inference by leveraging Language Model Artifacts**|Shwetha Somasundaram et.al.|[2412.01447](http://arxiv.org/abs/2412.01447)|null|
+|**2024-12-02**|**Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking**|Marco Federici et.al.|[2412.01380](http://arxiv.org/abs/2412.01380)|null|
+|**2024-12-02**|**RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy**|Geonho Lee et.al.|[2412.01129](http://arxiv.org/abs/2412.01129)|null|
+|**2024-12-02**|**TruncFormer: Private LLM Inference Using Only Truncations**|Patrick Yubeaton et.al.|[2412.01042](http://arxiv.org/abs/2412.01042)|null|
 |**2024-11-29**|**A dynamic parallel method for performance optimization on hybrid CPUs**|Luo Yu et.al.|[2411.19542](http://arxiv.org/abs/2411.19542)|null|
-|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
+|**2024-12-03**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
 |**2024-11-29**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
 |**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-24**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741](http://arxiv.org/abs/2411.17741)|null|
@@ -217,6 +222,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-30**|**MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**|Siddhant Dutta et.al.|[2412.01858](http://arxiv.org/abs/2412.01858)|null|
+|**2024-12-03**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
+|**2024-11-30**|**Mixture of Experts for Node Classification**|Yu Shi et.al.|[2412.00418](http://arxiv.org/abs/2412.00418)|null|
+|**2024-11-30**|**HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting**|Shaohan Yu et.al.|[2412.00316](http://arxiv.org/abs/2412.00316)|null|
+|**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
 |**2024-11-28**|**On the effectiveness of discrete representations in sparse mixture of experts**|Giang Do et.al.|[2411.19402](http://arxiv.org/abs/2411.19402)|null|
 |**2024-11-28**|**Bayesian Cluster Weighted Gaussian Models**|Panagiotis Papastamoulis et.al.|[2411.18957](http://arxiv.org/abs/2411.18957)|null|
