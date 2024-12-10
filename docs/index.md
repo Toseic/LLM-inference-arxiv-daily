@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
+|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
 |**2024-12-03**|**Multi-Bin Batching for Increasing LLM Inference Throughput**|Ozgur Guldogan et.al.|[2412.04504](http://arxiv.org/abs/2412.04504)|null|
 |**2024-11-29**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|null|
@@ -229,8 +231,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts**|Zhen Wan et.al.|[2412.06340](http://arxiv.org/abs/2412.06340)|null|
+|**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
+|**2024-12-08**|**An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism**|Qing Zhang et.al.|[2412.05821](http://arxiv.org/abs/2412.05821)|null|
+|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-07**|**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**|Gengze Zhou et.al.|[2412.05552](http://arxiv.org/abs/2412.05552)|**[link](https://github.com/gengzezhou/same)**|
+|**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540](http://arxiv.org/abs/2412.05540)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
-|**2024-12-05**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
+|**2024-12-09**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
 |**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850](http://arxiv.org/abs/2412.03850)|null|
 |**2024-12-04**|**Convolutional Neural Networks and Mixture of Experts for Intrusion Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483](http://arxiv.org/abs/2412.03483)|null|
 |**2024-12-05**|**MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**|Siddhant Dutta et.al.|[2412.01858](http://arxiv.org/abs/2412.01858)|null|
