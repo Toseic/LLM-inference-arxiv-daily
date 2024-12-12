@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
+|**2024-12-11**|**Lachesis: Predicting LLM Inference Accuracy using Structural Properties of Reasoning Paths**|Naryeong Kim et.al.|[2412.08281](http://arxiv.org/abs/2412.08281)|null|
+|**2024-12-11**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237](http://arxiv.org/abs/2412.08237)|null|
 |**2024-12-09**|**Asynchronous LLM Function Calling**|In Gim et.al.|[2412.07017](http://arxiv.org/abs/2412.07017)|null|
 |**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
 |**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
@@ -228,6 +231,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**|Minh Le et.al.|[2412.08285](http://arxiv.org/abs/2412.08285)|null|
+|**2024-12-11**|**Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification**|Xuanze Chen et.al.|[2412.08193](http://arxiv.org/abs/2412.08193)|null|
 |**2024-12-10**|**MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
 |**2024-12-07**|**Partition of Unity Physics-Informed Neural Networks (POU-PINNs): An Unsupervised Framework for Physics-Informed Domain Decomposition and Mixtures of Experts**|Arturo Rodriguez et.al.|[2412.06842](http://arxiv.org/abs/2412.06842)|null|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
