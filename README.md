@@ -433,7 +433,7 @@
 |**2024-08-23**|**La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection**|Hang Zou et.al.|[2408.12793](http://arxiv.org/abs/2408.12793)|null|
 |**2024-08-22**|**SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging**|Mohammadreza Pourreza et.al.|[2408.12733](http://arxiv.org/abs/2408.12733)|null|
 |**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
-|**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|null|
+|**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|**[link](https://github.com/ydk122024/cdt)**|
 |**2024-08-21**|**MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing**|Hao Zhou et.al.|[2408.11396](http://arxiv.org/abs/2408.11396)|**[link](https://github.com/zjwang21/moe-lpr)**|
 |**2024-08-21**|**KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?**|Xiao Han et.al.|[2408.11306](http://arxiv.org/abs/2408.11306)|**[link](https://github.com/2448845600/kan4tsf)**|
 |**2024-08-21**|**FedMoE: Personalized Federated Learning via Heterogeneous Mixture of Experts**|Hanzi Mei et.al.|[2408.11304](http://arxiv.org/abs/2408.11304)|null|
