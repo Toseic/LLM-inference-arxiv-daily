@@ -10,7 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-17**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
+|**2024-12-18**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
 |**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
 |**2024-12-15**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/cloud-qu/lare)**|
@@ -237,11 +237,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**SEKE: Specialised Experts for Keyword Extraction**|Matej Martinc et.al.|[2412.14087](http://arxiv.org/abs/2412.14087)|**[link](https://github.com/matejmartinc/seke_keyword_extraction)**|
+|**2024-12-18**|**MedCoT: Medical Chain of Thought via Hierarchical Expert**|Jiaxiang Liu et.al.|[2412.13736](http://arxiv.org/abs/2412.13736)|**[link](https://github.com/jxliu-ai/medcot)**|
 |**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
-|**2024-12-16**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
+|**2024-12-18**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
 |**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
