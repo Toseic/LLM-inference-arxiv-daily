@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
+|**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|
 |**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
 |**2025-01-03**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|null|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
@@ -250,6 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-04**|**Fresh-CL: Feature Realignment through Experts on Hypersphere in Continual Learning**|Zhongyi Zhou et.al.|[2501.02198](http://arxiv.org/abs/2501.02198)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779](http://arxiv.org/abs/2501.00779)|**[link](https://github.com/huyenxam/REM)**|
 |**2024-12-31**|**Superposition in Transformers: A Novel Way of Building Mixture of Experts**|Ayoub Ben Chaliah et.al.|[2501.00530](http://arxiv.org/abs/2501.00530)|**[link](https://github.com/BenChaliah/Superposition-Transformer)**|
