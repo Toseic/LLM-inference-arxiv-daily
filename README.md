@@ -252,10 +252,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
+|**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
+|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
 |**2025-01-04**|**Fresh-CL: Feature Realignment through Experts on Hypersphere in Continual Learning**|Zhongyi Zhou et.al.|[2501.02198](http://arxiv.org/abs/2501.02198)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779](http://arxiv.org/abs/2501.00779)|**[link](https://github.com/huyenxam/REM)**|
-|**2024-12-31**|**Superposition in Transformers: A Novel Way of Building Mixture of Experts**|Ayoub Ben Chaliah et.al.|[2501.00530](http://arxiv.org/abs/2501.00530)|**[link](https://github.com/BenChaliah/Superposition-Transformer)**|
+|**2025-01-06**|**Superposition in Transformers: A Novel Way of Building Mixture of Experts**|Ayoub Ben Chaliah et.al.|[2501.00530](http://arxiv.org/abs/2501.00530)|**[link](https://github.com/BenChaliah/Superposition-Transformer)**|
 |**2024-12-31**|**CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection**|Xiaolei Wang et.al.|[2501.00346](http://arxiv.org/abs/2501.00346)|**[link](https://github.com/cvddl/CNC)**|
 |**2024-12-29**|**Multimodal Variational Autoencoder: a Barycentric View**|Peijie Qiu et.al.|[2412.20487](http://arxiv.org/abs/2412.20487)|null|
 |**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
