@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings**|Paul Joe Maliakel et.al.|[2501.08219](http://arxiv.org/abs/2501.08219)|null|
+|**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
+|**2025-01-14**|**Hierarchical Autoscaling for Large Language Model Serving with Chiron**|Archit Patke et.al.|[2501.08090](http://arxiv.org/abs/2501.08090)|null|
 |**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
 |**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
 |**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|
@@ -257,6 +260,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
+|**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
+|**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762](http://arxiv.org/abs/2501.07762)|null|
 |**2025-01-13**|**A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis**|Binyu Zhang et.al.|[2501.07016](http://arxiv.org/abs/2501.07016)|**[link](https://github.com/binging512/umpsnet)**|
 |**2025-01-12**|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong et.al.|[2501.06884](http://arxiv.org/abs/2501.06884)|**[link](https://github.com/yewen1486/emtal)**|
 |**2025-01-10**|**TAMER: A Test-Time Adaptive MoE-Driven Framework for EHR Representation Learning**|Yinghao Zhu et.al.|[2501.05661](http://arxiv.org/abs/2501.05661)|**[link](https://github.com/yhzhu99/tamer)**|
