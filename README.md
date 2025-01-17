@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
+|**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186](http://arxiv.org/abs/2501.09186)|**[link](https://github.com/mandeep-rathee/llmgar)**|
 |**2025-01-14**|**Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings**|Paul Joe Maliakel et.al.|[2501.08219](http://arxiv.org/abs/2501.08219)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-14**|**Hierarchical Autoscaling for Large Language Model Serving with Chiron**|Archit Patke et.al.|[2501.08090](http://arxiv.org/abs/2501.08090)|null|
@@ -256,6 +258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
 |**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762](http://arxiv.org/abs/2501.07762)|null|
