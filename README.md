@@ -154,7 +154,7 @@
 |**2024-09-13**|**Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study**|Jianwei Zhu et.al.|[2409.03992](http://arxiv.org/abs/2409.03992)|null|
 |**2024-09-05**|**Sirius: Contextual Sparsity with Correction for Efficient LLMs**|Yang Zhou et.al.|[2409.03856](http://arxiv.org/abs/2409.03856)|**[link](https://github.com/infini-ai-lab/sirius)**|
 |**2024-08-31**|**HSF: Defending against Jailbreak Attacks with Hidden State Filtering**|Cheng Qian et.al.|[2409.03788](http://arxiv.org/abs/2409.03788)|null|
-|**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|null|
+|**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|**[link](https://github.com/noakliu/efficient-foundation-models-survey)**|
 |**2024-09-02**|**CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification**|Junhui He et.al.|[2409.01366](http://arxiv.org/abs/2409.01366)|null|
 |**2024-09-04**|**Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference**|Barys Liskavets et.al.|[2409.01227](http://arxiv.org/abs/2409.01227)|null|
 |**2024-09-01**|**Research on LLM Acceleration Using the High-Performance RISC-V Processor "Xiangshan" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)**|Xu-Hao Chen et.al.|[2409.00661](http://arxiv.org/abs/2409.00661)|null|
