@@ -164,7 +164,7 @@ layout: default
 |**2024-08-31**|**HSF: Defending against Jailbreak Attacks with Hidden State Filtering**|Cheng Qian et.al.|[2409.03788](http://arxiv.org/abs/2409.03788)|null|
 |**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|**[link](https://github.com/noakliu/efficient-foundation-models-survey)**|
 |**2024-09-02**|**CHESS: Optimizing LLM Inference via Channel-Wise Thresholding and Selective Sparsification**|Junhui He et.al.|[2409.01366](http://arxiv.org/abs/2409.01366)|null|
-|**2024-09-04**|**Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference**|Barys Liskavets et.al.|[2409.01227](http://arxiv.org/abs/2409.01227)|null|
+|**2024-09-04**|**Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference**|Barys Liskavets et.al.|[2409.01227](http://arxiv.org/abs/2409.01227)|**[link](https://github.com/workday/cpc)**|
 |**2024-09-01**|**Research on LLM Acceleration Using the High-Performance RISC-V Processor "Xiangshan" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)**|Xu-Hao Chen et.al.|[2409.00661](http://arxiv.org/abs/2409.00661)|null|
 |**2024-08-28**|**Decentralized LLM Inference over Edge Networks with Energy Harvesting**|Aria Khoshsirat et.al.|[2408.15907](http://arxiv.org/abs/2408.15907)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
@@ -317,7 +317,7 @@ layout: default
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
 |**2024-12-18**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
-|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
+|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|**[link](https://github.com/kastel-mobilitylab/mixtures-of-experts)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
@@ -520,7 +520,7 @@ layout: default
 |**2024-08-24**|**Advancing Enterprise Spatio-Temporal Forecasting Applications: Data Mining Meets Instruction Tuning of Language Models For Multi-modal Time Series Analysis in Low-Resource Settings**|Sagar Srinivas Sakhinana et.al.|[2408.13622](http://arxiv.org/abs/2408.13622)|null|
 |**2024-08-23**|**The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities**|Venkatesh Balavadhani Parthasarathy et.al.|[2408.13296](http://arxiv.org/abs/2408.13296)|null|
 |**2024-08-23**|**Guiding IoT-Based Healthcare Alert Systems with Large Language Models**|Yulan Gao et.al.|[2408.13071](http://arxiv.org/abs/2408.13071)|null|
-|**2024-08-23**|**DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**|Xiaowei Mao et.al.|[2408.12809](http://arxiv.org/abs/2408.12809)|null|
+|**2024-08-23**|**DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**|Xiaowei Mao et.al.|[2408.12809](http://arxiv.org/abs/2408.12809)|**[link](https://github.com/maoxiaowei97/dutytte)**|
 |**2024-08-23**|**Multi-Treatment Multi-Task Uplift Modeling for Enhancing User Growth**|Yuxiang Wei et.al.|[2408.12803](http://arxiv.org/abs/2408.12803)|null|
 |**2024-08-23**|**La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection**|Hang Zou et.al.|[2408.12793](http://arxiv.org/abs/2408.12793)|null|
 |**2024-08-22**|**SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging**|Mohammadreza Pourreza et.al.|[2408.12733](http://arxiv.org/abs/2408.12733)|null|
