@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -13,7 +13,7 @@
 |**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
 |**2025-01-27**|**TOPLOC: A Locality Sensitive Hashing Scheme for Trustless Verifiable Inference**|Jack Min Ong et.al.|[2501.16007](http://arxiv.org/abs/2501.16007)|null|
-|**2025-01-27**|**Aging-aware CPU Core Management for Embodied Carbon Amortization in Cloud LLM Inference**|Tharindu B. Hewage et.al.|[2501.15829](http://arxiv.org/abs/2501.15829)|null|
+|**2025-01-27**|**Aging-aware CPU Core Management for Embodied Carbon Amortization in Cloud LLM Inference**|Tharindu B. Hewage et.al.|[2501.15829](http://arxiv.org/abs/2501.15829)|**[link](https://github.com/tharindu-b-hewage/splitwise-sim-cpu-carbon)**|
 |**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|null|
 |**2025-01-24**|**Locality-aware Fair Scheduling in LLM Serving**|Shiyi Cao et.al.|[2501.14312](http://arxiv.org/abs/2501.14312)|null|
 |**2025-01-20**|**Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
@@ -262,7 +262,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250129>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250130>(back to top)</a></p>
 
 ## MoE
 
@@ -272,7 +272,7 @@
 |**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
 |**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/abs/2501.16103)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
-|**2025-01-25**|**FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts**|Ziqi Liu et.al.|[2501.15125](http://arxiv.org/abs/2501.15125)|null|
+|**2025-01-25**|**FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts**|Ziqi Liu et.al.|[2501.15125](http://arxiv.org/abs/2501.15125)|**[link](https://github.com/thuml/autoformer)**|
 |**2025-01-25**|**Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning**|Ziyu Zhao et.al.|[2501.15103](http://arxiv.org/abs/2501.15103)|null|
 |**2025-01-24**|**Mean-field limit from general mixtures of experts to quantum neural networks**|Anderson Melchor Hernandez et.al.|[2501.14660](http://arxiv.org/abs/2501.14660)|null|
 |**2025-01-24**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/abs/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|
@@ -686,7 +686,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250129>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250130>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
