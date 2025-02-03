@@ -33,7 +33,7 @@ layout: default
 |**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
 |**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|
 |**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
-|**2025-01-03**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|null|
+|**2025-01-03**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|**[link](https://code.stanford.edu/tambe-lab/blockdialect)**|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2024-12-23**|**Highly Optimized Kernels and Fine-Grained Codebooks for LLM Inference on Arm CPUs**|Dibakar Gope et.al.|[2501.00032](http://arxiv.org/abs/2501.00032)|**[link](https://github.com/ggerganov/llama.cpp)**|
 |**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
@@ -261,7 +261,7 @@ layout: default
 |**2024-05-13**|**KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation**|Minsik Cho et.al.|[2405.05329](http://arxiv.org/abs/2405.05329)|null|
 |**2024-05-12**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
 |**2024-05-10**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532](http://arxiv.org/abs/2405.04532)|**[link](https://github.com/mit-han-lab/qserve)**|
-|**2024-05-07**|**vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**|Ramya Prabhu et.al.|[2405.04437](http://arxiv.org/abs/2405.04437)|null|
+|**2024-05-07**|**vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**|Ramya Prabhu et.al.|[2405.04437](http://arxiv.org/abs/2405.04437)|**[link](https://github.com/microsoft/vattention)**|
 |**2024-05-07**|**Optimizing Language Model's Reasoning Abilities with Weak Supervision**|Yongqi Tong et.al.|[2405.04086](http://arxiv.org/abs/2405.04086)|null|
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
@@ -480,7 +480,7 @@ layout: default
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
 |**2024-10-03**|**Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping**|Ziye Huang et.al.|[2410.02475](http://arxiv.org/abs/2410.02475)|null|
 |**2024-10-03**|**MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction**|Zhaojian Yu et.al.|[2410.02241](http://arxiv.org/abs/2410.02241)|null|
-|**2024-10-03**|**Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts**|Minh Le et.al.|[2410.02200](http://arxiv.org/abs/2410.02200)|null|
+|**2024-10-03**|**Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts**|Minh Le et.al.|[2410.02200](http://arxiv.org/abs/2410.02200)|**[link](https://github.com/minhchuyentoancbn/reparamprefix)**|
 |**2024-10-04**|**Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices**|Andres Potapczynski et.al.|[2410.02117](http://arxiv.org/abs/2410.02117)|**[link](https://github.com/andpotap/einsum-search)**|
 |**2024-10-04**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098](http://arxiv.org/abs/2410.02098)|null|
 |**2024-10-02**|**Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL**|Ghada Sokar et.al.|[2410.01930](http://arxiv.org/abs/2410.01930)|null|
