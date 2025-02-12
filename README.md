@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|null|
+|**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
 |**2025-02-07**|**BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference**|Reena Elangovan et.al.|[2502.05376](http://arxiv.org/abs/2502.05376)|null|
@@ -289,6 +291,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**MoENAS: Mixture-of-Expert based Neural Architecture Search for jointly Accurate, Fair, and Robust Edge Deep Neural Networks**|Lotfi Abdelkrim Mecharbat et.al.|[2502.07422](http://arxiv.org/abs/2502.07422)|null|
+|**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[2502.07178](http://arxiv.org/abs/2502.07178)|null|
+|**2025-02-09**|**Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline**|Zhiyuan Fang et.al.|[2502.06888](http://arxiv.org/abs/2502.06888)|null|
 |**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643](http://arxiv.org/abs/2502.06643)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-10**|**Fair-MoE: Fairness-Oriented Mixture of Experts in Vision-Language Models**|Peiran Wang et.al.|[2502.06094](http://arxiv.org/abs/2502.06094)|null|
