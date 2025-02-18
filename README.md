@@ -10,6 +10,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Designing Role Vectors to Improve LLM Inference Behaviour**|Daniele Potertì et.al.|[2502.12055](http://arxiv.org/abs/2502.12055)|null|
+|**2025-02-17**|**DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services**|Ting Sun et.al.|[2502.11417](http://arxiv.org/abs/2502.11417)|null|
+|**2025-02-17**|**Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment**|Ben Dong et.al.|[2502.11347](http://arxiv.org/abs/2502.11347)|null|
+|**2025-02-16**|**Diversified Sampling Improves Scaling LLM inference**|Tianchun Wang et.al.|[2502.11027](http://arxiv.org/abs/2502.11027)|null|
+|**2025-02-16**|**Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings**|Liangqi Yuan et.al.|[2502.11007](http://arxiv.org/abs/2502.11007)|null|
+|**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-14**|**λScale: Enabling Fast Scaling for Serverless Large Language Model Inference**|Minchen Yu et.al.|[2502.09922](http://arxiv.org/abs/2502.09922)|null|
 |**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/abs/2502.09921)|null|
 |**2025-02-13**|**On multi-token prediction for efficient LLM inference**|Somesh Mehra et.al.|[2502.09419](http://arxiv.org/abs/2502.09419)|null|
@@ -299,6 +305,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
+|**2025-02-17**|**Connector-S: A Survey of Connectors in Multi-modal Large Language Models**|Xun Zhu et.al.|[2502.11453](http://arxiv.org/abs/2502.11453)|null|
+|**2025-02-16**|**Mixture of Tunable Experts - Behavior Modification of DeepSeek-R1 at Inference Time**|Robert Dahlke et.al.|[2502.11096](http://arxiv.org/abs/2502.11096)|null|
+|**2025-02-16**|**ClimateLLM: Efficient Weather Forecasting via Frequency-Aware Large Language Models**|Shixuan Li et.al.|[2502.11059](http://arxiv.org/abs/2502.11059)|null|
+|**2025-02-15**|**Semantic Specialization in MoE Appears with Scale: A Study of DeepSeek R1 Expert Specialization**|Matthew Lyle Olson et.al.|[2502.10928](http://arxiv.org/abs/2502.10928)|null|
 |**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|null|
 |**2025-02-14**|**Eidetic Learning: an Efficient and Provable Solution to Catastrophic Forgetting**|Nicholas Dronen et.al.|[2502.09500](http://arxiv.org/abs/2502.09500)|**[link](https://github.com/amazon-science/eideticnet-training)**|
 |**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/abs/2502.08381)|null|
