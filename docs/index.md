@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
+|**2025-02-18**|**Distributed On-Device LLM Inference With Over-the-Air Computation**|Kai Zhang et.al.|[2502.12559](http://arxiv.org/abs/2502.12559)|null|
+|**2025-02-18**|**SparAMX: Accelerating Compressed LLMs Token Generation on AMX-powered CPUs**|Ahmed F. AbouElhamayed et.al.|[2502.12444](http://arxiv.org/abs/2502.12444)|null|
+|**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Designing Role Vectors to Improve LLM Inference Behaviour**|Daniele Potertì et.al.|[2502.12055](http://arxiv.org/abs/2502.12055)|null|
 |**2025-02-17**|**DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services**|Ting Sun et.al.|[2502.11417](http://arxiv.org/abs/2502.11417)|null|
 |**2025-02-17**|**Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment**|Ben Dong et.al.|[2502.11347](http://arxiv.org/abs/2502.11347)|null|
@@ -309,6 +314,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
+|**2025-02-18**|**DSMoE: Matrix-Partitioned Experts with Dynamic Routing for Computation-Efficient Dense LLMs**|Minxuan Lv et.al.|[2502.12455](http://arxiv.org/abs/2502.12455)|null|
+|**2025-02-17**|**From Dense to Dynamic: Token-Difficulty Driven MoEfication of Pre-Trained LLMs**|Kumari Nishu et.al.|[2502.12325](http://arxiv.org/abs/2502.12325)|null|
+|**2025-02-17**|**Accurate Expert Predictions in MoE Inference via Cross-Layer Gate**|Zhiyuan Fang et.al.|[2502.12224](http://arxiv.org/abs/2502.12224)|null|
 |**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
 |**2025-02-17**|**Connector-S: A Survey of Connectors in Multi-modal Large Language Models**|Xun Zhu et.al.|[2502.11453](http://arxiv.org/abs/2502.11453)|null|
 |**2025-02-16**|**Mixture of Tunable Experts - Behavior Modification of DeepSeek-R1 at Inference Time**|Robert Dahlke et.al.|[2502.11096](http://arxiv.org/abs/2502.11096)|null|
