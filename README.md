@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -17,7 +17,7 @@
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
 |**2025-02-18**|**BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference**|Ahmed Burak Gulhan et.al.|[2502.13176](http://arxiv.org/abs/2502.13176)|null|
 |**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
-|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
+|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|**[link](https://github.com/wdlctc/headinfer)**|
 |**2025-02-18**|**Distributed On-Device LLM Inference With Over-the-Air Computation**|Kai Zhang et.al.|[2502.12559](http://arxiv.org/abs/2502.12559)|null|
 |**2025-02-18**|**SparAMX: Accelerating Compressed LLMs Token Generation on AMX-powered CPUs**|Ahmed F. AbouElhamayed et.al.|[2502.12444](http://arxiv.org/abs/2502.12444)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
@@ -310,7 +310,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250222>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250223>(back to top)</a></p>
 
 ## MoE
 
@@ -787,7 +787,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250222>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250223>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
