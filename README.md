@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**LLM Inference Acceleration via Efficient Operation Fusion**|Mahsa Salmani et.al.|[2502.17728](http://arxiv.org/abs/2502.17728)|null|
 |**2025-02-24**|**CodeSwift: Accelerating LLM Inference for Efficient Code Generation**|Qianhui Zhao et.al.|[2502.17139](http://arxiv.org/abs/2502.17139)|null|
 |**2025-02-24**|**Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM**|Lian Liu et.al.|[2502.16963](http://arxiv.org/abs/2502.16963)|null|
 |**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
@@ -328,6 +329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
 |**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/abs/2502.17391)|null|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-24**|**Evaluating Expert Contributions in a MoE LLM for Quiz-Based Tasks**|Andrei Chernov et.al.|[2502.17187](http://arxiv.org/abs/2502.17187)|null|
