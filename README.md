@@ -20,9 +20,9 @@
 |**2025-02-23**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
 |**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|**[link](https://github.com/UCSB-NLP-Chang/KVLink)**|
 |**2025-02-21**|**Towards Swift Serverless LLM Cold Starts with ParaServe**|Chiheng Lou et.al.|[2502.15524](http://arxiv.org/abs/2502.15524)|null|
-|**2025-02-24**|**HiFi-KPI: A Dataset for Hierarchical KPI Extraction from Earnings Filings**|Rasmus Aavang et.al.|[2502.15411](http://arxiv.org/abs/2502.15411)|null|
+|**2025-02-24**|**HiFi-KPI: A Dataset for Hierarchical KPI Extraction from Earnings Filings**|Rasmus Aavang et.al.|[2502.15411](http://arxiv.org/abs/2502.15411)|**[link](https://github.com/aaunlp/HiFi-KPI)**|
 |**2025-02-24**|**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference**|Yaohua Tang et.al.|[2502.15294](http://arxiv.org/abs/2502.15294)|null|
-|**2025-02-21**|**A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation**|Shilong Hou et.al.|[2502.15233](http://arxiv.org/abs/2502.15233)|null|
+|**2025-02-21**|**A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation**|Shilong Hou et.al.|[2502.15233](http://arxiv.org/abs/2502.15233)|**[link](https://github.com/mebymeby/pseudonymization-framework)**|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
 |**2025-02-20**|**Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale**|Shashwat Jaiswal et.al.|[2502.14617](http://arxiv.org/abs/2502.14617)|null|
 |**2025-02-20**|**SR-LLM: Rethinking the Structured Representation in Large Language Model**|Jiahuan Zhang et.al.|[2502.14352](http://arxiv.org/abs/2502.14352)|null|
@@ -56,9 +56,9 @@
 |**2025-02-07**|**BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference**|Reena Elangovan et.al.|[2502.05376](http://arxiv.org/abs/2502.05376)|null|
 |**2025-02-07**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677](http://arxiv.org/abs/2502.04677)|null|
 |**2025-02-06**|**WaferLLM: A Wafer-Scale LLM Inference System**|Congjie He et.al.|[2502.04563](http://arxiv.org/abs/2502.04563)|null|
-|**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
+|**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|**[link](https://github.com/cmd2001/KVTuner)**|
 |**2025-02-06**|**CMoE: Fast Carving of Mixture-of-Experts for Efficient LLM Inference**|Zehua Pei et.al.|[2502.04416](http://arxiv.org/abs/2502.04416)|**[link](https://github.com/JarvisPei/CMoE)**|
-|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
+|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|**[link](https://github.com/MIRALab-USTC/LLM-AttentionPredictor)**|
 |**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|**[link](https://github.com/NVIDIA/kvpress)**|
 |**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
 |**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/abs/2502.03589)|null|
@@ -348,7 +348,7 @@
 |**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
 |**2025-02-21**|**A fast convergence algorithm based on binary integer programming for expert load balancing in MoE LLMs**|Yuan Sun et.al.|[2502.15451](http://arxiv.org/abs/2502.15451)|null|
 |**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315](http://arxiv.org/abs/2502.15315)|**[link](https://github.com/stefvk/acmoe)**|
-|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|null|
+|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|**[link](https://github.com/ZovanZhou/MG-VMoE)**|
 |**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/abs/2502.14788)|null|
 |**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
 |**2025-02-19**|**Unraveling the Localized Latents: Learning Stratified Manifold Structures in LLM Embedding Space with Sparse Mixture-of-Experts**|Xin Li et.al.|[2502.13577](http://arxiv.org/abs/2502.13577)|null|
@@ -416,7 +416,7 @@
 |**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/abs/2501.12983)|null|
 |**2025-01-22**|**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**|Xu Zhang et.al.|[2501.12981](http://arxiv.org/abs/2501.12981)|null|
 |**2025-01-22**|**BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR**|Guodong Ma et.al.|[2501.12602](http://arxiv.org/abs/2501.12602)|null|
-|**2025-01-21**|**Modality Interactive Mixture-of-Experts for Fake News Detection**|Yifan Liu et.al.|[2501.12431](http://arxiv.org/abs/2501.12431)|null|
+|**2025-01-21**|**Modality Interactive Mixture-of-Experts for Fake News Detection**|Yifan Liu et.al.|[2501.12431](http://arxiv.org/abs/2501.12431)|**[link](https://github.com/yliuaa/MIMoE-FND)**|
 |**2025-01-21**|**SCFCRC: Simultaneously Counteract Feature Camouflage and Relation Camouflage for Fraud Detection**|Xiaocheng Zhang et.al.|[2501.12430](http://arxiv.org/abs/2501.12430)|null|
 |**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
 |**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
@@ -728,7 +728,7 @@
 |**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514](http://arxiv.org/abs/2407.07514)|**[link](https://github.com/mi2datalab/swinsmt)**|
 |**2024-07-09**|**A Simple Architecture for Enterprise Large Language Model Applications based on Role based security and Clearance Levels using Retrieval-Augmented Generation or Mixture of Experts**|Atilla Özgür et.al.|[2407.06718](http://arxiv.org/abs/2407.06718)|null|
 |**2024-07-06**|**SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**|Guoan Wang et.al.|[2407.04938](http://arxiv.org/abs/2407.04938)|null|
-|**2024-07-06**|**Completed Feature Disentanglement Learning for Multimodal MRIs Analysis**|Tianling Liu et.al.|[2407.04916](http://arxiv.org/abs/2407.04916)|null|
+|**2024-07-06**|**Completed Feature Disentanglement Learning for Multimodal MRIs Analysis**|Tianling Liu et.al.|[2407.04916](http://arxiv.org/abs/2407.04916)|**[link](https://github.com/IsDling/CFDL)**|
 |**2024-07-05**|**YourMT3+: Multi-instrument Music Transcription with Enhanced Transformer Architectures and Cross-dataset Stem Augmentation**|Sungkyun Chang et.al.|[2407.04822](http://arxiv.org/abs/2407.04822)|**[link](https://github.com/mimbres/yourmt3)**|
 |**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
 |**2024-07-05**|**MobileFlow: A Multimodal LLM For Mobile GUI Agent**|Songqin Nong et.al.|[2407.04346](http://arxiv.org/abs/2407.04346)|null|
