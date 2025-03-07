@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
+|**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
+|**2025-03-06**|**Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search**|Kou Misaki et.al.|[2503.04412](http://arxiv.org/abs/2503.04412)|null|
+|**2025-03-06**|**Beyond Memorization: Evaluating the True Type Inference Capabilities of LLMs for Java Code Snippets**|Yiwen Dong et.al.|[2503.04076](http://arxiv.org/abs/2503.04076)|null|
+|**2025-03-04**|**FlexInfer: Breaking Memory Constraint via Flexible and Efficient Offloading for On-Device LLM Inference**|Hongchao Du et.al.|[2503.03777](http://arxiv.org/abs/2503.03777)|null|
 |**2025-03-05**|**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2503.03686](http://arxiv.org/abs/2503.03686)|null|
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
@@ -343,6 +348,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
+|**2025-03-06**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
+|**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
+|**2025-03-06**|**DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval**|Yating Liu et.al.|[2503.04144](http://arxiv.org/abs/2503.04144)|null|
+|**2025-03-05**|**VoiceGRPO: Modern MoE Transformers with Group Relative Policy Optimization GRPO for AI Voice Health Care Applications on Voice Pathology Detection**|Enkhtogtokh Togootogtokh et.al.|[2503.03797](http://arxiv.org/abs/2503.03797)|null|
 |**2025-03-05**|**Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs**|Haoran Fan et.al.|[2503.03594](http://arxiv.org/abs/2503.03594)|null|
 |**2025-03-05**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213](http://arxiv.org/abs/2503.03213)|null|
 |**2025-03-04**|**MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation**|Weihang Wang et.al.|[2503.02799](http://arxiv.org/abs/2503.02799)|null|
