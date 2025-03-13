@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Prompt Inference Attack on Distributed Large Language Model Inference Frameworks**|Xinjian Luo et.al.|[2503.09291](http://arxiv.org/abs/2503.09291)|null|
 |**2025-03-11**|**TokenSim: Enabling Hardware and Software Exploration for Large Language Model Inference Systems**|Feiyang Wu et.al.|[2503.08415](http://arxiv.org/abs/2503.08415)|null|
 |**2025-03-11**|**Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference**|Pol G. Recasens et.al.|[2503.08311](http://arxiv.org/abs/2503.08311)|null|
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
@@ -353,6 +354,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
+|**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|null|
+|**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
+|**2025-03-12**|**Automatic Operator-level Parallelism Planning for Distributed Deep Learning -- A Mixed-Integer Programming Approach**|Ruifeng She et.al.|[2503.09357](http://arxiv.org/abs/2503.09357)|null|
+|**2025-03-12**|**Priority-Aware Preemptive Scheduling for Mixed-Priority Workloads in MoE Inference**|Mohammad Siavashi et.al.|[2503.09304](http://arxiv.org/abs/2503.09304)|null|
+|**2025-03-12**|**FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158](http://arxiv.org/abs/2503.09158)|null|
 |**2025-03-11**|**MoE-Loco: Mixture of Experts for Multitask Locomotion**|Runhan Huang et.al.|[2503.08564](http://arxiv.org/abs/2503.08564)|null|
 |**2025-03-11**|**Accelerating MoE Model Inference with Expert Sharding**|Oana Balmau et.al.|[2503.08467](http://arxiv.org/abs/2503.08467)|null|
 |**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
