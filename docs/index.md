@@ -32,7 +32,7 @@ layout: default
 |**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
 |**2025-03-01**|**Tutorial Proposal: Speculative Decoding for Efficient LLM Inference**|Heming Xia et.al.|[2503.00491](http://arxiv.org/abs/2503.00491)|null|
-|**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|null|
+|**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|**[link](https://github.com/bytedance/FlexPrefill)**|
 |**2025-02-28**|**SPD: Sync-Point Drop for efficient tensor parallelism of Large Language Models**|Han-Byul Kim et.al.|[2502.20727](http://arxiv.org/abs/2502.20727)|null|
 |**2025-02-27**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for Multi-LLM Serving**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/eccos)**|
 |**2025-02-26**|**Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs**|Yiheng Yang et.al.|[2502.19078](http://arxiv.org/abs/2502.19078)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2025-01-20**|**Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
 |**2025-01-20**|**Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**|Nishant Balepur et.al.|[2501.11549](http://arxiv.org/abs/2501.11549)|**[link](https://github.com/pinafore/alignment-personalization)**|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
-|**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
+|**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|**[link](https://github.com/xinzhel/llm-agent-survey)**|
 |**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
 |**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186](http://arxiv.org/abs/2501.09186)|**[link](https://github.com/mandeep-rathee/llmgar)**|
 |**2025-01-14**|**Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings**|Paul Joe Maliakel et.al.|[2501.08219](http://arxiv.org/abs/2501.08219)|null|
@@ -368,9 +368,9 @@ layout: default
 |**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
 |**2025-03-11**|**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**|Han Zhao et.al.|[2503.08007](http://arxiv.org/abs/2503.08007)|null|
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
-|**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|null|
+|**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|**[link](https://github.com/deepseek-ai/DeepEP)**|
 |**2025-03-10**|**VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots**|Fu Chen et.al.|[2503.07049](http://arxiv.org/abs/2503.07049)|**[link](https://github.com/chenfu-user/VMTS)**|
-|**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|null|
+|**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|**[link](https://github.com/idea-isail-lab-uiuc/resmoe)**|
 |**2025-03-10**|**eMoE: Task-aware Memory Efficient Mixture-of-Experts-Based (MoE) Model Inference**|Suraiya Tairin et.al.|[2503.06823](http://arxiv.org/abs/2503.06823)|null|
 |**2025-03-09**|**MoFE: Mixture of Frozen Experts Architecture**|Jean Seo et.al.|[2503.06491](http://arxiv.org/abs/2503.06491)|null|
 |**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|null|
@@ -379,7 +379,7 @@ layout: default
 |**2025-03-08**|**MANDARIN: Mixture-of-Experts Framework for Dynamic Delirium and Coma Prediction in ICU Patients: Development and Validation of an Acute Brain Dysfunction Prediction Model**|Miguel Contreras et.al.|[2503.06059](http://arxiv.org/abs/2503.06059)|null|
 |**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/abs/2503.05641)|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626](http://arxiv.org/abs/2503.05626)|null|
-|**2025-03-07**|**Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts**|Weigao Sun et.al.|[2503.05447](http://arxiv.org/abs/2503.05447)|null|
+|**2025-03-07**|**Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts**|Weigao Sun et.al.|[2503.05447](http://arxiv.org/abs/2503.05447)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-03-07**|**Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs**|Ling Team et.al.|[2503.05139](http://arxiv.org/abs/2503.05139)|null|
 |**2025-03-07**|**Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts**|Shwai He et.al.|[2503.05066](http://arxiv.org/abs/2503.05066)|null|
 |**2025-03-06**|**Continual Pre-training of MoEs: How robust is your router?**|Benjamin Thérien et.al.|[2503.05029](http://arxiv.org/abs/2503.05029)|null|
@@ -388,12 +388,12 @@ layout: default
 |**2025-03-07**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
 |**2025-03-06**|**DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval**|Yating Liu et.al.|[2503.04144](http://arxiv.org/abs/2503.04144)|null|
-|**2025-03-05**|**VoiceGRPO: Modern MoE Transformers with Group Relative Policy Optimization GRPO for AI Voice Health Care Applications on Voice Pathology Detection**|Enkhtogtokh Togootogtokh et.al.|[2503.03797](http://arxiv.org/abs/2503.03797)|null|
+|**2025-03-05**|**VoiceGRPO: Modern MoE Transformers with Group Relative Policy Optimization GRPO for AI Voice Health Care Applications on Voice Pathology Detection**|Enkhtogtokh Togootogtokh et.al.|[2503.03797](http://arxiv.org/abs/2503.03797)|**[link](https://github.com/enkhtogtokh/voicegrpo)**|
 |**2025-03-05**|**Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs**|Haoran Fan et.al.|[2503.03594](http://arxiv.org/abs/2503.03594)|null|
 |**2025-03-05**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213](http://arxiv.org/abs/2503.03213)|null|
-|**2025-03-04**|**MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation**|Weihang Wang et.al.|[2503.02799](http://arxiv.org/abs/2503.02799)|null|
+|**2025-03-04**|**MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation**|Weihang Wang et.al.|[2503.02799](http://arxiv.org/abs/2503.02799)|**[link](https://github.com/stephensun11/mxfontpp)**|
 |**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
-|**2025-03-04**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|null|
+|**2025-03-04**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|**[link](https://github.com/yujiaoyang-work/uoe)**|
 |**2025-03-04**|**Tabby: Tabular Data Synthesis with Language Models**|Sonia Cromp et.al.|[2503.02152](http://arxiv.org/abs/2503.02152)|null|
 |**2025-03-03**|**ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**|Nastaran Mansourian et.al.|[2503.01750](http://arxiv.org/abs/2503.01750)|null|
 |**2025-03-03**|**Effective High-order Graph Representation Learning for Credit Card Fraud Detection**|Yao Zou et.al.|[2503.01556](http://arxiv.org/abs/2503.01556)|null|
@@ -405,14 +405,14 @@ layout: default
 |**2025-02-27**|**Mixture of Experts for Recognizing Depression from Interview and Reading Tasks**|Loukas Ilias et.al.|[2502.20213](http://arxiv.org/abs/2502.20213)|null|
 |**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183](http://arxiv.org/abs/2502.20183)|null|
 |**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
-|**2025-03-01**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|null|
+|**2025-03-01**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|**[link](https://github.com/bytedance/flux)**|
 |**2025-02-26**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
 |**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
 |**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
 |**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/abs/2502.17391)|null|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-24**|**Evaluating Expert Contributions in a MoE LLM for Quiz-Based Tasks**|Andrei Chernov et.al.|[2502.17187](http://arxiv.org/abs/2502.17187)|null|
-|**2025-02-24**|**Muon is Scalable for LLM Training**|Jingyuan Liu et.al.|[2502.16982](http://arxiv.org/abs/2502.16982)|null|
+|**2025-02-24**|**Muon is Scalable for LLM Training**|Jingyuan Liu et.al.|[2502.16982](http://arxiv.org/abs/2502.16982)|**[link](https://github.com/KellerJordan/Muon)**|
 |**2025-02-24**|**BigMac: A Communication-Efficient Mixture-of-Experts Model Structure for Fast Training and Inference**|Zewen Jin et.al.|[2502.16927](http://arxiv.org/abs/2502.16927)|null|
 |**2025-02-24**|**ENACT-Heart -- ENsemble-based Assessment Using CNN and Transformer on Heart Sounds**|Jiho Han et.al.|[2502.16914](http://arxiv.org/abs/2502.16914)|null|
 |**2025-02-26**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
@@ -529,7 +529,7 @@ layout: default
 |**2024-12-18**|**A Survey on Inference Optimization Techniques for Mixture of Experts Models**|Jiacheng Liu et.al.|[2412.14219](http://arxiv.org/abs/2412.14219)|**[link](https://github.com/moe-inf/awesome-moe-inference)**|
 |**2024-12-18**|**SEKE: Specialised Experts for Keyword Extraction**|Matej Martinc et.al.|[2412.14087](http://arxiv.org/abs/2412.14087)|**[link](https://github.com/matejmartinc/seke_keyword_extraction)**|
 |**2024-12-18**|**MedCoT: Medical Chain of Thought via Hierarchical Expert**|Jiaxiang Liu et.al.|[2412.13736](http://arxiv.org/abs/2412.13736)|**[link](https://github.com/jxliu-ai/medcot)**|
-|**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
+|**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|**[link](https://github.com/vinczematyas/SMoSE)**|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
@@ -815,7 +815,7 @@ layout: default
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
 |**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|**[link](https://github.com/qmgzhao/SAML)**|
-|**2024-06-27**|**A Teacher Is Worth A Million Instructions**|Nikhil Kothari et.al.|[2406.19112](http://arxiv.org/abs/2406.19112)|null|
+|**2024-06-27**|**A Teacher Is Worth A Million Instructions**|Nikhil Kothari et.al.|[2406.19112](http://arxiv.org/abs/2406.19112)|**[link](https://github.com/flipkart-incubator/kd-dae)**|
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
 |**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420](http://arxiv.org/abs/2406.18420)|null|
 |**2024-06-26**|**A Closer Look into Mixture-of-Experts in Large Language Models**|Ka Man Lo et.al.|[2406.18219](http://arxiv.org/abs/2406.18219)|**[link](https://github.com/kamanphoebe/look-into-moes)**|
