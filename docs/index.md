@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -22,7 +22,7 @@ layout: default
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
 |**2025-03-07**|**Optimizing LLM Inference Throughput via Memory-aware and SLA-constrained Dynamic Batching**|Bowen Pang et.al.|[2503.05248](http://arxiv.org/abs/2503.05248)|**[link](https://github.com/kevinlee1110/dynamic-batching)**|
 |**2025-03-07**|**SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding**|Kaiyu Huang et.al.|[2503.05096](http://arxiv.org/abs/2503.05096)|null|
-|**2025-03-06**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
+|**2025-03-15**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
 |**2025-03-06**|**Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search**|Kou Misaki et.al.|[2503.04412](http://arxiv.org/abs/2503.04412)|null|
 |**2025-03-06**|**Beyond Memorization: Evaluating the True Type Inference Capabilities of LLMs for Java Code Snippets**|Yiwen Dong et.al.|[2503.04076](http://arxiv.org/abs/2503.04076)|null|
@@ -350,7 +350,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250317>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250318>(back to top)</a></p>
 
 ## MoE
 
@@ -895,7 +895,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250317>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250318>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
