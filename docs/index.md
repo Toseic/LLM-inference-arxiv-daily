@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/abs/2503.14432)|null|
+|**2025-03-17**|**Mitigating KV Cache Competition to Enhance User Experience in LLM Inference**|Haiying Shen et.al.|[2503.13773](http://arxiv.org/abs/2503.13773)|null|
+|**2025-03-17**|**AccelGen: Heterogeneous SLO-Guaranteed High-Throughput LLM Inference Serving for Diverse Applications**|Haiying Shen et.al.|[2503.13737](http://arxiv.org/abs/2503.13737)|null|
+|**2025-03-17**|**ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts**|Evangelos Georganas et.al.|[2503.13565](http://arxiv.org/abs/2503.13565)|null|
+|**2025-03-14**|**Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce**|Jingying Zeng et.al.|[2503.13518](http://arxiv.org/abs/2503.13518)|null|
 |**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
 |**2025-03-17**|**VeriLeaky: Navigating IP Protection vs Utility in Fine-Tuning for LLM-Driven Verilog Coding**|Zeng Wang et.al.|[2503.13116](http://arxiv.org/abs/2503.13116)|null|
 |**2025-03-15**|**TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation**|Mayank Kumar et.al.|[2503.12217](http://arxiv.org/abs/2503.12217)|null|
@@ -359,6 +364,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts**|Runqi Meng et.al.|[2503.14355](http://arxiv.org/abs/2503.14355)|null|
+|**2025-03-18**|**SNAKE: A Sustainable and Multi-functional Traffic Analysis System utilizing Specialized Large-Scale Models with a Mixture of Experts Architecture**|Tian Qin et.al.|[2503.13808](http://arxiv.org/abs/2503.13808)|null|
 |**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
 |**2025-03-17**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
