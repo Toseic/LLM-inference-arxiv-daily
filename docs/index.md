@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**|Fahao Chen et.al.|[2503.15921](http://arxiv.org/abs/2503.15921)|null|
 |**2025-03-19**|**Automated Non-Functional Requirements Generation in Software Engineering with Large Language Models: A Comparative Study**|Jomar Thomas Almonte et.al.|[2503.15248](http://arxiv.org/abs/2503.15248)|null|
 |**2025-03-19**|**Communication-Efficient Distributed On-Device LLM Inference Over Wireless Networks**|Kai Zhang et.al.|[2503.14882](http://arxiv.org/abs/2503.14882)|null|
 |**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/abs/2503.14432)|null|
@@ -366,6 +367,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
+|**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
+|**2025-03-20**|**Mixture of Lookup Experts**|Shibo Jie et.al.|[2503.15798](http://arxiv.org/abs/2503.15798)|null|
+|**2025-03-19**|**Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication**|Sin-Yu Huang et.al.|[2503.15722](http://arxiv.org/abs/2503.15722)|null|
 |**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960](http://arxiv.org/abs/2503.14960)|null|
 |**2025-03-18**|**Core-Periphery Principle Guided State Space Model for Functional Connectome Classification**|Minheng Chen et.al.|[2503.14655](http://arxiv.org/abs/2503.14655)|null|
