@@ -385,8 +385,8 @@ layout: default
 |**2025-03-15**|**Adaptive Mixture of Experts Learning for Robust Audio Spoofing Detection**|Qixian Chen et.al.|[2503.12010](http://arxiv.org/abs/2503.12010)|null|
 |**2025-03-14**|**FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**|Jieming Bian et.al.|[2503.11880](http://arxiv.org/abs/2503.11880)|null|
 |**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
-|**2025-03-14**|**MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling**|Rachel S. Y. Teo et.al.|[2503.11144](http://arxiv.org/abs/2503.11144)|null|
-|**2025-03-13**|**Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores**|Chenpeng Wu et.al.|[2503.10725](http://arxiv.org/abs/2503.10725)|null|
+|**2025-03-14**|**MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling**|Rachel S. Y. Teo et.al.|[2503.11144](http://arxiv.org/abs/2503.11144)|**[link](https://github.com/rachtsy/molex)**|
+|**2025-03-13**|**Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores**|Chenpeng Wu et.al.|[2503.10725](http://arxiv.org/abs/2503.10725)|**[link](https://github.com/guqiqi/Samoyeds)**|
 |**2025-03-14**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
 |**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
@@ -405,7 +405,7 @@ layout: default
 |**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|**[link](https://github.com/idea-isail-lab-uiuc/resmoe)**|
 |**2025-03-10**|**eMoE: Task-aware Memory Efficient Mixture-of-Experts-Based (MoE) Model Inference**|Suraiya Tairin et.al.|[2503.06823](http://arxiv.org/abs/2503.06823)|null|
 |**2025-03-09**|**MoFE: Mixture of Frozen Experts Architecture**|Jean Seo et.al.|[2503.06491](http://arxiv.org/abs/2503.06491)|null|
-|**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|null|
+|**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|**[link](https://github.com/nguyendohoangkhoiUF/Swift-Hydra)**|
 |**2025-03-08**|**MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering**|Vinay Kumar Verma et.al.|[2503.06296](http://arxiv.org/abs/2503.06296)|null|
 |**2025-03-08**|**A Novel Trustworthy Video Summarization Algorithm Through a Mixture of LoRA Experts**|Wenzhuo Du et.al.|[2503.06064](http://arxiv.org/abs/2503.06064)|null|
 |**2025-03-08**|**MANDARIN: Mixture-of-Experts Framework for Dynamic Delirium and Coma Prediction in ICU Patients: Development and Validation of an Acute Brain Dysfunction Prediction Model**|Miguel Contreras et.al.|[2503.06059](http://arxiv.org/abs/2503.06059)|null|
