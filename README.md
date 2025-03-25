@@ -10,6 +10,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
+|**2025-03-23**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
+|**2025-03-22**|**PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling**|Chongpeng Liu et.al.|[2503.17707](http://arxiv.org/abs/2503.17707)|null|
+|**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation**|Jingzhi Fang et.al.|[2503.16893](http://arxiv.org/abs/2503.16893)|null|
 |**2025-03-20**|**SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**|Fahao Chen et.al.|[2503.15921](http://arxiv.org/abs/2503.15921)|null|
 |**2025-03-19**|**Automated Non-Functional Requirements Generation in Software Engineering with Large Language Models: A Comparative Study**|Jomar Thomas Almonte et.al.|[2503.15248](http://arxiv.org/abs/2503.15248)|null|
@@ -364,6 +370,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
+|**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
+|**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|null|
+|**2025-03-22**|**Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM**|Codefuse et.al.|[2503.17793](http://arxiv.org/abs/2503.17793)|null|
 |**2025-03-20**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
 |**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-20**|**Mixture of Lookup Experts**|Shibo Jie et.al.|[2503.15798](http://arxiv.org/abs/2503.15798)|**[link](https://github.com/jieshibo/mole)**|
