@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -368,7 +368,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250325>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250326>(back to top)</a></p>
 
 ## MoE
 
@@ -379,7 +379,7 @@ layout: default
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|null|
 |**2025-03-22**|**Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM**|Codefuse et.al.|[2503.17793](http://arxiv.org/abs/2503.17793)|null|
-|**2025-03-20**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
+|**2025-03-25**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
 |**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-20**|**Mixture of Lookup Experts**|Shibo Jie et.al.|[2503.15798](http://arxiv.org/abs/2503.15798)|**[link](https://github.com/jieshibo/mole)**|
 |**2025-03-21**|**Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication**|Sin-Yu Huang et.al.|[2503.15722](http://arxiv.org/abs/2503.15722)|null|
@@ -935,7 +935,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250325>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250326>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
