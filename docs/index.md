@@ -14,11 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|null|
-|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
-|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|**[link](https://github.com/concyclics/logquantkv)**|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|
+|**2025-03-27**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
-|**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
+|**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|**[link](https://github.com/optim996/WindowKV)**|
 |**2025-03-22**|**PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling**|Chongpeng Liu et.al.|[2503.17707](http://arxiv.org/abs/2503.17707)|null|
 |**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation**|Jingzhi Fang et.al.|[2503.16893](http://arxiv.org/abs/2503.16893)|null|
@@ -375,15 +375,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
 |**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750](http://arxiv.org/abs/2503.20750)|null|
 |**2025-03-26**|**UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines**|Chen Tang et.al.|[2503.20748](http://arxiv.org/abs/2503.20748)|null|
 |**2025-03-26**|**Enhancing Multi-modal Models with Heterogeneous MoE Adapters for Fine-tuning**|Sashuai Zhou et.al.|[2503.20633](http://arxiv.org/abs/2503.20633)|null|
 |**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
-|**2025-03-26**|**Modality-Independent Brain Lesion Segmentation with Privacy-aware Continual Learning**|Yousef Sadegheih et.al.|[2503.20326](http://arxiv.org/abs/2503.20326)|null|
+|**2025-03-26**|**Modality-Independent Brain Lesion Segmentation with Privacy-aware Continual Learning**|Yousef Sadegheih et.al.|[2503.20326](http://arxiv.org/abs/2503.20326)|**[link](https://github.com/xmindflow/braincl)**|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
-|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-27**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|null|
