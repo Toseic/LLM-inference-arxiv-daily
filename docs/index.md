@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -18,7 +18,7 @@ layout: default
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
 |**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
-|**2025-03-23**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
+|**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
 |**2025-03-22**|**PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling**|Chongpeng Liu et.al.|[2503.17707](http://arxiv.org/abs/2503.17707)|null|
 |**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation**|Jingzhi Fang et.al.|[2503.16893](http://arxiv.org/abs/2503.16893)|null|
@@ -369,7 +369,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250327>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250328>(back to top)</a></p>
 
 ## MoE
 
@@ -944,7 +944,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250327>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250328>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
