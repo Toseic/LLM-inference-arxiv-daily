@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|null|
+|**2025-03-31**|**MVDRAM: Enabling GeMV Execution in Unmodified DRAM for Low-Bit LLM Acceleration**|Tatsuya Kubo et.al.|[2503.23817](http://arxiv.org/abs/2503.23817)|null|
+|**2025-03-30**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference**|Wei Tao et.al.|[2503.23294](http://arxiv.org/abs/2503.23294)|null|
 |**2025-03-28**|**Niyama : Breaking the Silos of LLM Inference Serving**|Kanishk Goel et.al.|[2503.22562](http://arxiv.org/abs/2503.22562)|null|
 |**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|**[link](https://github.com/concyclics/logquantkv)**|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|
@@ -376,6 +379,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Unimodal-driven Distillation in Multimodal Emotion Recognition with Dynamic Fusion**|Jiagen Li et.al.|[2503.23721](http://arxiv.org/abs/2503.23721)|null|
+|**2025-03-30**|**Mixture of Routers**|Jia-Chen Zhang et.al.|[2503.23362](http://arxiv.org/abs/2503.23362)|null|
+|**2025-03-29**|**Beyond Standard MoE: Mixture of Latent Experts for Resource-Efficient Language Models**|Zehua Liu et.al.|[2503.23100](http://arxiv.org/abs/2503.23100)|null|
+|**2025-03-29**|**S2MoE: Robust Sparse Mixture of Experts via Stochastic Learning**|Giang Do et.al.|[2503.23007](http://arxiv.org/abs/2503.23007)|null|
+|**2025-03-29**|**Sparse Mixture of Experts as Unified Competitive Learning**|Giang Do et.al.|[2503.22996](http://arxiv.org/abs/2503.22996)|null|
 |**2025-03-28**|**Exploiting Mixture-of-Experts Redundancy Unlocks Multimodal Generative Abilities**|Raman Dutt et.al.|[2503.22517](http://arxiv.org/abs/2503.22517)|null|
 |**2025-03-27**|**RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction**|Armin Abdollahi et.al.|[2503.21971](http://arxiv.org/abs/2503.21971)|null|
 |**2025-03-27**|**iMedImage Technical Report**|Ran Wei et.al.|[2503.21836](http://arxiv.org/abs/2503.21836)|null|
