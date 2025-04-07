@@ -132,7 +132,7 @@ layout: default
 |**2025-01-24**|**Locality-aware Fair Scheduling in LLM Serving**|Shiyi Cao et.al.|[2501.14312](http://arxiv.org/abs/2501.14312)|null|
 |**2025-01-20**|**Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
 |**2025-01-20**|**Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**|Nishant Balepur et.al.|[2501.11549](http://arxiv.org/abs/2501.11549)|**[link](https://github.com/pinafore/alignment-personalization)**|
-|**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
+|**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|**[link](https://github.com/large-scale-sustainable-computing-lsc/green-code)**|
 |**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|**[link](https://github.com/xinzhel/llm-agent-survey)**|
 |**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
 |**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186](http://arxiv.org/abs/2501.09186)|**[link](https://github.com/mandeep-rathee/llmgar)**|
@@ -324,7 +324,7 @@ layout: default
 |**2024-07-05**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|**[link](https://github.com/hyy0613/corki)**|
 |**2024-07-04**|**Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems**|Grant Wilkins et.al.|[2407.04014](http://arxiv.org/abs/2407.04014)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
-|**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326](http://arxiv.org/abs/2407.00326)|null|
+|**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326](http://arxiv.org/abs/2407.00326)|**[link](https://github.com/netx-lab/ayo)**|
 |**2024-06-25**|**T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge**|Jianyu Wei et.al.|[2407.00088](http://arxiv.org/abs/2407.00088)|**[link](https://github.com/microsoft/t-mac)**|
 |**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707](http://arxiv.org/abs/2406.19707)|null|
 |**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
@@ -727,7 +727,7 @@ layout: default
 |**2024-10-15**|**Ada-K Routing: Boosting the Efficiency of MoE-based LLMs**|Tongtian Yue et.al.|[2410.10456](http://arxiv.org/abs/2410.10456)|null|
 |**2024-10-14**|**Tighter Risk Bounds for Mixtures of Experts**|Wissam Akretche et.al.|[2410.10397](http://arxiv.org/abs/2410.10397)|null|
 |**2024-10-14**|**Scalable Multi-Domain Adaptation of Language Models using Modular Experts**|Peter Schafhalter et.al.|[2410.10181](http://arxiv.org/abs/2410.10181)|null|
-|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|**[link](https://github.com/ljaiverson/pfedmoap)**|
 |**2024-10-14**|**AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality**|Peijun Qing et.al.|[2410.10054](http://arxiv.org/abs/2410.10054)|**[link](https://github.com/morelife2017/alphalora)**|
 |**2024-10-13**|**ContextWIN: Whittle Index Based Mixture-of-Experts Neural Model For Restless Bandits Via Deep RL**|Zhanqiu Guo et.al.|[2410.09781](http://arxiv.org/abs/2410.09781)|null|
 |**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
