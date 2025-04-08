@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-04**|**Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation**|Weitao Li et.al.|[2504.03165](http://arxiv.org/abs/2504.03165)|null|
 |**2025-04-03**|**Narrative Studio: Visual narrative exploration using LLMs and Monte Carlo Tree Search**|Parsa Ghaffari et.al.|[2504.02426](http://arxiv.org/abs/2504.02426)|null|
@@ -380,10 +381,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
+|**2025-04-06**|**On the Spatial Structure of Mixture-of-Experts in Transformers**|Daniel Bershatsky et.al.|[2504.04444](http://arxiv.org/abs/2504.04444)|null|
+|**2025-04-05**|**Collaboration and Controversy Among Experts: Rumor Early Detection by Tuning a Comment Generator**|Bing Wang et.al.|[2504.04076](http://arxiv.org/abs/2504.04076)|null|
+|**2025-04-04**|**HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs**|Yongji Wu et.al.|[2504.03871](http://arxiv.org/abs/2504.03871)|null|
+|**2025-04-01**|**Detecting Financial Fraud with Hybrid Deep Learning: A Mix-of-Experts Approach to Sequential and Anomalous Patterns**|Diego Vallarino et.al.|[2504.03750](http://arxiv.org/abs/2504.03750)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
 |**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
-|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
-|**2025-04-03**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
+|**2025-04-07**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
+|**2025-04-07**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
 |**2025-04-02**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/abs/2504.01337)|null|
 |**2025-04-01**|**Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function**|Qiuchen Song et.al.|[2504.00819](http://arxiv.org/abs/2504.00819)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
