@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -383,7 +383,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250410>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250411>(back to top)</a></p>
 
 ## MoE
 
@@ -394,7 +394,7 @@ layout: default
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
 |**2025-04-08**|**HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2504.05897](http://arxiv.org/abs/2504.05897)|null|
 |**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
-|**2025-04-08**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
+|**2025-04-10**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
 |**2025-04-06**|**On the Spatial Structure of Mixture-of-Experts in Transformers**|Daniel Bershatsky et.al.|[2504.04444](http://arxiv.org/abs/2504.04444)|null|
 |**2025-04-05**|**Collaboration and Controversy Among Experts: Rumor Early Detection by Tuning a Comment Generator**|Bing Wang et.al.|[2504.04076](http://arxiv.org/abs/2504.04076)|null|
@@ -987,7 +987,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250410>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250411>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
