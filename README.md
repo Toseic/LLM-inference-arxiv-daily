@@ -10,6 +10,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
+|**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
+|**2025-04-14**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
+|**2025-04-13**|**LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference**|Jianing Zheng et.al.|[2504.09561](http://arxiv.org/abs/2504.09561)|null|
+|**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
+|**2025-04-11**|**SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**|Jiaming Xu et.al.|[2504.08850](http://arxiv.org/abs/2504.08850)|null|
+|**2025-04-10**|**SD $^2$ : Self-Distilled Sparse Drafters**|Mike Lasby et.al.|[2504.08838](http://arxiv.org/abs/2504.08838)|null|
 |**2025-04-11**|**Scaling Up On-Device LLMs via Active-Weight Swapping Between DRAM and Flash**|Fucheng Jia et.al.|[2504.08378](http://arxiv.org/abs/2504.08378)|null|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/abs/2504.07878)|null|
@@ -391,6 +398,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning**|LeiLei Ma et.al.|[2504.09990](http://arxiv.org/abs/2504.09990)|null|
+|**2025-04-14**|**Multi-objective Bayesian Optimization With Mixed-categorical Design Variables for Expensive-to-evaluate Aeronautical Applications**|Nathalie Bartoli et.al.|[2504.09930](http://arxiv.org/abs/2504.09930)|null|
+|**2025-04-14**|**Plasticity-Aware Mixture of Experts for Learning Under QoE Shifts in Adaptive Video Streaming**|Zhiqiang He et.al.|[2504.09906](http://arxiv.org/abs/2504.09906)|null|
+|**2025-04-13**|**Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation**|Jia Wei et.al.|[2504.09601](http://arxiv.org/abs/2504.09601)|null|
+|**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
+|**2025-04-12**|**Mixture of Group Experts for Learning Invariant Representations**|Lei Kang et.al.|[2504.09265](http://arxiv.org/abs/2504.09265)|null|
+|**2025-04-11**|**RouterKT: Mixture-of-Experts for Knowledge Tracing**|Han Liao et.al.|[2504.08989](http://arxiv.org/abs/2504.08989)|**[link](https://github.com/derek-liao/RouterKT)**|
 |**2025-04-11**|**Regularized infill criteria for multi-objective Bayesian optimization with application to aircraft design**|Robin Grapin et.al.|[2504.08671](http://arxiv.org/abs/2504.08671)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-11**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
