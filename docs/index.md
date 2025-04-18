@@ -407,6 +407,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|null|
+|**2025-04-16**|**Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models**|Yuanbo Tang et.al.|[2504.12359](http://arxiv.org/abs/2504.12359)|null|
 |**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|null|
