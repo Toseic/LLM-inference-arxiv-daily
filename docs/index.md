@@ -407,6 +407,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
+|**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
 |**2025-04-18**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|**[link](https://github.com/vatsal0/default-moe)**|
 |**2025-04-16**|**Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models**|Yuanbo Tang et.al.|[2504.12359](http://arxiv.org/abs/2504.12359)|null|
 |**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
