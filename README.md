@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
 |**2025-04-24**|**L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference**|Qingyuan Liu et.al.|[2504.17584](http://arxiv.org/abs/2504.17584)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-18**|**HPU: High-Bandwidth Processing Unit for Scalable, Cost-effective LLM Inference via GPU Co-processing**|Myunghyun Rhee et.al.|[2504.16112](http://arxiv.org/abs/2504.16112)|null|
@@ -412,6 +413,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
+|**2025-04-24**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|null|
 |**2025-04-22**|**Compass-V2 Technical Report**|Sophia Maria et.al.|[2504.15527](http://arxiv.org/abs/2504.15527)|null|
 |**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|null|
 |**2025-04-17**|**D $^{2}$ MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving**|Haodong Wang et.al.|[2504.15299](http://arxiv.org/abs/2504.15299)|null|
