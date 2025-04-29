@@ -10,6 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
+|**2025-04-28**|**R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference**|Zhenyu Zhang et.al.|[2504.19449](http://arxiv.org/abs/2504.19449)|null|
+|**2025-04-26**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
+|**2025-04-23**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
 |**2025-04-24**|**L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference**|Qingyuan Liu et.al.|[2504.17584](http://arxiv.org/abs/2504.17584)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
@@ -413,8 +418,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
+|**2025-04-28**|**Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey**|Yunting Xu et.al.|[2504.19660](http://arxiv.org/abs/2504.19660)|null|
+|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|null|
+|**2025-04-24**|**BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**|Qingyue Wang et.al.|[2504.18598](http://arxiv.org/abs/2504.18598)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
-|**2025-04-24**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|null|
+|**2025-04-28**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|null|
 |**2025-04-22**|**Compass-V2 Technical Report**|Sophia Maria et.al.|[2504.15527](http://arxiv.org/abs/2504.15527)|null|
 |**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|null|
 |**2025-04-17**|**D $^{2}$ MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving**|Haodong Wang et.al.|[2504.15299](http://arxiv.org/abs/2504.15299)|null|
