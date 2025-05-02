@@ -422,6 +422,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series**|Tian Lan et.al.|[2505.00415](http://arxiv.org/abs/2505.00415)|null|
+|**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
+|**2025-04-30**|**Online Federation For Mixtures of Proprietary Agents with Black-Box Encoders**|Xuwei Yang et.al.|[2505.00216](http://arxiv.org/abs/2505.00216)|null|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
 |**2025-04-29**|**Token-Level Prompt Mixture with Parameter-Free Routing for Federated Domain Generalization**|Shuai Gong et.al.|[2504.21063](http://arxiv.org/abs/2504.21063)|null|
 |**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029](http://arxiv.org/abs/2504.21029)|null|
