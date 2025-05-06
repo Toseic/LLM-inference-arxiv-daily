@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
+|**2025-05-03**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|null|
+|**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
 |**2025-04-28**|**R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference**|Zhenyu Zhang et.al.|[2504.19449](http://arxiv.org/abs/2504.19449)|null|
@@ -422,6 +425,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|null|
+|**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
+|**2025-05-05**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
+|**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|null|
+|**2025-05-03**|**Backdoor Attacks Against Patch-based Mixture of Experts**|Cedric Chan et.al.|[2505.01811](http://arxiv.org/abs/2505.01811)|null|
+|**2025-05-01**|**MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling**|Abdoul Majid O. Thiombiano et.al.|[2505.01459](http://arxiv.org/abs/2505.01459)|null|
 |**2025-05-02**|**Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders**|Rogelio A Mancisidor et.al.|[2505.01134](http://arxiv.org/abs/2505.01134)|null|
 |**2025-05-02**|**CoCoAFusE: Beyond Mixtures of Experts via Model Fusion**|Aurelio Raffa Ugolini et.al.|[2505.01105](http://arxiv.org/abs/2505.01105)|null|
 |**2025-05-01**|**Improving Routing in Sparse Mixture of Experts with Graph of Tokens**|Tam Nguyen et.al.|[2505.00792](http://arxiv.org/abs/2505.00792)|null|
