@@ -10,10 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
-|**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|null|
+|**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|**[link](https://github.com/sihyeong/awesome-llm-inference-engine)**|
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
@@ -423,6 +424,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
 |**2025-05-07**|**SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios**|Ning Cheng et.al.|[2505.04201](http://arxiv.org/abs/2505.04201)|null|
 |**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|null|
