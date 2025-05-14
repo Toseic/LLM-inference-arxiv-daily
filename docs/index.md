@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Automatic Task Detection and Heterogeneous LLM Speculative Decoding**|Danying Ge et.al.|[2505.08600](http://arxiv.org/abs/2505.08600)|null|
+|**2025-05-08**|**Scaling Laws for Speculative Decoding**|Siyuan Yan et.al.|[2505.07858](http://arxiv.org/abs/2505.07858)|null|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
@@ -434,6 +436,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
+|**2025-05-13**|**AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale**|Yunjie Ji et.al.|[2505.08311](http://arxiv.org/abs/2505.08311)|null|
 |**2025-05-12**|**UMoE: Unifying Attention and FFN with Shared Experts**|Yuanhang Yang et.al.|[2505.07260](http://arxiv.org/abs/2505.07260)|null|
 |**2025-05-11**|**Seed1.5-VL Technical Report**|Dong Guo et.al.|[2505.07062](http://arxiv.org/abs/2505.07062)|null|
 |**2025-05-11**|**FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers**|Tianyu Chen et.al.|[2505.06858](http://arxiv.org/abs/2505.06858)|null|
