@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-10**|**I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference**|Zibo Gao et.al.|[2505.06738](http://arxiv.org/abs/2505.06738)|null|
 |**2025-05-09**|**Challenging GPU Dominance: When CPUs Outperform for On-Device LLM Inference**|Haolin Zhang et.al.|[2505.06461](http://arxiv.org/abs/2505.06461)|null|
 |**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|null|
-|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|**[link](https://github.com/relaxed-system-lab/hexgen-flow)**|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
@@ -428,7 +428,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250513>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250514>(back to top)</a></p>
 
 ## MoE
 
@@ -437,7 +437,7 @@ layout: default
 |**2025-05-12**|**UMoE: Unifying Attention and FFN with Shared Experts**|Yuanhang Yang et.al.|[2505.07260](http://arxiv.org/abs/2505.07260)|null|
 |**2025-05-11**|**Seed1.5-VL Technical Report**|Dong Guo et.al.|[2505.07062](http://arxiv.org/abs/2505.07062)|null|
 |**2025-05-11**|**FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers**|Tianyu Chen et.al.|[2505.06858](http://arxiv.org/abs/2505.06858)|null|
-|**2025-05-11**|**The power of fine-grained experts: Granularity boosts expressivity in Mixture of Experts**|Enric Boix-Adsera et.al.|[2505.06839](http://arxiv.org/abs/2505.06839)|null|
+|**2025-05-11**|**The power of fine-grained experts: Granularity boosts expressivity in Mixture of Experts**|Enric Boix-Adsera et.al.|[2505.06839](http://arxiv.org/abs/2505.06839)|**[link](https://github.com/eboix/moe_granularity_separation)**|
 |**2025-05-10**|**Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free**|Zihan Qiu et.al.|[2505.06708](http://arxiv.org/abs/2505.06708)|**[link](https://github.com/qiuzh20/gated_attention)**|
 |**2025-05-10**|**Emotion-Qwen: Training Hybrid Experts for Unified Emotion and General Vision-Language Understanding**|Dawei Huang et.al.|[2505.06685](http://arxiv.org/abs/2505.06685)|null|
 |**2025-05-10**|**QoS-Efficient Serving of Multiple Mixture-of-Expert LLMs Using Partial Runtime Reconfiguration**|HamidReza Imani et.al.|[2505.06481](http://arxiv.org/abs/2505.06481)|null|
@@ -1100,7 +1100,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250513>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250514>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
