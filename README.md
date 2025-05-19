@@ -31,7 +31,7 @@
 |**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|**[link](https://github.com/sihyeong/awesome-llm-inference-engine)**|
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
-|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|**[link](https://github.com/zenrran4nlp/Awesome-LLM-Inference-Serving)**|
 |**2025-04-28**|**R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference**|Zhenyu Zhang et.al.|[2504.19449](http://arxiv.org/abs/2504.19449)|null|
 |**2025-05-07**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
 |**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
@@ -456,7 +456,7 @@
 |**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
 |**2025-05-07**|**SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios**|Ning Cheng et.al.|[2505.04201](http://arxiv.org/abs/2505.04201)|null|
-|**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|null|
+|**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|**[link](https://github.com/tedfoley/nanoGPT)**|
 |**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068](http://arxiv.org/abs/2505.04068)|null|
 |**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638](http://arxiv.org/abs/2505.03638)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
@@ -466,13 +466,13 @@
 |**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
 |**2025-05-05**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
-|**2025-05-03**|**Backdoor Attacks Against Patch-based Mixture of Experts**|Cedric Chan et.al.|[2505.01811](http://arxiv.org/abs/2505.01811)|null|
+|**2025-05-03**|**Backdoor Attacks Against Patch-based Mixture of Experts**|Cedric Chan et.al.|[2505.01811](http://arxiv.org/abs/2505.01811)|**[link](https://github.com/geefmegeld/pmoe-backdoor)**|
 |**2025-05-01**|**MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling**|Abdoul Majid O. Thiombiano et.al.|[2505.01459](http://arxiv.org/abs/2505.01459)|null|
 |**2025-05-02**|**Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders**|Rogelio A Mancisidor et.al.|[2505.01134](http://arxiv.org/abs/2505.01134)|null|
 |**2025-05-02**|**CoCoAFusE: Beyond Mixtures of Experts via Model Fusion**|Aurelio Raffa Ugolini et.al.|[2505.01105](http://arxiv.org/abs/2505.01105)|null|
 |**2025-05-01**|**Improving Routing in Sparse Mixture of Experts with Graph of Tokens**|Tam Nguyen et.al.|[2505.00792](http://arxiv.org/abs/2505.00792)|null|
 |**2025-05-01**|**CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series**|Tian Lan et.al.|[2505.00415](http://arxiv.org/abs/2505.00415)|null|
-|**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
+|**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|**[link](https://github.com/piotrpiekos/MoSA)**|
 |**2025-04-30**|**Online Federation For Mixtures of Proprietary Agents with Black-Box Encoders**|Xuwei Yang et.al.|[2505.00216](http://arxiv.org/abs/2505.00216)|null|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
 |**2025-04-29**|**Token-Level Prompt Mixture with Parameter-Free Routing for Federated Domain Generalization**|Shuai Gong et.al.|[2504.21063](http://arxiv.org/abs/2504.21063)|null|
@@ -482,7 +482,7 @@
 |**2025-04-29**|**MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation**|Amaan Izhar et.al.|[2504.20343](http://arxiv.org/abs/2504.20343)|**[link](https://github.com/AI-14/micar-vl-moe)**|
 |**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
 |**2025-04-28**|**Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey**|Yunting Xu et.al.|[2504.19660](http://arxiv.org/abs/2504.19660)|null|
-|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|null|
+|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|**[link](https://github.com/Lg0914/ARTEMIS)**|
 |**2025-04-29**|**BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**|Qingyue Wang et.al.|[2504.18598](http://arxiv.org/abs/2504.18598)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
 |**2025-04-28**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|**[link](https://github.com/ai-explorer-123/gusd)**|
