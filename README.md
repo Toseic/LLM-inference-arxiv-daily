@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 |**2025-05-15**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|null|
 |**2025-05-15**|**ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production**|Yuxing Xiang et.al.|[2505.09999](http://arxiv.org/abs/2505.09999)|null|
-|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
+|**2025-05-15**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
 |**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319](http://arxiv.org/abs/2505.09319)|null|
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
 |**2025-05-13**|**LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries**|Zekun Wu et.al.|[2505.08842](http://arxiv.org/abs/2505.08842)|null|
@@ -432,7 +432,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250518>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250519>(back to top)</a></p>
 
 ## MoE
 
@@ -1110,7 +1110,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250518>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250519>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
