@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|null|
+|**2025-05-16**|**Vaiage: A Multi-Agent Solution to Personalized Travel Planning**|Binwen Liu et.al.|[2505.10922](http://arxiv.org/abs/2505.10922)|null|
 |**2025-05-15**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|null|
 |**2025-05-15**|**ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production**|Yuxing Xiang et.al.|[2505.09999](http://arxiv.org/abs/2505.09999)|null|
 |**2025-05-15**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
@@ -438,6 +440,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
+|**2025-05-16**|**A Fast Kernel-based Conditional Independence test with Application to Causal Discovery**|Oliver Schacht et.al.|[2505.11085](http://arxiv.org/abs/2505.11085)|null|
+|**2025-05-16**|**On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating**|Huy Nguyen et.al.|[2505.10860](http://arxiv.org/abs/2505.10860)|null|
 |**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|**[link](https://github.com/zongqianli/pt-moe)**|
 |**2025-05-14**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388](http://arxiv.org/abs/2505.09388)|**[link](https://github.com/qwenlm/qwen3)**|
 |**2025-05-14**|**Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures**|Chenggang Zhao et.al.|[2505.09343](http://arxiv.org/abs/2505.09343)|null|
