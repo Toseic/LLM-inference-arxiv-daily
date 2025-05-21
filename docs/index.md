@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -443,20 +443,20 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250520>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250521>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|**[link](https://github.com/fsoft-aic/competesmoe)**|
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192](http://arxiv.org/abs/2505.13192)|null|
 |**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
-|**2025-05-17**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
 |**2025-05-17**|**Improving Coverage in Combined Prediction Sets with Weighted p-values**|Gina Wong et.al.|[2505.11785](http://arxiv.org/abs/2505.11785)|null|
 |**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
@@ -1135,7 +1135,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250520>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250521>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
