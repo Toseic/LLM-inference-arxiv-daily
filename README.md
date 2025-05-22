@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity**|Susav Shrestha et.al.|[2505.14884](http://arxiv.org/abs/2505.14884)|**[link](https://github.com/susavlsh10/polar-sparsity)**|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs**|Yifan Sui et.al.|[2505.14468](http://arxiv.org/abs/2505.14468)|null|
 |**2025-05-16**|**An agentic system with reinforcement-learned subsystem improvements for parsing form-like documents**|Ayesha Amjad et.al.|[2505.13504](http://arxiv.org/abs/2505.13504)|null|
@@ -448,6 +449,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
+|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
+|**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
+|**2025-05-21**|**Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines**|Xiaohou Shi et.al.|[2505.15151](http://arxiv.org/abs/2505.15151)|null|
+|**2025-05-20**|**Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies**|Haoyi Qiu et.al.|[2505.14972](http://arxiv.org/abs/2505.14972)|null|
+|**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/abs/2505.14864)|null|
+|**2025-05-20**|**Solving MNIST with a globally trained Mixture of Quantum Experts**|Paolo Alessandro Xavier Tognini et.al.|[2505.14789](http://arxiv.org/abs/2505.14789)|null|
 |**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681](http://arxiv.org/abs/2505.14681)|null|
 |**2025-05-21**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336](http://arxiv.org/abs/2505.14336)|null|
 |**2025-05-20**|**FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation**|Shaolin Zhu et.al.|[2505.14256](http://arxiv.org/abs/2505.14256)|null|
