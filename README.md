@@ -3,16 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|null|
-|**2025-05-22**|**Reading Between the Prompts: How Stereotypes Shape LLM's Implicit Personalization**|Vera Neplenbroek et.al.|[2505.16467](http://arxiv.org/abs/2505.16467)|null|
-|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|null|
+|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|**[link](https://github.com/danielfperez/castillo)**|
+|**2025-05-22**|**Reading Between the Prompts: How Stereotypes Shape LLM's Implicit Personalization**|Vera Neplenbroek et.al.|[2505.16467](http://arxiv.org/abs/2505.16467)|**[link](https://github.com/veranep/implicit-personalization-stereotypes)**|
+|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
 |**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
 |**2025-05-20**|**Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity**|Susav Shrestha et.al.|[2505.14884](http://arxiv.org/abs/2505.14884)|**[link](https://github.com/susavlsh10/polar-sparsity)**|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
@@ -447,7 +447,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250525>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250526>(back to top)</a></p>
 
 ## MoE
 
@@ -455,7 +455,7 @@
 |---|---|---|---|---|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
-|**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056](http://arxiv.org/abs/2505.16056)|null|
+|**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056](http://arxiv.org/abs/2505.16056)|**[link](https://github.com/ljcleo/moe-lrc)**|
 |**2025-05-21**|**MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding**|Yuxiang Wei et.al.|[2505.15946](http://arxiv.org/abs/2505.15946)|null|
 |**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
 |**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
@@ -1160,7 +1160,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250525>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250526>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
