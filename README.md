@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -470,16 +470,16 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250604>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250605>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
+|**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
 |**2025-06-03**|**Scaling Fine-Grained MoE Beyond 50B Parameters: Empirical Evaluation and Practical Insights**|Jakub Krajewski et.al.|[2506.02890](http://arxiv.org/abs/2506.02890)|null|
 |**2025-06-03**|**Brain-Like Processing Pathways Form in Models With Heterogeneous Experts**|Jack Cook et.al.|[2506.02813](http://arxiv.org/abs/2506.02813)|null|
-|**2025-06-03**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
+|**2025-06-04**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
 |**2025-06-03**|**MidPO: Dual Preference Optimization for Safety and Helpfulness in Large Language Models via a Mixture of Experts Framework**|Yupeng Qi et.al.|[2506.02460](http://arxiv.org/abs/2506.02460)|null|
 |**2025-05-31**|**Enhancing Multimodal Continual Instruction Tuning with BranchLoRA**|Duzhen Zhang et.al.|[2506.02041](http://arxiv.org/abs/2506.02041)|null|
 |**2025-06-02**|**SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model**|Zhao Yang et.al.|[2506.01833](http://arxiv.org/abs/2506.01833)|null|
@@ -1232,7 +1232,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250604>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250605>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
