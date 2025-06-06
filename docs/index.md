@@ -485,6 +485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection**|Ziyi Zhou et.al.|[2506.04739](http://arxiv.org/abs/2506.04739)|null|
+|**2025-06-05**|**FlashDMoE: Fast Distributed MoE in a Single Kernel**|Osayamen Jonathan Aimuyo et.al.|[2506.04667](http://arxiv.org/abs/2506.04667)|null|
 |**2025-06-04**|**Resolving Task Objective Conflicts in Unified Multimodal Understanding and Generation via Task-Aware Mixture-of-Experts**|Jiaxing Zhang et.al.|[2506.03591](http://arxiv.org/abs/2506.03591)|null|
 |**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
 |**2025-06-03**|**Scaling Fine-Grained MoE Beyond 50B Parameters: Empirical Evaluation and Practical Insights**|Jakub Krajewski et.al.|[2506.02890](http://arxiv.org/abs/2506.02890)|null|
