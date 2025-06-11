@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479](http://arxiv.org/abs/2506.08479)|null|
+|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|null|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-07**|**Containerized In-Storage Processing and Computing-Enabled SSD Disaggregation**|Miryeong Kwon et.al.|[2506.06769](http://arxiv.org/abs/2506.06769)|null|
 |**2025-06-06**|**Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques**|Adarsh Prasad Behera et.al.|[2506.06579](http://arxiv.org/abs/2506.06579)|null|
@@ -483,16 +485,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250610>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250611>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|null|
+|**2025-06-10**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra et.al.|[2506.08356](http://arxiv.org/abs/2506.08356)|null|
+|**2025-06-09**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|null|
 |**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969](http://arxiv.org/abs/2506.07969)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
-|**2025-06-09**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yagel et.al.|[2506.07563](http://arxiv.org/abs/2506.07563)|null|
+|**2025-06-10**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563](http://arxiv.org/abs/2506.07563)|null|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-09**|**MoE-GPS: Guidlines for Prediction Strategy for Dynamic Expert Duplication in MoE Load Balancing**|Haiyue Ma et.al.|[2506.07366](http://arxiv.org/abs/2506.07366)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
@@ -1261,7 +1266,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250610>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250611>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
