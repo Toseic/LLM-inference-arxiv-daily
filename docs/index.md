@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference**|Hongbin Zhang et.al.|[2506.10470](http://arxiv.org/abs/2506.10470)|null|
 |**2025-06-11**|**A First Look at Bugs in LLM Inference Engines**|Mugeng Liu et.al.|[2506.09713](http://arxiv.org/abs/2506.09713)|null|
 |**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
 |**2025-06-11**|**Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible Reasoning**|Jiayi Yuan et.al.|[2506.09501](http://arxiv.org/abs/2506.09501)|null|
@@ -494,6 +495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
 |**2025-06-11**|**GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture**|GigaChat team et.al.|[2506.09440](http://arxiv.org/abs/2506.09440)|null|
 |**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/abs/2506.09351)|null|
 |**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|null|
