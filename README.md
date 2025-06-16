@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600](http://arxiv.org/abs/2506.11600)|null|
+|**2025-06-13**|**Collaborative LLM Inference via Planning for Efficient Reasoning**|Byeongchan Lee et.al.|[2506.11578](http://arxiv.org/abs/2506.11578)|null|
+|**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
 |**2025-06-12**|**TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference**|Hongbin Zhang et.al.|[2506.10470](http://arxiv.org/abs/2506.10470)|null|
 |**2025-06-11**|**A First Look at Bugs in LLM Inference Engines**|Mugeng Liu et.al.|[2506.09713](http://arxiv.org/abs/2506.09713)|**[link](https://github.com/infbug/bugs-in-llm-inference-engines)**|
 |**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
@@ -491,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
 |**2025-06-11**|**GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture**|GigaChat team et.al.|[2506.09440](http://arxiv.org/abs/2506.09440)|null|
 |**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/abs/2506.09351)|null|
