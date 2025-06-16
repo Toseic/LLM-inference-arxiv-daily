@@ -23,10 +23,10 @@
 |**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
 |**2025-06-04**|**Pre $^3$ : Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation**|Junyi Chen et.al.|[2506.03887](http://arxiv.org/abs/2506.03887)|null|
 |**2025-06-04**|**Client-Side Zero-Shot LLM Inference for Comprehensive In-Browser URL Analysis**|Avihay Cohen et.al.|[2506.03656](http://arxiv.org/abs/2506.03656)|null|
-|**2025-06-04**|**POSS: Position Specialist Generates Better Draft for Speculative Decoding**|Langlin Huang et.al.|[2506.03566](http://arxiv.org/abs/2506.03566)|null|
+|**2025-06-04**|**POSS: Position Specialist Generates Better Draft for Speculative Decoding**|Langlin Huang et.al.|[2506.03566](http://arxiv.org/abs/2506.03566)|**[link](https://github.com/shrango/poss)**|
 |**2025-06-07**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
-|**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|null|
+|**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|**[link](https://github.com/gpzlx1/hata)**|
 |**2025-06-02**|**Memory Access Characterization of Large Language Models in CPU Environment and its Potential Impacts**|Spencer Banasik et.al.|[2506.01827](http://arxiv.org/abs/2506.01827)|null|
 |**2025-05-30**|**Are Optimal Algorithms Still Optimal? Rethinking Sorting in LLM-Based Pairwise Ranking with Batching and Caching**|Juan Wisznia et.al.|[2505.24643](http://arxiv.org/abs/2505.24643)|null|
 |**2025-05-30**|**LLM Inference Enhanced by External Knowledge: A Survey**|Yu-Hsuan Lin et.al.|[2505.24377](http://arxiv.org/abs/2505.24377)|**[link](https://github.com/miulab/kg-survey)**|
@@ -36,7 +36,7 @@
 |**2025-05-29**|**SCORPIO: Serving the Right Requests at the Right Time for Heterogeneous SLOs in LLM Inference**|Yinghao Tang et.al.|[2505.23022](http://arxiv.org/abs/2505.23022)|null|
 |**2025-05-28**|**Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference**|Donghyeon Joo et.al.|[2505.22913](http://arxiv.org/abs/2505.22913)|**[link](https://github.com/dhjoo98/mustafar)**|
 |**2025-05-28**|**Towards Efficient Key-Value Cache Management for Prefix Prefilling in LLM Inference**|Yue Zhu et.al.|[2505.21919](http://arxiv.org/abs/2505.21919)|null|
-|**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
+|**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|**[link](https://github.com/cokeshao/holitom)**|
 |**2025-05-28**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
@@ -64,7 +64,7 @@
 |**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|null|
 |**2025-05-16**|**Vaiage: A Multi-Agent Solution to Personalized Travel Planning**|Binwen Liu et.al.|[2505.10922](http://arxiv.org/abs/2505.10922)|null|
 |**2025-05-19**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|**[link](https://github.com/mobisense/specoffload-public)**|
-|**2025-05-15**|**ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production**|Yuxing Xiang et.al.|[2505.09999](http://arxiv.org/abs/2505.09999)|null|
+|**2025-05-15**|**ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production**|Yuxing Xiang et.al.|[2505.09999](http://arxiv.org/abs/2505.09999)|**[link](https://github.com/alibaba/servegen)**|
 |**2025-05-15**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
 |**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319](http://arxiv.org/abs/2505.09319)|null|
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
@@ -118,7 +118,7 @@
 |**2025-04-10**|**Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents**|Yueying Li et.al.|[2504.07347](http://arxiv.org/abs/2504.07347)|null|
 |**2025-04-08**|**SPIRe: Boosting LLM Inference Throughput with Speculative Decoding**|Sanjit Neelam et.al.|[2504.06419](http://arxiv.org/abs/2504.06419)|null|
 |**2025-04-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|null|
-|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|**[link](https://github.com/eqimp/hogwild_llm)**|
 |**2025-04-11**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
@@ -291,7 +291,7 @@
 |**2024-11-24**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741](http://arxiv.org/abs/2411.17741)|null|
 |**2024-11-26**|**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**|Cristobal Ortega et.al.|[2411.17309](http://arxiv.org/abs/2411.17309)|null|
 |**2024-11-26**|**Star Attention: Efficient LLM Inference over Long Sequences**|Shantanu Acharya et.al.|[2411.17116](http://arxiv.org/abs/2411.17116)|**[link](https://github.com/NVIDIA/Star-Attention)**|
-|**2024-11-26**|**Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation**|Chaoyi Jiang et.al.|[2411.17089](http://arxiv.org/abs/2411.17089)|null|
+|**2024-11-26**|**Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation**|Chaoyi Jiang et.al.|[2411.17089](http://arxiv.org/abs/2411.17089)|**[link](https://github.com/chaoyij/kvpr)**|
 |**2024-11-25**|**MixPE: Quantization and Hardware Co-design for Efficient LLM Inference**|Yu Zhang et.al.|[2411.16158](http://arxiv.org/abs/2411.16158)|null|
 |**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003](http://arxiv.org/abs/2411.16003)|null|
 |**2024-11-24**|**Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format**|Chao Fang et.al.|[2411.15982](http://arxiv.org/abs/2411.15982)|null|
@@ -311,7 +311,7 @@
 |**2024-11-12**|**The Effect of Scheduling and Preemption on the Efficiency of LLM Inference Serving**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|null|
 |**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
 |**2024-11-07**|**Hardware and Software Platform Inference**|Cheng Zhang et.al.|[2411.05197](http://arxiv.org/abs/2411.05197)|null|
-|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|**[link](https://github.com/snowflakedb/arcticinference)**|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
 |**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
@@ -525,7 +525,7 @@
 |**2025-06-01**|**Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts**|Fan Liu et.al.|[2506.00965](http://arxiv.org/abs/2506.00965)|null|
 |**2025-05-30**|**Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction**|Shuai Liu et.al.|[2505.24597](http://arxiv.org/abs/2505.24597)|null|
 |**2025-05-30**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
-|**2025-05-30**|**Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer**|Yilun Kong et.al.|[2505.24378](http://arxiv.org/abs/2505.24378)|null|
+|**2025-05-30**|**Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer**|Yilun Kong et.al.|[2505.24378](http://arxiv.org/abs/2505.24378)|**[link](https://github.com/kongyilun/m3dt)**|
 |**2025-05-30**|**GradPower: Powering Gradients for Faster Language Model Pre-Training**|Mingze Wang et.al.|[2505.24275](http://arxiv.org/abs/2505.24275)|null|
 |**2025-05-30**|**On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks**|Mingze Wang et.al.|[2505.24205](http://arxiv.org/abs/2505.24205)|null|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
@@ -646,7 +646,7 @@
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
 |**2025-04-28**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|**[link](https://github.com/ai-explorer-123/gusd)**|
 |**2025-04-22**|**Compass-V2 Technical Report**|Sophia Maria et.al.|[2504.15527](http://arxiv.org/abs/2504.15527)|null|
-|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|null|
+|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|**[link](https://github.com/jonathanbrok/manifold-induced-biases-for-zero-shot-and-few-shot-detection-of-generated-images)**|
 |**2025-04-17**|**D $^{2}$ MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving**|Haodong Wang et.al.|[2504.15299](http://arxiv.org/abs/2504.15299)|null|
 |**2025-04-23**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
@@ -799,7 +799,7 @@
 |**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315](http://arxiv.org/abs/2502.15315)|**[link](https://github.com/stefvk/acmoe)**|
 |**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|**[link](https://github.com/ZovanZhou/MG-VMoE)**|
 |**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/abs/2502.14788)|null|
-|**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
+|**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|**[link](https://github.com/tutujingyugang1/ChatVLA_public)**|
 |**2025-02-19**|**Unraveling the Localized Latents: Learning Stratified Manifold Structures in LLM Embedding Space with Sparse Mixture-of-Experts**|Xin Li et.al.|[2502.13577](http://arxiv.org/abs/2502.13577)|null|
 |**2025-02-18**|**MoBA: Mixture of Block Attention for Long-Context LLMs**|Enzhe Lu et.al.|[2502.13189](http://arxiv.org/abs/2502.13189)|**[link](https://github.com/moonshotai/moba)**|
 |**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
@@ -1036,7 +1036,7 @@
 |**2024-10-10**|**Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts**|Sukwon Yun et.al.|[2410.08245](http://arxiv.org/abs/2410.08245)|**[link](https://github.com/unites-lab/flex-moe)**|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
 |**2024-10-10**|**Efficient Dictionary Learning with Switch Sparse Autoencoders**|Anish Mudide et.al.|[2410.08201](http://arxiv.org/abs/2410.08201)|**[link](https://github.com/amudide/switch_sae)**|
-|**2024-10-10**|**More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-Inspired Fixed Routing**|Sagi Shaier et.al.|[2410.08003](http://arxiv.org/abs/2410.08003)|null|
+|**2024-10-10**|**More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-Inspired Fixed Routing**|Sagi Shaier et.al.|[2410.08003](http://arxiv.org/abs/2410.08003)|**[link](https://github.com/shaier/comet)**|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
 |**2024-10-10**|**Upcycling Large Language Models into Mixture of Experts**|Ethan He et.al.|[2410.07524](http://arxiv.org/abs/2410.07524)|null|
 |**2024-10-09**|**MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts**|Peng Jin et.al.|[2410.07348](http://arxiv.org/abs/2410.07348)|**[link](https://github.com/skyworkai/moe-plus-plus)**|
