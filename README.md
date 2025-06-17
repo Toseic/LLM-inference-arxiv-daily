@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
+|**2025-06-13**|**Semantic Scheduling for LLM Inference**|Wenyue Hua et.al.|[2506.12204](http://arxiv.org/abs/2506.12204)|null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600](http://arxiv.org/abs/2506.11600)|null|
 |**2025-06-13**|**Collaborative LLM Inference via Planning for Efficient Reasoning**|Byeongchan Lee et.al.|[2506.11578](http://arxiv.org/abs/2506.11578)|null|
 |**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
@@ -494,6 +496,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|null|
+|**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
+|**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|null|
+|**2025-06-16**|**Breaking Thought Patterns: A Multi-Dimensional Reasoning Framework for LLMs**|Xintong Tang et.al.|[2506.13192](http://arxiv.org/abs/2506.13192)|null|
+|**2025-06-15**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
+|**2025-06-14**|**Automatic Expert Discovery in LLM Upcycling via Sparse Interpolated Mixture-of-Experts**|Shengzhuang Chen et.al.|[2506.12597](http://arxiv.org/abs/2506.12597)|null|
+|**2025-06-14**|**Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control**|Rongpeng Li et.al.|[2506.12453](http://arxiv.org/abs/2506.12453)|null|
+|**2025-06-14**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Douchet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
+|**2025-06-14**|**Group then Scale: Dynamic Mixture-of-Experts Multilingual Language Model**|Chong Li et.al.|[2506.12388](http://arxiv.org/abs/2506.12388)|null|
+|**2025-06-13**|**Can Mixture-of-Experts Surpass Dense LLMs Under Strictly Equal Resources?**|Houyi Li et.al.|[2506.12119](http://arxiv.org/abs/2506.12119)|null|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
 |**2025-06-11**|**GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture**|GigaChat team et.al.|[2506.09440](http://arxiv.org/abs/2506.09440)|null|
