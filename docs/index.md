@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-17**|**CrEst: Credibility Estimation for Contexts in LLMs via Weak Supervision**|Dyah Adila et.al.|[2506.14912](http://arxiv.org/abs/2506.14912)|null|
 |**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
@@ -502,6 +504,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
+|**2025-06-23**|**An Audio-centric Multi-task Learning Framework for Streaming Ads Targeting on Spotify**|Shivam Verma et.al.|[2506.18735](http://arxiv.org/abs/2506.18735)|null|
+|**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|
+|**2025-06-23**|**SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation**|Zichong Li et.al.|[2506.18349](http://arxiv.org/abs/2506.18349)|null|
+|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2506.18304](http://arxiv.org/abs/2506.18304)|null|
+|**2025-06-22**|**Routing Mamba: Scaling State Space Models with Mixture-of-Experts Projection**|Zheng Zhan et.al.|[2506.18145](http://arxiv.org/abs/2506.18145)|null|
+|**2025-06-21**|**Incorporating Rather Than Eliminating: Achieving Fairness for Skin Disease Diagnosis Through Group-Specific Expert**|Gelei Xu et.al.|[2506.17787](http://arxiv.org/abs/2506.17787)|null|
+|**2025-06-21**|**Physics-informed mixture of experts network for interpretable battery degradation trajectory computation amid second-life complexities**|Xinghao Huang et.al.|[2506.17755](http://arxiv.org/abs/2506.17755)|null|
+|**2025-06-21**|**PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation**|Xinyu Xiong et.al.|[2506.17712](http://arxiv.org/abs/2506.17712)|null|
+|**2025-06-20**|**SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification**|Zhenglin Lai et.al.|[2506.17368](http://arxiv.org/abs/2506.17368)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600](http://arxiv.org/abs/2506.16600)|null|
 |**2025-06-19**|**Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models**|Daniel Fidel Harvey et.al.|[2506.16419](http://arxiv.org/abs/2506.16419)|null|
 |**2025-06-17**|**Scaling Intelligence: Designing Data Centers for Next-Gen Language Models**|Jesmin Jahan Tithi et.al.|[2506.15006](http://arxiv.org/abs/2506.15006)|null|
