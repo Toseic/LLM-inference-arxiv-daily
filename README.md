@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation**|Ahmadreza Saboor Yaraghi et.al.|[2506.19045](http://arxiv.org/abs/2506.19045)|null|
+|**2025-06-23**|**WiLLM: An Open Wireless LLM Communication System**|Boyi Liu et.al.|[2506.19030](http://arxiv.org/abs/2506.19030)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
@@ -500,6 +502,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
+|**2025-06-23**|**Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models**|Zihan Wang et.al.|[2506.18945](http://arxiv.org/abs/2506.18945)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
 |**2025-06-23**|**An Audio-centric Multi-task Learning Framework for Streaming Ads Targeting on Spotify**|Shivam Verma et.al.|[2506.18735](http://arxiv.org/abs/2506.18735)|null|
 |**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|
