@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
+|**2025-06-24**|**MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection**|Zhengxiang Huang et.al.|[2506.19884](http://arxiv.org/abs/2506.19884)|null|
 |**2025-06-23**|**Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation**|Ahmadreza Saboor Yaraghi et.al.|[2506.19045](http://arxiv.org/abs/2506.19045)|null|
 |**2025-06-23**|**WiLLM: An Open Wireless LLM Communication System**|Boyi Liu et.al.|[2506.19030](http://arxiv.org/abs/2506.19030)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
@@ -506,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration**|Jiaxing Huang et.al.|[2506.20282](http://arxiv.org/abs/2506.20282)|null|
 |**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
 |**2025-06-23**|**Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models**|Zihan Wang et.al.|[2506.18945](http://arxiv.org/abs/2506.18945)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
