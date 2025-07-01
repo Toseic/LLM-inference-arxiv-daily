@@ -513,6 +513,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis**|Zhe Liu et.al.|[2506.23648](http://arxiv.org/abs/2506.23648)|null|
+|**2025-06-30**|**Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model**|Mu-Chi Chen et.al.|[2506.23635](http://arxiv.org/abs/2506.23635)|null|
+|**2025-06-29**|**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**|Lujun Li et.al.|[2506.23266](http://arxiv.org/abs/2506.23266)|null|
+|**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
+|**2025-06-29**|**Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound**|Zhiyuan Zhu et.al.|[2506.23108](http://arxiv.org/abs/2506.23108)|null|
+|**2025-06-28**|**Hecto: Modular Sparse Experts for Adaptive and Interpretable Reasoning**|Sanskar Pandey et.al.|[2506.22919](http://arxiv.org/abs/2506.22919)|null|
 |**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
 |**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175](http://arxiv.org/abs/2506.22175)|null|
 |**2025-06-27**|**DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE**|Hang Shao et.al.|[2506.21864](http://arxiv.org/abs/2506.21864)|null|
