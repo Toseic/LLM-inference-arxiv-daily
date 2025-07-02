@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -507,7 +507,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250701>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250702>(back to top)</a></p>
 
 ## MoE
 
@@ -519,7 +519,7 @@ layout: default
 |**2025-06-29**|**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**|Lujun Li et.al.|[2506.23266](http://arxiv.org/abs/2506.23266)|null|
 |**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
 |**2025-06-29**|**Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound**|Zhiyuan Zhu et.al.|[2506.23108](http://arxiv.org/abs/2506.23108)|null|
-|**2025-06-28**|**Hecto: Modular Sparse Experts for Adaptive and Interpretable Reasoning**|Sanskar Pandey et.al.|[2506.22919](http://arxiv.org/abs/2506.22919)|null|
+|**2025-07-01**|**Hecto: Modular Sparse Experts for Adaptive and Interpretable Reasoning**|Sanskar Pandey et.al.|[2506.22919](http://arxiv.org/abs/2506.22919)|null|
 |**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
 |**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175](http://arxiv.org/abs/2506.22175)|null|
 |**2025-06-27**|**DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE**|Hang Shao et.al.|[2506.21864](http://arxiv.org/abs/2506.21864)|null|
@@ -1341,7 +1341,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250701>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250702>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
