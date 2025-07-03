@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**|Tianyu Liu et.al.|[2507.01449](http://arxiv.org/abs/2507.01449)|null|
+|**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
+|**2025-07-02**|**La RoSA: Enhancing LLM Efficiency via Layerwise Rotated Sparse Activation**|Kai Liu et.al.|[2507.01299](http://arxiv.org/abs/2507.01299)|null|
+|**2025-07-01**|**VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator**|Zhican Wang et.al.|[2507.00797](http://arxiv.org/abs/2507.00797)|null|
+|**2025-07-01**|**Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models**|Yilun Zhang et.al.|[2507.00653](http://arxiv.org/abs/2507.00653)|null|
+|**2025-07-01**|**LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference**|Chuhao Xu et.al.|[2507.00507](http://arxiv.org/abs/2507.00507)|null|
+|**2025-07-01**|**Serving LLMs in HPC Clusters: A Comparative Study of Qualcomm Cloud AI 100 Ultra and High-Performance GPUs**|Mohammad Firas Sada et.al.|[2507.00418](http://arxiv.org/abs/2507.00418)|null|
+|**2025-06-30**|**Federated Learning-Enabled Hybrid Language Models for Communication-Efficient Token Transmission**|Faranaksadat Solat et.al.|[2507.00082](http://arxiv.org/abs/2507.00082)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
@@ -513,6 +521,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data**|Ethan Pawl et.al.|[2507.01375](http://arxiv.org/abs/2507.01375)|null|
+|**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
+|**2025-07-02**|**Dynamical Multimodal Fusion with Mixture-of-Experts for Localizations**|Bohao Wang et.al.|[2507.01337](http://arxiv.org/abs/2507.01337)|null|
+|**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
+|**2025-07-01**|**MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE**|Geng Zhang et.al.|[2507.00390](http://arxiv.org/abs/2507.00390)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis**|Zhe Liu et.al.|[2506.23648](http://arxiv.org/abs/2506.23648)|null|
 |**2025-06-30**|**Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model**|Mu-Chi Chen et.al.|[2506.23635](http://arxiv.org/abs/2506.23635)|null|
