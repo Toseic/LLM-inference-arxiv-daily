@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**On the Convergence of Large Language Model Optimizer for Black-Box Network Management**|Hoon Lee et.al.|[2507.02689](http://arxiv.org/abs/2507.02689)|null|
+|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654](http://arxiv.org/abs/2507.02654)|null|
+|**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
+|**2025-07-02**|**Dissecting the Impact of Mobile DVFS Governors on LLM Inference Performance and Energy Efficiency**|Zongpu Zhang et.al.|[2507.02135](http://arxiv.org/abs/2507.02135)|null|
 |**2025-07-02**|**LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**|Tianyu Liu et.al.|[2507.01449](http://arxiv.org/abs/2507.01449)|null|
 |**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
 |**2025-07-02**|**La RoSA: Enhancing LLM Efficiency via Layerwise Rotated Sparse Activation**|Kai Liu et.al.|[2507.01299](http://arxiv.org/abs/2507.01299)|null|
@@ -521,6 +525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**System-performance and cost modeling of Large Language Model training and inference**|Wenzhe Guo et.al.|[2507.02456](http://arxiv.org/abs/2507.02456)|null|
+|**2025-07-03**|**NLP4Neuro: Sequence-to-sequence learning for neural population decoding**|Jacob J. Morra et.al.|[2507.02264](http://arxiv.org/abs/2507.02264)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
 |**2025-07-02**|**Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data**|Ethan Pawl et.al.|[2507.01375](http://arxiv.org/abs/2507.01375)|null|
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
