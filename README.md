@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -521,7 +521,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250708>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250709>(back to top)</a></p>
 
 ## MoE
 
@@ -530,7 +530,7 @@
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
 |**2025-07-07**|**NTSFormer: A Self-Teaching Graph Transformer for Multimodal Cold-Start Node Classification**|Jun Hu et.al.|[2507.04870](http://arxiv.org/abs/2507.04870)|null|
 |**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
-|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638](http://arxiv.org/abs/2507.04638)|null|
+|**2025-07-08**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638](http://arxiv.org/abs/2507.04638)|null|
 |**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Yun Wang et.al.|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
 |**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
@@ -1372,7 +1372,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250708>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250709>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
