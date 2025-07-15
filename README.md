@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Green-LLM: Optimal Workload Allocation for Environmentally-Aware Distributed Inference**|Jiaming Cheng et.al.|[2507.09942](http://arxiv.org/abs/2507.09942)|null|
+|**2025-07-12**|**SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding**|Weihong Xu et.al.|[2507.09201](http://arxiv.org/abs/2507.09201)|null|
+|**2025-07-11**|**On Evaluating Performance of LLM Inference Serving Systems**|Amey Agrawal et.al.|[2507.09019](http://arxiv.org/abs/2507.09019)|null|
+|**2025-07-11**|**Hybrid Systolic Array Accelerator with Optimized Dataflow for Edge Large Language Model Inference**|Chun-Ting Chen et.al.|[2507.09010](http://arxiv.org/abs/2507.09010)|null|
 |**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
 |**2025-07-10**|**Reasoning and Behavioral Equilibria in LLM-Nash Games: From Mindsets to Actions**|Quanyan Zhu et.al.|[2507.08208](http://arxiv.org/abs/2507.08208)|null|
 |**2025-07-10**|**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing**|Junyi Wen et.al.|[2507.08045](http://arxiv.org/abs/2507.08045)|null|
@@ -533,6 +537,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models**|Luolin Xiong et.al.|[2507.09955](http://arxiv.org/abs/2507.09955)|null|
+|**2025-07-14**|**ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization**|Huilai Li et.al.|[2507.09945](http://arxiv.org/abs/2507.09945)|null|
+|**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
+|**2025-07-13**|**Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts**|Aakash Tripathi et.al.|[2507.09754](http://arxiv.org/abs/2507.09754)|null|
+|**2025-07-13**|**Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive**|You Huang et.al.|[2507.09612](http://arxiv.org/abs/2507.09612)|null|
+|**2025-07-12**|**PPJudge: Towards Human-Aligned Assessment of Artistic Painting Process**|Shiqi Jiang et.al.|[2507.09242](http://arxiv.org/abs/2507.09242)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
 |**2025-07-11**|**CircFormerMoE: An End-to-End Deep Learning Framework for Circular RNA Splice Site Detection and Pairing in Plant Genomes**|Tianyou Jiang et.al.|[2507.08542](http://arxiv.org/abs/2507.08542)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
