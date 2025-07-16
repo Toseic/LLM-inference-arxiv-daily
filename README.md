@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
 |**2025-07-14**|**Green-LLM: Optimal Workload Allocation for Environmentally-Aware Distributed Inference**|Jiaming Cheng et.al.|[2507.09942](http://arxiv.org/abs/2507.09942)|null|
 |**2025-07-12**|**SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding**|Weihong Xu et.al.|[2507.09201](http://arxiv.org/abs/2507.09201)|null|
 |**2025-07-11**|**On Evaluating Performance of LLM Inference Serving Systems**|Amey Agrawal et.al.|[2507.09019](http://arxiv.org/abs/2507.09019)|null|
@@ -537,6 +539,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Mixture of Experts in Large Language Models**|Danyang Zhang et.al.|[2507.11181](http://arxiv.org/abs/2507.11181)|null|
+|**2025-07-15**|**Atmos-Bench: 3D Atmospheric Structures for Climate Insight**|Tianchi Xu et.al.|[2507.11085](http://arxiv.org/abs/2507.11085)|null|
 |**2025-07-14**|**DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models**|Luolin Xiong et.al.|[2507.09955](http://arxiv.org/abs/2507.09955)|null|
 |**2025-07-14**|**ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization**|Huilai Li et.al.|[2507.09945](http://arxiv.org/abs/2507.09945)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
