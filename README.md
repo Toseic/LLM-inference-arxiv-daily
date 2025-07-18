@@ -540,6 +540,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
+|**2025-07-16**|**Astro-MoE: Mixture of Experts for Multiband Astronomical Time Series**|Martina Cádiz-Leyton et.al.|[2507.12611](http://arxiv.org/abs/2507.12611)|null|
+|**2025-07-16**|**Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models**|Gen Luo et.al.|[2507.12566](http://arxiv.org/abs/2507.12566)|null|
 |**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419](http://arxiv.org/abs/2507.12419)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-15**|**Mixture of Experts in Large Language Models**|Danyang Zhang et.al.|[2507.11181](http://arxiv.org/abs/2507.11181)|null|
