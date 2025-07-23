@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework**|Hongyi Tang et.al.|[2507.16414](http://arxiv.org/abs/2507.16414)|null|
 |**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
 |**2025-07-18**|**Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need**|Michael Davies et.al.|[2507.14397](http://arxiv.org/abs/2507.14397)|null|
 |**2025-07-18**|**Can LLMs Infer Personality from Real World Conversations?**|Jianfeng Zhu et.al.|[2507.14355](http://arxiv.org/abs/2507.14355)|null|
@@ -549,6 +550,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817](http://arxiv.org/abs/2507.16817)|null|
+|**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
+|**2025-07-21**|**Applying multimodal learning to Classify transient Detections Early (AppleCiDEr) I: Data set, methods, and infrastructure**|Alexandra Junell et.al.|[2507.16088](http://arxiv.org/abs/2507.16088)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**The New LLM Bottleneck: A Systems Perspective on Latent Attention and Mixture-of-Experts**|Sungmin Yun et.al.|[2507.15465](http://arxiv.org/abs/2507.15465)|null|
 |**2025-07-21**|**Universal crystal material property prediction via multi-view geometric fusion in graph transformers**|Liang Zhang et.al.|[2507.15303](http://arxiv.org/abs/2507.15303)|null|
