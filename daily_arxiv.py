@@ -135,10 +135,12 @@ def get_daily_papers(topic, query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
+            # r = requests.get(code_url).json()
+            # repo_url = None
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            # FIXME: paperswithcode api is down?
             # TODO: not found, two more chances
             # else:
             #    repo_url = get_code_link(paper_title)
