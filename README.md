@@ -10,6 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**TENET: An Efficient Sparsity-Aware LUT-Centric Architecture for Ternary LLM Inference On Edge**|Zhirui Huang et.al.|[2509.13765](http://arxiv.org/abs/2509.13765)|null|
+|**2025-09-16**|**Scaling Up Throughput-oriented LLM Inference Applications on Heterogeneous Opportunistic GPU Clusters with Pervasive Context Management**|Thanh Son Phung et.al.|[2509.13201](http://arxiv.org/abs/2509.13201)|null|
+|**2025-09-16**|**HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference**|Cenlin Duan et.al.|[2509.12993](http://arxiv.org/abs/2509.12993)|null|
+|**2025-09-15**|**Beyond PII: How Users Attempt to Estimate and Mitigate Implicit LLM Inference**|Synthia Wang et.al.|[2509.12152](http://arxiv.org/abs/2509.12152)|null|
+|**2025-09-14**|**Framing AI System Benchmarking as a Learning Task: FlexBench and the Open MLPerf Dataset**|Grigori Fursin et.al.|[2509.11413](http://arxiv.org/abs/2509.11413)|null|
+|**2025-09-14**|**PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits**|Loka Li et.al.|[2509.11362](http://arxiv.org/abs/2509.11362)|null|
+|**2025-09-14**|**AQUA: Attention via QUery mAgnitudes for Memory and Compute Efficient Inference in LLMs**|Santhosh G S et.al.|[2509.11155](http://arxiv.org/abs/2509.11155)|null|
+|**2025-09-12**|**MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness**|Huizheng Wang et.al.|[2509.10372](http://arxiv.org/abs/2509.10372)|null|
+|**2025-09-11**|**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation**|Yiqun Shen et.al.|[2509.09754](http://arxiv.org/abs/2509.09754)|null|
+|**2025-09-11**|**Combating the Memory Walls: Optimization Pathways for Long-Context Agentic LLM Inference**|Haoran Wu et.al.|[2509.09505](http://arxiv.org/abs/2509.09505)|null|
 |**2025-07-23**|**BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving**|Wanyi Zheng et.al.|[2507.17120](http://arxiv.org/abs/2507.17120)|null|
 |**2025-07-22**|**Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework**|Hongyi Tang et.al.|[2507.16414](http://arxiv.org/abs/2507.16414)|null|
 |**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
@@ -547,6 +557,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
+|**2025-09-17**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
+|**2025-09-17**|**Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation**|Nguyen Lan Vi Vu et.al.|[2509.13834](http://arxiv.org/abs/2509.13834)|null|
+|**2025-09-16**|**Field of View Enhanced Signal Dependent Binauralization with Mixture of Experts Framework for Continuous Source Motion**|Manan Mittal et.al.|[2509.13548](http://arxiv.org/abs/2509.13548)|null|
+|**2025-09-16**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
+|**2025-09-16**|**Dual-Stage Reweighted MoE for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2509.12990](http://arxiv.org/abs/2509.12990)|null|
+|**2025-09-16**|**Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks**|Bowen Ye et.al.|[2509.12813](http://arxiv.org/abs/2509.12813)|null|
+|**2025-09-16**|**MEGAN: Mixture of Experts for Robust Uncertainty Estimation in Endoscopy Videos**|Damola Agbelese et.al.|[2509.12772](http://arxiv.org/abs/2509.12772)|null|
+|**2025-09-17**|**NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**|Botao He et.al.|[2509.12747](http://arxiv.org/abs/2509.12747)|null|
+|**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Heng Zhang et.al.|[2509.12715](http://arxiv.org/abs/2509.12715)|null|
 |**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
 |**2025-07-23**|**Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography**|Farnoush Bayatmakou et.al.|[2507.17662](http://arxiv.org/abs/2507.17662)|null|
 |**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
