@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-18**|**A1: Asynchronous Test-Time Scaling via Conformal Prediction**|Jing Xiong et.al.|[2509.15148](http://arxiv.org/abs/2509.15148)|null|
+|**2025-09-18**|**LEAP: LLM Inference on Scalable PIM-NoC Architecture with Balanced Dataflow and Fine-Grained Parallelism**|Yimin Wang et.al.|[2509.14781](http://arxiv.org/abs/2509.14781)|null|
+|**2025-09-18**|**LLM Jailbreak Detection for (Almost) Free!**|Guorui Chen et.al.|[2509.14558](http://arxiv.org/abs/2509.14558)|null|
 |**2025-09-17**|**TENET: An Efficient Sparsity-Aware LUT-Centric Architecture for Ternary LLM Inference On Edge**|Zhirui Huang et.al.|[2509.13765](http://arxiv.org/abs/2509.13765)|null|
 |**2025-09-16**|**Scaling Up Throughput-oriented LLM Inference Applications on Heterogeneous Opportunistic GPU Clusters with Pervasive Context Management**|Thanh Son Phung et.al.|[2509.13201](http://arxiv.org/abs/2509.13201)|null|
 |**2025-09-16**|**HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference**|Cenlin Duan et.al.|[2509.12993](http://arxiv.org/abs/2509.12993)|null|
@@ -557,6 +560,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-18**|**Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting**|Liran Nochumsohn et.al.|[2509.15105](http://arxiv.org/abs/2509.15105)|null|
+|**2025-09-18**|**Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**|Lei Wang et.al.|[2509.15087](http://arxiv.org/abs/2509.15087)|null|
+|**2025-09-18**|**EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence**|Chaoyin She et.al.|[2509.14977](http://arxiv.org/abs/2509.14977)|null|
+|**2025-09-18**|**FURINA: Free from Unmergeable Router via LINear Aggregation of mixed experts**|Jiayi Han et.al.|[2509.14900](http://arxiv.org/abs/2509.14900)|null|
+|**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Nan Sun et.al.|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |**2025-09-17**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
 |**2025-09-17**|**Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation**|Nguyen Lan Vi Vu et.al.|[2509.13834](http://arxiv.org/abs/2509.13834)|null|
