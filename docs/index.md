@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**LLM Cache Bandit Revisited: Addressing Query Heterogeneity for Cost-Effective LLM Inference**|Hantao Yang et.al.|[2509.15515](http://arxiv.org/abs/2509.15515)|null|
 |**2025-09-18**|**A1: Asynchronous Test-Time Scaling via Conformal Prediction**|Jing Xiong et.al.|[2509.15148](http://arxiv.org/abs/2509.15148)|null|
 |**2025-09-18**|**LEAP: LLM Inference on Scalable PIM-NoC Architecture with Balanced Dataflow and Fine-Grained Parallelism**|Yimin Wang et.al.|[2509.14781](http://arxiv.org/abs/2509.14781)|null|
 |**2025-09-18**|**LLM Jailbreak Detection for (Almost) Free!**|Guorui Chen et.al.|[2509.14558](http://arxiv.org/abs/2509.14558)|null|
@@ -564,6 +565,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning**|Sikai Bai et.al.|[2509.16105](http://arxiv.org/abs/2509.16105)|null|
+|**2025-09-19**|**MoE-CE: Enhancing Generalization for Deep Learning based Channel Estimation via a Mixture-of-Experts Framework**|Tianyu Li et.al.|[2509.15964](http://arxiv.org/abs/2509.15964)|null|
+|**2025-09-19**|**pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation**|Tong Wang et.al.|[2509.15638](http://arxiv.org/abs/2509.15638)|null|
+|**2025-09-19**|**MEC-Quant: Maximum Entropy Coding for Extremely Low Bit Quantization-Aware Training**|Junbiao Pang et.al.|[2509.15514](http://arxiv.org/abs/2509.15514)|null|
+|**2025-09-18**|**Beyond Spurious Signals: Debiasing Multimodal Large Language Models via Counterfactual Inference and Adaptive Expert Routing**|Zichen Wu et.al.|[2509.15361](http://arxiv.org/abs/2509.15361)|null|
 |**2025-09-18**|**Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting**|Liran Nochumsohn et.al.|[2509.15105](http://arxiv.org/abs/2509.15105)|null|
 |**2025-09-18**|**Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**|Lei Wang et.al.|[2509.15087](http://arxiv.org/abs/2509.15087)|null|
 |**2025-09-18**|**EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence**|Chaoyin She et.al.|[2509.14977](http://arxiv.org/abs/2509.14977)|null|
