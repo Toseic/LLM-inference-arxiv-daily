@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Disaggregated Prefill and Decoding Inference System for Large Language Model Serving on Multi-Vendor GPUs**|Xing Chen et.al.|[2509.17542](http://arxiv.org/abs/2509.17542)|null|
+|**2025-09-22**|**Cronus: Efficient LLM inference on Heterogeneous GPU Clusters via Partially Disaggregated Prefill**|Yunzhao Liu et.al.|[2509.17357](http://arxiv.org/abs/2509.17357)|null|
+|**2025-09-22**|**Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection**|Jun Seo Kim et.al.|[2509.17292](http://arxiv.org/abs/2509.17292)|null|
+|**2025-09-21**|**MoA-Off: Adaptive Heterogeneous Modality-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2509.16995](http://arxiv.org/abs/2509.16995)|null|
+|**2025-09-20**|**Shift Parallelism: Low-Latency, High-Throughput LLM Inference for Dynamic Workloads**|Mert Hidayetoglu et.al.|[2509.16495](http://arxiv.org/abs/2509.16495)|null|
+|**2025-09-19**|**LightCode: Compiling LLM Inference for Photonic-Electronic Systems**|Ryan Tomich et.al.|[2509.16443](http://arxiv.org/abs/2509.16443)|null|
 |**2025-09-19**|**LLM Cache Bandit Revisited: Addressing Query Heterogeneity for Cost-Effective LLM Inference**|Hantao Yang et.al.|[2509.15515](http://arxiv.org/abs/2509.15515)|null|
 |**2025-09-18**|**A1: Asynchronous Test-Time Scaling via Conformal Prediction**|Jing Xiong et.al.|[2509.15148](http://arxiv.org/abs/2509.15148)|null|
 |**2025-09-18**|**LEAP: LLM Inference on Scalable PIM-NoC Architecture with Balanced Dataflow and Fine-Grained Parallelism**|Yimin Wang et.al.|[2509.14781](http://arxiv.org/abs/2509.14781)|null|
@@ -565,6 +571,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models**|Haoxin Yang et.al.|[2509.17993](http://arxiv.org/abs/2509.17993)|null|
+|**2025-09-22**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
+|**2025-09-22**|**Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving**|Ziming Liu et.al.|[2509.17863](http://arxiv.org/abs/2509.17863)|null|
+|**2025-09-22**|**Attention-based Mixture of Experts for Robust Speech Deepfake Detection**|Viola Negroni et.al.|[2509.17585](http://arxiv.org/abs/2509.17585)|null|
+|**2025-09-22**|**Robust Mixture Models for Algorithmic Fairness Under Latent Heterogeneity**|Siqi Li et.al.|[2509.17411](http://arxiv.org/abs/2509.17411)|null|
+|**2025-09-21**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|null|
+|**2025-09-21**|**CoBEVMoE: Heterogeneity-aware Feature Fusion with Dynamic Mixture-of-Experts for Collaborative Perception**|Lingzhao Kong et.al.|[2509.17107](http://arxiv.org/abs/2509.17107)|null|
+|**2025-09-21**|**Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation**|Junzhuo Li et.al.|[2509.16882](http://arxiv.org/abs/2509.16882)|null|
+|**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Jinrui Han et.al.|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
 |**2025-09-19**|**DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning**|Sikai Bai et.al.|[2509.16105](http://arxiv.org/abs/2509.16105)|null|
 |**2025-09-19**|**MoE-CE: Enhancing Generalization for Deep Learning based Channel Estimation via a Mixture-of-Experts Framework**|Tianyu Li et.al.|[2509.15964](http://arxiv.org/abs/2509.15964)|null|
 |**2025-09-19**|**pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation**|Tong Wang et.al.|[2509.15638](http://arxiv.org/abs/2509.15638)|null|
