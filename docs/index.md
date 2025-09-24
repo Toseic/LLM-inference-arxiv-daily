@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/abs/2509.18886)|null|
+|**2025-09-22**|**Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models**|Dingxin Lu et.al.|[2509.18221](http://arxiv.org/abs/2509.18221)|null|
 |**2025-09-22**|**Disaggregated Prefill and Decoding Inference System for Large Language Model Serving on Multi-Vendor GPUs**|Xing Chen et.al.|[2509.17542](http://arxiv.org/abs/2509.17542)|null|
 |**2025-09-22**|**Cronus: Efficient LLM inference on Heterogeneous GPU Clusters via Partially Disaggregated Prefill**|Yunzhao Liu et.al.|[2509.17357](http://arxiv.org/abs/2509.17357)|null|
 |**2025-09-22**|**Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection**|Jun Seo Kim et.al.|[2509.17292](http://arxiv.org/abs/2509.17292)|null|
@@ -571,6 +573,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces**|Tianshuo Zhang et.al.|[2509.19230](http://arxiv.org/abs/2509.19230)|null|
+|**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Yunzhe Shen et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
+|**2025-09-23**|**LongCat-Flash-Thinking Technical Report**|Meituan LongCat Team et.al.|[2509.18883](http://arxiv.org/abs/2509.18883)|null|
+|**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|Chengran Yuan et.al.|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
+|**2025-09-23**|**Symphony-MoE: Harmonizing Disparate Pre-trained Models into a Coherent Mixture-of-Experts**|Qi Wang et.al.|[2509.18542](http://arxiv.org/abs/2509.18542)|null|
 |**2025-09-23**|**StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models**|Haoxin Yang et.al.|[2509.17993](http://arxiv.org/abs/2509.17993)|null|
 |**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
 |**2025-09-22**|**Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving**|Ziming Liu et.al.|[2509.17863](http://arxiv.org/abs/2509.17863)|null|
