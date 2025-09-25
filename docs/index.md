@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment**|Deokjae Lee et.al.|[2509.20214](http://arxiv.org/abs/2509.20214)|null|
+|**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|null|
 |**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/abs/2509.18886)|null|
 |**2025-09-22**|**Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models**|Dingxin Lu et.al.|[2509.18221](http://arxiv.org/abs/2509.18221)|null|
 |**2025-09-22**|**Disaggregated Prefill and Decoding Inference System for Large Language Model Serving on Multi-Vendor GPUs**|Xing Chen et.al.|[2509.17542](http://arxiv.org/abs/2509.17542)|null|
@@ -573,6 +575,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**SHMoAReg: Spark Deformable Image Registration via Spatial Heterogeneous Mixture of Experts and Attention Heads**|Yuxi Zheng et.al.|[2509.20073](http://arxiv.org/abs/2509.20073)|null|
+|**2025-09-24**|**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**|Ziyi Han et.al.|[2509.19781](http://arxiv.org/abs/2509.19781)|null|
 |**2025-09-23**|**DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces**|Tianshuo Zhang et.al.|[2509.19230](http://arxiv.org/abs/2509.19230)|null|
 |**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Yunzhe Shen et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
 |**2025-09-23**|**LongCat-Flash-Thinking Technical Report**|Meituan LongCat Team et.al.|[2509.18883](http://arxiv.org/abs/2509.18883)|null|
