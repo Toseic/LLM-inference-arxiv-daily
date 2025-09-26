@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks**|Murat Arda Onsu et.al.|[2509.21259](http://arxiv.org/abs/2509.21259)|null|
+|**2025-09-24**|**FastEagle: Cascaded Drafting for Accelerating Speculative Decoding**|Haiduo Huang et.al.|[2509.20416](http://arxiv.org/abs/2509.20416)|null|
 |**2025-09-24**|**Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment**|Deokjae Lee et.al.|[2509.20214](http://arxiv.org/abs/2509.20214)|null|
 |**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|null|
 |**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/abs/2509.18886)|null|
@@ -575,6 +577,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Distributed Specialization: Rare-Token Neurons in Large Language Models**|Jing Liu et.al.|[2509.21163](http://arxiv.org/abs/2509.21163)|null|
+|**2025-09-25**|**Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns**|Xuemiao Zhang et.al.|[2509.21124](http://arxiv.org/abs/2509.21124)|null|
+|**2025-09-25**|**Physics Informed Neural Networks for design optimisation of diamond particle detectors for charged particle fast-tracking at high luminosity hadron colliders**|Alessandro Bombini et.al.|[2509.21123](http://arxiv.org/abs/2509.21123)|null|
+|**2025-09-24**|**Dynamic Reasoning Chains through Depth-Specialized Mixture-of-Experts in Transformer Architectures**|Sampurna Roy et.al.|[2509.20577](http://arxiv.org/abs/2509.20577)|null|
 |**2025-09-24**|**SHMoAReg: Spark Deformable Image Registration via Spatial Heterogeneous Mixture of Experts and Attention Heads**|Yuxi Zheng et.al.|[2509.20073](http://arxiv.org/abs/2509.20073)|null|
 |**2025-09-24**|**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**|Ziyi Han et.al.|[2509.19781](http://arxiv.org/abs/2509.19781)|null|
 |**2025-09-23**|**DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces**|Tianshuo Zhang et.al.|[2509.19230](http://arxiv.org/abs/2509.19230)|null|
