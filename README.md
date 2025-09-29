@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs**|Shirin Alanova et.al.|[2509.22166](http://arxiv.org/abs/2509.22166)|null|
+|**2025-09-26**|**Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding**|Shijing Hu et.al.|[2509.22134](http://arxiv.org/abs/2509.22134)|null|
+|**2025-09-26**|**SimulSense: Sense-Driven Interpreting for Efficient Simultaneous Speech Translation**|Haotian Tan et.al.|[2509.21932](http://arxiv.org/abs/2509.21932)|null|
+|**2025-09-25**|**Preemptive Detection and Steering of LLM Misalignment via Latent Reachability**|Sathwik Karnik et.al.|[2509.21528](http://arxiv.org/abs/2509.21528)|null|
 |**2025-09-25**|**Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks**|Murat Arda Onsu et.al.|[2509.21259](http://arxiv.org/abs/2509.21259)|null|
 |**2025-09-24**|**FastEagle: Cascaded Drafting for Accelerating Speculative Decoding**|Haiduo Huang et.al.|[2509.20416](http://arxiv.org/abs/2509.20416)|null|
 |**2025-09-24**|**Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment**|Deokjae Lee et.al.|[2509.20214](http://arxiv.org/abs/2509.20214)|null|
@@ -573,6 +577,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time**|Yixuan Han et.al.|[2509.22572](http://arxiv.org/abs/2509.22572)|null|
+|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|null|
+|**2025-09-26**|**Role-Aware Multi-modal federated learning system for detecting phishing webpages**|Bo Wang et.al.|[2509.22369](http://arxiv.org/abs/2509.22369)|null|
+|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|null|
+|**2025-09-26**|**Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics**|Xingjian Wu et.al.|[2509.22279](http://arxiv.org/abs/2509.22279)|null|
+|**2025-09-26**|**MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning**|Tao Wu et.al.|[2509.21953](http://arxiv.org/abs/2509.21953)|null|
+|**2025-09-26**|**Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts**|Naibin Gu et.al.|[2509.21892](http://arxiv.org/abs/2509.21892)|null|
+|**2025-09-26**|**ChaosNexus: A Foundation Model for Universal Chaotic System Forecasting with Multi-scale Representations**|Chang Liu et.al.|[2509.21802](http://arxiv.org/abs/2509.21802)|null|
+|**2025-09-26**|**LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE**|Yu Shang et.al.|[2509.21790](http://arxiv.org/abs/2509.21790)|null|
 |**2025-09-25**|**Distributed Specialization: Rare-Token Neurons in Large Language Models**|Jing Liu et.al.|[2509.21163](http://arxiv.org/abs/2509.21163)|null|
 |**2025-09-26**|**Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns**|Xuemiao Zhang et.al.|[2509.21124](http://arxiv.org/abs/2509.21124)|null|
 |**2025-09-25**|**Physics Informed Neural Networks for design optimisation of diamond particle detectors for charged particle fast-tracking at high luminosity hadron colliders**|Alessandro Bombini et.al.|[2509.21123](http://arxiv.org/abs/2509.21123)|null|
