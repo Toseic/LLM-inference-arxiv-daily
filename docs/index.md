@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|null|
+|**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
+|**2025-09-29**|**VeriLLM: A Lightweight Framework for Publicly Verifiable Decentralized Inference**|Ke Wang et.al.|[2509.24257](http://arxiv.org/abs/2509.24257)|null|
+|**2025-09-28**|**Collaborative Device-Cloud LLM Inference through Reinforcement Learning**|Wenzhi Fang et.al.|[2509.24050](http://arxiv.org/abs/2509.24050)|null|
+|**2025-09-27**|**A Predictive and Synergistic Two-Layer Scheduling Framework for LLM Serving**|Yue Zhang et.al.|[2509.23384](http://arxiv.org/abs/2509.23384)|null|
+|**2025-09-27**|**Scaling LLM Test-Time Compute with Mobile NPU on Smartphones**|Zixu Hao et.al.|[2509.23324](http://arxiv.org/abs/2509.23324)|null|
+|**2025-09-27**|**Bridging the Gap Between Promise and Performance for Microscaling FP4 Quantization**|Vage Egiazarian et.al.|[2509.23202](http://arxiv.org/abs/2509.23202)|null|
 |**2025-09-26**|**Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs**|Shirin Alanova et.al.|[2509.22166](http://arxiv.org/abs/2509.22166)|null|
 |**2025-09-26**|**Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding**|Shijing Hu et.al.|[2509.22134](http://arxiv.org/abs/2509.22134)|null|
 |**2025-09-26**|**SimulSense: Sense-Driven Interpreting for Efficient Simultaneous Speech Translation**|Haotian Tan et.al.|[2509.21932](http://arxiv.org/abs/2509.21932)|null|
@@ -581,6 +588,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**GRACE-MoE: Grouping and Replication with Locality-Aware Routing for Efficient Distributed MoE Inference**|Yu Han et.al.|[2509.25041](http://arxiv.org/abs/2509.25041)|null|
+|**2025-09-29**|**LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection**|Bao-Ngoc Dao et.al.|[2509.24547](http://arxiv.org/abs/2509.24547)|null|
+|**2025-09-29**|**One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning**|Minh Le et.al.|[2509.24483](http://arxiv.org/abs/2509.24483)|null|
+|**2025-09-29**|**Muon: Training and Trade-offs with Latent Attention and MoE**|Sushant Mehta et.al.|[2509.24406](http://arxiv.org/abs/2509.24406)|null|
+|**2025-09-29**|**LLaDA-MoE: A Sparse MoE Diffusion Language Model**|Fengqi Zhu et.al.|[2509.24389](http://arxiv.org/abs/2509.24389)|null|
+|**2025-09-29**|**Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**|Zhisheng Chen et.al.|[2509.24222](http://arxiv.org/abs/2509.24222)|null|
+|**2025-09-28**|**HunyuanImage 3.0 Technical Report**|Siyu Cao et.al.|[2509.23951](http://arxiv.org/abs/2509.23951)|null|
+|**2025-09-28**|**Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms**|Jiahao Ying et.al.|[2509.23933](http://arxiv.org/abs/2509.23933)|null|
+|**2025-09-28**|**Bayesian Mixture-of-Experts: Towards Making LLMs Know What They Don't Know**|Albus Yizhuo Li et.al.|[2509.23830](http://arxiv.org/abs/2509.23830)|null|
+|**2025-09-28**|**A Modality-Tailored Graph Modeling Framework for Urban Region Representation via Contrastive Learning**|Yaya Zhao et.al.|[2509.23772](http://arxiv.org/abs/2509.23772)|null|
 |**2025-09-26**|**Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time**|Yixuan Han et.al.|[2509.22572](http://arxiv.org/abs/2509.22572)|null|
 |**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|null|
 |**2025-09-26**|**Role-Aware Multi-modal federated learning system for detecting phishing webpages**|Bo Wang et.al.|[2509.22369](http://arxiv.org/abs/2509.22369)|null|
