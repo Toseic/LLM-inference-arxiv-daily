@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -20,7 +20,7 @@
 |**2025-09-24**|**Gyges: Dynamic Cross-Instance Parallelism Transformation for Efficient LLM Inference**|Haoyu Chen et.al.|[2509.19729](http://arxiv.org/abs/2509.19729)|null|
 |**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/abs/2509.18886)|null|
 |**2025-09-22**|**Multimodal Health Risk Prediction System for Chronic Diseases via Vision-Language Fusion and Large Language Models**|Dingxin Lu et.al.|[2509.18221](http://arxiv.org/abs/2509.18221)|null|
-|**2025-09-22**|**Disaggregated Prefill and Decoding Inference System for Large Language Model Serving on Multi-Vendor GPUs**|Xing Chen et.al.|[2509.17542](http://arxiv.org/abs/2509.17542)|null|
+|**2025-09-28**|**Disaggregated Prefill and Decoding Inference System for Large Language Model Serving on Multi-Vendor GPUs**|Xing Chen et.al.|[2509.17542](http://arxiv.org/abs/2509.17542)|null|
 |**2025-09-22**|**Cronus: Efficient LLM inference on Heterogeneous GPU Clusters via Partially Disaggregated Prefill**|Yunzhao Liu et.al.|[2509.17357](http://arxiv.org/abs/2509.17357)|null|
 |**2025-09-22**|**Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection**|Jun Seo Kim et.al.|[2509.17292](http://arxiv.org/abs/2509.17292)|null|
 |**2025-09-21**|**MoA-Off: Adaptive Heterogeneous Modality-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2509.16995](http://arxiv.org/abs/2509.16995)|null|
@@ -571,7 +571,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250929>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250930>(back to top)</a></p>
 
 ## MoE
 
@@ -1523,7 +1523,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250929>(back to top)</a></p>
+<p align=right><a href=#updated-on-20250930>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
