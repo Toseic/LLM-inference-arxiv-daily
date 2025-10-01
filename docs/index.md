@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -18,7 +18,7 @@ layout: default
 |**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
 |**2025-09-29**|**VeriLLM: A Lightweight Framework for Publicly Verifiable Decentralized Inference**|Ke Wang et.al.|[2509.24257](http://arxiv.org/abs/2509.24257)|null|
 |**2025-09-28**|**Collaborative Device-Cloud LLM Inference through Reinforcement Learning**|Wenzhi Fang et.al.|[2509.24050](http://arxiv.org/abs/2509.24050)|null|
-|**2025-09-27**|**A Predictive and Synergistic Two-Layer Scheduling Framework for LLM Serving**|Yue Zhang et.al.|[2509.23384](http://arxiv.org/abs/2509.23384)|null|
+|**2025-09-30**|**A Predictive and Synergistic Two-Layer Scheduling Framework for LLM Serving**|Yue Zhang et.al.|[2509.23384](http://arxiv.org/abs/2509.23384)|null|
 |**2025-09-27**|**Scaling LLM Test-Time Compute with Mobile NPU on Smartphones**|Zixu Hao et.al.|[2509.23324](http://arxiv.org/abs/2509.23324)|null|
 |**2025-09-27**|**Bridging the Gap Between Promise and Performance for Microscaling FP4 Quantization**|Vage Egiazarian et.al.|[2509.23202](http://arxiv.org/abs/2509.23202)|null|
 |**2025-09-26**|**Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs**|Shirin Alanova et.al.|[2509.22166](http://arxiv.org/abs/2509.22166)|null|
@@ -582,7 +582,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20250930>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251001>(back to top)</a></p>
 
 ## MoE
 
@@ -1544,7 +1544,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20250930>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251001>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
