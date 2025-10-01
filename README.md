@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|null|
+|**2025-09-30**|**Parallax: Efficient LLM Inference Service over Decentralized Environment**|Chris Tong et.al.|[2509.26182](http://arxiv.org/abs/2509.26182)|null|
+|**2025-09-30**|**Accelerating LLM Inference with Precomputed Query Storage**|Jay H. Park et.al.|[2509.25919](http://arxiv.org/abs/2509.25919)|null|
+|**2025-09-30**|**SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV**|Jingyao Zhang et.al.|[2509.25853](http://arxiv.org/abs/2509.25853)|null|
 |**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|null|
 |**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
 |**2025-09-29**|**VeriLLM: A Lightweight Framework for Publicly Verifiable Decentralized Inference**|Ke Wang et.al.|[2509.24257](http://arxiv.org/abs/2509.24257)|null|
@@ -584,6 +588,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
+|**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
+|**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
+|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
+|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
+|**2025-09-30**|**LD-MoLE: Learnable Dynamic Routing for Mixture of LoRA Experts**|Yuan Zhuang et.al.|[2509.25684](http://arxiv.org/abs/2509.25684)|null|
+|**2025-09-30**|**Guiding Mixture-of-Experts with Temporal Multimodal Interactions**|Xing Han et.al.|[2509.25678](http://arxiv.org/abs/2509.25678)|null|
+|**2025-09-29**|**K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**|Bangwei Guo et.al.|[2509.25594](http://arxiv.org/abs/2509.25594)|null|
 |**2025-09-29**|**GRACE-MoE: Grouping and Replication with Locality-Aware Routing for Efficient Distributed MoE Inference**|Yu Han et.al.|[2509.25041](http://arxiv.org/abs/2509.25041)|null|
 |**2025-09-29**|**LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection**|Bao-Ngoc Dao et.al.|[2509.24547](http://arxiv.org/abs/2509.24547)|null|
 |**2025-09-29**|**One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning**|Minh Le et.al.|[2509.24483](http://arxiv.org/abs/2509.24483)|null|
