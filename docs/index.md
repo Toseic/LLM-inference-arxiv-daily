@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-30**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|null|
+|**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|null|
 |**2025-09-30**|**Parallax: Efficient LLM Inference Service over Decentralized Environment**|Chris Tong et.al.|[2509.26182](http://arxiv.org/abs/2509.26182)|null|
 |**2025-09-30**|**Accelerating LLM Inference with Precomputed Query Storage**|Jay H. Park et.al.|[2509.25919](http://arxiv.org/abs/2509.25919)|null|
 |**2025-09-30**|**SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV**|Jingyao Zhang et.al.|[2509.25853](http://arxiv.org/abs/2509.25853)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
 |**2025-09-29**|**VeriLLM: A Lightweight Framework for Publicly Verifiable Decentralized Inference**|Ke Wang et.al.|[2509.24257](http://arxiv.org/abs/2509.24257)|null|
 |**2025-09-28**|**Collaborative Device-Cloud LLM Inference through Reinforcement Learning**|Wenzhi Fang et.al.|[2509.24050](http://arxiv.org/abs/2509.24050)|null|
-|**2025-09-30**|**A Predictive and Synergistic Two-Layer Scheduling Framework for LLM Serving**|Yue Zhang et.al.|[2509.23384](http://arxiv.org/abs/2509.23384)|null|
+|**2025-10-01**|**A Predictive and Synergistic Two-Layer Scheduling Framework for LLM Serving**|Yue Zhang et.al.|[2509.23384](http://arxiv.org/abs/2509.23384)|null|
 |**2025-09-27**|**Scaling LLM Test-Time Compute with Mobile NPU on Smartphones**|Zixu Hao et.al.|[2509.23324](http://arxiv.org/abs/2509.23324)|null|
 |**2025-09-27**|**Bridging the Gap Between Promise and Performance for Microscaling FP4 Quantization**|Vage Egiazarian et.al.|[2509.23202](http://arxiv.org/abs/2509.23202)|null|
 |**2025-09-26**|**Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs**|Shirin Alanova et.al.|[2509.22166](http://arxiv.org/abs/2509.22166)|null|
@@ -586,7 +586,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251001>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251002>(back to top)</a></p>
 
 ## MoE
 
@@ -597,7 +597,7 @@ layout: default
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
 |**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
-|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
 |**2025-09-30**|**LD-MoLE: Learnable Dynamic Routing for Mixture of LoRA Experts**|Yuan Zhuang et.al.|[2509.25684](http://arxiv.org/abs/2509.25684)|null|
 |**2025-09-30**|**Guiding Mixture-of-Experts with Temporal Multimodal Interactions**|Xing Han et.al.|[2509.25678](http://arxiv.org/abs/2509.25678)|null|
@@ -1558,7 +1558,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251001>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251002>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
