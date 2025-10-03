@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
+|**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
+|**2025-10-01**|**Generalized Parallel Scaling with Interdependent Generations**|Harry Dong et.al.|[2510.01143](http://arxiv.org/abs/2510.01143)|null|
 |**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|null|
 |**2025-09-30**|**Parallax: Efficient LLM Inference Service over Decentralized Environment**|Chris Tong et.al.|[2509.26182](http://arxiv.org/abs/2509.26182)|null|
 |**2025-09-30**|**Accelerating LLM Inference with Precomputed Query Storage**|Jay H. Park et.al.|[2509.25919](http://arxiv.org/abs/2509.25919)|null|
@@ -588,6 +592,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
+|**2025-10-02**|**LadderMoE: Ladder-Side Mixture of Experts Adapters for Bronze Inscription Recognition**|Rixin Zhou et.al.|[2510.01651](http://arxiv.org/abs/2510.01651)|null|
+|**2025-10-01**|**Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs**|Leyla Mirvakhabova et.al.|[2510.01185](http://arxiv.org/abs/2510.01185)|null|
+|**2025-10-01**|**Learning Compact Representations of LLM Abilities via Item Response Theory**|Jianhao Chen et.al.|[2510.00844](http://arxiv.org/abs/2510.00844)|null|
+|**2025-10-01**|**Graph Integrated Multimodal Concept Bottleneck Model**|Jiakai Lin et.al.|[2510.00701](http://arxiv.org/abs/2510.00701)|null|
+|**2025-10-01**|**FAME: Adaptive Functional Attention with Expert Routing for Function-on-Function Regression**|Yifei Gao et.al.|[2510.00621](http://arxiv.org/abs/2510.00621)|null|
+|**2025-10-01**|**Adaptive Shared Experts with LoRA-Based Mixture of Experts for Multi-Task Learning**|Minghao Yang et.al.|[2510.00570](http://arxiv.org/abs/2510.00570)|null|
+|**2025-09-30**|**FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training**|Yunqi Gao et.al.|[2510.00207](http://arxiv.org/abs/2510.00207)|null|
 |**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
