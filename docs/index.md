@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-03**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
 |**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Generalized Parallel Scaling with Interdependent Generations**|Harry Dong et.al.|[2510.01143](http://arxiv.org/abs/2510.01143)|null|
@@ -590,7 +590,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251005>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251006>(back to top)</a></p>
 
 ## MoE
 
@@ -1570,7 +1570,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251005>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251006>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
