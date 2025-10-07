@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**RevMine: An LLM-Assisted Tool for Code Review Mining and Analysis Across Git Platforms**|Samah Kansab et.al.|[2510.04796](http://arxiv.org/abs/2510.04796)|null|
+|**2025-10-05**|**Speculative Actions: A Lossless Framework for Faster Agentic Systems**|Naimeng Ye et.al.|[2510.04371](http://arxiv.org/abs/2510.04371)|null|
 |**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
 |**2025-10-03**|**Dissecting Transformers: A CLEAR Perspective towards Green AI**|Hemang Jain et.al.|[2510.02810](http://arxiv.org/abs/2510.02810)|null|
 |**2025-10-03**|**HALO: Memory-Centric Heterogeneous Accelerator with 2.5D Integration for Low-Batch LLM Inference**|Shubham Negi et.al.|[2510.02675](http://arxiv.org/abs/2510.02675)|null|
@@ -600,6 +602,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**REN: Anatomically-Informed Mixture-of-Experts for Interstitial Lung Disease Diagnosis**|Alec K. Peltekian et.al.|[2510.04923](http://arxiv.org/abs/2510.04923)|null|
+|**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
+|**2025-10-06**|**Multilingual Routing in Mixture-of-Experts**|Lucas Bandarkar et.al.|[2510.04694](http://arxiv.org/abs/2510.04694)|null|
+|**2025-10-06**|**Improving Multimodal Brain Encoding Model with Dynamic Subject-awareness Routing**|Xuanhua Yin et.al.|[2510.04670](http://arxiv.org/abs/2510.04670)|null|
+|**2025-10-05**|**HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks**|Nghiem T. Diep et.al.|[2510.04295](http://arxiv.org/abs/2510.04295)|null|
+|**2025-10-05**|**SliceMoE: Routing Embedding Slices Instead of Tokens for Fine-Grained and Balanced Transformer Scaling**|Harshil Vejendla et.al.|[2510.04286](http://arxiv.org/abs/2510.04286)|null|
+|**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
 |**2025-10-03**|**Mixture of Many Zero-Compute Experts: A High-Rate Quantization Theory Perspective**|Yehuda Dar et.al.|[2510.03151](http://arxiv.org/abs/2510.03151)|null|
 |**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613](http://arxiv.org/abs/2510.02613)|null|
 |**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
