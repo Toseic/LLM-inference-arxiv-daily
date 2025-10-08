@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|null|
+|**2025-10-07**|**lm-Meter: Unveiling Runtime Inference Latency for On-Device Language Models**|Haoxin Wang et.al.|[2510.06126](http://arxiv.org/abs/2510.06126)|null|
+|**2025-10-07**|**From Principles to Practice: A Systematic Study of LLM Serving on Multi-core NPUs**|Tianhao Zhu et.al.|[2510.05632](http://arxiv.org/abs/2510.05632)|null|
+|**2025-10-06**|**KVLinC : KV Cache Quantization with Hadamard Rotation and Linear Correction**|Utkarsh Saxena et.al.|[2510.05373](http://arxiv.org/abs/2510.05373)|null|
+|**2025-10-06**|**A novel hallucination classification framework**|Maksym Zavhorodnii et.al.|[2510.05189](http://arxiv.org/abs/2510.05189)|null|
 |**2025-10-06**|**RevMine: An LLM-Assisted Tool for Code Review Mining and Analysis Across Git Platforms**|Samah Kansab et.al.|[2510.04796](http://arxiv.org/abs/2510.04796)|null|
 |**2025-10-05**|**Speculative Actions: A Lossless Framework for Faster Agentic Systems**|Naimeng Ye et.al.|[2510.04371](http://arxiv.org/abs/2510.04371)|null|
 |**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
@@ -602,6 +607,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
+|**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
+|**2025-10-07**|**MSF-SER: Enriching Acoustic Modeling with Multi-Granularity Semantics for Speech Emotion Recognition**|Haoxun Li et.al.|[2510.05749](http://arxiv.org/abs/2510.05749)|null|
+|**2025-10-07**|**Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting**|Zhongkai Yu et.al.|[2510.05497](http://arxiv.org/abs/2510.05497)|null|
+|**2025-10-06**|**Stratum: System-Hardware Co-Design with Tiered Monolithic 3D-Stackable DRAM for Efficient MoE Serving**|Yue Pan et.al.|[2510.05245](http://arxiv.org/abs/2510.05245)|null|
 |**2025-10-06**|**REN: Anatomically-Informed Mixture-of-Experts for Interstitial Lung Disease Diagnosis**|Alec K. Peltekian et.al.|[2510.04923](http://arxiv.org/abs/2510.04923)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 |**2025-10-06**|**Multilingual Routing in Mixture-of-Experts**|Lucas Bandarkar et.al.|[2510.04694](http://arxiv.org/abs/2510.04694)|null|
