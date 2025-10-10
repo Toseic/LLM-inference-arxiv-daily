@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -603,7 +603,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251009>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251010>(back to top)</a></p>
 
 ## MoE
 
@@ -611,7 +611,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-08**|**Guided by the Experts: Provable Feature Learning Dynamic of Soft-Routed Mixture-of-Experts**|Fangshuo Liao et.al.|[2510.07205](http://arxiv.org/abs/2510.07205)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
-|**2025-10-07**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
+|**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
 |**2025-10-06**|**Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"**|Ranjan Mishra et.al.|[2510.06275](http://arxiv.org/abs/2510.06275)|null|
 |**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
@@ -1601,7 +1601,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251009>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251010>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
