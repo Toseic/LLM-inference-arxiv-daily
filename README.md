@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference**|Hengrui Zhang et.al.|[2510.08544](http://arxiv.org/abs/2510.08544)|null|
+|**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
+|**2025-10-09**|**Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models**|Zhiqing Cui et.al.|[2510.07858](http://arxiv.org/abs/2510.07858)|null|
+|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|null|
 |**2025-10-08**|**Accelerating Diffusion LLM Inference via Local Determinism Propagation**|Fanheng Kong et.al.|[2510.07081](http://arxiv.org/abs/2510.07081)|null|
 |**2025-10-08**|**Accelerating Sparse Ternary GEMM for Quantized LLM inference on Apple Silicon**|Baraq Lipshitz et.al.|[2510.06957](http://arxiv.org/abs/2510.06957)|null|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|null|
@@ -605,6 +609,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**FlyLoRA: Boosting Task Decoupling and Parameter Efficiency via Implicit Rank-Wise Mixture-of-Experts**|Heming Zou et.al.|[2510.08396](http://arxiv.org/abs/2510.08396)|null|
+|**2025-10-09**|**Mix- and MoE-DPO: A Variational Inference Approach to Direct Preference Optimization**|Jason Bohne et.al.|[2510.08256](http://arxiv.org/abs/2510.08256)|null|
+|**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
+|**2025-10-09**|**Recycling Pretrained Checkpoints: Orthogonal Growth of Mixture-of-Experts for Efficient Large Language Model Pre-Training**|Ruizhe Wang et.al.|[2510.08008](http://arxiv.org/abs/2510.08008)|null|
+|**2025-10-09**|**Multilingual Knowledge Graph Completion via Efficient Multilingual Knowledge Sharing**|Cunli Mao et.al.|[2510.07736](http://arxiv.org/abs/2510.07736)|null|
+|**2025-10-09**|**Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision**|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|null|
+|**2025-10-09**|**LiveThinking: Enabling Real-Time Efficient Reasoning for AI-Powered Livestreaming via Reinforcement Learning**|Yuhan Sun et.al.|[2510.07685](http://arxiv.org/abs/2510.07685)|null|
+|**2025-10-08**|**MoGU: Mixture-of-Gaussians with Uncertainty-based Gating for Time Series Forecasting**|Yoli Shavit et.al.|[2510.07459](http://arxiv.org/abs/2510.07459)|null|
+|**2025-10-08**|**Less is More: Strategic Expert Selection Outperforms Ensemble Complexity in Traffic Forecasting**|Walid Guettala et.al.|[2510.07426](http://arxiv.org/abs/2510.07426)|null|
 |**2025-10-08**|**Guided by the Experts: Provable Feature Learning Dynamic of Soft-Routed Mixture-of-Experts**|Fangshuo Liao et.al.|[2510.07205](http://arxiv.org/abs/2510.07205)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
 |**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
