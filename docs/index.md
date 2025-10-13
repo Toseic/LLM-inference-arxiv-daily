@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference**|Yu-Chen Lu et.al.|[2510.09332](http://arxiv.org/abs/2510.09332)|null|
+|**2025-10-10**|**Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion**|Ruitong Liu et.al.|[2510.08966](http://arxiv.org/abs/2510.08966)|null|
+|**2025-10-10**|**Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors**|Xin Liu et.al.|[2510.08907](http://arxiv.org/abs/2510.08907)|null|
 |**2025-10-09**|**SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference**|Hengrui Zhang et.al.|[2510.08544](http://arxiv.org/abs/2510.08544)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
 |**2025-10-09**|**Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models**|Zhiqing Cui et.al.|[2510.07858](http://arxiv.org/abs/2510.07858)|null|
@@ -613,6 +616,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Dense2MoE: Restructuring Diffusion Transformer to MoE for Efficient Text-to-Image Generation**|Youwei Zheng et.al.|[2510.09094](http://arxiv.org/abs/2510.09094)|null|
+|**2025-10-09**|**LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution**|Xiaohui Li et.al.|[2510.08771](http://arxiv.org/abs/2510.08771)|null|
 |**2025-10-09**|**FlyLoRA: Boosting Task Decoupling and Parameter Efficiency via Implicit Rank-Wise Mixture-of-Experts**|Heming Zou et.al.|[2510.08396](http://arxiv.org/abs/2510.08396)|null|
 |**2025-10-09**|**Mix- and MoE-DPO: A Variational Inference Approach to Direct Preference Optimization**|Jason Bohne et.al.|[2510.08256](http://arxiv.org/abs/2510.08256)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
