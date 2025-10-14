@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-10**|**FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference**|Yu-Chen Lu et.al.|[2510.09332](http://arxiv.org/abs/2510.09332)|null|
 |**2025-10-10**|**Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion**|Ruitong Liu et.al.|[2510.08966](http://arxiv.org/abs/2510.08966)|null|
-|**2025-10-10**|**Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors**|Xin Liu et.al.|[2510.08907](http://arxiv.org/abs/2510.08907)|null|
+|**2025-10-13**|**Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors**|Xin Liu et.al.|[2510.08907](http://arxiv.org/abs/2510.08907)|null|
 |**2025-10-09**|**SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference**|Hengrui Zhang et.al.|[2510.08544](http://arxiv.org/abs/2510.08544)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
 |**2025-10-09**|**Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models**|Zhiqing Cui et.al.|[2510.07858](http://arxiv.org/abs/2510.07858)|null|
@@ -610,7 +610,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251013>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251014>(back to top)</a></p>
 
 ## MoE
 
@@ -1619,7 +1619,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251013>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251014>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
