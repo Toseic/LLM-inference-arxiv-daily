@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Efficient LLM Inference over Heterogeneous Edge Networks with Speculative Decoding**|Bingjie Zhu et.al.|[2510.11331](http://arxiv.org/abs/2510.11331)|null|
+|**2025-10-13**|**Efficient In-Memory Acceleration of Sparse Block Diagonal LLMs**|João Paulo Cardoso de Lima et.al.|[2510.11192](http://arxiv.org/abs/2510.11192)|null|
+|**2025-10-11**|**CacheClip: Accelerating RAG with Effective KV Cache Reuse**|Bin Yang et.al.|[2510.10129](http://arxiv.org/abs/2510.10129)|null|
 |**2025-10-10**|**FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference**|Yu-Chen Lu et.al.|[2510.09332](http://arxiv.org/abs/2510.09332)|null|
 |**2025-10-10**|**Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion**|Ruitong Liu et.al.|[2510.08966](http://arxiv.org/abs/2510.08966)|null|
 |**2025-10-13**|**Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors**|Xin Liu et.al.|[2510.08907](http://arxiv.org/abs/2510.08907)|null|
@@ -616,6 +619,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View**|Jinyu Zhang et.al.|[2510.11687](http://arxiv.org/abs/2510.11687)|null|
+|**2025-10-13**|**Robust Ego-Exo Correspondence with Long-Term Memory**|Yijun Hu et.al.|[2510.11417](http://arxiv.org/abs/2510.11417)|null|
+|**2025-10-13**|**Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers**|Wenhan Ma et.al.|[2510.11370](http://arxiv.org/abs/2510.11370)|null|
+|**2025-10-13**|**What to expect from microscopic nuclear modelling for k $_{\rm eff}$ calculations ?**|D. Rochman et.al.|[2510.11256](http://arxiv.org/abs/2510.11256)|null|
+|**2025-10-13**|**MC#: Mixture Compressor for Mixture-of-Experts Large Models**|Wei Huang et.al.|[2510.10962](http://arxiv.org/abs/2510.10962)|null|
+|**2025-10-12**|**Crisis-Aware Regime-Conditioned Diffusion with CVaR Allocation**|Ali Atiah Alzahrani et.al.|[2510.10807](http://arxiv.org/abs/2510.10807)|null|
+|**2025-10-12**|**Equipping Vision Foundation Model with Mixture of Experts for Out-of-Distribution Detection**|Shizhen Zhao et.al.|[2510.10584](http://arxiv.org/abs/2510.10584)|null|
+|**2025-10-12**|**Hierarchical LoRA MoE for Efficient CTR Model Scaling**|Zhichen Zeng et.al.|[2510.10432](http://arxiv.org/abs/2510.10432)|null|
+|**2025-10-11**|**SP-MoE: Speculative Decoding and Prefetching for Accelerating MoE-based Model Inference**|Liangkun Chen et.al.|[2510.10302](http://arxiv.org/abs/2510.10302)|null|
+|**2025-10-10**|**MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest**|Xiao Yang et.al.|[2510.09857](http://arxiv.org/abs/2510.09857)|null|
 |**2025-10-10**|**Dense2MoE: Restructuring Diffusion Transformer to MoE for Efficient Text-to-Image Generation**|Youwei Zheng et.al.|[2510.09094](http://arxiv.org/abs/2510.09094)|null|
 |**2025-10-09**|**LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution**|Xiaohui Li et.al.|[2510.08771](http://arxiv.org/abs/2510.08771)|null|
 |**2025-10-09**|**FlyLoRA: Boosting Task Decoupling and Parameter Efficiency via Implicit Rank-Wise Mixture-of-Experts**|Heming Zou et.al.|[2510.08396](http://arxiv.org/abs/2510.08396)|null|
