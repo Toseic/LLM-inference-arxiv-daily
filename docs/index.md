@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Adaptive Rescheduling in Prefill-Decode Disaggregated LLM Inference**|Zhibin Wang et.al.|[2510.13668](http://arxiv.org/abs/2510.13668)|null|
+|**2025-10-15**|**F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs**|Jude Haris et.al.|[2510.13401](http://arxiv.org/abs/2510.13401)|null|
+|**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
+|**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
 |**2025-10-14**|**Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?**|Cedric Richter et.al.|[2510.12702](http://arxiv.org/abs/2510.12702)|null|
 |**2025-10-14**|**Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models**|Donghwan Rho et.al.|[2510.12343](http://arxiv.org/abs/2510.12343)|null|
 |**2025-10-13**|**Efficient LLM Inference over Heterogeneous Edge Networks with Speculative Decoding**|Bingjie Zhu et.al.|[2510.11331](http://arxiv.org/abs/2510.11331)|null|
@@ -621,6 +625,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
+|**2025-10-15**|**ExpressNet-MoE: A Hybrid Deep Neural Network for Emotion Recognition**|Deeptimaan Banerjee et.al.|[2510.13493](http://arxiv.org/abs/2510.13493)|null|
+|**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|null|
+|**2025-10-15**|**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**|Li Bai et.al.|[2510.13451](http://arxiv.org/abs/2510.13451)|null|
+|**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
+|**2025-10-15**|**GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models**|Chen Zheng et.al.|[2510.13079](http://arxiv.org/abs/2510.13079)|null|
 |**2025-10-14**|**Dendrograms of Mixing Measures for Softmax-Gated Gaussian Mixture of Experts: Consistency without Model Sweeps**|Do Tien Hai et.al.|[2510.12744](http://arxiv.org/abs/2510.12744)|null|
 |**2025-10-14**|**MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts**|Yushu Zhao et.al.|[2510.12357](http://arxiv.org/abs/2510.12357)|null|
 |**2025-10-14**|**DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**|Tao Xie et.al.|[2510.12214](http://arxiv.org/abs/2510.12214)|null|
