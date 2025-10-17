@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
+|**2025-10-16**|**MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving**|Jungi Lee et.al.|[2510.14557](http://arxiv.org/abs/2510.14557)|null|
+|**2025-10-16**|**FairBatching: Fairness-Aware Batch Formation for LLM Inference**|Hongtao Lyu et.al.|[2510.14392](http://arxiv.org/abs/2510.14392)|null|
+|**2025-10-16**|**Qwen3Guard Technical Report**|Haiquan Zhao et.al.|[2510.14276](http://arxiv.org/abs/2510.14276)|null|
+|**2025-10-15**|**Efficiently Executing High-throughput Lightweight LLM Inference Applications on Heterogeneous Opportunistic GPU Clusters with Pervasive Context Management**|Thanh Son Phung et.al.|[2510.14024](http://arxiv.org/abs/2510.14024)|null|
 |**2025-10-15**|**Adaptive Rescheduling in Prefill-Decode Disaggregated LLM Inference**|Zhibin Wang et.al.|[2510.13668](http://arxiv.org/abs/2510.13668)|null|
 |**2025-10-15**|**F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs**|Jude Haris et.al.|[2510.13401](http://arxiv.org/abs/2510.13401)|null|
 |**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
@@ -625,6 +630,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
+|**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
+|**2025-10-16**|**MACE: Mixture-of-Experts Accelerated Coordinate Encoding for Large-Scale Scene Localization and Rendering**|Mingkai Liu et.al.|[2510.14251](http://arxiv.org/abs/2510.14251)|null|
+|**2025-10-15**|**REAP the Experts: Why Pruning Prevails for One-Shot MoE compression**|Mike Lasby et.al.|[2510.13999](http://arxiv.org/abs/2510.13999)|null|
 |**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
 |**2025-10-15**|**ExpressNet-MoE: A Hybrid Deep Neural Network for Emotion Recognition**|Deeptimaan Banerjee et.al.|[2510.13493](http://arxiv.org/abs/2510.13493)|null|
 |**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|null|
