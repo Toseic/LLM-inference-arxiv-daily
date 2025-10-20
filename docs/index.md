@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
+|**2025-10-16**|**Tail-Optimized Caching for LLM Inference**|Wenxin Zhang et.al.|[2510.15152](http://arxiv.org/abs/2510.15152)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-16**|**MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving**|Jungi Lee et.al.|[2510.14557](http://arxiv.org/abs/2510.14557)|null|
 |**2025-10-16**|**FairBatching: Fairness-Aware Batch Formation for LLM Inference**|Hongtao Lyu et.al.|[2510.14392](http://arxiv.org/abs/2510.14392)|null|
@@ -630,6 +632,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Mixture of Experts Approaches in Dense Retrieval Tasks**|Effrosyni Sokli et.al.|[2510.15683](http://arxiv.org/abs/2510.15683)|null|
+|**2025-10-17**|**FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification**|Zhen Sun et.al.|[2510.15595](http://arxiv.org/abs/2510.15595)|null|
+|**2025-10-17**|**Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks**|Yuyuan Feng et.al.|[2510.15333](http://arxiv.org/abs/2510.15333)|null|
+|**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|Xianyang Qi et.al.|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
+|**2025-10-17**|**Adaptive Individual Uncertainty under Out-Of-Distribution Shift with Expert-Routed Conformal Prediction**|Amitesh Badkul et.al.|[2510.15233](http://arxiv.org/abs/2510.15233)|null|
 |**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
 |**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
 |**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
