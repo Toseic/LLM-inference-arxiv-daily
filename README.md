@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-19**|**Justitia: Fair and Efficient Scheduling for LLM Applications**|Mingyan Yang et.al.|[2510.17015](http://arxiv.org/abs/2510.17015)|null|
+|**2025-10-18**|**FourierCompress: Layer-Aware Spectral Activation Compression for Efficient and Accurate Collaborative LLM Inference**|Jian Ma et.al.|[2510.16418](http://arxiv.org/abs/2510.16418)|null|
+|**2025-10-16**|**AMS-QUANT: Adaptive Mantissa Sharing for Floating-point Quantization**|Mengtao Lv et.al.|[2510.16045](http://arxiv.org/abs/2510.16045)|null|
+|**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|null|
 |**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
 |**2025-10-16**|**Tail-Optimized Caching for LLM Inference**|Wenxin Zhang et.al.|[2510.15152](http://arxiv.org/abs/2510.15152)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
@@ -628,6 +632,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-20**|**Towards 3D Objectness Learning in an Open World**|Taichi Liu et.al.|[2510.17686](http://arxiv.org/abs/2510.17686)|null|
+|**2025-10-20**|**Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model**|Xinwei Zhang et.al.|[2510.17684](http://arxiv.org/abs/2510.17684)|null|
+|**2025-10-20**|**Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm**|Hao Qiao et.al.|[2510.17604](http://arxiv.org/abs/2510.17604)|null|
+|**2025-10-20**|**ReXMoE: Reusing Experts with Minimal Overhead in Mixture-of-Experts**|Zheyue Tan et.al.|[2510.17483](http://arxiv.org/abs/2510.17483)|null|
+|**2025-10-19**|**End-to-end Listen, Look, Speak and Act**|Siyin Wang et.al.|[2510.16756](http://arxiv.org/abs/2510.16756)|null|
+|**2025-10-18**|**NeurIPT: Foundation Model for Neural Interfaces**|Zitao Fang et.al.|[2510.16548](http://arxiv.org/abs/2510.16548)|null|
+|**2025-10-18**|**Input Domain Aware MoE: Decoupling Routing Decisions from Task Optimization in Mixture of Experts**|Yongxiang Hua et.al.|[2510.16448](http://arxiv.org/abs/2510.16448)|null|
+|**2025-10-18**|**Modeling Expert Interactions in Sparse Mixture of Experts via Graph Structures**|Minh-Khoi Nguyen-Nhat et.al.|[2510.16411](http://arxiv.org/abs/2510.16411)|null|
+|**2025-10-17**|**Expert Merging in Sparse Mixture of Experts with Nash Bargaining**|Dung V. Nguyen et.al.|[2510.16138](http://arxiv.org/abs/2510.16138)|null|
 |**2025-10-17**|**Mixture of Experts Approaches in Dense Retrieval Tasks**|Effrosyni Sokli et.al.|[2510.15683](http://arxiv.org/abs/2510.15683)|null|
 |**2025-10-17**|**FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification**|Zhen Sun et.al.|[2510.15595](http://arxiv.org/abs/2510.15595)|null|
 |**2025-10-17**|**Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks**|Yuyuan Feng et.al.|[2510.15333](http://arxiv.org/abs/2510.15333)|null|
