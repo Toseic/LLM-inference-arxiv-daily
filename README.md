@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**Are Large Language Models Sensitive to the Motives Behind Communication?**|Addison J. Wu et.al.|[2510.19687](http://arxiv.org/abs/2510.19687)|null|
+|**2025-10-22**|**DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**|Xiang Liu et.al.|[2510.19669](http://arxiv.org/abs/2510.19669)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou et.al.|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
 |**2025-10-19**|**Justitia: Fair and Efficient Scheduling for LLM Applications**|Mingyan Yang et.al.|[2510.17015](http://arxiv.org/abs/2510.17015)|null|
 |**2025-10-18**|**FourierCompress: Layer-Aware Spectral Activation Compression for Efficient and Accurate Collaborative LLM Inference**|Jian Ma et.al.|[2510.16418](http://arxiv.org/abs/2510.16418)|null|
@@ -633,6 +635,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**HybridEP: Scaling Expert Parallelism to Cross-Datacenter Scenario via Hybrid Expert/Data Transmission**|Weihao Yang et.al.|[2510.19470](http://arxiv.org/abs/2510.19470)|null|
+|**2025-10-22**|**MoE-Prism: Disentangling Monolithic Experts for Elastic MoE Services via Model-System Co-Designs**|Xinfeng Xia et.al.|[2510.19366](http://arxiv.org/abs/2510.19366)|null|
+|**2025-10-22**|**Modeling Turn-Taking with Semantically Informed Gestures**|Varsha Suresh et.al.|[2510.19350](http://arxiv.org/abs/2510.19350)|null|
+|**2025-10-22**|**RailS: Load Balancing for All-to-All Communication in Distributed Mixture-of-Experts Training**|Heng Xu et.al.|[2510.19262](http://arxiv.org/abs/2510.19262)|null|
+|**2025-10-22**|**A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision**|Teo Susnjak et.al.|[2510.19227](http://arxiv.org/abs/2510.19227)|null|
+|**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
 |**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
 |**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
 |**2025-10-21**|**Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study**|Gangda Deng et.al.|[2510.18370](http://arxiv.org/abs/2510.18370)|null|
