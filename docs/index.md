@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**|Hongyi Liu et.al.|[2510.20064](http://arxiv.org/abs/2510.20064)|null|
 |**2025-10-22**|**Are Large Language Models Sensitive to the Motives Behind Communication?**|Addison J. Wu et.al.|[2510.19687](http://arxiv.org/abs/2510.19687)|null|
 |**2025-10-22**|**DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**|Xiang Liu et.al.|[2510.19669](http://arxiv.org/abs/2510.19669)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou et.al.|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
@@ -639,6 +640,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts**|Mariona Jaramillo-Civill et.al.|[2510.20666](http://arxiv.org/abs/2510.20666)|null|
+|**2025-10-23**|**xTime: Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion**|Quan Li et.al.|[2510.20651](http://arxiv.org/abs/2510.20651)|null|
+|**2025-10-23**|**Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning**|Xiaohan Lan et.al.|[2510.20519](http://arxiv.org/abs/2510.20519)|null|
+|**2025-10-23**|**A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization**|LinFeng Li et.al.|[2510.20291](http://arxiv.org/abs/2510.20291)|null|
+|**2025-10-23**|**AsyncHZP: Hierarchical ZeRO Parallelism with Asynchronous Scheduling for Scalable LLM Training**|Huawei Bai et.al.|[2510.20111](http://arxiv.org/abs/2510.20111)|null|
 |**2025-10-22**|**HybridEP: Scaling Expert Parallelism to Cross-Datacenter Scenario via Hybrid Expert/Data Transmission**|Weihao Yang et.al.|[2510.19470](http://arxiv.org/abs/2510.19470)|null|
 |**2025-10-22**|**MoE-Prism: Disentangling Monolithic Experts for Elastic MoE Services via Model-System Co-Designs**|Xinfeng Xia et.al.|[2510.19366](http://arxiv.org/abs/2510.19366)|null|
 |**2025-10-22**|**Modeling Turn-Taking with Semantically Informed Gestures**|Varsha Suresh et.al.|[2510.19350](http://arxiv.org/abs/2510.19350)|null|
