@@ -640,6 +640,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling**|Andrea Bonfanti et.al.|[2510.21262](http://arxiv.org/abs/2510.21262)|null|
+|**2025-10-24**|**Adaptive Graph Mixture of Residual Experts: Unsupervised Learning on Diverse Graphs with Heterogeneous Specialization**|Yunlong Chu et.al.|[2510.21207](http://arxiv.org/abs/2510.21207)|null|
+|**2025-10-24**|**Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts**|Yanguang Sun et.al.|[2510.21114](http://arxiv.org/abs/2510.21114)|null|
+|**2025-10-24**|**MedAlign: A Synergistic Framework of Multimodal Preference Optimization and Federated Meta-Cognitive Reasoning**|Siyong Chen et.al.|[2510.21093](http://arxiv.org/abs/2510.21093)|null|
 |**2025-10-23**|**Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts**|Mariona Jaramillo-Civill et.al.|[2510.20666](http://arxiv.org/abs/2510.20666)|null|
 |**2025-10-23**|**xTime: Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion**|Quan Li et.al.|[2510.20651](http://arxiv.org/abs/2510.20651)|null|
 |**2025-10-23**|**Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning**|Xiaohan Lan et.al.|[2510.20519](http://arxiv.org/abs/2510.20519)|null|
