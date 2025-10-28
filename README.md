@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
+|**2025-10-26**|**Do Stop Me Now: Detecting Boilerplate Responses with a Single Iteration**|Yuval Kainan et.al.|[2510.22679](http://arxiv.org/abs/2510.22679)|null|
+|**2025-10-26**|**SABlock: Semantic-Aware KV Cache Eviction with Adaptive Compression Block Size**|Jinhan Chen et.al.|[2510.22556](http://arxiv.org/abs/2510.22556)|null|
 |**2025-10-22**|**Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**|Hongyi Liu et.al.|[2510.20064](http://arxiv.org/abs/2510.20064)|null|
 |**2025-10-22**|**Are Large Language Models Sensitive to the Motives Behind Communication?**|Addison J. Wu et.al.|[2510.19687](http://arxiv.org/abs/2510.19687)|null|
 |**2025-10-22**|**DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**|Xiang Liu et.al.|[2510.19669](http://arxiv.org/abs/2510.19669)|null|
@@ -636,6 +639,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**EMTSF:Extraordinary Mixture of SOTA Models for Time Series Forecasting**|Musleh Alharthi et.al.|[2510.23396](http://arxiv.org/abs/2510.23396)|null|
+|**2025-10-27**|**Rethinking GSPO: The Perplexity-Entropy Equivalence**|Chi Liu et.al.|[2510.23142](http://arxiv.org/abs/2510.23142)|null|
+|**2025-10-27**|**Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts**|Di Zhang et.al.|[2510.23027](http://arxiv.org/abs/2510.23027)|null|
+|**2025-10-27**|**MoEMeta: Mixture-of-Experts Meta Learning for Few-Shot Relational Learning**|Han Wu et.al.|[2510.23013](http://arxiv.org/abs/2510.23013)|null|
+|**2025-10-25**|**Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation**|Ling-Team et.al.|[2510.22115](http://arxiv.org/abs/2510.22115)|null|
 |**2025-10-24**|**PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling**|Andrea Bonfanti et.al.|[2510.21262](http://arxiv.org/abs/2510.21262)|null|
 |**2025-10-24**|**Adaptive Graph Mixture of Residual Experts: Unsupervised Learning on Diverse Graphs with Heterogeneous Specialization**|Yunlong Chu et.al.|[2510.21207](http://arxiv.org/abs/2510.21207)|null|
 |**2025-10-24**|**Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts**|Yanguang Sun et.al.|[2510.21114](http://arxiv.org/abs/2510.21114)|null|
