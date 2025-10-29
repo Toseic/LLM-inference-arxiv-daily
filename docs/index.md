@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -25,7 +25,7 @@ layout: default
 |**2025-10-18**|**FourierCompress: Layer-Aware Spectral Activation Compression for Efficient and Accurate Collaborative LLM Inference**|Jian Ma et.al.|[2510.16418](http://arxiv.org/abs/2510.16418)|null|
 |**2025-10-16**|**AMS-QUANT: Adaptive Mantissa Sharing for Floating-point Quantization**|Mengtao Lv et.al.|[2510.16045](http://arxiv.org/abs/2510.16045)|null|
 |**2025-10-16**|**Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing**|Tianhua Xia et.al.|[2510.16040](http://arxiv.org/abs/2510.16040)|null|
-|**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
+|**2025-10-28**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
 |**2025-10-16**|**Tail-Optimized Caching for LLM Inference**|Wenxin Zhang et.al.|[2510.15152](http://arxiv.org/abs/2510.15152)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-16**|**MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving**|Jungi Lee et.al.|[2510.14557](http://arxiv.org/abs/2510.14557)|null|
@@ -637,7 +637,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251028>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251029>(back to top)</a></p>
 
 ## MoE
 
@@ -1708,7 +1708,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251028>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251029>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
