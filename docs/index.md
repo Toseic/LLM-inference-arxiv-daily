@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
+|**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
+|**2025-10-29**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
 |**2025-10-26**|**Do Stop Me Now: Detecting Boilerplate Responses with a Single Iteration**|Yuval Kainan et.al.|[2510.22679](http://arxiv.org/abs/2510.22679)|null|
@@ -644,6 +647,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**ExpertFlow: Adaptive Expert Scheduling and Memory Coordination for Efficient MoE Inference**|Zixu Shen et.al.|[2510.26730](http://arxiv.org/abs/2510.26730)|null|
+|**2025-10-30**|**Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications**|Chuang Zhang et.al.|[2510.26628](http://arxiv.org/abs/2510.26628)|null|
+|**2025-10-30**|**MossNet: Mixture of State-Space Experts is a Multi-Head Attention**|Shikhar Tuli et.al.|[2510.26182](http://arxiv.org/abs/2510.26182)|null|
+|**2025-10-29**|**Dual Mixture-of-Experts Framework for Discrete-Time Survival Analysis**|Hyeonjun Lee et.al.|[2510.26014](http://arxiv.org/abs/2510.26014)|null|
+|**2025-10-29**|**Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**|Hong Wang et.al.|[2510.25803](http://arxiv.org/abs/2510.25803)|null|
 |**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
 |**2025-10-29**|**MoEntwine: Unleashing the Potential of Wafer-scale Chips for Large-scale Expert Parallel Inference**|Xinru Tang et.al.|[2510.25258](http://arxiv.org/abs/2510.25258)|null|
 |**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|null|
