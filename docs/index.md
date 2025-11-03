@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**AMD MI300X GPU Performance Analysis**|Chandrish Ambati et.al.|[2510.27583](http://arxiv.org/abs/2510.27583)|null|
+|**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|null|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
 |**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
 |**2025-10-31**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
@@ -647,6 +649,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals**|Xiangyu Fan et.al.|[2510.27684](http://arxiv.org/abs/2510.27684)|null|
+|**2025-10-31**|**RDMA Point-to-Point Communication for LLM Systems**|Nandor Licker et.al.|[2510.27656](http://arxiv.org/abs/2510.27656)|null|
+|**2025-10-31**|**MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts**|Jingnan Gao et.al.|[2510.27234](http://arxiv.org/abs/2510.27234)|null|
+|**2025-10-31**|**AFM-Net: Advanced Fusing Hierarchical CNN Visual Priors with Global Sequence Modeling for Remote Sensing Image Scene Classification**|Yuanhao Tang et.al.|[2510.27155](http://arxiv.org/abs/2510.27155)|null|
+|**2025-10-30**|**Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement**|Aaditya Shukla et.al.|[2510.27051](http://arxiv.org/abs/2510.27051)|null|
+|**2025-10-30**|**Mixture-of-Transformers Learn Faster: A Theoretical Study on Classification Problems**|Hongbo Li et.al.|[2510.27004](http://arxiv.org/abs/2510.27004)|null|
+|**2025-10-30**|**MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation**|Arghavan Rezvani et.al.|[2510.26996](http://arxiv.org/abs/2510.26996)|null|
 |**2025-10-30**|**ExpertFlow: Adaptive Expert Scheduling and Memory Coordination for Efficient MoE Inference**|Zixu Shen et.al.|[2510.26730](http://arxiv.org/abs/2510.26730)|null|
 |**2025-10-30**|**Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications**|Chuang Zhang et.al.|[2510.26628](http://arxiv.org/abs/2510.26628)|null|
 |**2025-10-30**|**MossNet: Mixture of State-Space Experts is a Multi-Head Attention**|Shikhar Tuli et.al.|[2510.26182](http://arxiv.org/abs/2510.26182)|null|
