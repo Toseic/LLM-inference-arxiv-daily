@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -13,7 +13,7 @@
 |**2025-10-31**|**AMD MI300X GPU Performance Analysis**|Chandrish Ambati et.al.|[2510.27583](http://arxiv.org/abs/2510.27583)|null|
 |**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|null|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
-|**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
+|**2025-10-31**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
 |**2025-10-31**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
@@ -639,7 +639,7 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251103>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251104>(back to top)</a></p>
 
 ## MoE
 
@@ -1729,7 +1729,7 @@
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251103>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251104>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
