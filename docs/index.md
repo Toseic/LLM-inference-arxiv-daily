@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes**|Mohammadsajad Alipour et.al.|[2511.02681](http://arxiv.org/abs/2511.02681)|null|
+|**2025-11-04**|**Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks**|Xiumei Deng et.al.|[2511.02647](http://arxiv.org/abs/2511.02647)|null|
+|**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
+|**2025-11-03**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815](http://arxiv.org/abs/2511.01815)|null|
+|**2025-11-04**|**Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding**|Jungyeon Koh et.al.|[2511.01695](http://arxiv.org/abs/2511.01695)|null|
+|**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|null|
+|**2025-11-03**|**When, What, and How: Rethinking Retrieval-Enhanced Speculative Decoding**|Min Fang et.al.|[2511.01282](http://arxiv.org/abs/2511.01282)|null|
+|**2025-11-04**|**CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference via Balanced Expert Routing**|Yifan Zhou et.al.|[2511.01197](http://arxiv.org/abs/2511.01197)|null|
+|**2025-11-04**|**SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**|Jameson Sandler et.al.|[2511.00606](http://arxiv.org/abs/2511.00606)|null|
+|**2025-11-01**|**FlashEVA: Accelerating LLM inference via Efficient Attention**|Juan Gabriel Kostelec et.al.|[2511.00576](http://arxiv.org/abs/2511.00576)|null|
 |**2025-10-31**|**AMD MI300X GPU Performance Analysis**|Chandrish Ambati et.al.|[2510.27583](http://arxiv.org/abs/2510.27583)|null|
 |**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|null|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
@@ -649,6 +659,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains**|Tianle Pu et.al.|[2511.02331](http://arxiv.org/abs/2511.02331)|null|
+|**2025-11-04**|**FP8-Flow-MoE: A Casting-Free FP8 Recipe without Double Quantization Error**|Fengjuan Wang et.al.|[2511.02302](http://arxiv.org/abs/2511.02302)|null|
+|**2025-11-04**|**Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining**|Costin-Andrei Oncescu et.al.|[2511.02237](http://arxiv.org/abs/2511.02237)|null|
+|**2025-11-03**|**Towards Efficient Federated Learning of Networked Mixture-of-Experts for Mobile Edge Computing**|Song Gao et.al.|[2511.01743](http://arxiv.org/abs/2511.01743)|null|
+|**2025-11-03**|**HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**|Lei Hu et.al.|[2511.01463](http://arxiv.org/abs/2511.01463)|null|
+|**2025-11-04**|**CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference via Balanced Expert Routing**|Yifan Zhou et.al.|[2511.01197](http://arxiv.org/abs/2511.01197)|null|
+|**2025-11-03**|**DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection**|Guoxin Ma et.al.|[2511.01192](http://arxiv.org/abs/2511.01192)|null|
+|**2025-11-01**|**OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback**|Kai Luo et.al.|[2511.00510](http://arxiv.org/abs/2511.00510)|null|
+|**2025-10-31**|**LongCat-Flash-Omni Technical Report**|Meituan LongCat Team et.al.|[2511.00279](http://arxiv.org/abs/2511.00279)|null|
 |**2025-10-31**|**Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals**|Xiangyu Fan et.al.|[2510.27684](http://arxiv.org/abs/2510.27684)|null|
 |**2025-10-31**|**RDMA Point-to-Point Communication for LLM Systems**|Nandor Licker et.al.|[2510.27656](http://arxiv.org/abs/2510.27656)|null|
 |**2025-10-31**|**MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts**|Jingnan Gao et.al.|[2510.27234](http://arxiv.org/abs/2510.27234)|null|
