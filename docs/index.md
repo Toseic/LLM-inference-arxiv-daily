@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Enabling Dynamic Sparsity in Quantized LLM Inference**|Rongxiang Wang et.al.|[2511.04477](http://arxiv.org/abs/2511.04477)|null|
+|**2025-11-06**|**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**|Ge Zhang et.al.|[2511.04087](http://arxiv.org/abs/2511.04087)|null|
+|**2025-11-06**|**PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2511.04036](http://arxiv.org/abs/2511.04036)|null|
+|**2025-11-06**|**LLM-Driven Adaptive Source-Sink Identification and False Positive Mitigation for Static Analysis**|Shiyin Lin et.al.|[2511.04023](http://arxiv.org/abs/2511.04023)|null|
 |**2025-11-05**|**RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|null|
 |**2025-11-05**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
 |**2025-11-04**|**Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes**|Mohammadsajad Alipour et.al.|[2511.02681](http://arxiv.org/abs/2511.02681)|null|
@@ -661,6 +665,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
 |**2025-11-05**|**GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models**|Zhibin Wang et.al.|[2511.03251](http://arxiv.org/abs/2511.03251)|null|
 |**2025-11-04**|**RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains**|Tianle Pu et.al.|[2511.02331](http://arxiv.org/abs/2511.02331)|null|
 |**2025-11-04**|**FP8-Flow-MoE: A Casting-Free FP8 Recipe without Double Quantization Error**|Fengjuan Wang et.al.|[2511.02302](http://arxiv.org/abs/2511.02302)|null|
