@@ -661,6 +661,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery**|Baiye Cheng et.al.|[2511.05007](http://arxiv.org/abs/2511.05007)|null|
+|**2025-11-06**|**PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference**|Yushu Zhao et.al.|[2511.04805](http://arxiv.org/abs/2511.04805)|null|
 |**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
 |**2025-11-05**|**GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models**|Zhibin Wang et.al.|[2511.03251](http://arxiv.org/abs/2511.03251)|null|
 |**2025-11-04**|**RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains**|Tianle Pu et.al.|[2511.02331](http://arxiv.org/abs/2511.02331)|null|
