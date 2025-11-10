@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -19,7 +19,7 @@ layout: default
 |**2025-11-06**|**PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2511.04036](http://arxiv.org/abs/2511.04036)|null|
 |**2025-11-06**|**LLM-Driven Adaptive Source-Sink Identification and False Positive Mitigation for Static Analysis**|Shiyin Lin et.al.|[2511.04023](http://arxiv.org/abs/2511.04023)|null|
 |**2025-11-05**|**RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|null|
-|**2025-11-05**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
+|**2025-11-07**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
 |**2025-11-04**|**Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes**|Mohammadsajad Alipour et.al.|[2511.02681](http://arxiv.org/abs/2511.02681)|null|
 |**2025-11-04**|**Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks**|Xiumei Deng et.al.|[2511.02647](http://arxiv.org/abs/2511.02647)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
@@ -659,7 +659,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251109>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251110>(back to top)</a></p>
 
 ## MoE
 
@@ -1760,7 +1760,7 @@ layout: default
 |**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133](http://arxiv.org/abs/2405.03133)|null|
 |**2024-05-06**|**WDMoE: Wireless Distributed Large Language Models with Mixture of Experts**|Nan Xue et.al.|[2405.03131](http://arxiv.org/abs/2405.03131)|null|
 
-<p align=right><a href=#updated-on-20251109>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251110>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
