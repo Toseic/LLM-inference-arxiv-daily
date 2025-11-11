@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models**|Tianrui Song et.al.|[2511.07295](http://arxiv.org/abs/2511.07295)|null|
+|**2025-11-10**|**P3-LLM: An Integrated NPU-PIM Accelerator for LLM Inference Using Hybrid Numerical Formats**|Yuzong Chen et.al.|[2511.06838](http://arxiv.org/abs/2511.06838)|null|
+|**2025-11-09**|**Optimizing Long-context LLM Serving via Fine-grained Sequence Parallelism**|Cong Li et.al.|[2511.06247](http://arxiv.org/abs/2511.06247)|null|
+|**2025-11-09**|**LUT-LLM: Efficient Large Language Model Inference with Memory-based Computations on FPGAs**|Zifan He et.al.|[2511.06174](http://arxiv.org/abs/2511.06174)|null|
+|**2025-11-08**|**MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference**|Myunghyun Rhee et.al.|[2511.06010](http://arxiv.org/abs/2511.06010)|null|
+|**2025-11-08**|**MCP-RiskCue: Can LLM infer risk information from MCP server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
 |**2025-11-06**|**Enabling Dynamic Sparsity in Quantized LLM Inference**|Rongxiang Wang et.al.|[2511.04477](http://arxiv.org/abs/2511.04477)|null|
 |**2025-11-06**|**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**|Ge Zhang et.al.|[2511.04087](http://arxiv.org/abs/2511.04087)|null|
 |**2025-11-06**|**PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2511.04036](http://arxiv.org/abs/2511.04036)|null|
@@ -665,6 +671,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs**|Zhongyang Li et.al.|[2511.07419](http://arxiv.org/abs/2511.07419)|null|
+|**2025-11-10**|**AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning**|Qile Jiang et.al.|[2511.07262](http://arxiv.org/abs/2511.07262)|null|
+|**2025-11-10**|**S-DAG: A Subject-Based Directed Acyclic Graph for Multi-Agent Heterogeneous Reasoning**|Jiangwen Dong et.al.|[2511.06727](http://arxiv.org/abs/2511.06727)|null|
+|**2025-11-10**|**Multi-Modal Continual Learning via Cross-Modality Adapters and Representation Alignment with Knowledge Preservation**|Evelyn Chee et.al.|[2511.06723](http://arxiv.org/abs/2511.06723)|null|
+|**2025-11-09**|**Route Experts by Sequence, not by Token**|Tiansheng Wen et.al.|[2511.06494](http://arxiv.org/abs/2511.06494)|null|
+|**2025-11-09**|**HyMoERec: Hybrid Mixture-of-Experts for Sequential Recommendation**|Kunrong Li et.al.|[2511.06388](http://arxiv.org/abs/2511.06388)|null|
+|**2025-11-09**|**A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images**|Ardhendu Sekhar et.al.|[2511.06266](http://arxiv.org/abs/2511.06266)|null|
+|**2025-11-08**|**DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities**|Nagur Shareef Shaik et.al.|[2511.05968](http://arxiv.org/abs/2511.05968)|null|
+|**2025-11-08**|**MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering**|Jian Zhu et.al.|[2511.05876](http://arxiv.org/abs/2511.05876)|null|
+|**2025-11-08**|**In-depth Analysis on Caching and Pre-fetching in Mixture of Experts Offloading**|Shuning Lin et.al.|[2511.05814](http://arxiv.org/abs/2511.05814)|null|
 |**2025-11-07**|**MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery**|Baiye Cheng et.al.|[2511.05007](http://arxiv.org/abs/2511.05007)|null|
 |**2025-11-06**|**PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference**|Yushu Zhao et.al.|[2511.04805](http://arxiv.org/abs/2511.04805)|null|
 |**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
