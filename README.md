@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|null|
+|**2025-11-13**|**Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs**|Changhai Man et.al.|[2511.10480](http://arxiv.org/abs/2511.10480)|null|
+|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
+|**2025-11-13**|**Efficient Thought Space Exploration through Strategic Intervention**|Ziheng Li et.al.|[2511.10038](http://arxiv.org/abs/2511.10038)|null|
+|**2025-11-13**|**EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models**|Jialin Wu et.al.|[2511.09880](http://arxiv.org/abs/2511.09880)|null|
+|**2025-11-13**|**HierRouter: Coordinated Routing of Specialized Large Language Models via Reinforcement Learning**|Nikunj Gupta et.al.|[2511.09873](http://arxiv.org/abs/2511.09873)|null|
+|**2025-11-12**|**From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance**|Jeongho Min et.al.|[2511.09820](http://arxiv.org/abs/2511.09820)|null|
+|**2025-11-13**|**LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication**|Prajwal Singhania et.al.|[2511.09557](http://arxiv.org/abs/2511.09557)|null|
+|**2025-11-12**|**Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**|Shiyu Ji et.al.|[2511.09345](http://arxiv.org/abs/2511.09345)|null|
+|**2025-11-12**|**Mixture-of-Channels: Exploiting Sparse FFNs for Efficient LLMs Pre-Training and Inference**|Tong Wu et.al.|[2511.09323](http://arxiv.org/abs/2511.09323)|null|
 |**2025-11-10**|**Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models**|Tianrui Song et.al.|[2511.07295](http://arxiv.org/abs/2511.07295)|null|
 |**2025-11-10**|**P3-LLM: An Integrated NPU-PIM Accelerator for LLM Inference Using Hybrid Numerical Formats**|Yuzong Chen et.al.|[2511.06838](http://arxiv.org/abs/2511.06838)|null|
 |**2025-11-09**|**Optimizing Long-context LLM Serving via Fine-grained Sequence Parallelism**|Cong Li et.al.|[2511.06247](http://arxiv.org/abs/2511.06247)|null|
@@ -664,12 +674,22 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251114>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251115>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts**|Sumin Lee et.al.|[2511.10300](http://arxiv.org/abs/2511.10300)|null|
+|**2025-11-13**|**RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo**|Jueun Ko et.al.|[2511.10107](http://arxiv.org/abs/2511.10107)|null|
+|**2025-11-13**|**BuddyMoE: Exploiting Expert Redundancy to Accelerate Memory-Constrained Mixture-of-Experts Inference**|Yun Wang et.al.|[2511.10054](http://arxiv.org/abs/2511.10054)|null|
+|**2025-11-13**|**ConSurv: Multimodal Continual Learning for Survival Analysis**|Dianzhi Yu et.al.|[2511.09853](http://arxiv.org/abs/2511.09853)|null|
+|**2025-11-12**|**UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving**|Ziyi Song et.al.|[2511.09013](http://arxiv.org/abs/2511.09013)|null|
+|**2025-11-12**|**Selective Sinkhorn Routing for Improved Sparse Mixture of Experts**|Duc Anh Nguyen et.al.|[2511.08972](http://arxiv.org/abs/2511.08972)|null|
+|**2025-11-12**|**Bayesian Mixture of Experts For Large Language Models**|Maryam Dialameh et.al.|[2511.08968](http://arxiv.org/abs/2511.08968)|null|
+|**2025-11-11**|**OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**|Yuncheng Guo et.al.|[2511.08423](http://arxiv.org/abs/2511.08423)|null|
+|**2025-11-11**|**Text-based Aerial-Ground Person Retrieval**|Xinyu Zhou et.al.|[2511.08369](http://arxiv.org/abs/2511.08369)|null|
+|**2025-11-13**|**National Institute on Aging PREPARE Challenge: Early Detection of Cognitive Impairment Using Speech -- The SpeechCARE Solution**|Maryam Zolnoori et.al.|[2511.08132](http://arxiv.org/abs/2511.08132)|null|
 |**2025-11-10**|**Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs**|Zhongyang Li et.al.|[2511.07419](http://arxiv.org/abs/2511.07419)|null|
 |**2025-11-10**|**AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning**|Qile Jiang et.al.|[2511.07262](http://arxiv.org/abs/2511.07262)|null|
 |**2025-11-10**|**S-DAG: A Subject-Based Directed Acyclic Graph for Multi-Agent Heterogeneous Reasoning**|Jiangwen Dong et.al.|[2511.06727](http://arxiv.org/abs/2511.06727)|null|
@@ -1782,7 +1802,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251114>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251115>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
