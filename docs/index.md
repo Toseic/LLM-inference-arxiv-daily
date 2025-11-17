@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.16
+## Updated on 2025.11.17
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Experience-Guided Adaptation of Inference-Time Reasoning Strategies**|Adam Stein et.al.|[2511.11519](http://arxiv.org/abs/2511.11519)|null|
+|**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|null|
+|**2025-11-14**|**MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism**|Shulin Liu et.al.|[2511.11373](http://arxiv.org/abs/2511.11373)|null|
+|**2025-11-14**|**iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference**|Wei Fan et.al.|[2511.11306](http://arxiv.org/abs/2511.11306)|null|
+|**2025-11-14**|**T-MAN: Enabling End-to-End Low-Bit LLM Inference on NPUs via Unified Table Lookup**|Jianyu Wei et.al.|[2511.11248](http://arxiv.org/abs/2511.11248)|null|
+|**2025-11-14**|**STaR: Towards Cognitive Table Reasoning via Slow-Thinking Large Language Models**|Huajian Zhang et.al.|[2511.11233](http://arxiv.org/abs/2511.11233)|null|
+|**2025-11-14**|**AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization**|Zhonghua Jiang et.al.|[2511.11106](http://arxiv.org/abs/2511.11106)|null|
+|**2025-11-14**|**GraphMASAL: A Graph-based Multi-Agent System for Adaptive Learning**|Biqing Zeng et.al.|[2511.11035](http://arxiv.org/abs/2511.11035)|null|
+|**2025-11-14**|**DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition**|HongYu Liu et.al.|[2511.11000](http://arxiv.org/abs/2511.11000)|null|
+|**2025-11-14**|**DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition**|Ren Zhang et.al.|[2511.10948](http://arxiv.org/abs/2511.10948)|null|
 |**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|null|
 |**2025-11-13**|**Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs**|Changhai Man et.al.|[2511.10480](http://arxiv.org/abs/2511.10480)|null|
 |**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
@@ -678,12 +688,18 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251116>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251117>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**FarSkip-Collective: Unhobbling Blocking Communication in Mixture of Experts Models**|Yonatan Dukler et.al.|[2511.11505](http://arxiv.org/abs/2511.11505)|null|
+|**2025-11-14**|**Rethinking Efficient Mixture-of-Experts for Remote Sensing Modality-Missing Classification**|Qinghao Gao et.al.|[2511.11460](http://arxiv.org/abs/2511.11460)|null|
+|**2025-11-14**|**Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**|Cong Cao et.al.|[2511.11236](http://arxiv.org/abs/2511.11236)|null|
+|**2025-11-14**|**DoReMi: A Domain-Representation Mixture Framework for Generalizable 3D Understanding**|Mingwei Xing et.al.|[2511.11232](http://arxiv.org/abs/2511.11232)|null|
+|**2025-11-14**|**ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization**|Anzhe Cheng et.al.|[2511.10971](http://arxiv.org/abs/2511.10971)|null|
+|**2025-11-14**|**Go-UT-Bench: A Fine-Tuning Dataset for LLM-Based Unit Test Generation in Go**|Yashshi Pipalani et.al.|[2511.10868](http://arxiv.org/abs/2511.10868)|null|
 |**2025-11-13**|**Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts**|Sumin Lee et.al.|[2511.10300](http://arxiv.org/abs/2511.10300)|null|
 |**2025-11-13**|**RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo**|Jueun Ko et.al.|[2511.10107](http://arxiv.org/abs/2511.10107)|null|
 |**2025-11-13**|**BuddyMoE: Exploiting Expert Redundancy to Accelerate Memory-Constrained Mixture-of-Experts Inference**|Yun Wang et.al.|[2511.10054](http://arxiv.org/abs/2511.10054)|null|
@@ -1806,7 +1822,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251116>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251117>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
