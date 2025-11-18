@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-16**|**ARCHE: A Novel Task to Evaluate LLMs on Latent Reasoning Chain Extraction**|Pengze Li et.al.|[2511.12485](http://arxiv.org/abs/2511.12485)|null|
+|**2025-11-16**|**Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models**|Chenglong Wang et.al.|[2511.12464](http://arxiv.org/abs/2511.12464)|null|
+|**2025-11-15**|**Optimal Self-Consistency for Efficient Reasoning with Large Language Models**|Austin Feng et.al.|[2511.12309](http://arxiv.org/abs/2511.12309)|null|
+|**2025-11-15**|**Sangam: Chiplet-Based DRAM-PIM Accelerator with CXL Integration for LLM Inferencing**|Khyati Kiyawat et.al.|[2511.12286](http://arxiv.org/abs/2511.12286)|null|
+|**2025-11-15**|**MME-RAG: Multi-Manager-Expert Retrieval-Augmented Generation for Fine-Grained Entity Recognition in Task-Oriented Dialogues**|Liang Xue et.al.|[2511.12213](http://arxiv.org/abs/2511.12213)|null|
+|**2025-11-15**|**AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing**|Qingyu Zhang et.al.|[2511.12133](http://arxiv.org/abs/2511.12133)|null|
+|**2025-11-15**|**OAD-Promoter: Enhancing Zero-shot VQA using Large Language Models with Object Attribute Description**|Quanxing Xu et.al.|[2511.12131](http://arxiv.org/abs/2511.12131)|null|
+|**2025-11-15**|**BudgetLeak: Membership Inference Attacks on RAG Systems via the Generation Budget Side Channel**|Hao Li et.al.|[2511.12043](http://arxiv.org/abs/2511.12043)|null|
+|**2025-11-15**|**Striking the Right Balance between Compute and Copy: Improving LLM Inferencing Under Speculative Decoding**|Arun Ramachandran et.al.|[2511.12031](http://arxiv.org/abs/2511.12031)|null|
+|**2025-11-14**|**Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models**|Siyou Li et.al.|[2511.11910](http://arxiv.org/abs/2511.11910)|null|
 |**2025-11-14**|**Experience-Guided Adaptation of Inference-Time Reasoning Strategies**|Adam Stein et.al.|[2511.11519](http://arxiv.org/abs/2511.11519)|null|
 |**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|null|
 |**2025-11-14**|**MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism**|Shulin Liu et.al.|[2511.11373](http://arxiv.org/abs/2511.11373)|null|
@@ -684,12 +694,18 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251117>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251118>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-16**|**MdaIF: Robust One-Stop Multi-Degradation-Aware Image Fusion with Language-Driven Semantics**|Jing Li et.al.|[2511.12525](http://arxiv.org/abs/2511.12525)|null|
+|**2025-11-16**|**MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding**|Zhanheng Nie et.al.|[2511.12449](http://arxiv.org/abs/2511.12449)|null|
+|**2025-11-15**|**SAC-MoE: Reinforcement Learning with Mixture-of-Experts for Control of Hybrid Dynamical Systems with Uncertainty**|Leroy D'Souza et.al.|[2511.12361](http://arxiv.org/abs/2511.12361)|null|
+|**2025-11-15**|**AMR-MoEGA: Antimicrobial Resistance Prediction using Mixture of Experts and Genetic Algorithms**|Anshul Bagaria et.al.|[2511.12223](http://arxiv.org/abs/2511.12223)|null|
+|**2025-11-15**|**ViTE: Virtual Graph Trajectory Expert Router for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2511.12214](http://arxiv.org/abs/2511.12214)|null|
+|**2025-11-14**|**First Measurement of $π^+$-Ar and $p$ -Ar Total Inelastic Cross Sections in the Sub-GeV Energy Regime with ProtoDUNE-SP Data**|DUNE Collaboration et.al.|[2511.11925](http://arxiv.org/abs/2511.11925)|null|
 |**2025-11-14**|**FarSkip-Collective: Unhobbling Blocking Communication in Mixture of Experts Models**|Yonatan Dukler et.al.|[2511.11505](http://arxiv.org/abs/2511.11505)|null|
 |**2025-11-14**|**Rethinking Efficient Mixture-of-Experts for Remote Sensing Modality-Missing Classification**|Qinghao Gao et.al.|[2511.11460](http://arxiv.org/abs/2511.11460)|null|
 |**2025-11-14**|**Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**|Cong Cao et.al.|[2511.11236](http://arxiv.org/abs/2511.11236)|null|
@@ -1818,7 +1834,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251117>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251118>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
