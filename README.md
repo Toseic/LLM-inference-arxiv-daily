@@ -10,6 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**|Xunjie Wang et.al.|[2511.13717](http://arxiv.org/abs/2511.13717)|null|
+|**2025-11-17**|**T-SAR: A Full-Stack Co-design for CPU-Only Ternary LLM Inference via In-Place SIMD ALU Reorganization**|Hyunwoo Oh et.al.|[2511.13676](http://arxiv.org/abs/2511.13676)|null|
+|**2025-11-17**|**Tight and Practical Privacy Auditing for Differentially Private In-Context Learning**|Yuyang Xia et.al.|[2511.13502](http://arxiv.org/abs/2511.13502)|null|
+|**2025-11-17**|**Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment**|Jea Kwon et.al.|[2511.13290](http://arxiv.org/abs/2511.13290)|null|
+|**2025-11-17**|**Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms**|Patrick Parschan et.al.|[2511.13238](http://arxiv.org/abs/2511.13238)|null|
+|**2025-11-17**|**TokenSqueeze: Performance-Preserving Compression for Reasoning LLMs**|Yuxiang Zhang et.al.|[2511.13223](http://arxiv.org/abs/2511.13223)|null|
+|**2025-11-17**|**TCM-5CEval: Extended Deep Evaluation Benchmark for LLM's Comprehensive Clinical Research Competence in Traditional Chinese Medicine**|Tianai Huang et.al.|[2511.13169](http://arxiv.org/abs/2511.13169)|null|
+|**2025-11-17**|**MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity**|Vladimír Macko et.al.|[2511.13061](http://arxiv.org/abs/2511.13061)|null|
+|**2025-11-17**|**RAGPulse: An Open-Source RAG Workload Trace to Optimize RAG Serving Systems**|Zhengchao Wang et.al.|[2511.12979](http://arxiv.org/abs/2511.12979)|null|
+|**2025-11-17**|**MedRule-KG: A Knowledge-Graph--Steered Scaffold for Reliable Mathematical and Biomedical Reasoning**|Crystal Su et.al.|[2511.12963](http://arxiv.org/abs/2511.12963)|null|
 |**2025-11-16**|**ARCHE: A Novel Task to Evaluate LLMs on Latent Reasoning Chain Extraction**|Pengze Li et.al.|[2511.12485](http://arxiv.org/abs/2511.12485)|null|
 |**2025-11-16**|**Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models**|Chenglong Wang et.al.|[2511.12464](http://arxiv.org/abs/2511.12464)|null|
 |**2025-11-15**|**Optimal Self-Consistency for Efficient Reasoning with Large Language Models**|Austin Feng et.al.|[2511.12309](http://arxiv.org/abs/2511.12309)|null|
@@ -700,6 +710,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**|Lipeng Wang et.al.|[2511.13488](http://arxiv.org/abs/2511.13488)|null|
+|**2025-11-17**|**Measurement of Exclusive $π^+$ --argon Interactions Using ProtoDUNE-SP**|DUNE Collaboration et.al.|[2511.13462](http://arxiv.org/abs/2511.13462)|null|
+|**2025-11-17**|**YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection**|Ori Meiraz et.al.|[2511.13344](http://arxiv.org/abs/2511.13344)|null|
+|**2025-11-17**|**Self-Adaptive Graph Mixture of Models**|Mohit Meena et.al.|[2511.13062](http://arxiv.org/abs/2511.13062)|null|
+|**2025-11-17**|**Tokenize Once, Recommend Anywhere: Unified Item Tokenization for Multi-domain LLM-based Recommendation**|Yu Hou et.al.|[2511.12922](http://arxiv.org/abs/2511.12922)|null|
+|**2025-11-16**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|null|
+|**2025-11-16**|**SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition**|Qing Cai et.al.|[2511.12559](http://arxiv.org/abs/2511.12559)|null|
 |**2025-11-16**|**MdaIF: Robust One-Stop Multi-Degradation-Aware Image Fusion with Language-Driven Semantics**|Jing Li et.al.|[2511.12525](http://arxiv.org/abs/2511.12525)|null|
 |**2025-11-16**|**MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding**|Zhanheng Nie et.al.|[2511.12449](http://arxiv.org/abs/2511.12449)|null|
 |**2025-11-15**|**SAC-MoE: Reinforcement Learning with Mixture-of-Experts for Control of Hybrid Dynamical Systems with Uncertainty**|Leroy D'Souza et.al.|[2511.12361](http://arxiv.org/abs/2511.12361)|null|
