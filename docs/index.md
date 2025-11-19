@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.18
+## Updated on 2025.11.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**AutoTool: Efficient Tool Selection for Large Language Model Agents**|Jingyi Jia et.al.|[2511.14650](http://arxiv.org/abs/2511.14650)|null|
+|**2025-11-18**|**A Controllable Perceptual Feature Generative Model for Melody Harmonization via Conditional Variational Autoencoder**|Dengyun Huang et.al.|[2511.14600](http://arxiv.org/abs/2511.14600)|null|
+|**2025-11-18**|**Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language**|Minyoung Hwang et.al.|[2511.14565](http://arxiv.org/abs/2511.14565)|null|
+|**2025-11-18**|**CLO: Efficient LLM Inference System with CPU-Light KVCache Offloading via Algorithm-System Co-Design**|Jiawei Yi et.al.|[2511.14510](http://arxiv.org/abs/2511.14510)|null|
+|**2025-11-18**|**Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks**|Mulei Ma et.al.|[2511.14450](http://arxiv.org/abs/2511.14450)|null|
+|**2025-11-18**|**PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models**|Yu Liu et.al.|[2511.14256](http://arxiv.org/abs/2511.14256)|null|
+|**2025-11-18**|**Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation**|Yu Zhong et.al.|[2511.14131](http://arxiv.org/abs/2511.14131)|null|
+|**2025-11-18**|**PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval**|Chun Chet Ng et.al.|[2511.14130](http://arxiv.org/abs/2511.14130)|null|
+|**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
+|**2025-11-18**|**FailSafe: High-performance Resilient Serving**|Ziyi Xu et.al.|[2511.14116](http://arxiv.org/abs/2511.14116)|null|
 |**2025-11-17**|**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**|Xunjie Wang et.al.|[2511.13717](http://arxiv.org/abs/2511.13717)|null|
 |**2025-11-17**|**T-SAR: A Full-Stack Co-design for CPU-Only Ternary LLM Inference via In-Place SIMD ALU Reorganization**|Hyunwoo Oh et.al.|[2511.13676](http://arxiv.org/abs/2511.13676)|null|
 |**2025-11-17**|**Tight and Practical Privacy Auditing for Differentially Private In-Context Learning**|Yuyang Xia et.al.|[2511.13502](http://arxiv.org/abs/2511.13502)|null|
@@ -708,15 +718,21 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251118>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251119>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Towards Stable and Structured Time Series Generation with Perturbation-Aware Flow Matching**|Jintao Zhang et.al.|[2511.14488](http://arxiv.org/abs/2511.14488)|null|
+|**2025-11-18**|**MoE-SpeQ: Speculative Quantized Decoding with Proactive Expert Prefetching and Offloading for Mixture-of-Experts**|Wenfeng Wang et.al.|[2511.14102](http://arxiv.org/abs/2511.14102)|null|
+|**2025-11-18**|**FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration**|Jingren Liu et.al.|[2511.14099](http://arxiv.org/abs/2511.14099)|null|
+|**2025-11-18**|**SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts**|Fan Zhang et.al.|[2511.14093](http://arxiv.org/abs/2511.14093)|null|
+|**2025-11-17**|**MoMoE: A Mixture of Expert Agent Model for Financial Sentiment Analysis**|Peng Shu et.al.|[2511.13983](http://arxiv.org/abs/2511.13983)|null|
+|**2025-11-17**|**Introducing AI to an Online Petition Platform Changed Outputs but not Outcomes**|Isabel Corpus et.al.|[2511.13949](http://arxiv.org/abs/2511.13949)|null|
 |**2025-11-17**|**InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**|Lipeng Wang et.al.|[2511.13488](http://arxiv.org/abs/2511.13488)|null|
 |**2025-11-17**|**Measurement of Exclusive $π^+$ --argon Interactions Using ProtoDUNE-SP**|DUNE Collaboration et.al.|[2511.13462](http://arxiv.org/abs/2511.13462)|null|
-|**2025-11-17**|**YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection**|Ori Meiraz et.al.|[2511.13344](http://arxiv.org/abs/2511.13344)|null|
+|**2025-11-18**|**YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection**|Ori Meiraz et.al.|[2511.13344](http://arxiv.org/abs/2511.13344)|null|
 |**2025-11-17**|**Self-Adaptive Graph Mixture of Models**|Mohit Meena et.al.|[2511.13062](http://arxiv.org/abs/2511.13062)|null|
 |**2025-11-17**|**Tokenize Once, Recommend Anywhere: Unified Item Tokenization for Multi-domain LLM-based Recommendation**|Yu Hou et.al.|[2511.12922](http://arxiv.org/abs/2511.12922)|null|
 |**2025-11-16**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|null|
@@ -1855,7 +1871,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251118>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251119>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
