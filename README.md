@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|null|
+|**2025-11-18**|**Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer**|Kallol Mondal et.al.|[2511.14691](http://arxiv.org/abs/2511.14691)|null|
+|**2025-11-18**|**Bias in, Bias out: Annotation Bias in Multilingual Large Language Models**|Xia Cui et.al.|[2511.14662](http://arxiv.org/abs/2511.14662)|null|
 |**2025-11-18**|**AutoTool: Efficient Tool Selection for Large Language Model Agents**|Jingyi Jia et.al.|[2511.14650](http://arxiv.org/abs/2511.14650)|null|
 |**2025-11-18**|**A Controllable Perceptual Feature Generative Model for Melody Harmonization via Conditional Variational Autoencoder**|Dengyun Huang et.al.|[2511.14600](http://arxiv.org/abs/2511.14600)|null|
 |**2025-11-18**|**Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language**|Minyoung Hwang et.al.|[2511.14565](http://arxiv.org/abs/2511.14565)|null|
@@ -720,6 +723,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Lai Wei et.al.|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
 |**2025-11-18**|**Towards Stable and Structured Time Series Generation with Perturbation-Aware Flow Matching**|Jintao Zhang et.al.|[2511.14488](http://arxiv.org/abs/2511.14488)|null|
 |**2025-11-18**|**MoE-SpeQ: Speculative Quantized Decoding with Proactive Expert Prefetching and Offloading for Mixture-of-Experts**|Wenfeng Wang et.al.|[2511.14102](http://arxiv.org/abs/2511.14102)|null|
 |**2025-11-18**|**FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration**|Jingren Liu et.al.|[2511.14099](http://arxiv.org/abs/2511.14099)|null|
