@@ -10,6 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Learning to Reason: Training LLMs with GPT-OSS or DeepSeek R1 Reasoning Traces**|Shaltiel Shmidman et.al.|[2511.19333](http://arxiv.org/abs/2511.19333)|null|
+|**2025-11-24**|**MAESTRO: Multi-Agent Environment Shaping through Task and Reward Optimization**|Boyuan Wu et.al.|[2511.19253](http://arxiv.org/abs/2511.19253)|null|
+|**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
+|**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|Moazzam Umer Gondal et.al.|[2511.19149](http://arxiv.org/abs/2511.19149)|null|
+|**2025-11-24**|**SWAN: Sparse Winnowed Attention for Reduced Inference Memory via Decompression-Free KV-Cache Compression**|Santhosh G S et.al.|[2511.18936](http://arxiv.org/abs/2511.18936)|null|
+|**2025-11-24**|**Defending Large Language Models Against Jailbreak Exploits with Responsible AI Considerations**|Ryan Wong et.al.|[2511.18933](http://arxiv.org/abs/2511.18933)|null|
+|**2025-11-24**|**KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit**|Dezhi Ran et.al.|[2511.18868](http://arxiv.org/abs/2511.18868)|null|
+|**2025-11-24**|**Think Before You Prune: Selective Self-Generated Calibration for Pruning Large Reasoning Models**|Yang Xiang et.al.|[2511.18864](http://arxiv.org/abs/2511.18864)|null|
+|**2025-11-24**|**UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model**|Changxin Huang et.al.|[2511.18845](http://arxiv.org/abs/2511.18845)|null|
+|**2025-11-24**|**Optimizing LLM Code Suggestions: Feedback-Driven Timing with Lightweight State Bounds**|Mohammad Nour Al Awad et.al.|[2511.18842](http://arxiv.org/abs/2511.18842)|null|
 |**2025-11-23**|**A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs**|Dongming Jin et.al.|[2511.18343](http://arxiv.org/abs/2511.18343)|null|
 |**2025-11-23**|**Skypilot: Fine-Tuning LLM with Physical Grounding for AAV Coverage Search**|Zhongkai Chen et.al.|[2511.18270](http://arxiv.org/abs/2511.18270)|null|
 |**2025-11-23**|**LLM Reasoning for Cold-Start Item Recommendation**|Shijun Li et.al.|[2511.18261](http://arxiv.org/abs/2511.18261)|null|
@@ -755,6 +765,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**OrdMoE: Preference Alignment via Hierarchical Expert Group Ranking in Multimodal Mixture-of-Experts LLMs**|Yuting Gao et.al.|[2511.19023](http://arxiv.org/abs/2511.19023)|null|
+|**2025-11-24**|**Dynamic Mixture of Experts Against Severe Distribution Shifts**|Donghu Kim et.al.|[2511.18987](http://arxiv.org/abs/2511.18987)|null|
+|**2025-11-23**|**HiFi-MambaV2: Hierarchical Shared-Routed MoE for High-Fidelity MRI Reconstruction**|Pengcheng Fang et.al.|[2511.18534](http://arxiv.org/abs/2511.18534)|null|
 |**2025-11-23**|**Attosecond-resolved quantum fluctuations of light and matter**|Matan Even Tzur et.al.|[2511.18362](http://arxiv.org/abs/2511.18362)|null|
 |**2025-11-23**|**AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert**|Yuting Gao et.al.|[2511.18314](http://arxiv.org/abs/2511.18314)|null|
 |**2025-11-22**|**PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures**|Yuheng Shao et.al.|[2511.18116](http://arxiv.org/abs/2511.18116)|null|
