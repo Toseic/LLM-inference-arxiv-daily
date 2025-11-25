@@ -7,13 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**A Needle in a Haystack: Intent-driven Reusable Artifacts Recommendation with LLMs**|Dongming Jin et.al.|[2511.18343](http://arxiv.org/abs/2511.18343)|null|
+|**2025-11-23**|**Skypilot: Fine-Tuning LLM with Physical Grounding for AAV Coverage Search**|Zhongkai Chen et.al.|[2511.18270](http://arxiv.org/abs/2511.18270)|null|
+|**2025-11-23**|**LLM Reasoning for Cold-Start Item Recommendation**|Shijun Li et.al.|[2511.18261](http://arxiv.org/abs/2511.18261)|null|
+|**2025-11-22**|**Towards Harnessing the Power of LLMs for ABAC Policy Mining**|More Aayush Babasaheb et.al.|[2511.18098](http://arxiv.org/abs/2511.18098)|null|
+|**2025-11-22**|**L2V-CoT: Cross-Modal Transfer of Chain-of-Thought Reasoning via Latent Intervention**|Yuliang Zhan et.al.|[2511.17910](http://arxiv.org/abs/2511.17910)|null|
+|**2025-11-22**|**QuickLAP: Quick Language-Action Preference Learning for Autonomous Driving Agents**|Jordan Abi Nader et.al.|[2511.17855](http://arxiv.org/abs/2511.17855)|null|
+|**2025-11-21**|**Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch**|Ziyang Zhang et.al.|[2511.17826](http://arxiv.org/abs/2511.17826)|null|
+|**2025-11-21**|**APRIL: Annotations for Policy evaluation with Reliable Inference from LLMs**|Aishwarya Mandyam et.al.|[2511.17818](http://arxiv.org/abs/2511.17818)|null|
 |**2025-11-21**|**That's not natural: The Impact of Off-Policy Training Data on Probe Performance**|Nathalie Kirch et.al.|[2511.17408](http://arxiv.org/abs/2511.17408)|null|
 |**2025-11-21**|**SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion**|Jiajie Guo et.al.|[2511.17308](http://arxiv.org/abs/2511.17308)|null|
 |**2025-11-21**|**Hallucinate Less by Thinking More: Aspect-Based Causal Abstention for Large Language Models**|Vy Nguyen et.al.|[2511.17170](http://arxiv.org/abs/2511.17170)|null|
@@ -745,12 +753,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251124>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251125>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**Attosecond-resolved quantum fluctuations of light and matter**|Matan Even Tzur et.al.|[2511.18362](http://arxiv.org/abs/2511.18362)|null|
+|**2025-11-23**|**AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert**|Yuting Gao et.al.|[2511.18314](http://arxiv.org/abs/2511.18314)|null|
+|**2025-11-22**|**PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures**|Yuheng Shao et.al.|[2511.18116](http://arxiv.org/abs/2511.18116)|null|
+|**2025-11-22**|**CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking**|Hao Li et.al.|[2511.17967](http://arxiv.org/abs/2511.17967)|null|
+|**2025-11-22**|**FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning**|Guoyang Xia et.al.|[2511.17885](http://arxiv.org/abs/2511.17885)|null|
+|**2025-11-22**|**Equivalence of Context and Parameter Updates in Modern Transformer Blocks**|Adrian Goldwaser et.al.|[2511.17864](http://arxiv.org/abs/2511.17864)|null|
+|**2025-11-21**|**Unified Class and Domain Incremental Learning with Mixture of Experts for Indoor Localization**|Akhil Singampalli et.al.|[2511.17829](http://arxiv.org/abs/2511.17829)|null|
 |**2025-11-21**|**Sparse Mixture-of-Experts for Multi-Channel Imaging: Are All Channel Interactions Required?**|Sukwon Yun et.al.|[2511.17400](http://arxiv.org/abs/2511.17400)|null|
 |**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](http://arxiv.org/abs/2511.17397)|null|
 |**2025-11-21**|**Measurements of differential charged-current cross sections on argon for electron neutrinos with final-state protons in MicroBooNE**|MicroBooNE collaboration et.al.|[2511.17342](http://arxiv.org/abs/2511.17342)|null|
@@ -1914,7 +1929,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251124>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251125>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
