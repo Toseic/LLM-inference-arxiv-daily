@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**|Luohe Shi et.al.|[2511.20340](http://arxiv.org/abs/2511.20340)|null|
+|**2025-11-25**|**LLM-Driven Transient Stability Assessment: From Automated Simulation to Neural Architecture Design**|Lianzhe Hu et.al.|[2511.20276](http://arxiv.org/abs/2511.20276)|null|
+|**2025-11-25**|**REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance**|Chuyi Kong et.al.|[2511.20233](http://arxiv.org/abs/2511.20233)|null|
+|**2025-11-25**|**Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management**|Xinjun Yang et.al.|[2511.20172](http://arxiv.org/abs/2511.20172)|null|
+|**2025-11-25**|**SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space**|Zhenyi Shen et.al.|[2511.20102](http://arxiv.org/abs/2511.20102)|null|
+|**2025-11-25**|**More Bias, Less Bias: BiasPrompting for Enhanced Multiple-Choice Question Answering**|Duc Anh Vu et.al.|[2511.20086](http://arxiv.org/abs/2511.20086)|null|
+|**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|null|
+|**2025-11-25**|**CoC-VLA: Delving into Adversarial Domain Transfer for Explainable Autonomous Driving via Chain-of-Causality Visual-Language-Action Model**|Dapeng Zhang et.al.|[2511.19914](http://arxiv.org/abs/2511.19914)|null|
+|**2025-11-25**|**Mosaic Pruning: A Hierarchical Framework for Generalizable Pruning of Mixture-of-Experts Models**|Wentao Hu et.al.|[2511.19822](http://arxiv.org/abs/2511.19822)|null|
+|**2025-11-24**|**Gender Bias in Emotion Recognition by Large Language Models**|Maureen Herbert et.al.|[2511.19785](http://arxiv.org/abs/2511.19785)|null|
 |**2025-11-24**|**Learning to Reason: Training LLMs with GPT-OSS or DeepSeek R1 Reasoning Traces**|Shaltiel Shmidman et.al.|[2511.19333](http://arxiv.org/abs/2511.19333)|null|
 |**2025-11-24**|**MAESTRO: Multi-Agent Environment Shaping through Task and Reward Optimization**|Boyuan Wu et.al.|[2511.19253](http://arxiv.org/abs/2511.19253)|null|
 |**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
@@ -759,12 +769,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251125>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251126>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Soft Adaptive Policy Optimization**|Chang Gao et.al.|[2511.20347](http://arxiv.org/abs/2511.20347)|null|
+|**2025-11-25**|**ADNet: A Large-Scale and Extensible Multi-Domain Benchmark for Anomaly Detection Across 380 Real-World Categories**|Hai Ling et.al.|[2511.20169](http://arxiv.org/abs/2511.20169)|null|
+|**2025-11-25**|**Adaptive Knowledge Transfer for Cross-Disciplinary Cold-Start Knowledge Tracing**|Yulong Deng et.al.|[2511.20009](http://arxiv.org/abs/2511.20009)|null|
+|**2025-11-25**|**Mosaic Pruning: A Hierarchical Framework for Generalizable Pruning of Mixture-of-Experts Models**|Wentao Hu et.al.|[2511.19822](http://arxiv.org/abs/2511.19822)|null|
+|**2025-11-22**|**Exploiting the Experts: Unauthorized Compression in MoE-LLMs**|Pinaki Prasad Guha Neogi et.al.|[2511.19480](http://arxiv.org/abs/2511.19480)|null|
 |**2025-11-24**|**OrdMoE: Preference Alignment via Hierarchical Expert Group Ranking in Multimodal Mixture-of-Experts LLMs**|Yuting Gao et.al.|[2511.19023](http://arxiv.org/abs/2511.19023)|null|
 |**2025-11-24**|**Dynamic Mixture of Experts Against Severe Distribution Shifts**|Donghu Kim et.al.|[2511.18987](http://arxiv.org/abs/2511.18987)|null|
 |**2025-11-23**|**HiFi-MambaV2: Hierarchical Shared-Routed MoE for High-Fidelity MRI Reconstruction**|Pengcheng Fang et.al.|[2511.18534](http://arxiv.org/abs/2511.18534)|null|
@@ -1938,7 +1953,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251125>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251126>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
