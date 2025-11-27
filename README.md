@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Automated Dynamic AI Inference Scaling on HPC-Infrastructure: Integrating Kubernetes, Slurm and vLLM**|Tim Trappen et.al.|[2511.21413](http://arxiv.org/abs/2511.21413)|null|
+|**2025-11-26**|**PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark**|Robert Belanec et.al.|[2511.21285](http://arxiv.org/abs/2511.21285)|null|
+|**2025-11-26**|**BRIDGE: Building Representations In Domain Guided Program Verification**|Robert Joseph George et.al.|[2511.21104](http://arxiv.org/abs/2511.21104)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
+|**2025-11-26**|**OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection**|Chujie Wang et.al.|[2511.21064](http://arxiv.org/abs/2511.21064)|null|
+|**2025-11-26**|**LOOM: Personalized Learning Informed by Daily LLM Conversations Toward Long-Term Mastery via a Dynamic Learner Memory Graph**|Justin Cui et.al.|[2511.21037](http://arxiv.org/abs/2511.21037)|null|
+|**2025-11-26**|**CaptionQA: Is Your Caption as Useful as the Image Itself?**|Shijia Yang et.al.|[2511.21025](http://arxiv.org/abs/2511.21025)|null|
+|**2025-11-26**|**A Dynamic PD-Disaggregation Architecture for Maximizing Goodput in LLM Inference Serving**|Junhan Liao et.al.|[2511.20982](http://arxiv.org/abs/2511.20982)|null|
+|**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|null|
+|**2025-11-25**|**Representation Interventions Enable Lifelong Unstructured Knowledge Control**|Xuyuan Liu et.al.|[2511.20892](http://arxiv.org/abs/2511.20892)|null|
 |**2025-11-25**|**Latent Collaboration in Multi-Agent Systems**|Jiaru Zou et.al.|[2511.20639](http://arxiv.org/abs/2511.20639)|null|
 |**2025-11-25**|**DiFR: Inference Verification Despite Nondeterminism**|Adam Karvonen et.al.|[2511.20621](http://arxiv.org/abs/2511.20621)|null|
 |**2025-11-25**|**Beyond Generation: Multi-Hop Reasoning for Factual Accuracy in Vision-Language Models**|Shamima Hossain et.al.|[2511.20531](http://arxiv.org/abs/2511.20531)|null|
@@ -772,12 +782,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251126>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251127>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training**|Lu Zhao et.al.|[2511.21431](http://arxiv.org/abs/2511.21431)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
 |**2025-11-25**|**HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation**|Xiang Wang et.al.|[2511.20520](http://arxiv.org/abs/2511.20520)|null|
 |**2025-11-25**|**MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology**|Kiril Vasilev et.al.|[2511.20490](http://arxiv.org/abs/2511.20490)|null|
 |**2025-11-25**|**Soft Adaptive Policy Optimization**|Chang Gao et.al.|[2511.20347](http://arxiv.org/abs/2511.20347)|null|
@@ -1958,7 +1970,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251126>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251127>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
