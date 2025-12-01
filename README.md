@@ -10,6 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
+|**2025-11-28**|**Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs**|Jiancheng Dong et.al.|[2511.23271](http://arxiv.org/abs/2511.23271)|null|
+|**2025-11-28**|**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering**|Qiming Li et.al.|[2511.23231](http://arxiv.org/abs/2511.23231)|null|
+|**2025-11-28**|**HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding**|Chen Li et.al.|[2511.23178](http://arxiv.org/abs/2511.23178)|null|
+|**2025-11-28**|**Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match**|Jinze Li et.al.|[2511.22972](http://arxiv.org/abs/2511.22972)|null|
+|**2025-11-28**|**Experts are all you need: A Composable Framework for Large Language Model Inference**|Shrihari Sridharan et.al.|[2511.22955](http://arxiv.org/abs/2511.22955)|null|
+|**2025-11-28**|**Visual Puns from Idioms: An Iterative LLM-T2IM-MLLM Framework**|Kelaiti Xiao et.al.|[2511.22943](http://arxiv.org/abs/2511.22943)|null|
+|**2025-11-28**|**RAG-Empowered LLM-Driven Dynamic Radio Resource Management in Open 6G RAN**|Onur Salan et.al.|[2511.22933](http://arxiv.org/abs/2511.22933)|null|
+|**2025-11-28**|**Serving Heterogeneous LoRA Adapters in Distributed LLM Inference Systems**|Shashwat Jaiswal et.al.|[2511.22880](http://arxiv.org/abs/2511.22880)|null|
+|**2025-11-27**|**PRISM: Privacy-Aware Routing for Adaptive Cloud-Edge LLM Inference via Semantic Sketch Collaboration**|Junfei Zhan et.al.|[2511.22788](http://arxiv.org/abs/2511.22788)|null|
 |**2025-11-27**|**CacheTrap: Injecting Trojans in LLMs without Leaving any Traces in Inputs or Weights**|Mohaiminul Al Nahian et.al.|[2511.22681](http://arxiv.org/abs/2511.22681)|null|
 |**2025-11-27**|**GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents**|Xinyu Zhang et.al.|[2511.22441](http://arxiv.org/abs/2511.22441)|null|
 |**2025-11-27**|**FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators**|Shuao Jia et.al.|[2511.22348](http://arxiv.org/abs/2511.22348)|null|
@@ -800,6 +810,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
+|**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
+|**2025-11-28**|**Chart2Code-MoLA: Efficient Multi-Modal Code Generation via Adaptive Expert Routing**|Yifei Wang et.al.|[2511.23321](http://arxiv.org/abs/2511.23321)|null|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**Experts are all you need: A Composable Framework for Large Language Model Inference**|Shrihari Sridharan et.al.|[2511.22955](http://arxiv.org/abs/2511.22955)|null|
+|**2025-11-28**|**EnECG: Efficient Ensemble Learning for Electrocardiogram Multi-task Foundation Model**|Yuhao Xu et.al.|[2511.22935](http://arxiv.org/abs/2511.22935)|null|
 |**2025-11-27**|**OmniInfer: System-Wide Acceleration Techniques for Optimizing LLM Serving Throughput and Latency**|Jun Wang et.al.|[2511.22481](http://arxiv.org/abs/2511.22481)|null|
 |**2025-11-27**|**Foundation Model for Intelligent Wireless Communications**|Boxun Liu et.al.|[2511.22222](http://arxiv.org/abs/2511.22222)|null|
 |**2025-11-27**|**MoE3D: Mixture of Experts meets Multi-Modal 3D Understanding**|Yu Li et.al.|[2511.22103](http://arxiv.org/abs/2511.22103)|null|
