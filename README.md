@@ -3,13 +3,22 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**CacheTrap: Injecting Trojans in LLMs without Leaving any Traces in Inputs or Weights**|Mohaiminul Al Nahian et.al.|[2511.22681](http://arxiv.org/abs/2511.22681)|null|
+|**2025-11-27**|**GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents**|Xinyu Zhang et.al.|[2511.22441](http://arxiv.org/abs/2511.22441)|null|
+|**2025-11-27**|**FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators**|Shuao Jia et.al.|[2511.22348](http://arxiv.org/abs/2511.22348)|null|
+|**2025-11-27**|**Edge Deployment of Small Language Models, a comprehensive comparison of CPU, GPU and NPU backends**|Pablo Prieto et.al.|[2511.22334](http://arxiv.org/abs/2511.22334)|null|
+|**2025-11-27**|**RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**|Mengfan Li et.al.|[2511.22275](http://arxiv.org/abs/2511.22275)|null|
+|**2025-11-27**|**Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR**|Yuyang Zou et.al.|[2511.22267](http://arxiv.org/abs/2511.22267)|null|
+|**2025-11-27**|**Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information**|Lukas Struppek et.al.|[2511.22176](http://arxiv.org/abs/2511.22176)|null|
+|**2025-11-27**|**Statistical Independence Aware Caching for LLM Workflows**|Yihan Dai et.al.|[2511.22118](http://arxiv.org/abs/2511.22118)|null|
+|**2025-11-26**|**A Comparative Study of LLM Prompting and Fine-Tuning for Cross-genre Authorship Attribution on Chinese Lyrics**|Yuxin Li et.al.|[2511.21930](http://arxiv.org/abs/2511.21930)|null|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
 |**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
 |**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
@@ -785,13 +794,16 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251130>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251201>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
+|**2025-11-27**|**OmniInfer: System-Wide Acceleration Techniques for Optimizing LLM Serving Throughput and Latency**|Jun Wang et.al.|[2511.22481](http://arxiv.org/abs/2511.22481)|null|
+|**2025-11-27**|**Foundation Model for Intelligent Wireless Communications**|Boxun Liu et.al.|[2511.22222](http://arxiv.org/abs/2511.22222)|null|
+|**2025-11-27**|**MoE3D: Mixture of Experts meets Multi-Modal 3D Understanding**|Yu Li et.al.|[2511.22103](http://arxiv.org/abs/2511.22103)|null|
+|**2025-11-27**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
 |**2025-11-26**|**MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training**|Lu Zhao et.al.|[2511.21431](http://arxiv.org/abs/2511.21431)|null|
 |**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
 |**2025-11-25**|**HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation**|Xiang Wang et.al.|[2511.20520](http://arxiv.org/abs/2511.20520)|null|
@@ -1974,7 +1986,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251130>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251201>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
