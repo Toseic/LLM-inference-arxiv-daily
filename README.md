@@ -10,6 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling**|Jack Cook et.al.|[2512.02010](http://arxiv.org/abs/2512.02010)|null|
+|**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
+|**2025-12-01**|**KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference**|Sai Gokhale et.al.|[2512.01953](http://arxiv.org/abs/2512.01953)|null|
+|**2025-12-01**|**Latent Debate: A Surrogate Framework for Interpreting LLM Thinking**|Lihu Chen et.al.|[2512.01909](http://arxiv.org/abs/2512.01909)|null|
+|**2025-12-01**|**DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models**|Patrick Kwon et.al.|[2512.01686](http://arxiv.org/abs/2512.01686)|null|
+|**2025-12-01**|**A Systematic Characterization of LLM Inference on GPUs**|Haonan Wang et.al.|[2512.01644](http://arxiv.org/abs/2512.01644)|null|
+|**2025-12-01**|**LLM2Fx-Tools: Tool Calling For Music Post-Production**|Seungheon Doh et.al.|[2512.01559](http://arxiv.org/abs/2512.01559)|null|
+|**2025-12-01**|**Multi-Path Collaborative Reasoning via Reinforcement Learning**|Jindi Lv et.al.|[2512.01485](http://arxiv.org/abs/2512.01485)|null|
+|**2025-12-01**|**ZIP-RC: Zero-overhead Inference-time Prediction of Reward and Cost for Adaptive and Interpretable Generation**|Rohin Manvi et.al.|[2512.01457](http://arxiv.org/abs/2512.01457)|null|
+|**2025-12-01**|**Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**|Jiahao Yuan et.al.|[2512.01282](http://arxiv.org/abs/2512.01282)|null|
 |**2025-11-30**|**Reward Auditor: Inference on Reward Modeling Suitability in Real-World Perturbed Scenarios**|Jianxiang Zang et.al.|[2512.00920](http://arxiv.org/abs/2512.00920)|null|
 |**2025-11-30**|**AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent**|Neeraj Anand et.al.|[2512.00846](http://arxiv.org/abs/2512.00846)|null|
 |**2025-11-30**|**ARCADIA: Scalable Causal Discovery for Corporate Bankruptcy Analysis Using Agentic AI**|Fabrizio Maturo et.al.|[2512.00839](http://arxiv.org/abs/2512.00839)|null|
@@ -820,6 +830,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Chenyang Gu et.al.|[2512.02013](http://arxiv.org/abs/2512.02013)|null|
+|**2025-12-01**|**Multimodal Mixture-of-Experts for ISAC in Low-Altitude Wireless Networks**|Kai Zhang et.al.|[2512.01750](http://arxiv.org/abs/2512.01750)|null|
+|**2025-12-01**|**GRASP: Guided Residual Adapters with Sample-wise Partitioning**|Felix Nützel et.al.|[2512.01675](http://arxiv.org/abs/2512.01675)|null|
+|**2025-12-01**|**Bridging the Scale Gap: Balanced Tiny and General Object Detection in Remote Sensing Imagery**|Zhicheng Zhao et.al.|[2512.01665](http://arxiv.org/abs/2512.01665)|null|
+|**2025-12-01**|**Cuffless Blood Pressure Estimation from Six Wearable Sensor Modalities in Multi-Motion-State Scenarios**|Yiqiao Chen et.al.|[2512.01653](http://arxiv.org/abs/2512.01653)|null|
+|**2025-12-01**|**Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**|Chujie Zheng et.al.|[2512.01374](http://arxiv.org/abs/2512.01374)|null|
+|**2025-12-01**|**Efficient Training of Diffusion Mixture-of-Experts Models: A Practical Recipe**|Yahui Liu et.al.|[2512.01252](http://arxiv.org/abs/2512.01252)|null|
 |**2025-11-30**|**Elastic Mixture of Rank-Wise Experts for Knowledge Reuse in Federated Fine-Tuning**|Yebo Wu et.al.|[2512.00902](http://arxiv.org/abs/2512.00902)|null|
 |**2025-11-30**|**Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking**|Lingling Fu et.al.|[2512.00724](http://arxiv.org/abs/2512.00724)|null|
 |**2025-11-29**|**GCMCG: A Clustering-Aware Graph Attention and Expert Fusion Network for Multi-Paradigm, Multi-task, and Cross-Subject EEG Decoding**|Yiqiao Chen et.al.|[2512.00574](http://arxiv.org/abs/2512.00574)|null|
