@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-30**|**Reward Auditor: Inference on Reward Modeling Suitability in Real-World Perturbed Scenarios**|Jianxiang Zang et.al.|[2512.00920](http://arxiv.org/abs/2512.00920)|null|
+|**2025-11-30**|**AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent**|Neeraj Anand et.al.|[2512.00846](http://arxiv.org/abs/2512.00846)|null|
+|**2025-11-30**|**ARCADIA: Scalable Causal Discovery for Corporate Bankruptcy Analysis Using Agentic AI**|Fabrizio Maturo et.al.|[2512.00839](http://arxiv.org/abs/2512.00839)|null|
+|**2025-11-30**|**SIMPLE: Disaggregating Sampling from GPU Inference into a Decision Plane for Faster Distributed LLM Serving**|Bohan Zhao et.al.|[2512.00719](http://arxiv.org/abs/2512.00719)|null|
+|**2025-11-29**|**SCALE: Selective Resource Allocation for Overcoming Performance Bottlenecks in Mathematical Test-time Scaling**|Yang Xiao et.al.|[2512.00466](http://arxiv.org/abs/2512.00466)|null|
+|**2025-11-29**|**Echo-N1: Affective RL Frontier**|Naifan Zhang et.al.|[2512.00344](http://arxiv.org/abs/2512.00344)|null|
+|**2025-11-29**|**Efficient Kernel Mapping and Comprehensive System Evaluation of LLM Acceleration on a CGLA**|Takuto Ando et.al.|[2512.00335](http://arxiv.org/abs/2512.00335)|null|
+|**2025-11-29**|**RL-Struct: A Lightweight Reinforcement Learning Framework for Reliable Structured Output in LLMs**|Ruike Hu et.al.|[2512.00319](http://arxiv.org/abs/2512.00319)|null|
+|**2025-11-29**|**Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System**|Zhitong Guan et.al.|[2512.00313](http://arxiv.org/abs/2512.00313)|null|
+|**2025-11-28**|**Demystifying Errors in LLM Reasoning Traces: An Empirical Study of Code Execution Simulation**|Mohammad Abdollahi et.al.|[2512.00215](http://arxiv.org/abs/2512.00215)|null|
 |**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
 |**2025-11-28**|**Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs**|Jiancheng Dong et.al.|[2511.23271](http://arxiv.org/abs/2511.23271)|null|
 |**2025-11-28**|**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering**|Qiming Li et.al.|[2511.23231](http://arxiv.org/abs/2511.23231)|null|
@@ -804,12 +814,15 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251201>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251202>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-30**|**Elastic Mixture of Rank-Wise Experts for Knowledge Reuse in Federated Fine-Tuning**|Yebo Wu et.al.|[2512.00902](http://arxiv.org/abs/2512.00902)|null|
+|**2025-11-30**|**Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking**|Lingling Fu et.al.|[2512.00724](http://arxiv.org/abs/2512.00724)|null|
+|**2025-11-29**|**GCMCG: A Clustering-Aware Graph Attention and Expert Fusion Network for Multi-Paradigm, Multi-task, and Cross-Subject EEG Decoding**|Yiqiao Chen et.al.|[2512.00574](http://arxiv.org/abs/2512.00574)|null|
 |**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
 |**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
 |**2025-11-28**|**Chart2Code-MoLA: Efficient Multi-Modal Code Generation via Adaptive Expert Routing**|Yifei Wang et.al.|[2511.23321](http://arxiv.org/abs/2511.23321)|null|
@@ -2002,7 +2015,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251201>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251202>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
