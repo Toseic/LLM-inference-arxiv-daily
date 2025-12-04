@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
+|**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
+|**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
+|**2025-12-03**|**ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers**|Feice Huang et.al.|[2512.03673](http://arxiv.org/abs/2512.03673)|null|
+|**2025-12-03**|**KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing**|Lishuo Deng et.al.|[2512.03608](http://arxiv.org/abs/2512.03608)|null|
+|**2025-12-03**|**EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths**|Zhening Li et.al.|[2512.03571](http://arxiv.org/abs/2512.03571)|null|
+|**2025-12-03**|**A Preliminary Study on the Promises and Challenges of Native Top- $k$ Sparse Attention**|Di Xiu et.al.|[2512.03494](http://arxiv.org/abs/2512.03494)|null|
+|**2025-12-03**|**From Hypothesis to Premises: LLM-based Backward Logical Reasoning with Selective Symbolic Translation**|Qingchuan Li et.al.|[2512.03360](http://arxiv.org/abs/2512.03360)|null|
+|**2025-12-03**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|null|
+|**2025-12-02**|**LLM-Guided Material Inference for 3D Point Clouds**|Nafiseh Izadyar et.al.|[2512.03237](http://arxiv.org/abs/2512.03237)|null|
 |**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
 |**2025-12-02**|**Distribution-Calibrated Inference time compute for Thinking LLM-as-a-Judge**|Hamid Dadkhahi et.al.|[2512.03019](http://arxiv.org/abs/2512.03019)|null|
 |**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
@@ -838,12 +848,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251203>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251204>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
+|**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
+|**2025-12-03**|**Parsimonious Clustering of Covariance Matrices**|Yixi Xu et.al.|[2512.03912](http://arxiv.org/abs/2512.03912)|null|
+|**2025-12-03**|**CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery**|Rui Sheng et.al.|[2512.03485](http://arxiv.org/abs/2512.03485)|null|
+|**2025-12-03**|**SSLfmm: An R Package for Semi-Supervised Learning with a Mixed-Missingness Mechanism in Finite Mixture Models**|Geoffrey J. McLachlan et.al.|[2512.03322](http://arxiv.org/abs/2512.03322)|null|
 |**2025-12-02**|**SkyMoE: A Vision-Language Foundation Model for Enhancing Geospatial Interpretation with Mixture of Experts**|Jiaqi Liu et.al.|[2512.02517](http://arxiv.org/abs/2512.02517)|null|
 |**2025-12-02**|**Multi-Domain Enhanced Map-Free Trajectory Prediction with Selective Attention**|Wenyi Xiong et.al.|[2512.02368](http://arxiv.org/abs/2512.02368)|null|
 |**2025-12-02**|**Understanding and Harnessing Sparsity in Unified Multimodal Models**|Shwai He et.al.|[2512.02351](http://arxiv.org/abs/2512.02351)|null|
@@ -2050,7 +2065,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251203>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251204>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
