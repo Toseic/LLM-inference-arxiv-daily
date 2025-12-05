@@ -3,13 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|null|
+|**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**EtCon: Edit-then-Consolidate for Reliable Knowledge Editing**|Ruilin Li et.al.|[2512.04753](http://arxiv.org/abs/2512.04753)|null|
+|**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**PBFuzz: Agentic Directed Fuzzing for PoV Generation**|Haochen Zeng et.al.|[2512.04611](http://arxiv.org/abs/2512.04611)|null|
+|**2025-12-04**|**A Light-Weight Large Language Model File Format for Highly-Secure Model Distribution**|Huifeng Zhu et.al.|[2512.04580](http://arxiv.org/abs/2512.04580)|null|
+|**2025-12-04**|**On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference**|Yue Yu et.al.|[2512.04558](http://arxiv.org/abs/2512.04558)|null|
+|**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
 |**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
 |**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
@@ -844,14 +854,18 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251204>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251205>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
+|**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
+|**2025-12-04**|**Context-Aware Mixture-of-Experts Inference on CXL-Enabled GPU-NDP Systems**|Zehao Fan et.al.|[2512.04476](http://arxiv.org/abs/2512.04476)|null|
+|**2025-12-03**|**Small Models Achieve Large Language Model Performance: Evaluating Reasoning-Enabled AI for Secure Child Welfare Research**|Zia Qi et.al.|[2512.04261](http://arxiv.org/abs/2512.04261)|null|
 |**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
-|**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
+|**2025-12-04**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
 |**2025-12-03**|**Parsimonious Clustering of Covariance Matrices**|Yixi Xu et.al.|[2512.03912](http://arxiv.org/abs/2512.03912)|null|
 |**2025-12-03**|**CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery**|Rui Sheng et.al.|[2512.03485](http://arxiv.org/abs/2512.03485)|null|
 |**2025-12-03**|**SSLfmm: An R Package for Semi-Supervised Learning with a Mixed-Missingness Mechanism in Finite Mixture Models**|Geoffrey J. McLachlan et.al.|[2512.03322](http://arxiv.org/abs/2512.03322)|null|
@@ -2061,7 +2075,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251204>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251205>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
