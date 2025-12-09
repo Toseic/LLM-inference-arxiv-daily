@@ -3,13 +3,17 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
+|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|null|
+|**2025-12-06**|**Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices**|Xiangyu Li et.al.|[2512.06443](http://arxiv.org/abs/2512.06443)|null|
+|**2025-12-05**|**Compass: Mapping Space Exploration for Multi-Chiplet Accelerators Targeting LLM Inference Serving Workloads**|Boyu Li et.al.|[2512.06093](http://arxiv.org/abs/2512.06093)|null|
 |**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
 |**2025-12-05**|**RoBoN: Routed Online Best-of-n for Test-Time Scaling with Multiple LLMs**|Jonathan Geuter et.al.|[2512.05542](http://arxiv.org/abs/2512.05542)|null|
 |**2025-12-05**|**Automated Identification of Incidentalomas Requiring Follow-Up: A Multi-Anatomy Evaluation of LLM-Based and Supervised Approaches**|Namu Park et.al.|[2512.05537](http://arxiv.org/abs/2512.05537)|null|
@@ -25,6 +29,7 @@
 |**2025-12-04**|**A Light-Weight Large Language Model File Format for Highly-Secure Model Distribution**|Huifeng Zhu et.al.|[2512.04580](http://arxiv.org/abs/2512.04580)|null|
 |**2025-12-04**|**On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference**|Yue Yu et.al.|[2512.04558](http://arxiv.org/abs/2512.04558)|null|
 |**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
+|**2025-12-04**|**LLM-SrcLog: Towards Proactive and Unified Log Template Extraction via Large Language Models**|Jiaqi Sun et.al.|[2512.04474](http://arxiv.org/abs/2512.04474)|null|
 |**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
 |**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
 |**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
@@ -859,12 +864,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251208>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251209>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-07**|**Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding**|MinCheol Jeon et.al.|[2512.06929](http://arxiv.org/abs/2512.06929)|null|
+|**2025-12-07**|**Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks**|Long Shi et.al.|[2512.06784](http://arxiv.org/abs/2512.06784)|null|
+|**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](http://arxiv.org/abs/2512.06664)|null|
+|**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](http://arxiv.org/abs/2512.06449)|null|
+|**2025-12-04**|**The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation**|Ranjan Sapkota et.al.|[2512.06032](http://arxiv.org/abs/2512.06032)|null|
 |**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
 |**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
 |**2025-12-05**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
@@ -2082,7 +2092,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251208>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251209>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
