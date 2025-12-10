@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
 |**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218](http://arxiv.org/abs/2512.07218)|null|
 |**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|null|
 |**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
@@ -870,15 +871,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251209>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251210>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**What really matters for person re-identification? A Mixture-of-Experts Framework for Semantic Attribute Importance**|Athena Psalta et.al.|[2512.08697](http://arxiv.org/abs/2512.08697)|null|
+|**2025-12-09**|**Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems**|Mingwei Li et.al.|[2512.08411](http://arxiv.org/abs/2512.08411)|null|
 |**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
 |**2025-12-08**|**Search for Light Sterile Neutrinos With Two Neutrino Beams at MicroBooNE**|MicroBooNE collaboration et.al.|[2512.07159](http://arxiv.org/abs/2512.07159)|null|
-|**2025-12-08**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
+|**2025-12-09**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
 |**2025-12-08**|**PlantBiMoE: A Bidirectional Foundation Model with SparseMoE for Plant Genomes**|Kepeng Lin et.al.|[2512.07113](http://arxiv.org/abs/2512.07113)|null|
 |**2025-12-07**|**Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding**|MinCheol Jeon et.al.|[2512.06929](http://arxiv.org/abs/2512.06929)|null|
 |**2025-12-07**|**Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks**|Long Shi et.al.|[2512.06784](http://arxiv.org/abs/2512.06784)|null|
@@ -2102,7 +2105,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251209>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251210>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
