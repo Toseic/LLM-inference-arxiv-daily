@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**RACAM: Enhancing DRAM with Reuse-Aware Computation and Automated Mapping for ML Inference**|Siyuan Ma et.al.|[2512.09304](http://arxiv.org/abs/2512.09304)|null|
 |**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
 |**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218](http://arxiv.org/abs/2512.07218)|null|
 |**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|null|
@@ -871,12 +872,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251210>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251211>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
+|**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
+|**2025-12-10**|**FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model**|Xiang Chen et.al.|[2512.09282](http://arxiv.org/abs/2512.09282)|null|
+|**2025-12-10**|**Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Experts, Not Tokens**|Yanpeng Yu et.al.|[2512.09277](http://arxiv.org/abs/2512.09277)|null|
 |**2025-12-09**|**Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts**|Yifan Lyu et.al.|[2512.08814](http://arxiv.org/abs/2512.08814)|null|
 |**2025-12-09**|**What really matters for person re-identification? A Mixture-of-Experts Framework for Semantic Attribute Importance**|Athena Psalta et.al.|[2512.08697](http://arxiv.org/abs/2512.08697)|null|
 |**2025-12-09**|**Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems**|Mingwei Li et.al.|[2512.08411](http://arxiv.org/abs/2512.08411)|null|
@@ -2106,7 +2112,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251210>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251211>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
