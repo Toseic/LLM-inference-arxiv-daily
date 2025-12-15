@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
+|**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
+|**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|null|
 |**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
 |**2025-12-10**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
 |**2025-12-10**|**RACAM: Enhancing DRAM with Reuse-Aware Computation and Automated Mapping for ML Inference**|Siyuan Ma et.al.|[2512.09304](http://arxiv.org/abs/2512.09304)|null|
@@ -874,7 +877,7 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251214>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251215>(back to top)</a></p>
 
 ## MoE
 
@@ -2117,7 +2120,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251214>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251215>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
