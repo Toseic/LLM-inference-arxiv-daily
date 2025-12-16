@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
+|**2025-12-14**|**Fine-Grained Energy Prediction For Parallellized LLM Inference With PIE-P**|Anurag Dutt et.al.|[2512.12801](http://arxiv.org/abs/2512.12801)|null|
 |**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|null|
 |**2025-12-12**|**Learning to Extract Context for Context-Aware LLM Inference**|Minseon Kim et.al.|[2512.11986](http://arxiv.org/abs/2512.11986)|null|
 |**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
@@ -885,6 +887,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
+|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
 |**2025-12-13**|**Fine-Grained Zero-Shot Learning with Attribute-Centric Representations**|Zhi Chen et.al.|[2512.12219](http://arxiv.org/abs/2512.12219)|null|
 |**2025-12-13**|**MixtureKit: A General Framework for Composing, Training, and Visualizing Mixture-of-Experts Models**|Ahmad Chamma et.al.|[2512.12121](http://arxiv.org/abs/2512.12121)|null|
 |**2025-12-11**|**Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning**|Benjamin Gundersen et.al.|[2512.10691](http://arxiv.org/abs/2512.10691)|null|
