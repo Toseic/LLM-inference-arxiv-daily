@@ -3,13 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement**|Songze Liu et.al.|[2512.14151](http://arxiv.org/abs/2512.14151)|null|
 |**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
 |**2025-12-14**|**Fine-Grained Energy Prediction For Parallellized LLM Inference With PIE-P**|Anurag Dutt et.al.|[2512.12801](http://arxiv.org/abs/2512.12801)|null|
 |**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|null|
@@ -877,14 +878,18 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251216>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251217>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
+|**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
+|**2025-12-16**|**Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training**|Can Jin et.al.|[2512.13996](http://arxiv.org/abs/2512.13996)|null|
+|**2025-12-13**|**RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing**|Yuhan Tang et.al.|[2512.13727](http://arxiv.org/abs/2512.13727)|null|
 |**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
-|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-16**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
 |**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
 |**2025-12-13**|**Fine-Grained Zero-Shot Learning with Attribute-Centric Representations**|Zhi Chen et.al.|[2512.12219](http://arxiv.org/abs/2512.12219)|null|
 |**2025-12-13**|**MixtureKit: A General Framework for Composing, Training, and Visualizing Mixture-of-Experts Models**|Ahmad Chamma et.al.|[2512.12121](http://arxiv.org/abs/2512.12121)|null|
@@ -2125,7 +2130,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251216>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251217>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
