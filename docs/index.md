@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
+|**2025-12-18**|**Design and Evaluation of Cost-Aware PoQ for Decentralized LLM Inference**|Arther Tian et.al.|[2512.16317](http://arxiv.org/abs/2512.16317)|null|
+|**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
+|**2025-12-18**|**Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference**|Jian Tian et.al.|[2512.16134](http://arxiv.org/abs/2512.16134)|null|
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
 |**2025-12-16**|**Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement**|Songze Liu et.al.|[2512.14151](http://arxiv.org/abs/2512.14151)|null|
 |**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
@@ -883,13 +887,18 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251218>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251219>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-16**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494](http://arxiv.org/abs/2512.16494)|null|
+|**2025-12-18**|**Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems**|En-Ming Huang et.al.|[2512.16473](http://arxiv.org/abs/2512.16473)|null|
+|**2025-12-18**|**Pretrained Battery Transformer (PBT): A battery life prediction foundation model**|Ruifeng Tan et.al.|[2512.16334](http://arxiv.org/abs/2512.16334)|null|
+|**2025-12-18**|**Sigma-Moe-Tiny Technical Report**|Qingguo Hu et.al.|[2512.16248](http://arxiv.org/abs/2512.16248)|null|
+|**2025-12-18**|**INTELLECT-3: Technical Report**|Prime Intellect Team et.al.|[2512.16144](http://arxiv.org/abs/2512.16144)|null|
+|**2025-12-18**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
 |**2025-12-15**|**SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning**|Tomohito Kawabata et.al.|[2512.14757](http://arxiv.org/abs/2512.14757)|null|
 |**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
 |**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
@@ -2137,7 +2146,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251218>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251219>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
