@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
+|**2025-12-20**|**Making Strong Error-Correcting Codes Work Effectively for HBM in AI Inference**|Rui Xie et.al.|[2512.18152](http://arxiv.org/abs/2512.18152)|null|
+|**2025-12-19**|**Specification and Detection of LLM Code Smells**|Brahim Mahmoudi et.al.|[2512.18020](http://arxiv.org/abs/2512.18020)|null|
+|**2025-12-19**|**CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs**|Gunho Park et.al.|[2512.17970](http://arxiv.org/abs/2512.17970)|null|
 |**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
 |**2025-12-19**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|null|
 |**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
@@ -889,12 +893,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251222>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251223>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-21**|**Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**|Guangtao Lyu et.al.|[2512.18804](http://arxiv.org/abs/2512.18804)|null|
+|**2025-12-21**|**Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts**|Linwei Qiu et.al.|[2512.18718](http://arxiv.org/abs/2512.18718)|null|
+|**2025-12-21**|**Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing**|Wentao Liu et.al.|[2512.18674](http://arxiv.org/abs/2512.18674)|null|
+|**2025-12-20**|**Secret mixtures of experts inside your LLM**|Enric Boix-Adsera et.al.|[2512.18452](http://arxiv.org/abs/2512.18452)|null|
+|**2025-12-20**|**MoE Pathfinder: Trajectory-driven Expert Pruning**|Xican Yang et.al.|[2512.18425](http://arxiv.org/abs/2512.18425)|null|
+|**2025-12-20**|**MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**|Kaixing Yang et.al.|[2512.18181](http://arxiv.org/abs/2512.18181)|null|
+|**2025-12-19**|**MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements**|Ruichen Tan et.al.|[2512.17985](http://arxiv.org/abs/2512.17985)|null|
 |**2025-12-19**|**SCOPE: Sequential Causal Optimization of Process Interventions**|Jakob De Moor et.al.|[2512.17629](http://arxiv.org/abs/2512.17629)|null|
 |**2025-12-18**|**Bandwidth-Efficient Adaptive Mixture-of-Experts via Low-Rank Compensation**|Zhenyu Liu et.al.|[2512.17073](http://arxiv.org/abs/2512.17073)|null|
 |**2025-12-18**|**Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**|Zhongpan Tang et.al.|[2512.16963](http://arxiv.org/abs/2512.16963)|null|
@@ -2153,7 +2164,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251222>(back to top)</a></p>
+<p align=right><a href=#updated-on-20251223>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
