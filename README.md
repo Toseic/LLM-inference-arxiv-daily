@@ -15,7 +15,7 @@
 |**2025-12-19**|**Specification and Detection of LLM Code Smells**|Brahim Mahmoudi et.al.|[2512.18020](http://arxiv.org/abs/2512.18020)|null|
 |**2025-12-19**|**CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs**|Gunho Park et.al.|[2512.17970](http://arxiv.org/abs/2512.17970)|null|
 |**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
-|**2025-12-19**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|null|
+|**2025-12-22**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|null|
 |**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
 |**2025-12-18**|**Design and Evaluation of Cost-Aware PoQ for Decentralized LLM Inference**|Arther Tian et.al.|[2512.16317](http://arxiv.org/abs/2512.16317)|null|
 |**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
@@ -895,6 +895,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
+|**2025-12-22**|**EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control**|Chao Yang et.al.|[2512.19043](http://arxiv.org/abs/2512.19043)|null|
 |**2025-12-21**|**Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**|Guangtao Lyu et.al.|[2512.18804](http://arxiv.org/abs/2512.18804)|null|
 |**2025-12-21**|**Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts**|Linwei Qiu et.al.|[2512.18718](http://arxiv.org/abs/2512.18718)|null|
 |**2025-12-21**|**Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing**|Wentao Liu et.al.|[2512.18674](http://arxiv.org/abs/2512.18674)|null|
@@ -902,7 +904,7 @@
 |**2025-12-20**|**MoE Pathfinder: Trajectory-driven Expert Pruning**|Xican Yang et.al.|[2512.18425](http://arxiv.org/abs/2512.18425)|null|
 |**2025-12-20**|**MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**|Kaixing Yang et.al.|[2512.18181](http://arxiv.org/abs/2512.18181)|null|
 |**2025-12-19**|**MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements**|Ruichen Tan et.al.|[2512.17985](http://arxiv.org/abs/2512.17985)|null|
-|**2025-12-19**|**SCOPE: Sequential Causal Optimization of Process Interventions**|Jakob De Moor et.al.|[2512.17629](http://arxiv.org/abs/2512.17629)|null|
+|**2025-12-22**|**SCOPE: Sequential Causal Optimization of Process Interventions**|Jakob De Moor et.al.|[2512.17629](http://arxiv.org/abs/2512.17629)|null|
 |**2025-12-18**|**Bandwidth-Efficient Adaptive Mixture-of-Experts via Low-Rank Compensation**|Zhenyu Liu et.al.|[2512.17073](http://arxiv.org/abs/2512.17073)|null|
 |**2025-12-18**|**Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**|Zhongpan Tang et.al.|[2512.16963](http://arxiv.org/abs/2512.16963)|null|
 |**2025-12-18**|**An Upper Bound on the M/M/k Queue With Deterministic Setup Times**|Jalani Williams et.al.|[2512.16854](http://arxiv.org/abs/2512.16854)|null|
