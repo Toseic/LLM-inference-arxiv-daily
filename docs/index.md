@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
+|**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
 |**2025-12-28**|**Argus: Token Aware Distributed LLM Inference Optimization**|Panlong Wu et.al.|[2512.22925](http://arxiv.org/abs/2512.22925)|null|
 |**2025-12-27**|**Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving**|Rui Li et.al.|[2512.22420](http://arxiv.org/abs/2512.22420)|null|
@@ -903,15 +906,21 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20251231>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260101>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Compute-Accuracy Pareto Frontiers for Open-Source Reasoning Large Language Models**|Ákos Prucs et.al.|[2512.24776](http://arxiv.org/abs/2512.24776)|null|
+|**2025-12-30**|**Sufficient and Necessary Conditions for Eckart-Young-like Result for Tubal Tensors**|Uria Mor et.al.|[2512.24405](http://arxiv.org/abs/2512.24405)|null|
+|**2025-12-30**|**Quantum Computing, Ising Formulation, and the Traveling Salesman Problem**|Omer Gurevich et.al.|[2512.24308](http://arxiv.org/abs/2512.24308)|null|
+|**2025-12-30**|**Training Report of TeleChat3-MoE**|Xinzhang Liu et.al.|[2512.24157](http://arxiv.org/abs/2512.24157)|null|
+|**2025-12-30**|**RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**|Ruixuan Huang et.al.|[2512.23995](http://arxiv.org/abs/2512.23995)|null|
+|**2025-12-30**|**Learnable Query Aggregation with KV Routing for Cross-view Geo-localisation**|Hualin Ye et.al.|[2512.23938](http://arxiv.org/abs/2512.23938)|null|
 |**2025-12-29**|**Dynamic Subspace Composition: Efficient Adaptation via Contractive Basis Expansion**|Vladimer Khasia et.al.|[2512.23448](http://arxiv.org/abs/2512.23448)|null|
 |**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
-|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
+|**2025-12-30**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
 |**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
 |**2025-12-28**|**FLEX-MoE: Federated Mixture-of-Experts with Load-balanced Expert Assignment**|Boyang Zhang et.al.|[2512.23070](http://arxiv.org/abs/2512.23070)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
@@ -2202,7 +2211,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20251231>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260101>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
