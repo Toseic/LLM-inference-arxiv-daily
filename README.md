@@ -3,13 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems**|Shanli Xing et.al.|[2601.00227](http://arxiv.org/abs/2601.00227)|null|
 |**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
 |**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
 |**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
@@ -902,14 +903,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260104>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260105>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
+|**2026-01-01**|**Geometric Regularization in Mixture-of-Experts: The Disconnect Between Weights and Activations**|Hyunjun Kim et.al.|[2601.00457](http://arxiv.org/abs/2601.00457)|null|
+|**2026-01-01**|**Identification and Estimation under Multiple Versions of Treatment: Mixture-of-Experts Approach**|Kohei Yoshikawa et.al.|[2601.00287](http://arxiv.org/abs/2601.00287)|null|
 |**2025-12-31**|**Compute-Accuracy Pareto Frontiers for Open-Source Reasoning Large Language Models**|Ákos Prucs et.al.|[2512.24776](http://arxiv.org/abs/2512.24776)|null|
-|**2025-12-30**|**Sufficient and Necessary Conditions for Eckart-Young-like Result for Tubal Tensors**|Uria Mor et.al.|[2512.24405](http://arxiv.org/abs/2512.24405)|null|
+|**2026-01-01**|**Sufficient and Necessary Conditions for Eckart-Young like Result for Tubal Tensors**|Uria Mor et.al.|[2512.24405](http://arxiv.org/abs/2512.24405)|null|
 |**2025-12-30**|**Quantum Computing, Ising Formulation, and the Traveling Salesman Problem**|Omer Gurevich et.al.|[2512.24308](http://arxiv.org/abs/2512.24308)|null|
 |**2025-12-30**|**Training Report of TeleChat3-MoE**|Xinzhang Liu et.al.|[2512.24157](http://arxiv.org/abs/2512.24157)|null|
 |**2025-12-30**|**RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**|Ruixuan Huang et.al.|[2512.23995](http://arxiv.org/abs/2512.23995)|null|
@@ -2207,7 +2211,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260104>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260105>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
