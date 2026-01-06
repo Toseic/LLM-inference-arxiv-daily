@@ -3,16 +3,18 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
+|**2026-01-03**|**From Policy to Logic for Efficient and Interpretable Coverage Assessment**|Rhitabrat Pokharel et.al.|[2601.01266](http://arxiv.org/abs/2601.01266)|null|
 |**2026-01-01**|**FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems**|Shanli Xing et.al.|[2601.00227](http://arxiv.org/abs/2601.00227)|null|
 |**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
-|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
+|**2026-01-04**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
 |**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
 |**2025-12-28**|**Argus: Token Aware Distributed LLM Inference Optimization**|Panlong Wu et.al.|[2512.22925](http://arxiv.org/abs/2512.22925)|null|
@@ -903,12 +905,19 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260105>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260106>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**K-EXAONE Technical Report**|Eunbi Choi et.al.|[2601.01739](http://arxiv.org/abs/2601.01739)|null|
+|**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
+|**2026-01-05**|**Varying-Coefficient Mixture of Experts Model**|Qicheng Zhao et.al.|[2601.01699](http://arxiv.org/abs/2601.01699)|null|
+|**2026-01-04**|**Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts**|Ruofeng Yang et.al.|[2601.01475](http://arxiv.org/abs/2601.01475)|null|
+|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
+|**2026-01-03**|**MambaFormer: Token-Level Guided Routing Mixture-of-Experts for Accurate and Efficient Clinical Assistance**|Hamad Khan et.al.|[2601.01260](http://arxiv.org/abs/2601.01260)|null|
+|**2026-01-02**|**Reliability Under Randomness: An Empirical Analysis of Sparse and Dense Language Models Across Decoding Temperatures**|Kabir Grover et.al.|[2601.00942](http://arxiv.org/abs/2601.00942)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
 |**2026-01-01**|**Geometric Regularization in Mixture-of-Experts: The Disconnect Between Weights and Activations**|Hyunjun Kim et.al.|[2601.00457](http://arxiv.org/abs/2601.00457)|null|
 |**2026-01-01**|**Identification and Estimation under Multiple Versions of Treatment: Mixture-of-Experts Approach**|Kohei Yoshikawa et.al.|[2601.00287](http://arxiv.org/abs/2601.00287)|null|
@@ -2211,7 +2220,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260105>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260106>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
