@@ -911,6 +911,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144](http://arxiv.org/abs/2601.02144)|null|
+|**2026-01-05**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al.|[2601.01856](http://arxiv.org/abs/2601.01856)|null|
 |**2026-01-05**|**K-EXAONE Technical Report**|Eunbi Choi et.al.|[2601.01739](http://arxiv.org/abs/2601.01739)|null|
 |**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
 |**2026-01-05**|**Varying-Coefficient Mixture of Experts Model**|Qicheng Zhao et.al.|[2601.01699](http://arxiv.org/abs/2601.01699)|null|
