@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
@@ -910,12 +910,15 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260111>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260112>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Reconstruction of atmospheric neutrinos in DUNE's horizontal-drift far-detector module**|DUNE Collaboration et.al.|[2601.05697](http://arxiv.org/abs/2601.05697)|null|
+|**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](http://arxiv.org/abs/2601.05537)|null|
+|**2026-01-08**|**MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs**|Jiyuan Zhang et.al.|[2601.05296](http://arxiv.org/abs/2601.05296)|null|
 |**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|null|
 |**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[2601.05174](http://arxiv.org/abs/2601.05174)|null|
 |**2026-01-08**|**How to Set the Learning Rate for Large-Scale Pre-training?**|Yunhua Zhou et.al.|[2601.05049](http://arxiv.org/abs/2601.05049)|null|
@@ -2240,7 +2243,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260111>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260112>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
