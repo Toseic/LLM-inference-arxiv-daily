@@ -3,13 +3,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|null|
+|**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
 |**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
 |**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
 |**2026-01-08**|**GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models**|Maanas Taneja et.al.|[2601.04719](http://arxiv.org/abs/2601.04719)|null|
@@ -910,12 +912,20 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260112>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260113>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-11**|**Solar Open Technical Report**|Sungrae Park et.al.|[2601.07022](http://arxiv.org/abs/2601.07022)|null|
+|**2026-01-11**|**Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems**|Qikai Xiao et.al.|[2601.06858](http://arxiv.org/abs/2601.06858)|null|
+|**2026-01-11**|**MoE-DisCo:Low Economy Cost Training Mixture-of-Experts Models**|Xin Ye et.al.|[2601.06857](http://arxiv.org/abs/2601.06857)|null|
+|**2026-01-11**|**MoEScore: Mixture-of-Experts-Based Text-Audio Relevance Score Prediction for Text-to-Audio System Evaluation**|Bochao Sun et.al.|[2601.06829](http://arxiv.org/abs/2601.06829)|null|
+|**2026-01-11**|**SecMoE: Communication-Efficient Secure MoE Inference via Select-Then-Compute**|Bowen Shen et.al.|[2601.06790](http://arxiv.org/abs/2601.06790)|null|
+|**2026-01-10**|**Hellinger Multimodal Variational Autoencoders**|Huyen Khanh Vo et.al.|[2601.06572](http://arxiv.org/abs/2601.06572)|null|
+|**2026-01-10**|**Physics-guided foundation model for universal speckle removal in ultrathin multimode fiber imaging**|Xianrui Zeng et.al.|[2601.06448](http://arxiv.org/abs/2601.06448)|null|
+|**2026-01-09**|**Monkey Jump : MoE-Style PEFT for Efficient Multi-Task Learning**|Nusrat Jahan Prottasha et.al.|[2601.06356](http://arxiv.org/abs/2601.06356)|null|
 |**2026-01-09**|**Reconstruction of atmospheric neutrinos in DUNE's horizontal-drift far-detector module**|DUNE Collaboration et.al.|[2601.05697](http://arxiv.org/abs/2601.05697)|null|
 |**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](http://arxiv.org/abs/2601.05537)|null|
 |**2026-01-08**|**MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs**|Jiyuan Zhang et.al.|[2601.05296](http://arxiv.org/abs/2601.05296)|null|
@@ -2243,7 +2253,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260112>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260113>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
