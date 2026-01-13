@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
+|**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|null|
+|**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
+|**2026-01-12**|**Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition**|Tanmay Joshi et.al.|[2601.07239](http://arxiv.org/abs/2601.07239)|null|
 |**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|null|
 |**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
 |**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
@@ -922,6 +926,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
+|**2026-01-12**|**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**|Xin Cheng et.al.|[2601.07372](http://arxiv.org/abs/2601.07372)|null|
 |**2026-01-11**|**Solar Open Technical Report**|Sungrae Park et.al.|[2601.07022](http://arxiv.org/abs/2601.07022)|null|
 |**2026-01-11**|**Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems**|Qikai Xiao et.al.|[2601.06858](http://arxiv.org/abs/2601.06858)|null|
 |**2026-01-11**|**MoE-DisCo:Low Economy Cost Training Mixture-of-Experts Models**|Xin Ye et.al.|[2601.06857](http://arxiv.org/abs/2601.06857)|null|
