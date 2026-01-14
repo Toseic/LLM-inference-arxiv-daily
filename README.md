@@ -3,13 +3,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
+|**2026-01-13**|**Coordinated Cooling and Compute Management for AI Datacenters**|Nardos Belay Abera et.al.|[2601.08113](http://arxiv.org/abs/2601.08113)|null|
 |**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
 |**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|null|
 |**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
@@ -916,12 +918,19 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260113>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260114>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
+|**2026-01-13**|**LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms**|Namhyun Kim et.al.|[2601.08780](http://arxiv.org/abs/2601.08780)|null|
+|**2026-01-13**|**M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.|[2601.08631](http://arxiv.org/abs/2601.08631)|null|
+|**2026-01-13**|**Taxon: Hierarchical Tax Code Prediction with Semantically Aligned LLM Expert Guidance**|Jihang Li et.al.|[2601.08418](http://arxiv.org/abs/2601.08418)|null|
+|**2026-01-13**|**Deconstructing Pre-training: Knowledge Attribution Analysis in MoE and Dense Models**|Bo Wang et.al.|[2601.08383](http://arxiv.org/abs/2601.08383)|null|
+|**2026-01-13**|**Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints**|Seng Pei Liew et.al.|[2601.08215](http://arxiv.org/abs/2601.08215)|null|
+|**2026-01-12**|**Towards Specialized Generalists: A Multi-Task MoE-LoRA Framework for Domain-Specific LLM Adaptation**|Yuxin Yang et.al.|[2601.07935](http://arxiv.org/abs/2601.07935)|null|
 |**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
 |**2026-01-12**|**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**|Xin Cheng et.al.|[2601.07372](http://arxiv.org/abs/2601.07372)|null|
 |**2026-01-11**|**Solar Open Technical Report**|Sungrae Park et.al.|[2601.07022](http://arxiv.org/abs/2601.07022)|null|
@@ -2259,7 +2268,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260113>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260114>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
