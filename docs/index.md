@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
+|**2026-01-14**|**LatencyPrism: Online Non-intrusive Latency Sculpting for SLO-Guaranteed LLM Inference**|Du Yin et.al.|[2601.09258](http://arxiv.org/abs/2601.09258)|null|
 |**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
 |**2026-01-13**|**Coordinated Cooling and Compute Management for AI Datacenters**|Nardos Belay Abera et.al.|[2601.08113](http://arxiv.org/abs/2601.08113)|null|
 |**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
@@ -922,12 +924,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260114>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260115>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
+|**2026-01-14**|**A.X K1 Technical Report**|Sung Jun Cheon et.al.|[2601.09200](http://arxiv.org/abs/2601.09200)|null|
+|**2026-01-14**|**WiFo-E: A Scalable Wireless Foundation Model for End-to-End FDD Precoding in Communication Networks**|Weibo Wen et.al.|[2601.09186](http://arxiv.org/abs/2601.09186)|null|
+|**2026-01-14**|**Horseshoe Mixtures-of-Experts (HS-MoE)**|Nick Polson et.al.|[2601.09043](http://arxiv.org/abs/2601.09043)|null|
+|**2026-01-13**|**LookAhead: The Optimal Non-decreasing Index Policy for a Time-Varying Holding Cost problem**|Keerthana Gurushankar et.al.|[2601.08960](http://arxiv.org/abs/2601.08960)|null|
 |**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
 |**2026-01-13**|**LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms**|Namhyun Kim et.al.|[2601.08780](http://arxiv.org/abs/2601.08780)|null|
 |**2026-01-13**|**M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.|[2601.08631](http://arxiv.org/abs/2601.08631)|null|
@@ -2272,7 +2279,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260114>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260115>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
