@@ -3,13 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**FORESTLLM: Large Language Models Make Random Forest Great on Few-shot Tabular Learning**|Zhihan Yang et.al.|[2601.11311](http://arxiv.org/abs/2601.11311)|null|
 |**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
 |**2026-01-14**|**LatencyPrism: Online Non-intrusive Latency Sculpting for SLO-Guaranteed LLM Inference**|Du Yin et.al.|[2601.09258](http://arxiv.org/abs/2601.09258)|null|
 |**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
@@ -920,12 +921,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260118>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260119>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Self-Augmented Mixture-of-Experts for QoS Prediction**|Kecheng Cai et.al.|[2601.11036](http://arxiv.org/abs/2601.11036)|null|
+|**2026-01-16**|**RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions**|Tasneem Shaffee et.al.|[2601.10921](http://arxiv.org/abs/2601.10921)|null|
 |**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
 |**2026-01-15**|**MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning**|Yusong Wang et.al.|[2601.10157](http://arxiv.org/abs/2601.10157)|null|
 |**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
@@ -2277,7 +2280,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260118>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260119>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
