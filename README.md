@@ -3,13 +3,17 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**Power Aware Dynamic Reallocation For Inference**|Yiwei Jiang et.al.|[2601.12241](http://arxiv.org/abs/2601.12241)|null|
+|**2026-01-16**|**RAPID-Serve: Resource-efficient and Accelerated P/D Intra-GPU Disaggregation**|Amna Masood et.al.|[2601.11822](http://arxiv.org/abs/2601.11822)|null|
+|**2026-01-16**|**HALO: Semantic-Aware Distributed LLM Inference in Lossy Edge Network**|Peirong Zheng et.al.|[2601.11676](http://arxiv.org/abs/2601.11676)|null|
+|**2026-01-15**|**WISP: Waste- and Interference-Suppressed Distributed Speculative LLM Serving at the Edge via Dynamic Drafting and SLO-Aware Batching**|Xiangchen Li et.al.|[2601.11652](http://arxiv.org/abs/2601.11652)|null|
 |**2026-01-16**|**FORESTLLM: Large Language Models Make Random Forest Great on Few-shot Tabular Learning**|Zhihan Yang et.al.|[2601.11311](http://arxiv.org/abs/2601.11311)|null|
 |**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
 |**2026-01-14**|**LatencyPrism: Online Non-intrusive Latency Sculpting for SLO-Guaranteed LLM Inference**|Du Yin et.al.|[2601.09258](http://arxiv.org/abs/2601.09258)|null|
@@ -921,12 +925,22 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260120>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260121>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) V: Comparison between scattered light and thermal emission**|J. Milli et.al.|[2601.12586](http://arxiv.org/abs/2601.12586)|null|
+|**2026-01-18**|**A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding**|Hoang Viet Nguyen et.al.|[2601.12483](http://arxiv.org/abs/2601.12483)|null|
+|**2026-01-18**|**Learning Diverse Skills for Behavior Models with Mixture of Experts**|Wangtian Shen et.al.|[2601.12397](http://arxiv.org/abs/2601.12397)|null|
+|**2026-01-18**|**NADIR: Differential Attention Flow for Non-Autoregressive Transliteration in Indic Languages**|Lakshya Tomar et.al.|[2601.12389](http://arxiv.org/abs/2601.12389)|null|
+|**2026-01-18**|**GazeFormer-MoE: Context-Aware Gaze Estimation via CLIP and MoE Transformer**|Xinyuan Zhao et.al.|[2601.12316](http://arxiv.org/abs/2601.12316)|null|
+|**2026-01-18**|**Facet-Aware Multi-Head Mixture-of-Experts Model with Text-Enhanced Pre-training for Sequential Recommendation**|Mingrui Liu et.al.|[2601.12301](http://arxiv.org/abs/2601.12301)|null|
+|**2026-01-17**|**EMoE: Eigenbasis-Guided Routing for Mixture-of-Experts**|Anzhe Cheng et.al.|[2601.12137](http://arxiv.org/abs/2601.12137)|null|
+|**2026-01-17**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) III: The vertical structure of debris disks**|Brianna Zawadzki et.al.|[2601.12128](http://arxiv.org/abs/2601.12128)|null|
+|**2026-01-17**|**One-Shot Price Forecasting with Covariate-Guided Experts under Privacy Constraints**|Ren He et.al.|[2601.11977](http://arxiv.org/abs/2601.11977)|null|
+|**2026-01-16**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) VII: Optically thick gas with broad CO gaussian local line profiles in the HD 121617 disc**|A. Brennan et.al.|[2601.11824](http://arxiv.org/abs/2601.11824)|null|
 |**2026-01-16**|**Self-Augmented Mixture-of-Experts for QoS Prediction**|Kecheng Cai et.al.|[2601.11036](http://arxiv.org/abs/2601.11036)|null|
 |**2026-01-16**|**RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions**|Tasneem Shaffee et.al.|[2601.10921](http://arxiv.org/abs/2601.10921)|null|
 |**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
@@ -2280,7 +2294,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260120>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260121>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
