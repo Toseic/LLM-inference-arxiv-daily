@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|null|
+|**2026-01-20**|**PRIMAL: Processing-In-Memory Based Low-Rank Adaptation for LLM Inference Accelerator**|Yue Jiet Chong et.al.|[2601.13628](http://arxiv.org/abs/2601.13628)|null|
+|**2026-01-19**|**Explicit Cognitive Allocation: A Principle for Governed and Auditable Inference in Large Language Models**|Héctor Manuel Manzanilla-Granados et.al.|[2601.13443](http://arxiv.org/abs/2601.13443)|null|
+|**2026-01-19**|**Probe and Skip: Self-Predictive Token Skipping for Efficient Long-Context LLM Inference**|Zimeng Wu et.al.|[2601.13155](http://arxiv.org/abs/2601.13155)|null|
+|**2026-01-19**|**From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation**|Jiahao Wang et.al.|[2601.12904](http://arxiv.org/abs/2601.12904)|null|
 |**2026-01-18**|**Power Aware Dynamic Reallocation For Inference**|Yiwei Jiang et.al.|[2601.12241](http://arxiv.org/abs/2601.12241)|null|
 |**2026-01-16**|**RAPID-Serve: Resource-efficient and Accelerated P/D Intra-GPU Disaggregation**|Amna Masood et.al.|[2601.11822](http://arxiv.org/abs/2601.11822)|null|
 |**2026-01-16**|**HALO: Semantic-Aware Distributed LLM Inference in Lossy Edge Network**|Peirong Zheng et.al.|[2601.11676](http://arxiv.org/abs/2601.11676)|null|
@@ -935,6 +940,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering**|Yuxin Chen et.al.|[2601.14050](http://arxiv.org/abs/2601.14050)|null|
+|**2026-01-20**|**DExTeR: Weakly Semi-Supervised Object Detection with Class and Instance Experts for Medical Imaging**|Adrien Meyer et.al.|[2601.13954](http://arxiv.org/abs/2601.13954)|null|
+|**2026-01-20**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) II. The radial structure of debris discs**|Yinuo Han et.al.|[2601.13670](http://arxiv.org/abs/2601.13670)|null|
+|**2026-01-20**|**MN-TSG:Continuous Time Series Generation with Irregular Observations**|Xu Zhang et.al.|[2601.13534](http://arxiv.org/abs/2601.13534)|null|
+|**2026-01-19**|**CLIP-Guided Adaptable Self-Supervised Learning for Human-Centric Visual Tasks**|Mingshuang Luo et.al.|[2601.13133](http://arxiv.org/abs/2601.13133)|null|
+|**2026-01-19**|**Polychronous Wave Computing: Timing-Native Address Selection in Spiking Networks**|Natalila G. Berloff et.al.|[2601.13079](http://arxiv.org/abs/2601.13079)|null|
+|**2026-01-19**|**PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning**|Zhiyan Hou et.al.|[2601.13020](http://arxiv.org/abs/2601.13020)|null|
+|**2026-01-19**|**HT-GNN: Hyper-Temporal Graph Neural Network for Customer Lifetime Value Prediction in Baidu Ads**|Xiaohui Zhao et.al.|[2601.13013](http://arxiv.org/abs/2601.13013)|null|
+|**2026-01-19**|**OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models**|Shiyuan Li et.al.|[2601.12996](http://arxiv.org/abs/2601.12996)|null|
+|**2026-01-19**|**PhyG-MoE: A Physics-Guided Mixture-of-Experts Framework for Energy-Efficient GNSS Interference Recognition**|Zhihan Zeng et.al.|[2601.12798](http://arxiv.org/abs/2601.12798)|null|
 |**2026-01-18**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) V: Comparison between scattered light and thermal emission**|J. Milli et.al.|[2601.12586](http://arxiv.org/abs/2601.12586)|null|
 |**2026-01-18**|**A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding**|Hoang Viet Nguyen et.al.|[2601.12483](http://arxiv.org/abs/2601.12483)|null|
 |**2026-01-18**|**Learning Diverse Skills for Behavior Models with Mixture of Experts**|Wangtian Shen et.al.|[2601.12397](http://arxiv.org/abs/2601.12397)|null|
