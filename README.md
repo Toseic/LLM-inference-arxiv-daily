@@ -3,13 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|null|
 |**2026-01-20**|**PRIMAL: Processing-In-Memory Based Low-Rank Adaptation for LLM Inference Accelerator**|Yue Jiet Chong et.al.|[2601.13628](http://arxiv.org/abs/2601.13628)|null|
 |**2026-01-19**|**Explicit Cognitive Allocation: A Principle for Governed and Auditable Inference in Large Language Models**|Héctor Manuel Manzanilla-Granados et.al.|[2601.13443](http://arxiv.org/abs/2601.13443)|null|
@@ -930,12 +931,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260121>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260122>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization**|Adam Rokah et.al.|[2601.15021](http://arxiv.org/abs/2601.15021)|null|
+|**2026-01-21**|**Modeling the Thermal Behavior of Photopolymers for In-Space Fabrication**|Jonathan Ericson et.al.|[2601.14897](http://arxiv.org/abs/2601.14897)|null|
+|**2026-01-21**|**UniRoute: Unified Routing Mixture-of-Experts for Modality-Adaptive Remote Sensing Change Detection**|Qingling Shu et.al.|[2601.14797](http://arxiv.org/abs/2601.14797)|null|
+|**2026-01-21**|**Robustness of Mixtures of Experts to Feature Noise**|Dong Sun et.al.|[2601.14792](http://arxiv.org/abs/2601.14792)|null|
+|**2026-01-20**|**Layer-adaptive Expert Pruning for Pre-Training of Mixture-of-Experts Large Language Models**|YuanLab. ai et.al.|[2601.14327](http://arxiv.org/abs/2601.14327)|null|
 |**2026-01-20**|**Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering**|Yuxin Chen et.al.|[2601.14050](http://arxiv.org/abs/2601.14050)|null|
 |**2026-01-20**|**DExTeR: Weakly Semi-Supervised Object Detection with Class and Instance Experts for Medical Imaging**|Adrien Meyer et.al.|[2601.13954](http://arxiv.org/abs/2601.13954)|null|
 |**2026-01-20**|**The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) II. The radial structure of debris discs**|Yinuo Han et.al.|[2601.13670](http://arxiv.org/abs/2601.13670)|null|
@@ -2309,7 +2315,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260121>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260122>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
