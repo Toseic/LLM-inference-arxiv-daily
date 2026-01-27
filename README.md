@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**|Jaiyoung Park et.al.|[2601.18511](http://arxiv.org/abs/2601.18511)|null|
+|**2026-01-26**|**FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning**|Lin Sun et.al.|[2601.18116](http://arxiv.org/abs/2601.18116)|null|
 |**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
 |**2026-01-25**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668](http://arxiv.org/abs/2601.17668)|null|
 |**2026-01-24**|**GreenServ: Energy-Efficient Context-Aware Dynamic Routing for Multi-Model LLM Inference**|Thomas Ziller et.al.|[2601.17551](http://arxiv.org/abs/2601.17551)|null|
@@ -942,6 +944,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
+|**2026-01-26**|**LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts**|Venmugil Elango et.al.|[2601.18089](http://arxiv.org/abs/2601.18089)|null|
+|**2026-01-25**|**Domain-Expert-Guided Hybrid Mixture-of-Experts for Medical AI: Integrating Data-Driven Learning with Clinical Priors**|Jinchen Gu et.al.|[2601.17977](http://arxiv.org/abs/2601.17977)|null|
 |**2026-01-25**|**$\infty$ -MoE: Generalizing Mixture of Experts to Infinite Experts**|Shota Takashiro et.al.|[2601.17680](http://arxiv.org/abs/2601.17680)|null|
 |**2026-01-24**|**PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes**|Xinru Cui et.al.|[2601.17440](http://arxiv.org/abs/2601.17440)|null|
 |**2026-01-23**|**Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts**|Xuan-Phi Nguyen et.al.|[2601.17111](http://arxiv.org/abs/2601.17111)|null|
