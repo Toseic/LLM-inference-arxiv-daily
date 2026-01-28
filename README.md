@@ -3,13 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
+|**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999](http://arxiv.org/abs/2601.18999)|null|
+|**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
 |**2026-01-26**|**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**|Jaiyoung Park et.al.|[2601.18511](http://arxiv.org/abs/2601.18511)|null|
 |**2026-01-26**|**FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning**|Lin Sun et.al.|[2601.18116](http://arxiv.org/abs/2601.18116)|null|
 |**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
@@ -938,12 +941,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260127>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260128>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
+|**2026-01-26**|**Fauna Sprout: A lightweight, approachable, developer-ready humanoid robot**|Fauna Robotics et.al.|[2601.18963](http://arxiv.org/abs/2601.18963)|null|
 |**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
 |**2026-01-26**|**LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts**|Venmugil Elango et.al.|[2601.18089](http://arxiv.org/abs/2601.18089)|null|
 |**2026-01-25**|**Domain-Expert-Guided Hybrid Mixture-of-Experts for Medical AI: Integrating Data-Driven Learning with Clinical Priors**|Jinchen Gu et.al.|[2601.17977](http://arxiv.org/abs/2601.17977)|null|
@@ -2334,7 +2339,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260127>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260128>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
