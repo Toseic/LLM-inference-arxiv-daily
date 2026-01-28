@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering**|Fangan Dong et.al.|[2601.19847](http://arxiv.org/abs/2601.19847)|null|
 |**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
 |**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999](http://arxiv.org/abs/2601.18999)|null|
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
@@ -951,6 +952,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Revisiting Incremental Stochastic Majorization-Minimization Algorithms with Applications to Mixture of Experts**|TrungKhang Tran et.al.|[2601.19811](http://arxiv.org/abs/2601.19811)|null|
+|**2026-01-27**|**Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes**|Yifan Wang et.al.|[2601.19723](http://arxiv.org/abs/2601.19723)|null|
 |**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
 |**2026-01-26**|**Fauna Sprout: A lightweight, approachable, developer-ready humanoid robot**|Fauna Robotics et.al.|[2601.18963](http://arxiv.org/abs/2601.18963)|null|
 |**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
