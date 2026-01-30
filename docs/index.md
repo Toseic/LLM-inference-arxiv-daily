@@ -7,15 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
-|**2026-01-28**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
+|**2026-01-29**|**EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference**|Bronislav Sidik et.al.|[2601.21758](http://arxiv.org/abs/2601.21758)|null|
+|**2026-01-29**|**Adaptive and Robust Cost-Aware Proof of Quality for Decentralized LLM Inference Networks**|Arther Tian et.al.|[2601.21189](http://arxiv.org/abs/2601.21189)|null|
+|**2026-01-28**|**ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**|Ketan Thakkar et.al.|[2601.21109](http://arxiv.org/abs/2601.21109)|null|
+|**2026-01-29**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
+|**2026-01-29**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-28**|**Beyond Speedup -- Utilizing KV Cache for Sampling and Reasoning**|Zeyu Xing et.al.|[2601.20326](http://arxiv.org/abs/2601.20326)|null|
 |**2026-01-28**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|null|
@@ -952,12 +955,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260129>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260130>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers**|Evandro S. Ortigossa et.al.|[2601.21641](http://arxiv.org/abs/2601.21641)|null|
+|**2026-01-29**|**Multi-Modal Time Series Prediction via Mixture of Modulated Experts**|Lige Zhang et.al.|[2601.21547](http://arxiv.org/abs/2601.21547)|null|
+|**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
+|**2026-01-29**|**L $^3$ : Large Lookup Layers**|Albert Tseng et.al.|[2601.21461](http://arxiv.org/abs/2601.21461)|null|
+|**2026-01-29**|**L2R: Low-Rank and Lipschitz-Controlled Routing for Mixture-of-Experts**|Minghao Yang et.al.|[2601.21349](http://arxiv.org/abs/2601.21349)|null|
+|**2026-01-29**|**Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies**|Ce Hao et.al.|[2601.21251](http://arxiv.org/abs/2601.21251)|null|
+|**2026-01-29**|**Scaling Embeddings Outperforms Scaling Experts in Language Models**|Hong Liu et.al.|[2601.21204](http://arxiv.org/abs/2601.21204)|null|
+|**2026-01-29**|**ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling**|Yuchen Yang et.al.|[2601.21198](http://arxiv.org/abs/2601.21198)|null|
+|**2026-01-29**|**BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding**|Ziyi Zhao et.al.|[2601.21148](http://arxiv.org/abs/2601.21148)|null|
+|**2026-01-29**|**TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning**|Shicheng Fan et.al.|[2601.21135](http://arxiv.org/abs/2601.21135)|null|
 |**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
 |**2026-01-28**|**Unsupervised Ensemble Learning Through Deep Energy-based Models**|Ariel Maymon et.al.|[2601.20556](http://arxiv.org/abs/2601.20556)|null|
 |**2026-01-28**|**OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**|Le Zhang et.al.|[2601.20380](http://arxiv.org/abs/2601.20380)|null|
@@ -2360,7 +2373,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260129>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260130>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
