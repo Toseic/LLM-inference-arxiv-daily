@@ -961,6 +961,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
+|**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|null|
 |**2026-01-29**|**Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers**|Evandro S. Ortigossa et.al.|[2601.21641](http://arxiv.org/abs/2601.21641)|null|
 |**2026-01-29**|**Multi-Modal Time Series Prediction via Mixture of Modulated Experts**|Lige Zhang et.al.|[2601.21547](http://arxiv.org/abs/2601.21547)|null|
 |**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
