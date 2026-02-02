@@ -3,13 +3,19 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Safer Policy Compliance with Dynamic Epistemic Fallback**|Joseph Marvin Imperial et.al.|[2601.23094](http://arxiv.org/abs/2601.23094)|null|
+|**2026-01-30**|**Competitive Non-Clairvoyant KV-Cache Scheduling for LLM Inference**|Yiding Feng et.al.|[2601.22996](http://arxiv.org/abs/2601.22996)|null|
+|**2026-01-30**|**Matterhorn: Efficient Analog Sparse Spiking Transformer Architecture with Masked Time-To-First-Spike Encoding**|Zhanglu Yan et.al.|[2601.22876](http://arxiv.org/abs/2601.22876)|null|
+|**2026-01-30**|**OSNIP: Breaking the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space**|Zhiyuan Cao et.al.|[2601.22752](http://arxiv.org/abs/2601.22752)|null|
+|**2026-01-30**|**SCaLRec: Semantic Calibration for LLM-enabled Cloud-Device Sequential Recommendation**|Ruiqi Zheng et.al.|[2601.22543](http://arxiv.org/abs/2601.22543)|null|
+|**2026-01-29**|**Understanding Efficiency: Quantization, Batching, and Serving Strategies in LLM Energy Use**|Julien Delavande et.al.|[2601.22362](http://arxiv.org/abs/2601.22362)|null|
 |**2026-01-29**|**EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference**|Bronislav Sidik et.al.|[2601.21758](http://arxiv.org/abs/2601.21758)|null|
 |**2026-01-29**|**Adaptive and Robust Cost-Aware Proof of Quality for Decentralized LLM Inference Networks**|Arther Tian et.al.|[2601.21189](http://arxiv.org/abs/2601.21189)|null|
 |**2026-01-28**|**ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**|Ketan Thakkar et.al.|[2601.21109](http://arxiv.org/abs/2601.21109)|null|
@@ -951,12 +957,18 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260201>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260202>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**UrbanMoE: A Sparse Multi-Modal Mixture-of-Experts Framework for Multi-Task Urban Region Profiling**|Pingping Liu et.al.|[2601.22746](http://arxiv.org/abs/2601.22746)|null|
+|**2026-01-30**|**A Step Back: Prefix Importance Ratio Stabilizes Policy Optimization**|Shiye Lei et.al.|[2601.22718](http://arxiv.org/abs/2601.22718)|null|
+|**2026-01-30**|**A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation**|Haonan He et.al.|[2601.22708](http://arxiv.org/abs/2601.22708)|null|
+|**2026-01-30**|**Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments**|Jinwoo Jang et.al.|[2601.22647](http://arxiv.org/abs/2601.22647)|null|
+|**2026-01-30**|**SpanNorm: Reconciling Training Stability and Performance in Deep Transformers**|Chao Wang et.al.|[2601.22580](http://arxiv.org/abs/2601.22580)|null|
+|**2026-01-30**|**Continual Policy Distillation from Distributed Reinforcement Learning Teachers**|Yuxuan Li et.al.|[2601.22475](http://arxiv.org/abs/2601.22475)|null|
 |**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
 |**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
 |**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|null|
@@ -2372,7 +2384,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260201>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260202>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
