@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing**|Lingkun Long et.al.|[2602.02159](http://arxiv.org/abs/2602.02159)|null|
 |**2026-01-30**|**Fast Forward: Accelerating LLM Prefill with Predictive FFN Sparsity**|Aayush Gautam et.al.|[2602.00397](http://arxiv.org/abs/2602.00397)|null|
 |**2026-01-30**|**Harvest: Opportunistic Peer-to-Peer GPU Caching for LLM Inference**|Nikhil Gopal et.al.|[2602.00328](http://arxiv.org/abs/2602.00328)|null|
 |**2026-01-30**|**EigenAI: Deterministic Inference, Verifiable Results**|David Ribeiro Alves et.al.|[2602.00182](http://arxiv.org/abs/2602.00182)|null|
@@ -966,6 +967,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning**|Qifan Yu et.al.|[2602.02472](http://arxiv.org/abs/2602.02472)|null|
+|**2026-02-02**|**Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models**|Noam Steinmetz Yalon et.al.|[2602.02467](http://arxiv.org/abs/2602.02467)|null|
+|**2026-02-02**|**From Directions to Regions: Decomposing Activations in Language Models via Local Geometry**|Or Shafran et.al.|[2602.02464](http://arxiv.org/abs/2602.02464)|null|
+|**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](http://arxiv.org/abs/2602.02286)|null|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
+|**2026-02-02**|**Edge-Aligned Initialization of Kernels for Steered Mixture-of-Experts**|Martin Determann et.al.|[2602.02031](http://arxiv.org/abs/2602.02031)|null|
+|**2026-02-02**|**SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning**|Zhen-Hao Xie et.al.|[2602.01990](http://arxiv.org/abs/2602.01990)|null|
+|**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](http://arxiv.org/abs/2602.01967)|null|
+|**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|null|
+|**2026-02-02**|**Mutual-Guided Expert Collaboration for Cross-Subject EEG Classification**|Zhi Zhang et.al.|[2602.01728](http://arxiv.org/abs/2602.01728)|null|
 |**2026-01-31**|**Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity**|Fanqi Yan et.al.|[2602.00939](http://arxiv.org/abs/2602.00939)|null|
 |**2026-01-31**|**Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs**|Hao Mark Chen et.al.|[2602.00879](http://arxiv.org/abs/2602.00879)|null|
 |**2026-01-31**|**Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion**|Tianyang Wu et.al.|[2602.00678](http://arxiv.org/abs/2602.00678)|null|
