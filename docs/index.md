@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making**|Khurram Yamin et.al.|[2602.06286](http://arxiv.org/abs/2602.06286)|null|
 |**2026-02-05**|**Towards Green AI: Decoding the Energy of LLM Inference in Software Development**|Lola Solovyeva et.al.|[2602.05712](http://arxiv.org/abs/2602.05712)|null|
 |**2026-02-05**|**Determining Energy Efficiency Sweet Spots in Production LLM Inference**|Hiari Pizzini Cavagna et.al.|[2602.05695](http://arxiv.org/abs/2602.05695)|null|
 |**2026-02-05**|**Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers**|Jingkai Huang et.al.|[2602.05395](http://arxiv.org/abs/2602.05395)|null|
@@ -976,12 +977,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260208>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260209>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
+|**2026-02-06**|**POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models**|Yi Chen et.al.|[2602.06822](http://arxiv.org/abs/2602.06822)|null|
+|**2026-02-06**|**HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction**|Shengxuan Qiu et.al.|[2602.06527](http://arxiv.org/abs/2602.06527)|null|
+|**2026-02-05**|**To 2:4 Sparsity and Beyond: Neuron-level Activation Function to Accelerate LLM Pre-Training**|Meghana Madhyastha et.al.|[2602.06183](http://arxiv.org/abs/2602.06183)|null|
+|**2026-02-05**|**MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models**|Nurbek Tastan et.al.|[2602.06154](http://arxiv.org/abs/2602.06154)|null|
 |**2026-02-05**|**OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale**|Jingze Shi et.al.|[2602.05711](http://arxiv.org/abs/2602.05711)|null|
 |**2026-02-04**|**Rule-Based Spatial Mixture-of-Experts U-Net for Explainable Edge Detection**|Bharadwaj Dogga et.al.|[2602.05100](http://arxiv.org/abs/2602.05100)|null|
 |**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
@@ -2431,7 +2437,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260208>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260209>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
