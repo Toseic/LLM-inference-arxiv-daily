@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[2602.08858](http://arxiv.org/abs/2602.08858)|null|
+|**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|null|
+|**2026-02-08**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
+|**2026-02-08**|**Accuracy-Delay Trade-Off in LLM Offloading via Token-Level Uncertainty**|Yumin Kim et.al.|[2602.07958](http://arxiv.org/abs/2602.07958)|null|
+|**2026-02-08**|**MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation**|Yu Zhao et.al.|[2602.07905](http://arxiv.org/abs/2602.07905)|null|
+|**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|null|
+|**2026-02-07**|**ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs**|Yanlin Qi et.al.|[2602.07721](http://arxiv.org/abs/2602.07721)|null|
+|**2026-02-07**|**Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference**|Hoang Anh Duy Le et.al.|[2602.07397](http://arxiv.org/abs/2602.07397)|null|
+|**2026-02-06**|**SpecAttn: Co-Designing Sparse Attention with Self-Speculative Decoding**|Yikang Yue et.al.|[2602.07223](http://arxiv.org/abs/2602.07223)|null|
 |**2026-02-06**|**Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making**|Khurram Yamin et.al.|[2602.06286](http://arxiv.org/abs/2602.06286)|null|
 |**2026-02-05**|**Towards Green AI: Decoding the Energy of LLM Inference in Software Development**|Lola Solovyeva et.al.|[2602.05712](http://arxiv.org/abs/2602.05712)|null|
 |**2026-02-05**|**Determining Energy Efficiency Sweet Spots in Production LLM Inference**|Hiari Pizzini Cavagna et.al.|[2602.05695](http://arxiv.org/abs/2602.05695)|null|
@@ -977,12 +986,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260209>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260210>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**DirMoE: Dirichlet-routed Mixture of Experts**|Amirhossein Vahidi et.al.|[2602.09001](http://arxiv.org/abs/2602.09001)|null|
+|**2026-02-09**|**OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation**|Yehua Huang et.al.|[2602.08896](http://arxiv.org/abs/2602.08896)|null|
+|**2026-02-09**|**FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models**|Annemette Brok Pirchert et.al.|[2602.08818](http://arxiv.org/abs/2602.08818)|null|
+|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-09**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
+|**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
+|**2026-02-09**|**6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**|Mohamed Amine Ferrag et.al.|[2602.08675](http://arxiv.org/abs/2602.08675)|null|
+|**2026-02-09**|**Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models**|Mingzi Cao et.al.|[2602.08658](http://arxiv.org/abs/2602.08658)|null|
+|**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|null|
+|**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|null|
 |**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
 |**2026-02-06**|**POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models**|Yi Chen et.al.|[2602.06822](http://arxiv.org/abs/2602.06822)|null|
 |**2026-02-06**|**HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction**|Shengxuan Qiu et.al.|[2602.06527](http://arxiv.org/abs/2602.06527)|null|
@@ -2437,7 +2456,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260209>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260210>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
