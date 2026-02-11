@@ -7,16 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|null|
+|**2026-02-10**|**MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering**|Sieun Hyeon et.al.|[2602.09642](http://arxiv.org/abs/2602.09642)|null|
+|**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
+|**2026-02-09**|**Benchmarking the Energy Savings with Speculative Decoding Strategies**|Rohit Dutta et.al.|[2602.09113](http://arxiv.org/abs/2602.09113)|null|
 |**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[2602.08858](http://arxiv.org/abs/2602.08858)|null|
 |**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|null|
-|**2026-02-08**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
+|**2026-02-10**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
 |**2026-02-08**|**Accuracy-Delay Trade-Off in LLM Offloading via Token-Level Uncertainty**|Yumin Kim et.al.|[2602.07958](http://arxiv.org/abs/2602.07958)|null|
 |**2026-02-08**|**MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation**|Yu Zhao et.al.|[2602.07905](http://arxiv.org/abs/2602.07905)|null|
 |**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|null|
@@ -986,16 +990,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260210>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260211>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Diverse Skill Discovery for Quadruped Robots via Unsupervised Learning**|Ruopeng Cui et.al.|[2602.09767](http://arxiv.org/abs/2602.09767)|null|
+|**2026-02-10**|**DR.Experts: Differential Refinement of Distortion-Aware Experts for Blind Image Quality Assessment**|Bohan Fu et.al.|[2602.09531](http://arxiv.org/abs/2602.09531)|null|
+|**2026-02-10**|**SMES: Towards Scalable Multi-Task Recommendation via Expert Sparsity**|Yukun Zhang et.al.|[2602.09386](http://arxiv.org/abs/2602.09386)|null|
+|**2026-02-10**|**Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density**|Zhendong Mi et.al.|[2602.09316](http://arxiv.org/abs/2602.09316)|null|
+|**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
+|**2026-02-09**|**UI-Venus-1.5 Technical Report**|Veuns-Team et.al.|[2602.09082](http://arxiv.org/abs/2602.09082)|null|
 |**2026-02-09**|**DirMoE: Dirichlet-routed Mixture of Experts**|Amirhossein Vahidi et.al.|[2602.09001](http://arxiv.org/abs/2602.09001)|null|
 |**2026-02-09**|**OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation**|Yehua Huang et.al.|[2602.08896](http://arxiv.org/abs/2602.08896)|null|
 |**2026-02-09**|**FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models**|Annemette Brok Pirchert et.al.|[2602.08818](http://arxiv.org/abs/2602.08818)|null|
-|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
 |**2026-02-09**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
 |**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
 |**2026-02-09**|**6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**|Mohamed Amine Ferrag et.al.|[2602.08675](http://arxiv.org/abs/2602.08675)|null|
@@ -2456,7 +2466,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260210>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260211>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
