@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Characterize LSM-tree Compaction Performance via On-Device LLM Inference**|Jiabiao Ding et.al.|[2602.12669](http://arxiv.org/abs/2602.12669)|null|
+|**2026-02-13**|**Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats**|Pengxiang Zhao et.al.|[2602.12635](http://arxiv.org/abs/2602.12635)|null|
+|**2026-02-13**|**TensorCommitments: A Lightweight Verifiable Inference for Language Models**|Oguzhan Baser et.al.|[2602.12630](http://arxiv.org/abs/2602.12630)|null|
 |**2026-02-12**|**Predicting LLM Output Length via Entropy-Guided Representations**|Huanyi Xie et.al.|[2602.11812](http://arxiv.org/abs/2602.11812)|null|
 |**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|null|
 |**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|null|
@@ -998,12 +1001,16 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260215>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260216>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Mixture of Predefined Experts: Maximizing Data Usage on Vertical Federated Learning**|Jon Irureta et.al.|[2602.12708](http://arxiv.org/abs/2602.12708)|null|
+|**2026-02-13**|**Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers**|Anrui Chen et.al.|[2602.12587](http://arxiv.org/abs/2602.12587)|null|
+|**2026-02-13**|**SD-MoE: Spectral Decomposition for Effective Expert Specialization**|Ruijun Huang et.al.|[2602.12556](http://arxiv.org/abs/2602.12556)|null|
+|**2026-02-13**|**Decoder-only Conformer with Modality-aware Sparse Mixtures of Experts for ASR**|Jaeyoung Lee et.al.|[2602.12546](http://arxiv.org/abs/2602.12546)|null|
 |**2026-02-12**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|null|
 |**2026-02-12**|**LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training**|Xinyi Liu et.al.|[2602.11686](http://arxiv.org/abs/2602.11686)|null|
 |**2026-02-12**|**Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts**|Haiyang Jiang et.al.|[2602.11622](http://arxiv.org/abs/2602.11622)|null|
@@ -2486,7 +2493,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260215>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260216>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
