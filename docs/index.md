@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|null|
+|**2026-02-16**|**WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity**|Lei Chen et.al.|[2602.14452](http://arxiv.org/abs/2602.14452)|null|
+|**2026-02-15**|**HiVid: LLM-Guided Video Saliency For Content-Aware VOD And Live Streaming**|Jiahui Chen et.al.|[2602.14214](http://arxiv.org/abs/2602.14214)|null|
 |**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|null|
 |**2026-02-13**|**Characterize LSM-tree Compaction Performance via On-Device LLM Inference**|Jiabiao Ding et.al.|[2602.12669](http://arxiv.org/abs/2602.12669)|null|
 |**2026-02-13**|**Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats**|Pengxiang Zhao et.al.|[2602.12635](http://arxiv.org/abs/2602.12635)|null|
@@ -1008,6 +1011,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
+|**2026-02-15**|**MILD: Multi-Intent Learning and Disambiguation for Proactive Failure Prediction in Intent-based Networking**|Md. Kamrul Hossain et.al.|[2602.14283](http://arxiv.org/abs/2602.14283)|null|
+|**2026-02-15**|**Multi-Agent Debate: A Unified Agentic Framework for Tabular Anomaly Detection**|Pinqiao Wang et.al.|[2602.14251](http://arxiv.org/abs/2602.14251)|null|
 |**2026-02-15**|**Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization**|Rizhen Hu et.al.|[2602.14159](http://arxiv.org/abs/2602.14159)|null|
 |**2026-02-15**|**LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts**|Yang Liu et.al.|[2602.14060](http://arxiv.org/abs/2602.14060)|null|
 |**2026-02-15**|**Geometry-Preserving Aggregation for Mixture-of-Experts Embedding Models**|Sajjad Kachuee et.al.|[2602.14039](http://arxiv.org/abs/2602.14039)|null|
