@@ -3,13 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum**|Zijie Su et.al.|[2602.16100](http://arxiv.org/abs/2602.16100)|null|
+|**2026-02-17**|**CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill**|Bradley McDanel et.al.|[2602.16054](http://arxiv.org/abs/2602.16054)|null|
+|**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
 |**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|null|
 |**2026-02-16**|**WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity**|Lei Chen et.al.|[2602.14452](http://arxiv.org/abs/2602.14452)|null|
@@ -1002,12 +1005,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260218>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260219>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Federated Graph AGI for Cross-Border Insider Threat Intelligence in Government Financial Schemes**|Srikumar Nayak et.al.|[2602.16109](http://arxiv.org/abs/2602.16109)|null|
+|**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
 |**2026-02-17**|**ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns**|Ziyu Zhao et.al.|[2602.15521](http://arxiv.org/abs/2602.15521)|null|
 |**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|null|
 |**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
@@ -2504,7 +2509,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260218>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260219>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
