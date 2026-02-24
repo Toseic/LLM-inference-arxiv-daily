@@ -1020,6 +1020,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**The Universal Eccentricity Distribution for Dynamical Gravitational-Wave Merger Channels**|Mor Rozner et.al.|[2602.20110](http://arxiv.org/abs/2602.20110)|null|
+|**2026-02-23**|**Counterfactual Understanding via Retrieval-aware Multimodal Modeling for Time-to-Event Survival Prediction**|Ha-Anh Hoang Nguyen et.al.|[2602.19987](http://arxiv.org/abs/2602.19987)|null|
+|**2026-02-23**|**A Replicate-and-Quantize Strategy for Plug-and-Play Load Balancing of Sparse Mixture-of-Experts LLMs**|Zijie Liu et.al.|[2602.19938](http://arxiv.org/abs/2602.19938)|null|
+|**2026-02-23**|**Towards Dexterous Embodied Manipulation via Deep Multi-Sensory Fusion and Sparse Expert Scaling**|Yirui Sun et.al.|[2602.19764](http://arxiv.org/abs/2602.19764)|null|
+|**2026-02-23**|**RAID: Retrieval-Augmented Anomaly Detection**|Mingxiu Cai et.al.|[2602.19611](http://arxiv.org/abs/2602.19611)|null|
+|**2026-02-23**|**Conversational AI for Automated Patient Questionnaire Completion: Development Insights and Design Principles**|David Fraile Navarro et.al.|[2602.19507](http://arxiv.org/abs/2602.19507)|null|
+|**2026-02-23**|**EMS-FL: Federated Tuning of Mixture-of-Experts in Satellite-Terrestrial Networks via Expert-Driven Model Splitting**|Angzi Xu et.al.|[2602.19485](http://arxiv.org/abs/2602.19485)|null|
 |**2026-02-22**|**Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts**|Toshihide Ubukata et.al.|[2602.19244](http://arxiv.org/abs/2602.19244)|null|
 |**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](http://arxiv.org/abs/2602.19213)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
