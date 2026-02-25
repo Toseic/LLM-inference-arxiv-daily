@@ -3,19 +3,23 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference**|Chao Fei et.al.|[2602.20732](http://arxiv.org/abs/2602.20732)|null|
+|**2026-02-24**|**FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill**|Rakshith Jayanth et.al.|[2602.20515](http://arxiv.org/abs/2602.20515)|null|
+|**2026-02-23**|**KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem**|Seongjin Cha et.al.|[2602.20217](http://arxiv.org/abs/2602.20217)|null|
+|**2026-02-21**|**MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Elastic LLMs**|Dongwei Wang et.al.|[2602.20191](http://arxiv.org/abs/2602.20191)|null|
 |**2026-02-22**|**A Power Market Model with Hypersaclers and Modular Datacenters**|Yihsu Chen et.al.|[2602.19310](http://arxiv.org/abs/2602.19310)|null|
 |**2026-02-22**|**Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation**|Xiangyu Liu et.al.|[2602.19309](http://arxiv.org/abs/2602.19309)|null|
 |**2026-02-21**|**WANSpec: Leveraging Global Compute Capacity for LLM Inference**|Noah Martin et.al.|[2602.18931](http://arxiv.org/abs/2602.18931)|null|
 |**2026-02-21**|**BiScale: Energy-Efficient Disaggregated LLM Serving via Phase-Aware Placement and DVFS**|Omar Basit et.al.|[2602.18755](http://arxiv.org/abs/2602.18755)|null|
 |**2026-02-21**|**HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD**|He Sun et.al.|[2602.18750](http://arxiv.org/abs/2602.18750)|null|
-|**2026-02-20**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
+|**2026-02-24**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
 |**2026-02-19**|**Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs**|Arka Pal et.al.|[2602.17223](http://arxiv.org/abs/2602.17223)|null|
 |**2026-02-18**|**Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks**|Michael Cunningham et.al.|[2602.16760](http://arxiv.org/abs/2602.16760)|null|
@@ -1014,12 +1018,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260224>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260225>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
+|**2026-02-24**|**Wireless Federated Multi-Task LLM Fine-Tuning via Sparse-and-Orthogonal LoRA**|Nuocheng Yang et.al.|[2602.20492](http://arxiv.org/abs/2602.20492)|null|
 |**2026-02-23**|**The Universal Eccentricity Distribution for Dynamical Gravitational-Wave Merger Channels**|Mor Rozner et.al.|[2602.20110](http://arxiv.org/abs/2602.20110)|null|
 |**2026-02-23**|**Counterfactual Understanding via Retrieval-aware Multimodal Modeling for Time-to-Event Survival Prediction**|Ha-Anh Hoang Nguyen et.al.|[2602.19987](http://arxiv.org/abs/2602.19987)|null|
 |**2026-02-23**|**A Replicate-and-Quantize Strategy for Plug-and-Play Load Balancing of Sparse Mixture-of-Experts LLMs**|Zijie Liu et.al.|[2602.19938](http://arxiv.org/abs/2602.19938)|null|
@@ -2534,7 +2540,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260224>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260225>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
