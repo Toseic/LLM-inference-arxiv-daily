@@ -3,13 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
+|**2026-02-25**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|null|
+|**2026-02-24**|**SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks**|Elizabeth S. Z. Tan et.al.|[2602.21307](http://arxiv.org/abs/2602.21307)|null|
 |**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
 |**2026-02-24**|**CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference**|Chao Fei et.al.|[2602.20732](http://arxiv.org/abs/2602.20732)|null|
 |**2026-02-24**|**FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill**|Rakshith Jayanth et.al.|[2602.20515](http://arxiv.org/abs/2602.20515)|null|
@@ -1019,13 +1022,18 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260225>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260226>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-24**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
+|**2026-02-25**|**Excitation: Momentum For Experts**|Sagi Shaier et.al.|[2602.21798](http://arxiv.org/abs/2602.21798)|null|
+|**2026-02-25**|**Learning from Yesterday's Error: An Efficient Online Learning Method for Traffic Demand Prediction**|Xiannan Huang et.al.|[2602.21757](http://arxiv.org/abs/2602.21757)|null|
+|**2026-02-25**|**TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts**|Jiafeng Lin et.al.|[2602.21693](http://arxiv.org/abs/2602.21693)|null|
+|**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
+|**2026-02-24**|**Dual-Branch INS/GNSS Fusion with Inequality and Equality Constraints**|Mor Levenhar et.al.|[2602.21266](http://arxiv.org/abs/2602.21266)|null|
+|**2026-02-25**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
 |**2026-02-24**|**Wireless Federated Multi-Task LLM Fine-Tuning via Sparse-and-Orthogonal LoRA**|Nuocheng Yang et.al.|[2602.20492](http://arxiv.org/abs/2602.20492)|null|
 |**2026-02-23**|**The Universal Eccentricity Distribution for Dynamical Gravitational-Wave Merger Channels**|Mor Rozner et.al.|[2602.20110](http://arxiv.org/abs/2602.20110)|null|
 |**2026-02-23**|**Counterfactual Understanding via Retrieval-aware Multimodal Modeling for Time-to-Event Survival Prediction**|Ha-Anh Hoang Nguyen et.al.|[2602.19987](http://arxiv.org/abs/2602.19987)|null|
@@ -2541,7 +2549,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260225>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260226>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
