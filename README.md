@@ -3,13 +3,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
+|**2026-02-27**|**SLA-Aware Distributed LLM Inference Across Device-RAN-Cloud**|Hariz Yet et.al.|[2602.23722](http://arxiv.org/abs/2602.23722)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
 |**2026-02-26**|**Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching**|Hiroki Matsutani et.al.|[2602.22812](http://arxiv.org/abs/2602.22812)|null|
 |**2026-02-25**|**Sustainable LLM Inference using Context-Aware Model Switching**|Yuvarani et.al.|[2602.22261](http://arxiv.org/abs/2602.22261)|null|
@@ -1025,12 +1027,14 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260301>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260302>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Chenwei Jia et.al.|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
+|**2026-02-26**|**Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG**|Hanning Guo et.al.|[2602.23410](http://arxiv.org/abs/2602.23410)|null|
 |**2026-02-26**|**A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations**|Soumya Dutta et.al.|[2602.23300](http://arxiv.org/abs/2602.23300)|null|
 |**2026-02-26**|**Learning Physical Operators using Neural Operators**|Vignesh Gopakumar et.al.|[2602.23113](http://arxiv.org/abs/2602.23113)|null|
 |**2026-02-26**|**pMoE: Prompting Diverse Experts Together Wins More in Visual Adaptation**|Shentong Mo et.al.|[2602.22938](http://arxiv.org/abs/2602.22938)|null|
@@ -2558,7 +2562,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260301>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260302>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
