@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads**|Dominik Scheinert et.al.|[2603.02057](http://arxiv.org/abs/2603.02057)|null|
+|**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|null|
+|**2026-03-02**|**Towards Privacy-Preserving LLM Inference via Collaborative Obfuscation (Technical Report)**|Yu Lin et.al.|[2603.01499](http://arxiv.org/abs/2603.01499)|null|
+|**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|
+|**2026-03-02**|**SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment**|Chaoran Xiong et.al.|[2603.01477](http://arxiv.org/abs/2603.01477)|null|
+|**2026-03-02**|**Quasar: Quantized Self-Speculative Acceleration for Rapid Inference via Memory-Efficient Verification**|Guang Huang et.al.|[2603.01399](http://arxiv.org/abs/2603.01399)|null|
 |**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
 |**2026-02-27**|**SLA-Aware Distributed LLM Inference Across Device-RAN-Cloud**|Hariz Yet et.al.|[2602.23722](http://arxiv.org/abs/2602.23722)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
@@ -1037,6 +1043,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks**|Gökdeniz Gülmez et.al.|[2603.01697](http://arxiv.org/abs/2603.01697)|null|
+|**2026-03-02**|**PathMoE: Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification**|Jian Yu et.al.|[2603.01547](http://arxiv.org/abs/2603.01547)|null|
+|**2026-03-02**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
+|**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
+|**2026-03-02**|**Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting**|Yi Li et.al.|[2603.01363](http://arxiv.org/abs/2603.01363)|null|
+|**2026-03-01**|**Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning**|Hamed Damirchi et.al.|[2603.01326](http://arxiv.org/abs/2603.01326)|null|
+|**2026-03-01**|**TriMoE: Augmenting GPU with AMX-Enabled CPU and DIMM-NDP for High-Throughput MoE Inference via Offloading**|Yudong Pan et.al.|[2603.01058](http://arxiv.org/abs/2603.01058)|null|
+|**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|null|
 |**2026-02-28**|**MME: Mixture of Mesh Experts with Random Walk Transformer Gating**|Amir Belder et.al.|[2603.00828](http://arxiv.org/abs/2603.00828)|null|
 |**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Chenwei Jia et.al.|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
 |**2026-02-26**|**Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG**|Hanning Guo et.al.|[2602.23410](http://arxiv.org/abs/2602.23410)|null|
