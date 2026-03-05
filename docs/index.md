@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality**|Arther Tian et.al.|[2603.04028](http://arxiv.org/abs/2603.04028)|null|
 |**2026-03-03**|**SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment**|Priyavanshi Pathania et.al.|[2603.02949](http://arxiv.org/abs/2603.02949)|null|
 |**2026-03-03**|**Agentic Self-Evolutionary Replanning for Embodied Navigation**|Guoliang Li et.al.|[2603.02772](http://arxiv.org/abs/2603.02772)|null|
 |**2026-03-03**|**Ouroboros: Wafer-Scale SRAM CIM with Token-Grained Pipelining for Large Language Model Inference**|Yiqi Liu et.al.|[2603.02737](http://arxiv.org/abs/2603.02737)|null|
@@ -1040,14 +1041,16 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260304>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260305>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
+|**2026-03-03**|**Modeling Cross-vision Synergy for Unified Large Vision Model**|Shengqiong Wu et.al.|[2603.03564](http://arxiv.org/abs/2603.03564)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
-|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
+|**2026-03-04**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
 |**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[2603.03066](http://arxiv.org/abs/2603.03066)|null|
 |**2026-03-03**|**Practical FP4 Training for Large-Scale MoE Models on Hopper GPUs**|Wuyue Zhang et.al.|[2603.02731](http://arxiv.org/abs/2603.02731)|null|
@@ -2593,7 +2596,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260304>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260305>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
