@@ -1047,6 +1047,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation**|Yixin Chen et.al.|[2603.04348](http://arxiv.org/abs/2603.04348)|null|
+|**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|null|
 |**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
 |**2026-03-03**|**Modeling Cross-vision Synergy for Unified Large Vision Model**|Shengqiong Wu et.al.|[2603.03564](http://arxiv.org/abs/2603.03564)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
