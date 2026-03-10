@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization**|Yeonsik Park et.al.|[2603.08185](http://arxiv.org/abs/2603.08185)|null|
+|**2026-03-09**|**Deterministic Differentiable Structured Pruning for Large Language Models**|Weiyu Huang et.al.|[2603.08065](http://arxiv.org/abs/2603.08065)|null|
+|**2026-03-09**|**DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention**|Younjoo Lee et.al.|[2603.08026](http://arxiv.org/abs/2603.08026)|null|
+|**2026-03-09**|**SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity**|Zhenghao Gan et.al.|[2603.07917](http://arxiv.org/abs/2603.07917)|null|
+|**2026-03-08**|**Temperature-Aware Scheduling of LLM Inference in Large-Scale Geo-Distributed Edge Data Centers with Distributed Optimization**|Arash Khalatbarisoltani et.al.|[2603.07810](http://arxiv.org/abs/2603.07810)|null|
+|**2026-03-08**|**ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs**|Yuzhuang Xu et.al.|[2603.07770](http://arxiv.org/abs/2603.07770)|null|
 |**2026-03-06**|**LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis**|Tao Zhang et.al.|[2603.05904](http://arxiv.org/abs/2603.05904)|null|
 |**2026-03-05**|**Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks**|Burak Topcu et.al.|[2603.05692](http://arxiv.org/abs/2603.05692)|null|
 |**2026-03-05**|**Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents**|Natchanon Pollertlam et.al.|[2603.04814](http://arxiv.org/abs/2603.04814)|null|
@@ -1045,12 +1051,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260309>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260310>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Zihan You et.al.|[2603.08113](http://arxiv.org/abs/2603.08113)|null|
+|**2026-03-09**|**Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization**|Jingwei Li et.al.|[2603.08022](http://arxiv.org/abs/2603.08022)|null|
+|**2026-03-09**|**Scaling Machine Learning Interatomic Potentials with Mixtures of Experts**|Yuzhi Liu et.al.|[2603.07977](http://arxiv.org/abs/2603.07977)|null|
+|**2026-03-08**|**Scalable Training of Mixture-of-Experts Models with Megatron Core**|Zijie Yan et.al.|[2603.07685](http://arxiv.org/abs/2603.07685)|null|
+|**2026-03-08**|**AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots**|Likui Zhang et.al.|[2603.07648](http://arxiv.org/abs/2603.07648)|null|
+|**2026-03-08**|**Mixed Effects Mixture of Experts: Modeling Double Heterogeneous Trajectories**|Xinkai Yue et.al.|[2603.07479](http://arxiv.org/abs/2603.07479)|null|
+|**2026-03-08**|**UnSCAR: Universal, Scalable, Controllable, and Adaptable Image Restoration**|Debabrata Mandal et.al.|[2603.07406](http://arxiv.org/abs/2603.07406)|null|
+|**2026-03-07**|**Mozart: Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet Architectures**|Shuqing Luo et.al.|[2603.07006](http://arxiv.org/abs/2603.07006)|null|
+|**2026-03-06**|**Swimba: Switch Mamba Model Scales State Space Models**|Zhixu Du et.al.|[2603.06938](http://arxiv.org/abs/2603.06938)|null|
+|**2026-03-06**|**PICS: Pairwise Image Compositing with Spatial Interactions**|Hang Zhou et.al.|[2603.06873](http://arxiv.org/abs/2603.06873)|null|
 |**2026-03-06**|**RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering**|Gaia A. Bertolino et.al.|[2603.06542](http://arxiv.org/abs/2603.06542)|null|
 |**2026-03-06**|**A Mixture-of-Experts Framework for Practical Hybrid-Quantum Models in Credit Card Fraud Detection**|Rodrigo Chaves et.al.|[2603.06473](http://arxiv.org/abs/2603.06473)|null|
 |**2026-03-06**|**MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis**|Dongqing Xie et.al.|[2603.06378](http://arxiv.org/abs/2603.06378)|null|
@@ -2619,7 +2635,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260309>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260310>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
