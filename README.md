@@ -1053,6 +1053,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning**|Ariel Rodriguez et.al.|[2603.08476](http://arxiv.org/abs/2603.08476)|null|
 |**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Zihan You et.al.|[2603.08113](http://arxiv.org/abs/2603.08113)|null|
 |**2026-03-09**|**Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization**|Jingwei Li et.al.|[2603.08022](http://arxiv.org/abs/2603.08022)|null|
 |**2026-03-09**|**Scaling Machine Learning Interatomic Potentials with Mixtures of Experts**|Yuzhi Liu et.al.|[2603.07977](http://arxiv.org/abs/2603.07977)|null|
