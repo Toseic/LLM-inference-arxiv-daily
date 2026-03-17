@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation**|Zicheng He et.al.|[2603.14785](http://arxiv.org/abs/2603.14785)|null|
+|**2026-03-16**|**AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems**|Zhaohui Geoffrey Wang et.al.|[2603.14688](http://arxiv.org/abs/2603.14688)|null|
+|**2026-03-15**|**Governing Dynamic Capabilities: Cryptographic Binding and Reproducibility Verification for AI Agent Tool Use**|Ziling Zhou et.al.|[2603.14332](http://arxiv.org/abs/2603.14332)|null|
+|**2026-03-14**|**SVD Contextual Sparsity Predictors for Fast LLM Inference**|Georgii Serbin et.al.|[2603.14110](http://arxiv.org/abs/2603.14110)|null|
+|**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|null|
+|**2026-03-13**|**Outcome-Aware Tool Selection for Semantic Routers: Latency-Constrained Learning Without LLM Inference**|Huamin Chen et.al.|[2603.13426](http://arxiv.org/abs/2603.13426)|null|
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|null|
 |**2026-03-13**|**98 $\times$ Faster LLM Routing Without a Dedicated GPU: Flash Attention, Prompt Compression, and Near-Streaming for the vLLM Semantic Router**|Xunzhuo Liu et.al.|[2603.12646](http://arxiv.org/abs/2603.12646)|null|
 |**2026-03-12**|**TaxBreak: Unmasking the Hidden Costs of LLM Inference Through Overhead Decomposition**|Prabhu Vellaisamy et.al.|[2603.12465](http://arxiv.org/abs/2603.12465)|null|
@@ -1062,12 +1068,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260316>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260317>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**The impact of machine learning forecasting on strategic decision-making for Bike Sharing Systems**|Enrico Angelelli et.al.|[2603.14901](http://arxiv.org/abs/2603.14901)|null|
+|**2026-03-16**|**M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts**|Shiwei Wang et.al.|[2603.14816](http://arxiv.org/abs/2603.14816)|null|
+|**2026-03-15**|**TopoCL: Topological Contrastive Learning for Medical Imaging**|Guangyu Meng et.al.|[2603.14647](http://arxiv.org/abs/2603.14647)|null|
+|**2026-03-15**|**Towards One-for-All Anomaly Detection for Tabular Data**|Shiyuan Li et.al.|[2603.14407](http://arxiv.org/abs/2603.14407)|null|
+|**2026-03-15**|**WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems**|Yuchen Wang et.al.|[2603.14392](http://arxiv.org/abs/2603.14392)|null|
+|**2026-03-15**|**A Physically-Grounded Attack and Adaptive Defense Framework for Real-World Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2603.14304](http://arxiv.org/abs/2603.14304)|null|
+|**2026-03-14**|**PA-Net: Precipitation-Adaptive Mixture-of-Experts for Long-Tail Rainfall Nowcasting**|Xinyu Xiao et.al.|[2603.13818](http://arxiv.org/abs/2603.13818)|null|
+|**2026-03-14**|**Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking**|Yabin Zhu et.al.|[2603.13719](http://arxiv.org/abs/2603.13719)|null|
+|**2026-03-13**|**NCCL EP: Towards a Unified Expert Parallel Communication API for NCCL**|Amos Goldman et.al.|[2603.13606](http://arxiv.org/abs/2603.13606)|null|
+|**2026-03-13**|**Measurements of the electron neutrino-argon differential cross section without pions in the final state in MicroBooNE**|MicroBooNE collaboration et.al.|[2603.13593](http://arxiv.org/abs/2603.13593)|null|
 |**2026-03-13**|**MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models**|Md. Abdul Awal et.al.|[2603.13213](http://arxiv.org/abs/2603.13213)|null|
 |**2026-03-13**|**Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach**|Elena Ryumina et.al.|[2603.13056](http://arxiv.org/abs/2603.13056)|null|
 |**2026-03-13**|**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**|Fei Wang et.al.|[2603.12845](http://arxiv.org/abs/2603.12845)|null|
@@ -2674,7 +2690,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260316>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260317>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
