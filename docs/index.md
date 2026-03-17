@@ -1074,6 +1074,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Bridging Local and Global Knowledge: Cascaded Mixture-of-Experts Learning for Near-Shortest Path Routing**|Yung-Fu Chen et.al.|[2603.15541](http://arxiv.org/abs/2603.15541)|null|
+|**2026-03-16**|**Separating partially coherent light**|Paul-Alexis Mor et.al.|[2603.15517](http://arxiv.org/abs/2603.15517)|null|
+|**2026-03-16**|**A Closer Look into LLMs for Table Understanding**|Jia Wang et.al.|[2603.15402](http://arxiv.org/abs/2603.15402)|null|
+|**2026-03-16**|**MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers**|Kangjun Guo et.al.|[2603.15265](http://arxiv.org/abs/2603.15265)|null|
+|**2026-03-16**|**ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation**|Yang Li et.al.|[2603.15169](http://arxiv.org/abs/2603.15169)|null|
 |**2026-03-16**|**The impact of machine learning forecasting on strategic decision-making for Bike Sharing Systems**|Enrico Angelelli et.al.|[2603.14901](http://arxiv.org/abs/2603.14901)|null|
 |**2026-03-16**|**M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts**|Shiwei Wang et.al.|[2603.14816](http://arxiv.org/abs/2603.14816)|null|
 |**2026-03-15**|**TopoCL: Topological Contrastive Learning for Medical Imaging**|Guangyu Meng et.al.|[2603.14647](http://arxiv.org/abs/2603.14647)|null|
