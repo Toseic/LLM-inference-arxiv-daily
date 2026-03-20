@@ -3,13 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
+|**2026-03-19**|**From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning**|Grant Wilkins et.al.|[2603.18383](http://arxiv.org/abs/2603.18383)|null|
+|**2026-03-18**|**Conflict-Free Policy Languages for Probabilistic ML Predicates: A Framework and Case Study with the Semantic Router DSL**|Xunzhuo Liu et.al.|[2603.18174](http://arxiv.org/abs/2603.18174)|null|
 |**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891](http://arxiv.org/abs/2603.17891)|null|
 |**2026-03-18**|**Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs**|Tuowei Wang et.al.|[2603.17803](http://arxiv.org/abs/2603.17803)|null|
 |**2026-03-18**|**ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression**|Ruibo Fan et.al.|[2603.17435](http://arxiv.org/abs/2603.17435)|null|
@@ -1073,12 +1076,19 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260319>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260320>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|Weihang Huang et.al.|[2603.19029](http://arxiv.org/abs/2603.19029)|null|
+|**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
+|**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|Fuze Sun et.al.|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
+|**2026-03-19**|**AIMER: Calibration-Free Task-Agnostic MoE Pruning**|Zongfang Liu et.al.|[2603.18492](http://arxiv.org/abs/2603.18492)|null|
+|**2026-03-19**|**AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba**|Yan Li et.al.|[2603.18462](http://arxiv.org/abs/2603.18462)|null|
+|**2026-03-18**|**Path-Constrained Mixture-of-Experts**|Zijin Gu et.al.|[2603.18297](http://arxiv.org/abs/2603.18297)|null|
+|**2026-03-18**|**Understanding Task Aggregation for Generalizable Ultrasound Foundation Models**|Fangyijie Wang et.al.|[2603.18123](http://arxiv.org/abs/2603.18123)|null|
 |**2026-03-17**|**Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency**|Lucas Bandarkar et.al.|[2603.17102](http://arxiv.org/abs/2603.17102)|null|
 |**2026-03-17**|**SpecMoE: Spectral Mixture-of-Experts Foundation Model for Cross-Species EEG Decoding**|D. Darankoum et.al.|[2603.16739](http://arxiv.org/abs/2603.16739)|null|
 |**2026-03-17**|**HMAR: Hierarchical Modality-Aware Expert and Dynamic Routing Medical Image Retrieval Architecture**|Aojie Yuan et.al.|[2603.16679](http://arxiv.org/abs/2603.16679)|null|
@@ -2709,7 +2719,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260319>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260320>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
