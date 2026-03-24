@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection**|Hyoseok Park et.al.|[2603.21576](http://arxiv.org/abs/2603.21576)|null|
+|**2026-03-22**|**TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference**|Jaber Jaber et.al.|[2603.21365](http://arxiv.org/abs/2603.21365)|null|
+|**2026-03-22**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|null|
+|**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|null|
+|**2026-03-22**|**CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands**|Weiye Wang et.al.|[2603.21257](http://arxiv.org/abs/2603.21257)|null|
+|**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|null|
 |**2026-03-20**|**HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning**|Beibei Xu et.al.|[2603.19639](http://arxiv.org/abs/2603.19639)|null|
 |**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
 |**2026-03-19**|**From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning**|Grant Wilkins et.al.|[2603.18383](http://arxiv.org/abs/2603.18383)|null|
@@ -1081,12 +1087,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260323>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260324>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|null|
+|**2026-03-23**|**Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization**|Weilin Wan et.al.|[2603.21862](http://arxiv.org/abs/2603.21862)|null|
+|**2026-03-22**|**Aggregation Alignment for Federated Learning with Mixture-of-Experts under Data Heterogeneity**|Zihan Fang et.al.|[2603.21276](http://arxiv.org/abs/2603.21276)|null|
+|**2026-03-22**|**QMoP: Query Guided Mixture-of-Projector for Efficient Visual Token Compression**|Zhongyang Li et.al.|[2603.21232](http://arxiv.org/abs/2603.21232)|null|
+|**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
+|**2026-03-22**|**CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models**|Nan Zhou et.al.|[2603.21077](http://arxiv.org/abs/2603.21077)|null|
+|**2026-03-22**|**LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning**|Jianing Wang et.al.|[2603.21065](http://arxiv.org/abs/2603.21065)|null|
+|**2026-03-21**|**Satellite-to-Street: Synthesizing Post-Disaster Views from Satellite Imagery via Generative Vision Models**|Yifan Yang et.al.|[2603.20697](http://arxiv.org/abs/2603.20697)|null|
+|**2026-03-20**|**AE-LLM: Adaptive Efficiency Optimization for Large Language Models**|Kaito Tanaka et.al.|[2603.20492](http://arxiv.org/abs/2603.20492)|null|
+|**2026-03-20**|**Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation**|Marcus Armstrong et.al.|[2603.20406](http://arxiv.org/abs/2603.20406)|null|
 |**2026-03-20**|**Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?**|Lokesh Kumar et.al.|[2603.19831](http://arxiv.org/abs/2603.19831)|null|
 |**2026-03-20**|**UniBioTransfer: A Unified Framework for Multiple Biometrics Transfer**|Caiyi Sun et.al.|[2603.19637](http://arxiv.org/abs/2603.19637)|null|
 |**2026-03-19**|**Scalable Prompt Routing via Fine-Grained Latent Task Discovery**|Yunyi Zhang et.al.|[2603.19415](http://arxiv.org/abs/2603.19415)|null|
@@ -2727,7 +2743,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260323>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260324>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
