@@ -3,17 +3,20 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Self-Distillation for Multi-Token Prediction**|Guoliang Zhao et.al.|[2603.23911](http://arxiv.org/abs/2603.23911)|null|
+|**2026-03-24**|**The Diminishing Returns of Early-Exit Decoding in Modern LLMs**|Rui Wei et.al.|[2603.23701](http://arxiv.org/abs/2603.23701)|null|
+|**2026-03-24**|**LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load**|Pranay Tummalapalli et.al.|[2603.23640](http://arxiv.org/abs/2603.23640)|null|
 |**2026-03-24**|**Sparser, Faster, Lighter Transformer Language Models**|Edoardo Cetin et.al.|[2603.23198](http://arxiv.org/abs/2603.23198)|null|
 |**2026-03-24**|**Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference**|Euijun Chung et.al.|[2603.22774](http://arxiv.org/abs/2603.22774)|null|
 |**2026-03-23**|**GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**|Xiao Han et.al.|[2603.22096](http://arxiv.org/abs/2603.22096)|null|
-|**2026-03-23**|**PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection**|Hyoseok Park et.al.|[2603.21576](http://arxiv.org/abs/2603.21576)|null|
+|**2026-03-25**|**PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection**|Hyoseok Park et.al.|[2603.21576](http://arxiv.org/abs/2603.21576)|null|
 |**2026-03-22**|**TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference**|Jaber Jaber et.al.|[2603.21365](http://arxiv.org/abs/2603.21365)|null|
 |**2026-03-22**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|null|
 |**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|null|
@@ -1086,12 +1089,22 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260325>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260326>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Enes Causal Discovery**|Alexis Kafantaris et.al.|[2603.24436](http://arxiv.org/abs/2603.24436)|null|
+|**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
+|**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
+|**2026-03-25**|**PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning**|Huanyu Li et.al.|[2603.24047](http://arxiv.org/abs/2603.24047)|null|
+|**2026-03-25**|**LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|[2603.24045](http://arxiv.org/abs/2603.24045)|null|
+|**2026-03-25**|**MoE-Sieve: Routing-Guided LoRA for Efficient MoE Fine-Tuning**|Andrea Manzoni et.al.|[2603.24044](http://arxiv.org/abs/2603.24044)|null|
+|**2026-03-25**|**SiftMoE: Similarity-Aware Energy-Efficient Expert Selection for Wireless Distributed MoE Inference**|Qian Chen et.al.|[2603.23888](http://arxiv.org/abs/2603.23888)|null|
+|**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
+|**2026-03-24**|**The Diminishing Returns of Early-Exit Decoding in Modern LLMs**|Rui Wei et.al.|[2603.23701](http://arxiv.org/abs/2603.23701)|null|
+|**2026-03-24**|**Scintillation light calibrations, systematic uncertainties, and triggering efficiency in the MicroBooNE detector**|MicroBooNE collaboration et.al.|[2603.23691](http://arxiv.org/abs/2603.23691)|null|
 |**2026-03-24**|**Similarity-Aware Mixture-of-Experts for Data-Efficient Continual Learning**|Connor Mclaughlin et.al.|[2603.23436](http://arxiv.org/abs/2603.23436)|null|
 |**2026-03-24**|**Sometimes You Just Can't Put a Ring on It: Setting Constraints on Rings around Moons from Magnetic Fields**|Jamie M. Erak et.al.|[2603.22722](http://arxiv.org/abs/2603.22722)|null|
 |**2026-03-23**|**Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning**|Daniel Shao et.al.|[2603.22198](http://arxiv.org/abs/2603.22198)|null|
@@ -2745,7 +2758,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260325>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260326>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
