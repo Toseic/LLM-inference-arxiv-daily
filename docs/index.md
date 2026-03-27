@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Supercharging Federated Intelligence Retrieval**|Dimitris Stripelis et.al.|[2603.25374](http://arxiv.org/abs/2603.25374)|null|
+|**2026-03-26**|**Interpretable Zero-shot Referring Expression Comprehension with Query-driven Scene Graphs**|Yike Wu et.al.|[2603.25004](http://arxiv.org/abs/2603.25004)|null|
 |**2026-03-25**|**Self-Distillation for Multi-Token Prediction**|Guoliang Zhao et.al.|[2603.23911](http://arxiv.org/abs/2603.23911)|null|
 |**2026-03-24**|**The Diminishing Returns of Early-Exit Decoding in Modern LLMs**|Rui Wei et.al.|[2603.23701](http://arxiv.org/abs/2603.23701)|null|
 |**2026-03-24**|**LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load**|Pranay Tummalapalli et.al.|[2603.23640](http://arxiv.org/abs/2603.23640)|null|
@@ -1093,12 +1095,18 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260326>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260327>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**A Wireless World Model for AI-Native 6G Networks**|Ziqi Chen et.al.|[2603.25216](http://arxiv.org/abs/2603.25216)|null|
+|**2026-03-26**|**MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation**|Ranxu Zhang et.al.|[2603.25126](http://arxiv.org/abs/2603.25126)|null|
+|**2026-03-26**|**MP-MoE: Matrix Profile-Guided Mixture of Experts for Precipitation Forecasting**|Huyen Ngoc Tran et.al.|[2603.25046](http://arxiv.org/abs/2603.25046)|null|
+|**2026-03-26**|**MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**|Dohwan Ko et.al.|[2603.24984](http://arxiv.org/abs/2603.24984)|null|
+|**2026-03-26**|**CROSS: A Mixture-of-Experts Reinforcement Learning Framework for Generalizable Large-Scale Traffic Signal Control**|Xibei Chen et.al.|[2603.24930](http://arxiv.org/abs/2603.24930)|null|
+|**2026-03-25**|**OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding**|Xiaoyu Tang et.al.|[2603.24876](http://arxiv.org/abs/2603.24876)|null|
 |**2026-03-25**|**Enes Causal Discovery**|Alexis Kafantaris et.al.|[2603.24436](http://arxiv.org/abs/2603.24436)|null|
 |**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
@@ -2762,7 +2770,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260326>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260327>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
