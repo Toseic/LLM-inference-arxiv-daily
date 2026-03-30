@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**MemBoost: A Memory-Boosted Framework for Cost-Aware LLM Inference**|Joris Köster et.al.|[2603.26557](http://arxiv.org/abs/2603.26557)|null|
 |**2026-03-26**|**Supercharging Federated Intelligence Retrieval**|Dimitris Stripelis et.al.|[2603.25374](http://arxiv.org/abs/2603.25374)|null|
 |**2026-03-26**|**Interpretable Zero-shot Referring Expression Comprehension with Query-driven Scene Graphs**|Yike Wu et.al.|[2603.25004](http://arxiv.org/abs/2603.25004)|null|
 |**2026-03-25**|**Self-Distillation for Multi-Token Prediction**|Guoliang Zhao et.al.|[2603.23911](http://arxiv.org/abs/2603.23911)|null|
@@ -1101,6 +1102,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence**|Eziyo Ehsani et.al.|[2603.26603](http://arxiv.org/abs/2603.26603)|null|
+|**2026-03-26**|**Can Small Models Reason About Legal Documents? A Comparative Study**|Snehit Vaddi et.al.|[2603.25944](http://arxiv.org/abs/2603.25944)|null|
 |**2026-03-26**|**A Wireless World Model for AI-Native 6G Networks**|Ziqi Chen et.al.|[2603.25216](http://arxiv.org/abs/2603.25216)|null|
 |**2026-03-26**|**MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation**|Ranxu Zhang et.al.|[2603.25126](http://arxiv.org/abs/2603.25126)|null|
 |**2026-03-26**|**MP-MoE: Matrix Profile-Guided Mixture of Experts for Precipitation Forecasting**|Huyen Ngoc Tran et.al.|[2603.25046](http://arxiv.org/abs/2603.25046)|null|
