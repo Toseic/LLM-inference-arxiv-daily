@@ -7,13 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN**|Gabriele Gemmi et.al.|[2603.28680](http://arxiv.org/abs/2603.28680)|null|
+|**2026-03-30**|**Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in Large Language Model Inference Services**|Mingdeng Du et.al.|[2603.28576](http://arxiv.org/abs/2603.28576)|null|
+|**2026-03-30**|**A Switch-Centric In-Network Architecture for Accelerating LLM Inference in Shared-Memory Network**|Aojie Jiang et.al.|[2603.28239](http://arxiv.org/abs/2603.28239)|null|
+|**2026-03-30**|**ITQ3_S: High-Fidelity 3-bit LLM Inference via Interleaved Ternary Quantization with Rotation-Domain Smoothing**|Edward J. Yoon et.al.|[2603.27914](http://arxiv.org/abs/2603.27914)|null|
+|**2026-03-29**|**KVSculpt: KV Cache Compression as Distillation**|Bo Jiang et.al.|[2603.27819](http://arxiv.org/abs/2603.27819)|null|
+|**2026-03-28**|**From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification**|Huamin Chen et.al.|[2603.27299](http://arxiv.org/abs/2603.27299)|null|
+|**2026-03-28**|**ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference**|Qiuyang Zhang et.al.|[2603.27138](http://arxiv.org/abs/2603.27138)|null|
 |**2026-03-27**|**MemBoost: A Memory-Boosted Framework for Cost-Aware LLM Inference**|Joris Köster et.al.|[2603.26557](http://arxiv.org/abs/2603.26557)|null|
 |**2026-03-26**|**Supercharging Federated Intelligence Retrieval**|Dimitris Stripelis et.al.|[2603.25374](http://arxiv.org/abs/2603.25374)|null|
 |**2026-03-26**|**Interpretable Zero-shot Referring Expression Comprehension with Query-driven Scene Graphs**|Yike Wu et.al.|[2603.25004](http://arxiv.org/abs/2603.25004)|null|
@@ -1096,12 +1103,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260330>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260331>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Rethinking Language Model Scaling under Transferable Hypersphere Optimization**|Liliang Ren et.al.|[2603.28743](http://arxiv.org/abs/2603.28743)|null|
+|**2026-03-30**|**Towards Analyzing Formic Acid Using Classical and Quantum Methods**|Omer Gurevich et.al.|[2603.28343](http://arxiv.org/abs/2603.28343)|null|
+|**2026-03-30**|**Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams**|Silvano Coletti et.al.|[2603.28115](http://arxiv.org/abs/2603.28115)|null|
+|**2026-03-30**|**ExFusion: Efficient Transformer Training via Multi-Experts Fusion**|Jiacheng Ruan et.al.|[2603.27965](http://arxiv.org/abs/2603.27965)|null|
+|**2026-03-29**|**Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling**|Songchen Ma et.al.|[2603.27624](http://arxiv.org/abs/2603.27624)|null|
+|**2026-03-29**|**On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models**|Chongyang Zhao et.al.|[2603.27481](http://arxiv.org/abs/2603.27481)|null|
+|**2026-03-28**|**Benchmarking Quantum Computers via Protocols -- Comparing Superconducting and Ion-Trap Quantum Technology**|Nitay Mayo et.al.|[2603.27397](http://arxiv.org/abs/2603.27397)|null|
+|**2026-03-28**|**Zero-waste manufacturing of ophthalmic lenses by direct Fluidic Shaping in arbitrary domains**|Yotam Katzman et.al.|[2603.27367](http://arxiv.org/abs/2603.27367)|null|
+|**2026-03-28**|**Persistent Memory Through Triple-Loop Consolidation in a Non-Gradient Dissipative Cognitive Architecture**|Jianwei Lou et.al.|[2603.27188](http://arxiv.org/abs/2603.27188)|null|
+|**2026-03-28**|**Routing Sensitivity Without Controllability: A Diagnostic Study of Fairness in MoE Language Models**|Junhyeok Lee et.al.|[2603.27141](http://arxiv.org/abs/2603.27141)|null|
 |**2026-03-27**|**Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence**|Eziyo Ehsani et.al.|[2603.26603](http://arxiv.org/abs/2603.26603)|null|
 |**2026-03-26**|**Can Small Models Reason About Legal Documents? A Comparative Study**|Snehit Vaddi et.al.|[2603.25944](http://arxiv.org/abs/2603.25944)|null|
 |**2026-03-26**|**A Wireless World Model for AI-Native 6G Networks**|Ziqi Chen et.al.|[2603.25216](http://arxiv.org/abs/2603.25216)|null|
@@ -2773,7 +2790,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260330>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260331>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
