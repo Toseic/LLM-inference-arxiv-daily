@@ -7,17 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference**|Zifan He et.al.|[2603.29002](http://arxiv.org/abs/2603.29002)|null|
 |**2026-03-30**|**A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN**|Gabriele Gemmi et.al.|[2603.28680](http://arxiv.org/abs/2603.28680)|null|
 |**2026-03-30**|**Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in Large Language Model Inference Services**|Mingdeng Du et.al.|[2603.28576](http://arxiv.org/abs/2603.28576)|null|
-|**2026-03-30**|**A Switch-Centric In-Network Architecture for Accelerating LLM Inference in Shared-Memory Network**|Aojie Jiang et.al.|[2603.28239](http://arxiv.org/abs/2603.28239)|null|
-|**2026-03-30**|**ITQ3_S: High-Fidelity 3-bit LLM Inference via Interleaved Ternary Quantization with Rotation-Domain Smoothing**|Edward J. Yoon et.al.|[2603.27914](http://arxiv.org/abs/2603.27914)|null|
+|**2026-03-31**|**A Switch-Centric In-Network Architecture for Accelerating LLM Inference in Shared-Memory Network**|Aojie Jiang et.al.|[2603.28239](http://arxiv.org/abs/2603.28239)|null|
+|**2026-03-31**|**ITQ3_S: High-Fidelity 3-bit LLM Inference via Interleaved Ternary Quantization with Rotation-Domain Smoothing**|Edward J. Yoon et.al.|[2603.27914](http://arxiv.org/abs/2603.27914)|null|
 |**2026-03-29**|**KVSculpt: KV Cache Compression as Distillation**|Bo Jiang et.al.|[2603.27819](http://arxiv.org/abs/2603.27819)|null|
 |**2026-03-28**|**From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification**|Huamin Chen et.al.|[2603.27299](http://arxiv.org/abs/2603.27299)|null|
 |**2026-03-28**|**ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference**|Qiuyang Zhang et.al.|[2603.27138](http://arxiv.org/abs/2603.27138)|null|
@@ -1103,12 +1104,17 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260331>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260401>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Training-Free Dynamic Upcycling of Expert Language Models**|Eros Fanì et.al.|[2603.29765](http://arxiv.org/abs/2603.29765)|null|
+|**2026-03-31**|**TrafficMoE: Heterogeneity-aware Mixture of Experts for Encrypted Traffic Classification**|Qing He et.al.|[2603.29520](http://arxiv.org/abs/2603.29520)|null|
+|**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
+|**2026-03-31**|**Route-Induced Density and Stability (RIDE): Controlled Intervention and Mechanism Analysis of Routing-Style Meta Prompts on LLM Internal States**|Dianxing Zhang et.al.|[2603.29206](http://arxiv.org/abs/2603.29206)|null|
+|**2026-03-31**|**BiMoE: Brain-Inspired Experts for EEG-Dominant Affective State Recognition**|Hongyu Zhu et.al.|[2603.29205](http://arxiv.org/abs/2603.29205)|null|
 |**2026-03-30**|**Rethinking Language Model Scaling under Transferable Hypersphere Optimization**|Liliang Ren et.al.|[2603.28743](http://arxiv.org/abs/2603.28743)|null|
 |**2026-03-30**|**Towards Analyzing Formic Acid Using Classical and Quantum Methods**|Omer Gurevich et.al.|[2603.28343](http://arxiv.org/abs/2603.28343)|null|
 |**2026-03-30**|**Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams**|Silvano Coletti et.al.|[2603.28115](http://arxiv.org/abs/2603.28115)|null|
@@ -2790,7 +2796,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260331>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260401>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
