@@ -3,13 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
 |**2026-04-01**|**Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions**|Haoyu Zheng et.al.|[2604.00499](http://arxiv.org/abs/2604.00499)|null|
 |**2026-04-01**|**TENT: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving**|Feng Ren et.al.|[2604.00368](http://arxiv.org/abs/2604.00368)|null|
 |**2026-03-30**|**Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference**|Zifan He et.al.|[2603.29002](http://arxiv.org/abs/2603.29002)|null|
@@ -1102,12 +1103,21 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260402>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260403>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level**|Jeremy Herbst et.al.|[2604.02178](http://arxiv.org/abs/2604.02178)|null|
+|**2026-04-02**|**FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large Attention-Based Model Inference on Tile-Based Accelerators**|Chi Zhang et.al.|[2604.02110](http://arxiv.org/abs/2604.02110)|null|
+|**2026-04-02**|**SURE: Synergistic Uncertainty-aware Reasoning for Multimodal Emotion Recognition in Conversations**|Yiqiang Cai et.al.|[2604.01916](http://arxiv.org/abs/2604.01916)|null|
+|**2026-04-02**|**FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models**|Juyong Jiang et.al.|[2604.01762](http://arxiv.org/abs/2604.01762)|null|
+|**2026-04-02**|**M3D-BFS: a Multi-stage Dynamic Fusion Strategy for Sample-Adaptive Multi-Modal Brain Network Analysis**|Rui Dong et.al.|[2604.01667](http://arxiv.org/abs/2604.01667)|null|
+|**2026-04-02**|**Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models**|Shuibai Zhang et.al.|[2604.01622](http://arxiv.org/abs/2604.01622)|null|
+|**2026-04-01**|**Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation**|Jiuzhou Lei et.al.|[2604.01414](http://arxiv.org/abs/2604.01414)|null|
+|**2026-04-01**|**Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models**|Itay Yona et.al.|[2604.01404](http://arxiv.org/abs/2604.01404)|null|
+|**2026-04-01**|**Sparse Spectral LoRA: Routed Experts for Medical VLMs**|Omid Nejati Manzari et.al.|[2604.01310](http://arxiv.org/abs/2604.01310)|null|
 |**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](http://arxiv.org/abs/2604.01053)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[2604.00812](http://arxiv.org/abs/2604.00812)|null|
@@ -2802,7 +2812,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260402>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260403>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
