@@ -3,13 +3,17 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference**|Cornelius Kummer et.al.|[2604.02985](http://arxiv.org/abs/2604.02985)|null|
+|**2026-04-03**|**MSAO: Adaptive Modality Sparsity-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2604.02945](http://arxiv.org/abs/2604.02945)|null|
+|**2026-04-02**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444](http://arxiv.org/abs/2604.02444)|null|
+|**2026-04-02**|**SelRoute: Query-Type-Aware Routing for Long-Term Conversational Memory Retrieval**|Matthew McKee et.al.|[2604.02431](http://arxiv.org/abs/2604.02431)|null|
 |**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
 |**2026-04-01**|**Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions**|Haoyu Zheng et.al.|[2604.00499](http://arxiv.org/abs/2604.00499)|null|
 |**2026-04-01**|**TENT: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving**|Feng Ren et.al.|[2604.00368](http://arxiv.org/abs/2604.00368)|null|
@@ -1103,12 +1107,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260405>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260406>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency**|Aichen Cai et.al.|[2604.03044](http://arxiv.org/abs/2604.03044)|null|
+|**2026-04-03**|**Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus**|Shuai Wu et.al.|[2604.02923](http://arxiv.org/abs/2604.02923)|null|
+|**2026-04-03**|**Computing the Pareto Front by Polynomial Elimination, With an Application From System Identification**|Hans van Rooij et.al.|[2604.02806](http://arxiv.org/abs/2604.02806)|null|
+|**2026-04-03**|**FluxMoE: Decoupling Expert Residency for High-Performance MoE Serving**|Qingxiu Liu et.al.|[2604.02715](http://arxiv.org/abs/2604.02715)|null|
+|**2026-04-03**|**Adaptive Semantic Communication for Wireless Image Transmission Leveraging Mixture-of-Experts Mechanism**|Haowen Wan et.al.|[2604.02691](http://arxiv.org/abs/2604.02691)|null|
 |**2026-04-02**|**The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level**|Jeremy Herbst et.al.|[2604.02178](http://arxiv.org/abs/2604.02178)|null|
 |**2026-04-02**|**FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large Attention-Based Model Inference on Tile-Based Accelerators**|Chi Zhang et.al.|[2604.02110](http://arxiv.org/abs/2604.02110)|null|
 |**2026-04-02**|**SURE: Synergistic Uncertainty-aware Reasoning for Multimodal Emotion Recognition in Conversations**|Yiqiang Cai et.al.|[2604.01916](http://arxiv.org/abs/2604.01916)|null|
@@ -2812,7 +2821,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260405>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260406>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
