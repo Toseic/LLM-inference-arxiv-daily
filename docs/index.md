@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Vision-Guided Iterative Refinement for Frontend Code Generation**|Hannah Sansford et.al.|[2604.05839](http://arxiv.org/abs/2604.05839)|null|
+|**2026-04-07**|**Multi-Drafter Speculative Decoding with Alignment Feedback**|Taehyeon Kim et.al.|[2604.05417](http://arxiv.org/abs/2604.05417)|null|
+|**2026-04-07**|**DAT: Dual-Aware Adaptive Transmission for Efficient Multimodal LLM Inference in Edge-Cloud Systems**|Qi Guo et.al.|[2604.05375](http://arxiv.org/abs/2604.05375)|null|
+|**2026-04-06**|**Comparative Characterization of KV Cache Management Strategies for LLM Inference**|Oteo Mamo et.al.|[2604.05012](http://arxiv.org/abs/2604.05012)|null|
 |**2026-04-06**|**GPU Acceleration of TFHE-Based High-Precision Nonlinear Layers for Encrypted LLM Inference**|Guoci Chen et.al.|[2604.04783](http://arxiv.org/abs/2604.04783)|null|
 |**2026-04-06**|**DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators**|Zhiwen Mo et.al.|[2604.04750](http://arxiv.org/abs/2604.04750)|null|
 |**2026-04-06**|**Don't Waste Bits! Adaptive KV-Cache Quantization for Lightweight On-Device LLMs**|Sayed Pedram Haeri Boroujeni et.al.|[2604.04722](http://arxiv.org/abs/2604.04722)|null|
@@ -1116,12 +1120,18 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260407>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260408>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Disentangling MLP Neuron Weights in Vocabulary Space**|Asaf Avrahamy et.al.|[2604.06005](http://arxiv.org/abs/2604.06005)|null|
+|**2026-04-07**|**A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis**|Sk Miraj Ahmed et.al.|[2604.05960](http://arxiv.org/abs/2604.05960)|null|
+|**2026-04-07**|**QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis**|Yitong Zhu et.al.|[2604.05704](http://arxiv.org/abs/2604.05704)|null|
+|**2026-04-07**|**A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting**|Yongchuan Cui et.al.|[2604.05629](http://arxiv.org/abs/2604.05629)|null|
+|**2026-04-07**|**Task Ecologies and the Evolution of World-Tracking Representations in Large Language Models**|Giulio Valentino Dalla Riva et.al.|[2604.05469](http://arxiv.org/abs/2604.05469)|null|
+|**2026-04-07**|**Do Domain-specific Experts exist in MoE-based LLMs?**|Giang Do et.al.|[2604.05267](http://arxiv.org/abs/2604.05267)|null|
 |**2026-04-06**|**HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection**|Vadim Vashkelis et.al.|[2604.04908](http://arxiv.org/abs/2604.04908)|null|
 |**2026-04-06**|**LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection**|Cheng Xu et.al.|[2604.04815](http://arxiv.org/abs/2604.04815)|null|
 |**2026-04-06**|**REAM: Merging Improves Pruning of Experts in LLMs**|Saurav Jha et.al.|[2604.04356](http://arxiv.org/abs/2604.04356)|null|
@@ -2840,7 +2850,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260407>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260408>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
