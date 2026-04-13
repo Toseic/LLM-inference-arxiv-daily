@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices**|Yongsheng Yan et.al.|[2604.09083](http://arxiv.org/abs/2604.09083)|null|
+|**2026-04-10**|**Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures**|Mauricio Fadel Argerich et.al.|[2604.09048](http://arxiv.org/abs/2604.09048)|null|
 |**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|null|
 |**2026-04-09**|**A Full-Stack Performance Evaluation Infrastructure for 3D-DRAM-based LLM Accelerators**|Cong Li et.al.|[2604.08044](http://arxiv.org/abs/2604.08044)|null|
 |**2026-04-09**|**Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles**|Jiawei Liu et.al.|[2604.08031](http://arxiv.org/abs/2604.08031)|null|
@@ -1131,12 +1133,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260412>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260413>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Process Reward Agents for Steering Knowledge-Intensive Reasoning**|Jiwoong Sohn et.al.|[2604.09482](http://arxiv.org/abs/2604.09482)|null|
+|**2026-04-10**|**Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark**|Jinquan Yan et.al.|[2604.09313](http://arxiv.org/abs/2604.09313)|null|
+|**2026-04-10**|**Generalization and Scaling Laws for Mixture-of-Experts Transformers**|Mansour Zoubeirou a Mayaki et.al.|[2604.09175](http://arxiv.org/abs/2604.09175)|null|
+|**2026-04-10**|**Text-Conditioned Multi-Expert Regression Framework for Fully Automated Multi-Abutment Design**|Mianjie Zheng et.al.|[2604.09047](http://arxiv.org/abs/2604.09047)|null|
+|**2026-04-10**|**Plasticity-Enhanced Multi-Agent Mixture of Experts for Dynamic Objective Adaptation in UAVs-Assisted Emergency Communication Networks**|Wen Qiu et.al.|[2604.09028](http://arxiv.org/abs/2604.09028)|null|
+|**2026-04-10**|**M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model**|Yihang Liu et.al.|[2604.08936](http://arxiv.org/abs/2604.08936)|null|
+|**2026-04-09**|**HiFloat4 Format for Language Model Pre-training on Ascend NPUs**|Mehran Taghian et.al.|[2604.08826](http://arxiv.org/abs/2604.08826)|null|
 |**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
 |**2026-04-09**|**Alloc-MoE: Budget-Aware Expert Activation Allocation for Efficient Mixture-of-Experts Inference**|Baihui Liu et.al.|[2604.08133](http://arxiv.org/abs/2604.08133)|null|
@@ -2878,7 +2887,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260412>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260413>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
