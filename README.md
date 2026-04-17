@@ -3,13 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap**|Naryeong Kim et.al.|[2604.15075](http://arxiv.org/abs/2604.15075)|null|
+|**2026-04-16**|**SkillDroid: Compile Once, Reuse Forever**|Qijia Chen et.al.|[2604.14872](http://arxiv.org/abs/2604.14872)|null|
+|**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
 |**2026-04-15**|**YOCO++: Enhancing YOCO with KV Residual Connections for Efficient LLM Inference**|You Wu et.al.|[2604.13556](http://arxiv.org/abs/2604.13556)|null|
 |**2026-04-14**|**Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel**|Hongyi Jin et.al.|[2604.13327](http://arxiv.org/abs/2604.13327)|null|
 |**2026-04-14**|**oxo-call: Documentation-grounded Skill Augmentation for Accurate Bioinformatics Command-line Generation with Large Language Models**|Yun Peng et.al.|[2604.12387](http://arxiv.org/abs/2604.12387)|null|
@@ -1142,12 +1145,21 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260416>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260417>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
+|**2026-04-16**|**OmniLight: One Model to Rule All Lighting Conditions**|Youngjin Oh et.al.|[2604.15170](http://arxiv.org/abs/2604.15170)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Switching Efficiency: A Novel Framework for Dissecting AI Data Center Network Efficiency**|Niangen Ye et.al.|[2604.14690](http://arxiv.org/abs/2604.14690)|null|
+|**2026-04-16**|**ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving**|Yuseon Choi et.al.|[2604.14626](http://arxiv.org/abs/2604.14626)|null|
+|**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
+|**2026-04-16**|**Geometric Metrics for MoE Specialization: From Fisher Information to Early Failure Detection**|Dongxin Guo et.al.|[2604.14500](http://arxiv.org/abs/2604.14500)|null|
+|**2026-04-15**|**Geometric Routing Enables Causal Expert Control in Mixture of Experts**|Ivan Ternovtsii et.al.|[2604.14434](http://arxiv.org/abs/2604.14434)|null|
+|**2026-04-15**|**Equifinality in Mixture of Experts: Routing Topology Does Not Determine Language Modeling Quality**|Ivan Ternovtsii et.al.|[2604.14419](http://arxiv.org/abs/2604.14419)|null|
 |**2026-04-15**|**Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation**|Svetlana Pavlitska et.al.|[2604.13761](http://arxiv.org/abs/2604.13761)|null|
 |**2026-04-15**|**Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling**|Sanghyeok Chu et.al.|[2604.13508](http://arxiv.org/abs/2604.13508)|null|
 |**2026-04-14**|**PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models**|Han Bao et.al.|[2604.12995](http://arxiv.org/abs/2604.12995)|null|
@@ -2914,7 +2926,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260416>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260417>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
