@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Neurosymbolic Repo-level Code Localization**|Xiufeng Xu et.al.|[2604.16021](http://arxiv.org/abs/2604.16021)|null|
+|**2026-04-17**|**Faster LLM Inference via Sequential Monte Carlo**|Yahya Emara et.al.|[2604.15672](http://arxiv.org/abs/2604.15672)|null|
+|**2026-04-16**|**Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU**|Jevin Jiang et.al.|[2604.15464](http://arxiv.org/abs/2604.15464)|null|
+|**2026-04-16**|**The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference**|Ranjith Chodavarapu et.al.|[2604.15409](http://arxiv.org/abs/2604.15409)|null|
+|**2026-04-15**|**Fleet: Hierarchical Task-based Abstraction for Megakernels on Multi-Die GPUs**|Sangeeta Chowdhary et.al.|[2604.15379](http://arxiv.org/abs/2604.15379)|null|
 |**2026-04-16**|**Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap**|Naryeong Kim et.al.|[2604.15075](http://arxiv.org/abs/2604.15075)|null|
 |**2026-04-16**|**SkillDroid: Compile Once, Reuse Forever**|Qijia Chen et.al.|[2604.14872](http://arxiv.org/abs/2604.14872)|null|
 |**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
@@ -1149,12 +1154,18 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260419>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260420>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale**|Aswathi Mundayatt et.al.|[2604.16265](http://arxiv.org/abs/2604.16265)|null|
+|**2026-04-17**|**Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization**|Habibeh Naderi et.al.|[2604.16247](http://arxiv.org/abs/2604.16247)|null|
+|**2026-04-17**|**MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection**|Yeganeh Abdollahinejad et.al.|[2604.16172](http://arxiv.org/abs/2604.16172)|null|
+|**2026-04-17**|**Breaking the Training Barrier of Billion-Parameter Universal Machine Learning Interatomic Potentials**|Yuanchang Zhou et.al.|[2604.15821](http://arxiv.org/abs/2604.15821)|null|
+|**2026-04-17**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
+|**2026-04-16**|**StoSignSGD: Unbiased Structural Stochasticity Fixes SignSGD for Training Large Language Models**|Dingzhi Yu et.al.|[2604.15416](http://arxiv.org/abs/2604.15416)|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
 |**2026-04-16**|**OmniLight: One Model to Rule All Lighting Conditions**|Youngjin Oh et.al.|[2604.15170](http://arxiv.org/abs/2604.15170)|null|
 |**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
@@ -2930,7 +2941,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260419>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260420>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
