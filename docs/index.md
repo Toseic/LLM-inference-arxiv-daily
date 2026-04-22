@@ -7,15 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**DASH-KV: Accelerating Long-Context LLM Inference via Asymmetric KV Cache Hashing**|Jinyu Guo et.al.|[2604.19351](http://arxiv.org/abs/2604.19351)|null|
+|**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)|null|
+|**2026-04-20**|**Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs**|Afsara Benazir et.al.|[2604.18788](http://arxiv.org/abs/2604.18788)|null|
 |**2026-04-20**|**HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing**|Mao Lin et.al.|[2604.18529](http://arxiv.org/abs/2604.18529)|null|
-|**2026-04-20**|**DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization**|Haokun Lin et.al.|[2604.17789](http://arxiv.org/abs/2604.17789)|null|
+|**2026-04-21**|**DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization**|Haokun Lin et.al.|[2604.17789](http://arxiv.org/abs/2604.17789)|null|
 |**2026-04-20**|**WISV: Wireless-Informed Semantic Verification for Distributed Speculative Decoding in Device-Edge LLM Inference**|Zixuan Liu et.al.|[2604.17701](http://arxiv.org/abs/2604.17701)|null|
 |**2026-04-20**|**MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression**|Libo Sun et.al.|[2604.17695](http://arxiv.org/abs/2604.17695)|null|
 |**2026-04-18**|**Open-TQ-Metal: Fused Compressed-Domain Attention for Long-Context LLM Inference on Apple Silicon**|Sai Vegasena et.al.|[2604.16957](http://arxiv.org/abs/2604.16957)|null|
@@ -1159,12 +1162,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260421>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260422>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**FEPLB: Exploiting Copy Engines for Nearly Free MoE Load Balancing in Distributed Training**|Shuyao Qi et.al.|[2604.19654](http://arxiv.org/abs/2604.19654)|null|
+|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
+|**2026-04-21**|**LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction**|Jiakai Tang et.al.|[2604.19550](http://arxiv.org/abs/2604.19550)|null|
+|**2026-04-21**|**ReaLB: Real-Time Load Balancing for Multimodal MoE Inference**|Yingping Wang et.al.|[2604.19503](http://arxiv.org/abs/2604.19503)|null|
+|**2026-04-21**|**Quadruped Parkour Learning: Sparsely Gated Mixture of Experts with Visual Input**|Michael Ziegltrum et.al.|[2604.19344](http://arxiv.org/abs/2604.19344)|null|
+|**2026-04-21**|**UniEP: Unified Expert-Parallel MoE MegaKernel for LLM Training**|Size Zheng et.al.|[2604.19241](http://arxiv.org/abs/2604.19241)|null|
+|**2026-04-21**|**SAMoRA: Semantic-Aware Mixture of LoRA Experts for Task-Adaptive Learning**|Boyan Shi et.al.|[2604.19048](http://arxiv.org/abs/2604.19048)|null|
+|**2026-04-20**|**Multi-Domain Learning with Global Expert Mapping**|Pourya Shamsolmoali et.al.|[2604.18842](http://arxiv.org/abs/2604.18842)|null|
+|**2026-04-20**|**Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs**|Afsara Benazir et.al.|[2604.18788](http://arxiv.org/abs/2604.18788)|null|
+|**2026-04-20**|**CAHAL: Clinically Applicable resolution enHAncement for Low-resolution MRI scans**|Sergio Morell-Ortega et.al.|[2604.18781](http://arxiv.org/abs/2604.18781)|null|
 |**2026-04-20**|**GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling**|Alireza Dadgarnia et.al.|[2604.18556](http://arxiv.org/abs/2604.18556)|null|
 |**2026-04-20**|**SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection**|Hao Vo et.al.|[2604.18476](http://arxiv.org/abs/2604.18476)|null|
 |**2026-04-20**|**Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts**|Jacob Morrison et.al.|[2604.18473](http://arxiv.org/abs/2604.18473)|null|
@@ -2956,7 +2969,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260421>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260422>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
