@@ -7,19 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
 |**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
 |**2026-04-23**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284](http://arxiv.org/abs/2604.21284)|null|
 |**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|null|
 |**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
-|**2026-04-22**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
+|**2026-04-24**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
 |**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
 |**2026-04-22**|**FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels**|Fei Zuo et.al.|[2604.20913](http://arxiv.org/abs/2604.20913)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
@@ -1171,12 +1172,14 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260426>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260427>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution**|Haiyun Qiu et.al.|[2604.22464](http://arxiv.org/abs/2604.22464)|null|
+|**2026-04-24**|**A Probabilistic Framework for Hierarchical Goal Recognition**|Chenyuan Zhang et.al.|[2604.22256](http://arxiv.org/abs/2604.22256)|null|
 |**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
 |**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
 |**2026-04-23**|**Teacher-Guided Routing for Sparse Vision Mixture-of-Experts**|Masahiro Kada et.al.|[2604.21330](http://arxiv.org/abs/2604.21330)|null|
@@ -2986,7 +2989,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260426>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260427>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
