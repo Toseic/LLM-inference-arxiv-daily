@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
+|**2026-04-25**|**Evaluating CUDA Tile for AI Workloads on Hopper and Blackwell GPUs**|Divakar Kumar Yadav et.al.|[2604.23466](http://arxiv.org/abs/2604.23466)|null|
+|**2026-04-25**|**Small Language Model Helps Resolve Semantic Ambiguity of LLM Prompt**|Zhenzhen Huang et.al.|[2604.23263](http://arxiv.org/abs/2604.23263)|null|
+|**2026-04-25**|**UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks**|Tianlong Yu et.al.|[2604.23141](http://arxiv.org/abs/2604.23141)|null|
+|**2026-04-24**|**Secure eFPGA-Enabled Edge LLM Inference: Architectural and Hardware Countermeasures**|Voktho Das et.al.|[2604.22935](http://arxiv.org/abs/2604.22935)|null|
+|**2026-04-24**|**Network Edge Inference for Large Language Models: Principles, Techniques, and Opportunities**|Zhixiong Chen et.al.|[2604.22906](http://arxiv.org/abs/2604.22906)|null|
 |**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
 |**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
@@ -1172,12 +1178,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260427>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260428>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Agent-Centric Visual Reinforcement Learning under Dynamic Perturbations**|Zhengru Fang et.al.|[2604.24661](http://arxiv.org/abs/2604.24661)|null|
+|**2026-04-27**|**Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks**|Kevin McKee et.al.|[2604.24637](http://arxiv.org/abs/2604.24637)|null|
+|**2026-04-27**|**Vib2Conf: AI-driven discrimination of molecular conformations from vibrational spectra**|Xin-Yu Lu et.al.|[2604.24310](http://arxiv.org/abs/2604.24310)|null|
+|**2026-04-27**|**Defusing the Trigger: Plug-and-Play Defense for Backdoored LLMs via Tail-Risk Intrinsic Geometric Smoothing**|Kaisheng Fan et.al.|[2604.24162](http://arxiv.org/abs/2604.24162)|null|
+|**2026-04-27**|**SMoES: Soft Modality-Guided Expert Specialization in MoE-VLMs**|Zi-Hao Bo et.al.|[2604.23996](http://arxiv.org/abs/2604.23996)|null|
+|**2026-04-27**|**Design of the DUNE horizontal drift far detector charge readout electronics and performance in ProtoDUNE-HD**|DUNE Collaboration et.al.|[2604.23966](http://arxiv.org/abs/2604.23966)|null|
+|**2026-04-26**|**AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance**|Benjamin Klein et.al.|[2604.23909](http://arxiv.org/abs/2604.23909)|null|
+|**2026-04-26**|**MetaGAI: A Large-Scale and High-Quality Benchmark for Generative AI Model and Data Card Generation**|Haoxuan Zhang et.al.|[2604.23539](http://arxiv.org/abs/2604.23539)|null|
+|**2026-04-25**|**Scaling Multi-Node Mixture-of-Experts Inference Using Expert Activation Patterns**|Abhimanyu Bambhaniya et.al.|[2604.23150](http://arxiv.org/abs/2604.23150)|null|
+|**2026-04-25**|**Mixture of Heterogeneous Grouped Experts for Language Modeling**|Zhicheng Ma et.al.|[2604.23108](http://arxiv.org/abs/2604.23108)|null|
 |**2026-04-24**|**Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution**|Haiyun Qiu et.al.|[2604.22464](http://arxiv.org/abs/2604.22464)|null|
 |**2026-04-24**|**A Probabilistic Framework for Hierarchical Goal Recognition**|Chenyuan Zhang et.al.|[2604.22256](http://arxiv.org/abs/2604.22256)|null|
 |**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
@@ -2989,7 +3005,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260427>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260428>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
