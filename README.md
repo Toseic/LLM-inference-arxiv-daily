@@ -3,13 +3,19 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**SpecFed: Accelerating Federated LLM Inference with Speculative Decoding and Compressed Transmission**|Ce Zheng et.al.|[2604.25777](http://arxiv.org/abs/2604.25777)|null|
+|**2026-04-28**|**CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation**|Wei-Chun Chen et.al.|[2604.25774](http://arxiv.org/abs/2604.25774)|null|
+|**2026-04-28**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699](http://arxiv.org/abs/2604.25699)|null|
+|**2026-04-28**|**FusionCIM: Accelerating LLM Inference with Fusion-Driven Computing-in-Memory Architecture**|Zihao Xuan et.al.|[2604.25317](http://arxiv.org/abs/2604.25317)|null|
+|**2026-04-28**|**Hardware Generation and Exploration of Lookup Table-Based Accelerators for 1.58-bit LLM Inference**|Robin Geens et.al.|[2604.25183](http://arxiv.org/abs/2604.25183)|null|
+|**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|null|
 |**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
 |**2026-04-25**|**Evaluating CUDA Tile for AI Workloads on Hopper and Blackwell GPUs**|Divakar Kumar Yadav et.al.|[2604.23466](http://arxiv.org/abs/2604.23466)|null|
 |**2026-04-25**|**Small Language Model Helps Resolve Semantic Ambiguity of LLM Prompt**|Zhenzhen Huang et.al.|[2604.23263](http://arxiv.org/abs/2604.23263)|null|
@@ -1174,13 +1180,17 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260428>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260429>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-27**|**Agent-Centric Visual Reinforcement Learning under Dynamic Perturbations**|Zhengru Fang et.al.|[2604.24661](http://arxiv.org/abs/2604.24661)|null|
+|**2026-04-28**|**Marco-MoE: Open Multilingual Mixture-of-Expert Language Models with Efficient Upcycling**|Fan Jiang et.al.|[2604.25578](http://arxiv.org/abs/2604.25578)|null|
+|**2026-04-28**|**The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents**|Yuwei Sun et.al.|[2604.25299](http://arxiv.org/abs/2604.25299)|null|
+|**2026-04-27**|**Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity**|Bojie Li et.al.|[2604.24827](http://arxiv.org/abs/2604.24827)|null|
+|**2026-04-27**|**SWE-QA: A Dataset and Benchmark for Complex Code Understanding**|Laïla Elkoussy et.al.|[2604.24814](http://arxiv.org/abs/2604.24814)|null|
+|**2026-04-28**|**Agent-Centric Visual Reinforcement Learning under Dynamic Perturbations**|Zhengru Fang et.al.|[2604.24661](http://arxiv.org/abs/2604.24661)|null|
 |**2026-04-27**|**Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks**|Kevin McKee et.al.|[2604.24637](http://arxiv.org/abs/2604.24637)|null|
 |**2026-04-27**|**Vib2Conf: AI-driven discrimination of molecular conformations from vibrational spectra**|Xin-Yu Lu et.al.|[2604.24310](http://arxiv.org/abs/2604.24310)|null|
 |**2026-04-27**|**Defusing the Trigger: Plug-and-Play Defense for Backdoored LLMs via Tail-Risk Intrinsic Geometric Smoothing**|Kaisheng Fan et.al.|[2604.24162](http://arxiv.org/abs/2604.24162)|null|
@@ -3001,7 +3011,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260428>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260429>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
