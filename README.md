@@ -3,13 +3,17 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel**|Yiqi Liu et.al.|[2604.26821](http://arxiv.org/abs/2604.26821)|null|
+|**2026-04-29**|**DUAL-BLADE: Dual-Path NVMe-Direct KV-Cache Offloading for Edge LLM Inference**|Bodon Jeong et.al.|[2604.26557](http://arxiv.org/abs/2604.26557)|null|
+|**2026-04-29**|**When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?**|Tianyu Liu et.al.|[2604.26412](http://arxiv.org/abs/2604.26412)|null|
+|**2026-04-28**|**DAK: Direct-Access-Enabled GPU Memory Offloading with Optimal Efficiency for LLM Inference**|Shouxu Lin et.al.|[2604.26074](http://arxiv.org/abs/2604.26074)|null|
 |**2026-04-28**|**SpecFed: Accelerating Federated LLM Inference with Speculative Decoding and Compressed Transmission**|Ce Zheng et.al.|[2604.25777](http://arxiv.org/abs/2604.25777)|null|
 |**2026-04-28**|**CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation**|Wei-Chun Chen et.al.|[2604.25774](http://arxiv.org/abs/2604.25774)|null|
 |**2026-04-28**|**NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference**|Mingbo Hao et.al.|[2604.25699](http://arxiv.org/abs/2604.25699)|null|
@@ -1180,12 +1184,22 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260429>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260430>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving**|Minghe Wang et.al.|[2604.26881](http://arxiv.org/abs/2604.26881)|null|
+|**2026-04-29**|**Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics**|Jatin Bhusal et.al.|[2604.26607](http://arxiv.org/abs/2604.26607)|null|
+|**2026-04-29**|**Advancing multi-site emission control: A physics-informed transfer learning framework with mixture of experts for carbon-pollutant synergy**|Yuxuan Ying et.al.|[2604.26571](http://arxiv.org/abs/2604.26571)|null|
+|**2026-04-29**|**Adaptive and Fine-grained Module-wise Expert Pruning for Efficient LoRA-MoE Fine-Tuning**|Weihang Li et.al.|[2604.26340](http://arxiv.org/abs/2604.26340)|null|
+|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|null|
+|**2026-04-29**|**Optimizing Tracking Accuracy in Energy-Constrained Multimodal ISAC via Lyapunov-Driven Heterogeneous Mixture-of-Experts**|Wenqi Fan et.al.|[2604.26330](http://arxiv.org/abs/2604.26330)|null|
+|**2026-04-29**|**Folding Tensor and Sequence Parallelism for Memory-Efficient Transformer Training & Inference**|Vasu Shyam et.al.|[2604.26294](http://arxiv.org/abs/2604.26294)|null|
+|**2026-04-28**|**Mixture of Experts Framework in Machine Learning Interatomic Potentials for Atomistic Simulations**|Gabriel de Miranda Nascimento et.al.|[2604.26143](http://arxiv.org/abs/2604.26143)|null|
+|**2026-04-28**|**RaMP: Runtime-Aware Megakernel Polymorphism for Mixture-of-Experts**|Vyom Sharma et.al.|[2604.26039](http://arxiv.org/abs/2604.26039)|null|
+|**2026-04-28**|**QERNEL: a Scalable Large Electron Model**|Khachatur Nazaryan et.al.|[2604.26018](http://arxiv.org/abs/2604.26018)|null|
 |**2026-04-28**|**Marco-MoE: Open Multilingual Mixture-of-Expert Language Models with Efficient Upcycling**|Fan Jiang et.al.|[2604.25578](http://arxiv.org/abs/2604.25578)|null|
 |**2026-04-28**|**The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents**|Yuwei Sun et.al.|[2604.25299](http://arxiv.org/abs/2604.25299)|null|
 |**2026-04-27**|**Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity**|Bojie Li et.al.|[2604.24827](http://arxiv.org/abs/2604.24827)|null|
@@ -3011,7 +3025,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260429>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260430>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
