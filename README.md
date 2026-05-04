@@ -3,13 +3,18 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Position: agentic AI orchestration should be Bayes-consistent**|Theodore Papamarkou et.al.|[2605.00742](http://arxiv.org/abs/2605.00742)|null|
+|**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|null|
+|**2026-05-01**|**Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge**|M. Grailoo et.al.|[2605.00536](http://arxiv.org/abs/2605.00536)|null|
+|**2026-05-01**|**Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference**|Allan Kazakov et.al.|[2605.00519](http://arxiv.org/abs/2605.00519)|null|
+|**2026-05-01**|**VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices**|Zi-Wei Lin et.al.|[2605.00320](http://arxiv.org/abs/2605.00320)|null|
 |**2026-04-30**|**EdgeFM: Efficient Edge Inference for Vision-Language Models**|Mengling Deng et.al.|[2604.27476](http://arxiv.org/abs/2604.27476)|null|
 |**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|null|
 |**2026-04-29**|**Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel**|Yiqi Liu et.al.|[2604.26821](http://arxiv.org/abs/2604.26821)|null|
@@ -1186,12 +1191,20 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260503>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260504>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer**|Xinyuan Zhao et.al.|[2605.00799](http://arxiv.org/abs/2605.00799)|null|
+|**2026-05-01**|**Eliminating Hidden Serialization in Multi-Node Megakernel Communication**|Byungsoo Oh et.al.|[2605.00686](http://arxiv.org/abs/2605.00686)|null|
+|**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et.al.|[2605.00604](http://arxiv.org/abs/2605.00604)|null|
+|**2026-05-01**|**Space Network of Experts: Architecture and Expert Placement**|Zhanwei Wang et.al.|[2605.00515](http://arxiv.org/abs/2605.00515)|null|
+|**2026-05-01**|**PrefMoE: Robust Preference Modeling with Mixture-of-Experts Reward Learning**|Ziqin Yuan et.al.|[2605.00384](http://arxiv.org/abs/2605.00384)|null|
+|**2026-05-01**|**GaMMA: Towards Joint Global-Temporal Music Understanding in Large Multimodal Models**|Zuyao You et.al.|[2605.00371](http://arxiv.org/abs/2605.00371)|null|
+|**2026-05-01**|**Making Every Verified Token Count: Adaptive Verification for MoE Speculative Decoding**|Lehan Pan et.al.|[2605.00342](http://arxiv.org/abs/2605.00342)|null|
+|**2026-04-30**|**Rethinking Network Topologies for Cost-Effective Mixture-of-Experts LLM Serving**|Junsun Choi et.al.|[2605.00254](http://arxiv.org/abs/2605.00254)|null|
 |**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
 |**2026-04-30**|**Prediction-powered Inference by Mixture of Experts**|Yanwu Gu et.al.|[2604.27892](http://arxiv.org/abs/2604.27892)|null|
 |**2026-04-30**|**ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training**|Wenxiang Lin et.al.|[2604.27844](http://arxiv.org/abs/2604.27844)|null|
@@ -3032,7 +3045,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260503>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260504>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
