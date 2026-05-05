@@ -7,17 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
+|**2026-05-04**|**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**|Berk Çiçek et.al.|[2605.02600](http://arxiv.org/abs/2605.02600)|null|
+|**2026-05-04**|**Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference**|Qipeng Wang et.al.|[2605.02329](http://arxiv.org/abs/2605.02329)|null|
+|**2026-05-04**|**PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers**|Hongbin Zhang et.al.|[2605.02189](http://arxiv.org/abs/2605.02189)|null|
+|**2026-05-04**|**AAFLOW: Scalable Patterns for Agentic AI Workflows**|Arup Kumar Sarker et.al.|[2605.02162](http://arxiv.org/abs/2605.02162)|null|
+|**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|null|
 |**2026-05-01**|**Position: agentic AI orchestration should be Bayes-consistent**|Theodore Papamarkou et.al.|[2605.00742](http://arxiv.org/abs/2605.00742)|null|
 |**2026-05-01**|**LLM-Emu: Native Runtime Emulation of LLM Inference via Profile-Driven Sampling**|Wei Da et.al.|[2605.00616](http://arxiv.org/abs/2605.00616)|null|
-|**2026-05-01**|**Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge**|M. Grailoo et.al.|[2605.00536](http://arxiv.org/abs/2605.00536)|null|
-|**2026-05-01**|**Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference**|Allan Kazakov et.al.|[2605.00519](http://arxiv.org/abs/2605.00519)|null|
+|**2026-05-04**|**Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge**|M. Grailoo et.al.|[2605.00536](http://arxiv.org/abs/2605.00536)|null|
+|**2026-05-04**|**Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference**|Abdurrahman Javat et.al.|[2605.00519](http://arxiv.org/abs/2605.00519)|null|
 |**2026-05-01**|**VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices**|Zi-Wei Lin et.al.|[2605.00320](http://arxiv.org/abs/2605.00320)|null|
 |**2026-04-30**|**EdgeFM: Efficient Edge Inference for Vision-Language Models**|Mengling Deng et.al.|[2604.27476](http://arxiv.org/abs/2604.27476)|null|
 |**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|null|
@@ -1195,12 +1201,19 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260504>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260505>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE**|Yangming Shi et.al.|[2605.02641](http://arxiv.org/abs/2605.02641)|null|
+|**2026-05-04**|**M\textsuperscript{4}Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation**|Meihua Zhou et.al.|[2605.02444](http://arxiv.org/abs/2605.02444)|null|
+|**2026-05-04**|**Boundary Mass and the Soft-to-Hard Limit in Mixture-of-Experts**|Reza Rastegar et.al.|[2605.02124](http://arxiv.org/abs/2605.02124)|null|
+|**2026-05-03**|**Shifted asymmetric Laplace mixtures of experts**|Sphiwe B. Skhosana et.al.|[2605.02012](http://arxiv.org/abs/2605.02012)|null|
+|**2026-05-03**|**Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks**|Zongqian Li et.al.|[2605.01959](http://arxiv.org/abs/2605.01959)|null|
+|**2026-05-02**|**Hallucinations Undermine Trust; Metacognition is a Way Forward**|Gal Yona et.al.|[2605.01428](http://arxiv.org/abs/2605.01428)|null|
+|**2026-05-01**|**PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning**|Beining Wu et.al.|[2605.01061](http://arxiv.org/abs/2605.01061)|null|
 |**2026-05-01**|**GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer**|Xinyuan Zhao et.al.|[2605.00799](http://arxiv.org/abs/2605.00799)|null|
 |**2026-05-01**|**Eliminating Hidden Serialization in Multi-Node Megakernel Communication**|Byungsoo Oh et.al.|[2605.00686](http://arxiv.org/abs/2605.00686)|null|
 |**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et.al.|[2605.00604](http://arxiv.org/abs/2605.00604)|null|
@@ -3049,7 +3062,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260504>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260505>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
