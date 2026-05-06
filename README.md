@@ -3,14 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-04**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
+|**2026-05-05**|**Two Calls, Two Moments, and the Vote-Accuracy Curve of Repeated LLM Inference**|Yi Liu et.al.|[2605.03379](http://arxiv.org/abs/2605.03379)|null|
+|**2026-05-04**|**VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU**|Zijian He et.al.|[2605.03190](http://arxiv.org/abs/2605.03190)|null|
+|**2026-05-05**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
 |**2026-05-04**|**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**|Berk Çiçek et.al.|[2605.02600](http://arxiv.org/abs/2605.02600)|null|
 |**2026-05-04**|**Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference**|Qipeng Wang et.al.|[2605.02329](http://arxiv.org/abs/2605.02329)|null|
 |**2026-05-04**|**PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers**|Hongbin Zhang et.al.|[2605.02189](http://arxiv.org/abs/2605.02189)|null|
@@ -1197,12 +1199,19 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260505>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260506>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction**|Renjie He et.al.|[2605.03999](http://arxiv.org/abs/2605.03999)|null|
+|**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
+|**2026-05-05**|**Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts**|Hahyeon Choi et.al.|[2605.03348](http://arxiv.org/abs/2605.03348)|null|
+|**2026-05-05**|**RFPrompt: Prompt-Based Expert Adaptation of the Large Wireless Model for Modulation Classification**|Md Raihan Uddin et.al.|[2605.03279](http://arxiv.org/abs/2605.03279)|null|
+|**2026-05-05**|**Ortho-Hydra: Orthogonalized Experts for DiT LoRA**|Seunghyun Ji et.al.|[2605.03252](http://arxiv.org/abs/2605.03252)|null|
+|**2026-05-04**|**Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs**|Cole Ramos et.al.|[2605.03208](http://arxiv.org/abs/2605.03208)|null|
+|**2026-05-04**|**Improved muon energy estimation using a detailed model of multiple Coulomb scattering in the MicroBooNE LArTPC**|P. Abratenko et.al.|[2605.03048](http://arxiv.org/abs/2605.03048)|null|
 |**2026-05-04**|**Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE**|Yangming Shi et.al.|[2605.02641](http://arxiv.org/abs/2605.02641)|null|
 |**2026-05-04**|**M\textsuperscript{4}Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation**|Meihua Zhou et.al.|[2605.02444](http://arxiv.org/abs/2605.02444)|null|
 |**2026-05-04**|**Boundary Mass and the Soft-to-Hard Limit in Mixture-of-Experts**|Reza Rastegar et.al.|[2605.02124](http://arxiv.org/abs/2605.02124)|null|
@@ -3058,7 +3067,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260505>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260506>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
