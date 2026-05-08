@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**XtraMAC: An Efficient MAC Architecture for Mixed-Precision LLM Inference on FPGA**|Feng Yu et.al.|[2605.06052](http://arxiv.org/abs/2605.06052)|null|
+|**2026-05-07**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|null|
+|**2026-05-07**|**TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference**|Zhuoran Li et.al.|[2605.05639](http://arxiv.org/abs/2605.05639)|null|
+|**2026-05-07**|**Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems**|Chen Zhang et.al.|[2605.05628](http://arxiv.org/abs/2605.05628)|null|
+|**2026-05-07**|**LLMSpace: Carbon Footprint Modeling for Large Language Model Inference on LEO Satellites**|Lei Jiang et.al.|[2605.05615](http://arxiv.org/abs/2605.05615)|null|
+|**2026-05-06**|**ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis**|Atharva Naik et.al.|[2605.05485](http://arxiv.org/abs/2605.05485)|null|
 |**2026-05-06**|**Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours**|The Verkor Team et.al.|[2605.05170](http://arxiv.org/abs/2605.05170)|null|
 |**2026-05-06**|**A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints**|Chengyi Nie et.al.|[2605.04595](http://arxiv.org/abs/2605.04595)|null|
 |**2026-05-05**|**Parallel Prefix Verification for Speculative Generation**|Yuncheng Yao et.al.|[2605.04263](http://arxiv.org/abs/2605.04263)|null|
@@ -1207,12 +1213,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260507>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260508>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Efficient Pre-Training with Token Superposition**|Bowen Peng et.al.|[2605.06546](http://arxiv.org/abs/2605.06546)|null|
+|**2026-05-07**|**Scene-Adaptive Continual Learning for CSI-based Human Activity Recognition with Mixture of Experts**|Wenhan Zheng et.al.|[2605.06447](http://arxiv.org/abs/2605.06447)|null|
+|**2026-05-07**|**E = T*H/(O+B): A Dimensionless Control Parameter for Mixture-of-Experts Ecology**|Qingjun Zhang et.al.|[2605.06415](http://arxiv.org/abs/2605.06415)|null|
+|**2026-05-07**|**Federation of Experts: Communication Efficient Distributed Inference for Large Language Models**|Muhammad Shahir Abdurrahman et.al.|[2605.06206](http://arxiv.org/abs/2605.06206)|null|
+|**2026-05-07**|**Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking**|Shiao Wang et.al.|[2605.06112](http://arxiv.org/abs/2605.06112)|null|
+|**2026-05-07**|**Relay Buffer Independent Communication over Pooled HBM for Efficient MoE Inference on Ascend**|Tianlun Hu et.al.|[2605.06055](http://arxiv.org/abs/2605.06055)|null|
+|**2026-05-07**|**VisMMOE: Exploiting Visual-Expert Affinity for Efficient Visual-Language MoE Offloading**|Cheng Xu et.al.|[2605.05899](http://arxiv.org/abs/2605.05899)|null|
+|**2026-05-07**|**MTL-MAD: Multi-Task Learners are Effective Medical Anomaly Detectors**|Bogdan Alexandru Bercean et.al.|[2605.05891](http://arxiv.org/abs/2605.05891)|null|
 |**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
 |**2026-05-06**|**Piper: Efficient Large-Scale MoE Training via Resource Modeling and Pipelined Hybrid Parallelism**|Sajal Dash et.al.|[2605.05049](http://arxiv.org/abs/2605.05049)|null|
 |**2026-05-06**|**You Snooze, You Lose: Automatic Safety Alignment Restoration through Neural Weight Translation**|Marco Arazzi et.al.|[2605.04992](http://arxiv.org/abs/2605.04992)|null|
@@ -3085,7 +3101,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260507>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260508>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
