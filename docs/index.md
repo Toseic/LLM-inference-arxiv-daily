@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Compute Where it Counts: Self Optimizing Language Models**|Yash Akhauri et.al.|[2605.10875](http://arxiv.org/abs/2605.10875)|null|
+|**2026-05-11**|**EnergyLens: Interpretable Closed-Form Energy Models for Multimodal LLM Inference Serving**|Vittorio Palladino et.al.|[2605.10556](http://arxiv.org/abs/2605.10556)|null|
+|**2026-05-11**|**Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration**|Shuzhang Zhong et.al.|[2605.10195](http://arxiv.org/abs/2605.10195)|null|
+|**2026-05-11**|**GELATO: Generative Entropy- and Lyapunov-based Adaptive Token Offloading for Device-Edge Speculative LLM Inference**|Zengzipeng Tang et.al.|[2605.10124](http://arxiv.org/abs/2605.10124)|null|
+|**2026-05-11**|**When Are LLM Inferences Acceptable? User Reactions and Control Preferences for Inferred Personal Information**|Kyzyl Monteiro et.al.|[2605.10013](http://arxiv.org/abs/2605.10013)|null|
+|**2026-05-11**|**Attention Drift: What Autoregressive Speculative Decoding Models Learn**|Doğaç Eldenk et.al.|[2605.09992](http://arxiv.org/abs/2605.09992)|null|
+|**2026-05-11**|**PruneTIR: Inference-Time Tool Call Pruning for Effective yet Efficient Tool-Integrated Reasoning**|Luan Zhang et.al.|[2605.09931](http://arxiv.org/abs/2605.09931)|null|
+|**2026-05-10**|**Test-Time Speculation**|Avinash Kumar et.al.|[2605.09329](http://arxiv.org/abs/2605.09329)|null|
+|**2026-05-09**|**PARD-2: Target-Aligned Parallel Draft Model for Dual-Mode Speculative Decoding**|Zihao An et.al.|[2605.08632](http://arxiv.org/abs/2605.08632)|null|
 |**2026-05-08**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985](http://arxiv.org/abs/2605.07985)|null|
 |**2026-05-08**|**MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference**|Ruijie Zhou et.al.|[2605.07363](http://arxiv.org/abs/2605.07363)|null|
 |**2026-05-08**|**SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting**|Weijie Shi et.al.|[2605.07243](http://arxiv.org/abs/2605.07243)|null|
@@ -1219,12 +1228,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260511>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260512>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices**|Chenyang Song et.al.|[2605.10933](http://arxiv.org/abs/2605.10933)|null|
+|**2026-05-11**|**MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation**|Ziyi Wang et.al.|[2605.10769](http://arxiv.org/abs/2605.10769)|null|
+|**2026-05-11**|**iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning**|Kaicong Huang et.al.|[2605.10732](http://arxiv.org/abs/2605.10732)|null|
+|**2026-05-11**|**Surviving Partial Rank Failures in Wide Expert-Parallel MoE Inference**|Xun Sun et.al.|[2605.10670](http://arxiv.org/abs/2605.10670)|null|
+|**2026-05-11**|**MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image**|Alan Arazi et.al.|[2605.10616](http://arxiv.org/abs/2605.10616)|null|
+|**2026-05-11**|**EnergyLens: Interpretable Closed-Form Energy Models for Multimodal LLM Inference Serving**|Vittorio Palladino et.al.|[2605.10556](http://arxiv.org/abs/2605.10556)|null|
+|**2026-05-11**|**DuetFair: Coupling Inter- and Intra-Subgroup Robustness for Fair Medical Image Segmentation**|Yiqi Tian et.al.|[2605.10521](http://arxiv.org/abs/2605.10521)|null|
+|**2026-05-11**|**CMKL: Modality-Aware Continual Learning for Evolving Biomedical Knowledge Graphs**|Yousef A. Radwan et.al.|[2605.10510](http://arxiv.org/abs/2605.10510)|null|
+|**2026-05-11**|**Adaptive Context Matters: Towards Provable Multi-Modality Guidance for Super-Resolution**|Jinyi Luo et.al.|[2605.10470](http://arxiv.org/abs/2605.10470)|null|
+|**2026-05-11**|**Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration**|Btissame El Mahtout et.al.|[2605.10330](http://arxiv.org/abs/2605.10330)|null|
 |**2026-05-08**|**Benchmarking EngGPT2-16B-A3B against Comparable Italian and International Open-source LLMs**|Andrea Sassella et.al.|[2605.07731](http://arxiv.org/abs/2605.07731)|null|
 |**2026-05-08**|**DIMoE-Adapters: Dynamic Expert Evolution for Continual Learning in Vision-Language Models**|Mengxin Qin et.al.|[2605.07494](http://arxiv.org/abs/2605.07494)|null|
 |**2026-05-08**|**Tracking Large-scale Shared Bikes with Inertial Motion Learning in GNSS Blocked Environments**|Feng Liu et.al.|[2605.07412](http://arxiv.org/abs/2605.07412)|null|
@@ -3113,7 +3132,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260511>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260512>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
