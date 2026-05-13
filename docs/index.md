@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**LISA: Cognitive Arbitration for Signal-Free Autonomous Intersection Management**|Abderrahmane Lakas et.al.|[2605.12321](http://arxiv.org/abs/2605.12321)|null|
+|**2026-05-12**|**BatchBench: Toward a Workload-Aware Benchmark for Autoscaling Policies in Big Data Batch Processing -- A Proposed Framework**|Venkata Krishna Prasanth Budigi et.al.|[2605.12272](http://arxiv.org/abs/2605.12272)|null|
+|**2026-05-12**|**CR^2: Cost-Aware Risk-Controlled Routing for Wireless Device-Edge LLM Inference**|Nan Xue et.al.|[2605.12001](http://arxiv.org/abs/2605.12001)|null|
+|**2026-05-12**|**Very Efficient Listwise Multimodal Reranking for Long Documents**|Yiqun Sun et.al.|[2605.11864](http://arxiv.org/abs/2605.11864)|null|
+|**2026-05-12**|**Position: LLM Inference Should Be Evaluated as Energy-to-Token Production**|Xiang Liu et.al.|[2605.11733](http://arxiv.org/abs/2605.11733)|null|
+|**2026-05-12**|**GAR: Carbon-Aware Routing for LLM Inference via Constrained Optimization**|Disha Sheshanarayana et.al.|[2605.11603](http://arxiv.org/abs/2605.11603)|null|
+|**2026-05-12**|**Efficient LLM-based Advertising via Model Compression and Parallel Verification**|Wenxin Dong et.al.|[2605.11582](http://arxiv.org/abs/2605.11582)|null|
+|**2026-05-12**|**Ada-MK: Adaptive MegaKernel Optimization via Automated DAG-based Search for LLM Inference**|Wenxin Dong et.al.|[2605.11581](http://arxiv.org/abs/2605.11581)|null|
+|**2026-05-11**|**Measuring Five-Nines Reliability: Sample-Efficient LLM Evaluation in Saturated Benchmarks**|Eungyeup Kim et.al.|[2605.11209](http://arxiv.org/abs/2605.11209)|null|
+|**2026-05-11**|**Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing**|Yunze Zhao et.al.|[2605.11202](http://arxiv.org/abs/2605.11202)|null|
 |**2026-05-11**|**Compute Where it Counts: Self Optimizing Language Models**|Yash Akhauri et.al.|[2605.10875](http://arxiv.org/abs/2605.10875)|null|
 |**2026-05-11**|**EnergyLens: Interpretable Closed-Form Energy Models for Multimodal LLM Inference Serving**|Vittorio Palladino et.al.|[2605.10556](http://arxiv.org/abs/2605.10556)|null|
 |**2026-05-11**|**Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration**|Shuzhang Zhong et.al.|[2605.10195](http://arxiv.org/abs/2605.10195)|null|
@@ -1228,12 +1238,22 @@ layout: default
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260512>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260513>(back to top)</a></p>
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
+|**2026-05-12**|**Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts**|Sagi Ahrac et.al.|[2605.12476](http://arxiv.org/abs/2605.12476)|null|
+|**2026-05-12**|**Geometric Asymptotics of Score Mixing and Guidance in Diffusion Models**|Kang Liu et.al.|[2605.12231](http://arxiv.org/abs/2605.12231)|null|
+|**2026-05-12**|**ECTO: Exogenous-Conditioned Temporal Operator for Ultra-Short-Term Wind Power Forecasting**|Cao Yuan et.al.|[2605.12196](http://arxiv.org/abs/2605.12196)|null|
+|**2026-05-12**|**Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models**|Boyi Deng et.al.|[2605.11887](http://arxiv.org/abs/2605.11887)|null|
+|**2026-05-12**|**ROMER: Expert Replacement and Router Calibration for Robust MoE LLMs on Analog Compute-in-Memory Systems**|Wenyong Zhou et.al.|[2605.11800](http://arxiv.org/abs/2605.11800)|null|
+|**2026-05-12**|**M $^4$ -SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection**|Jiyuan Liu et.al.|[2605.11760](http://arxiv.org/abs/2605.11760)|null|
+|**2026-05-12**|**Slicing and Dicing: Configuring Optimal Mixtures of Experts**|Margaret Li et.al.|[2605.11689](http://arxiv.org/abs/2605.11689)|null|
+|**2026-05-12**|**Fast MoE Inference via Predictive Prefetching and Expert Replication**|Ankit Jyothish et.al.|[2605.11537](http://arxiv.org/abs/2605.11537)|null|
+|**2026-05-11**|**Sieve: Dynamic Expert-Aware PIM Acceleration for Evolving Mixture-of-Experts Models**|Jungwoo Kim et.al.|[2605.11277](http://arxiv.org/abs/2605.11277)|null|
 |**2026-05-11**|**DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices**|Chenyang Song et.al.|[2605.10933](http://arxiv.org/abs/2605.10933)|null|
 |**2026-05-11**|**MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation**|Ziyi Wang et.al.|[2605.10769](http://arxiv.org/abs/2605.10769)|null|
 |**2026-05-11**|**iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning**|Kaicong Huang et.al.|[2605.10732](http://arxiv.org/abs/2605.10732)|null|
@@ -3132,7 +3152,7 @@ layout: default
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260512>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260513>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
