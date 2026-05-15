@@ -3,13 +3,22 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.13
+## Updated on 2026.05.15
 * [inference](#inference)
 * [MoE](#moe)
 ## inference
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**An Interpretable Latency Model for Speculative Decoding in LLM Serving**|Linghao Kong et.al.|[2605.15051](http://arxiv.org/abs/2605.15051)|null|
+|**2026-05-14**|**Performance-Driven Policy Optimization for Speculative Decoding with Adaptive Windowing**|Jie Jiang et.al.|[2605.14978](http://arxiv.org/abs/2605.14978)|null|
+|**2026-05-14**|**XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference**|Thomas Witt et.al.|[2605.14844](http://arxiv.org/abs/2605.14844)|null|
+|**2026-05-14**|**EnergyLens: Predictive Energy-Aware Exploration for Multi-GPU LLM Inference Optimization**|Zhiye Song et.al.|[2605.14249](http://arxiv.org/abs/2605.14249)|null|
+|**2026-05-13**|**Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding**|Shuoyang Sun et.al.|[2605.14005](http://arxiv.org/abs/2605.14005)|null|
+|**2026-05-13**|**Multi-Scale Dequant: Eliminating Dequantization Bottleneck via Activation Decomposition for Efficient LLM Inference**|Lingchao Zheng et.al.|[2605.13915](http://arxiv.org/abs/2605.13915)|null|
+|**2026-05-13**|**Edit-level Majority Voting Mitigates Over-Correction in LLM-based Grammatical Error Correction**|Takumi Goto et.al.|[2605.13624](http://arxiv.org/abs/2605.13624)|null|
+|**2026-05-13**|**MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters**|H. Moore et.al.|[2605.13496](http://arxiv.org/abs/2605.13496)|null|
+|**2026-05-14**|**PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding**|Yunhe Han et.al.|[2605.13319](http://arxiv.org/abs/2605.13319)|null|
 |**2026-05-12**|**LISA: Cognitive Arbitration for Signal-Free Autonomous Intersection Management**|Abderrahmane Lakas et.al.|[2605.12321](http://arxiv.org/abs/2605.12321)|null|
 |**2026-05-12**|**BatchBench: Toward a Workload-Aware Benchmark for Autoscaling Policies in Big Data Batch Processing -- A Proposed Framework**|Venkata Krishna Prasanth Budigi et.al.|[2605.12272](http://arxiv.org/abs/2605.12272)|null|
 |**2026-05-12**|**CR^2: Cost-Aware Risk-Controlled Routing for Wireless Device-Edge LLM Inference**|Nan Xue et.al.|[2605.12001](http://arxiv.org/abs/2605.12001)|null|
@@ -1234,12 +1243,22 @@
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|**[link](https://github.com/MARIO-Math-Reasoning/Super_MARIO)**|
 |**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
 
-<p align=right><a href=#updated-on-20260513>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260515>(back to top)</a></p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing**|Ellwil Sharma et.al.|[2605.15179](http://arxiv.org/abs/2605.15179)|null|
+|**2026-05-14**|**Deep Mixture of Experts Network for Resource Optimization in Aerial-Terrestrial CF-mMIMO Systems under URLLC**|Donggen Li et.al.|[2605.15135](http://arxiv.org/abs/2605.15135)|null|
+|**2026-05-14**|**An Interpretable Latency Model for Speculative Decoding in LLM Serving**|Linghao Kong et.al.|[2605.15051](http://arxiv.org/abs/2605.15051)|null|
+|**2026-05-14**|**HiSem: Hierarchical Semantic Disentangling for Remote Sensing Image Change Captioning**|Man Wang et.al.|[2605.15024](http://arxiv.org/abs/2605.15024)|null|
+|**2026-05-14**|**Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis**|Mor Ventura et.al.|[2605.14842](http://arxiv.org/abs/2605.14842)|null|
+|**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](http://arxiv.org/abs/2605.14731)|null|
+|**2026-05-14**|**BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE**|Juntong Wu et.al.|[2605.14438](http://arxiv.org/abs/2605.14438)|null|
+|**2026-05-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al.|[2605.14359](http://arxiv.org/abs/2605.14359)|null|
+|**2026-05-14**|**MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification**|Weisen Jiang et.al.|[2605.14289](http://arxiv.org/abs/2605.14289)|null|
+|**2026-05-13**|**How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization**|Leena Chennuru Vankadara et.al.|[2605.14200](http://arxiv.org/abs/2605.14200)|null|
 |**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
 |**2026-05-12**|**Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts**|Sagi Ahrac et.al.|[2605.12476](http://arxiv.org/abs/2605.12476)|null|
 |**2026-05-12**|**Geometric Asymptotics of Score Mixing and Guidance in Diffusion Models**|Kang Liu et.al.|[2605.12231](http://arxiv.org/abs/2605.12231)|null|
@@ -3148,7 +3167,7 @@
 |**2021-05-25**|**Tensor-variate Mixture of Experts for Proportional Myographic Control of a Robotic Hand**|Noémie Jaquier et.al.|[1902.11104](http://arxiv.org/abs/1902.11104)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right><a href=#updated-on-20260513>(back to top)</a></p>
+<p align=right><a href=#updated-on-20260515>(back to top)</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
